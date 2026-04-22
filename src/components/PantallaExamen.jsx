@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { BlockMath } from 'react-katex';
+import { BlockMath, InlineMath } from 'react-katex';
 import { ChevronRight, ChevronLeft, Clock, SkipForward, AlertCircle, CheckCircle2 } from 'lucide-react';
 
 function PantallaExamen({ preguntas, tiempo, alTerminar }) {
@@ -81,21 +81,30 @@ function PantallaExamen({ preguntas, tiempo, alTerminar }) {
               <div className="flex flex-col gap-4 mb-12">
                 {q.opciones.map((opt, i) => (
                   <button
-                    key={i}
-                    onClick={() => handleSeleccion(i)}
-                    className={`group flex items-center p-6 rounded-2xl border-2 transition-all duration-300 text-left ${
-                      respuestas[index] === i 
-                      ? 'border-[#0f172a] bg-[#0f172a] text-white shadow-lg' 
-                      : 'border-slate-100 bg-slate-50/50 text-slate-600 hover:border-emerald-200'
-                    }`}
-                  >
-                    <span className={`w-9 h-9 rounded-lg flex items-center justify-center font-black mr-5 transition-colors ${
-                      respuestas[index] === i ? 'bg-white/20 text-white' : 'bg-white shadow-sm text-slate-400'
-                    }`}>
-                      {String.fromCharCode(65 + i)}:
-                    </span>
-                    <span className="text-sm md:text-base font-bold flex-1 leading-tight">{opt}</span>
-                  </button>
+  key={i}
+  onClick={() => handleSeleccion(i)}
+  className={`group flex items-center p-6 rounded-2xl border-2 transition-all duration-300 text-left ${
+    respuestas[index] === i 
+    ? 'border-[#0f172a] bg-[#0f172a] text-white shadow-lg' 
+    : 'border-slate-100 bg-slate-50/50 text-slate-600 hover:border-emerald-200'
+  }`}
+>
+  <span className={`w-9 h-9 shrink-0 rounded-lg flex items-center justify-center font-black mr-5 transition-colors ${
+    respuestas[index] === i ? 'bg-white/20 text-white' : 'bg-white shadow-sm text-slate-400'
+  }`}>
+    {String.fromCharCode(65 + i)}:
+  </span>
+
+  {/* CONTENEDOR DE LA RESPUESTA */}
+  <div className="text-sm md:text-base font-bold flex-1 leading-relaxed formula-contenedor">
+    {/* Verificamos si la opción contiene una fórmula (si empieza con $) */}
+    {opt.includes('$') ? (
+      <InlineMath>{opt.replaceAll('$', '')}</InlineMath>
+    ) : (
+      opt
+    )}
+  </div>
+</button>
                 ))}
               </div>
             </motion.div>
