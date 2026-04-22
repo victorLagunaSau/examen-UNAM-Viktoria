@@ -1,0 +1,397 @@
+[
+  {
+    "id": 117,
+    "materia": "Literatura",
+    "dificultad": 1,
+    "tiempoSugerido": 45,
+    "pregunta": "¿A qué género literario pertenecen las obras destinadas a ser representadas ante un público mediante el diálogo de personajes?",
+    "formulaPrincipal": "",
+    "opciones": ["Lírico", "Épico", "Dramático", "Narrativo"],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Identificar la palabra clave 'representadas' y 'diálogo'.",
+      "Paso 2: Reconocer que este género no tiene un narrador como voz principal, sino la acción directa.",
+      "Paso 3: Asociar el concepto con el teatro.",
+      "Resultado: Dramático."
+    ],
+    "analisisDeError": {
+      "0": "El género lírico expresa sentimientos y subjetividad (poesía).",
+      "3": "El narrativo relata acontecimientos a través de una voz narrativa."
+    }
+  },
+  {
+    "id": 118,
+    "materia": "Literatura",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "Identifica la figura retórica en el siguiente verso: 'El oro de tus cabellos'.",
+    "formulaPrincipal": "",
+    "opciones": ["Símil", "Metáfora", "Hipérbole", "Anáfora"],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Observar la relación de semejanza entre 'oro' y 'cabellos' (color rubio).",
+      "Paso 2: Notar que no utiliza nexos comparativos como 'como' o 'parece'.",
+      "Paso 3: Identificar la sustitución de un término real por uno imaginario.",
+      "Resultado: Metáfora."
+    ],
+    "analisisDeError": {
+      "0": "El símil requiere nexos (ej. 'cabellos como el oro').",
+      "2": "La hipérbole es una exageración desmedida."
+    }
+  },
+  {
+    "id": 119,
+    "materia": "Literatura",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "Corriente literaria de la segunda mitad del siglo XIX que busca retratar la realidad de forma objetiva y casi documental:",
+    "formulaPrincipal": "",
+    "opciones": ["Romanticismo", "Realismo", "Barroco", "Modernismo"],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Ubicar el contexto histórico (reacción contra el sentimentalismo romántico).",
+      "Paso 2: Identificar el objetivo de describir el entorno social y cotidiano sin adornos.",
+      "Paso 3: Relacionar con autores como Benito Pérez Galdós o Balzac.",
+      "Resultado: Realismo."
+    ],
+    "analisisDeError": {
+      "0": "El Romanticismo privilegia el sentimiento y la subjetividad sobre la realidad.",
+      "3": "El Modernismo busca la belleza estética y el exotismo a finales del XIX."
+    }
+  },
+  {
+    "id": 120,
+    "materia": "Literatura",
+    "dificultad": 4,
+    "tiempoSugerido": 90,
+    "pregunta": "Movimiento literario surgido en Hispanoamérica, cuyo principal exponente es Rubén Darío con su obra 'Azul':",
+    "formulaPrincipal": "",
+    "opciones": ["Surrealismo", "Modernismo", "Existencialismo", "Culteranismo"],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Reconocer la importancia de Rubén Darío como renovador del lenguaje.",
+      "Paso 2: Identificar el uso de símbolos como el cisne y el color azul.",
+      "Paso 3: Recordar que fue la primera corriente nacida en América que influyó en España.",
+      "Resultado: Modernismo."
+    ],
+    "analisisDeError": {
+      "0": "El Surrealismo es una vanguardia europea del siglo XX.",
+      "3": "El Culteranismo pertenece al Siglo de Oro español (Góngora)."
+    }
+  },
+  {
+    "id": 121,
+    "materia": "Literatura",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Qué nombre recibe la unidad mínima de un poema que ocupa una sola línea?",
+    "formulaPrincipal": "",
+    "opciones": ["Estrofa", "Rima", "Verso", "Métrica"],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Diferenciar las partes de la composición lírica.",
+      "Paso 2: Identificar que el conjunto de versos forma una estrofa.",
+      "Paso 3: Definir la línea individual como la unidad básica rítmica.",
+      "Resultado: Verso."
+    ],
+    "analisisDeError": {
+      "0": "La estrofa es el conjunto de varios versos.",
+      "3": "La métrica es la medida de las sílabas del verso."
+    }
+  },
+  {
+    "id": 122,
+    "materia": "Literatura",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "Identifica el género literario de la obra 'Cien años de soledad' de Gabriel García Márquez:",
+    "formulaPrincipal": "",
+    "opciones": ["Cuento", "Ensayo", "Novela", "Tragedia"],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Analizar la extensión y complejidad de la obra.",
+      "Paso 2: Observar que narra múltiples generaciones y tramas entrelazadas.",
+      "Paso 3: Clasificar como una narración extensa en prosa.",
+      "Resultado: Novela."
+    ],
+    "analisisDeError": {
+      "0": "El cuento es una narración breve con una sola línea argumental.",
+      "1": "El ensayo es un texto argumentativo-expositivo, no narrativo."
+    }
+  },
+  {
+    "id": 123,
+    "materia": "Literatura",
+    "dificultad": 1,
+    "tiempoSugerido": 45,
+    "pregunta": "¿Cómo se llama la coincidencia de sonidos finales entre dos o más versos a partir de la última vocal tónica?",
+    "formulaPrincipal": "",
+    "opciones": ["Ritmo", "Rima", "Métrica", "Metáfora"],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar el elemento sonoro de la poesía.",
+      "Paso 2: Recordar que puede ser asonante (solo vocales) o consonante.",
+      "Paso 3: Definir la repetición de sonidos al final de las palabras.",
+      "Resultado: Rima."
+    ],
+    "analisisDeError": {
+      "0": "El ritmo es la musicalidad interna, no necesariamente por repetición de finales."
+    }
+  },
+  {
+    "id": 124,
+    "materia": "Literatura",
+    "dificultad": 4,
+    "tiempoSugerido": 90,
+    "pregunta": "Especie dramática que presenta un conflicto trágico con un desenlace funesto y provoca 'catarsis' en el espectador:",
+    "formulaPrincipal": "",
+    "opciones": ["Comedia", "Entremés", "Sátira", "Tragedia"],
+    "correcta": 3,
+    "explicacionPasos": [
+      "Paso 1: Identificar la palabra clave 'catarsis' (purificación de pasiones).",
+      "Paso 2: Reconocer que los personajes suelen enfrentarse a un destino inevitable.",
+      "Paso 3: Recordar las obras de Sófocles o Shakespeare.",
+      "Resultado: Tragedia."
+    ],
+    "analisisDeError": {
+      "0": "La comedia tiene un tono festivo y desenlace feliz.",
+      "1": "El entremés es una pieza breve y cómica que se representaba en los descansos."
+    }
+  },
+  {
+    "id": 125,
+    "materia": "Literatura",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Qué autor es el máximo representante del Siglo de Oro español y escribió 'Don Quijote de la Mancha'?",
+    "formulaPrincipal": "",
+    "opciones": ["Lope de Vega", "Francisco de Quevedo", "Miguel de Cervantes Saavedra", "Luis de Góngora"],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Asociar la obra cumbre de la lengua española con su autor.",
+      "Paso 2: Identificar al 'Manco de Lepanto'.",
+      "Paso 3: Confirmar su relevancia en la transición del Renacimiento al Barroco.",
+      "Resultado: Miguel de Cervantes Saavedra."
+    ],
+    "analisisDeError": {
+      "0": "Lope de Vega fue el gran renovador del teatro, pero no escribió el Quijote."
+    }
+  },
+  {
+    "id": 126,
+    "materia": "Literatura",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "Identifica la figura retórica que consiste en exagerar un hecho o circunstancia:",
+    "formulaPrincipal": "",
+    "opciones": ["Prosopopeya", "Hipérbole", "Oxímoron", "Ironía"],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Definir el concepto de 'aumentar o disminuir excesivamente la verdad'.",
+      "Paso 2: Reconocer frases como 'te lo dije mil veces'.",
+      "Paso 3: Clasificar dentro de las figuras de pensamiento.",
+      "Resultado: Hipérbole."
+    ],
+    "analisisDeError": {
+      "0": "La prosopopeya da cualidades humanas a objetos o animales.",
+      "2": "El oxímoron une dos conceptos de significado opuesto (ej. 'hielo abrasador')."
+    }
+  },
+  {
+    "id": 127,
+    "materia": "Literatura",
+    "dificultad": 4,
+    "tiempoSugerido": 120,
+    "pregunta": "Corriente de vanguardia que busca romper con la lógica y explorar el mundo de los sueños y el subconsciente:",
+    "formulaPrincipal": "",
+    "opciones": ["Futurismo", "Dadaísmo", "Surrealismo", "Cubismo"],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Identificar la influencia del psicoanálisis de Freud en el arte.",
+      "Paso 2: Reconocer la técnica de la escritura automática.",
+      "Paso 3: Asociar con André Breton y Salvador Dalí.",
+      "Resultado: Surrealismo."
+    ],
+    "analisisDeError": {
+      "0": "El futurismo se enfoca en la velocidad, la tecnología y las máquinas.",
+      "1": "El dadaísmo es una rebelión contra el arte mismo basada en el absurdo."
+    }
+  },
+  {
+    "id": 128,
+    "materia": "Literatura",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Qué tipo de narrador cuenta la historia desde afuera, conoce los pensamientos de todos los personajes y no participa en los hechos?",
+    "formulaPrincipal": "",
+    "opciones": ["Protagonista", "Testigo", "Omnisciente", "Equisciente"],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Diferenciar las voces narrativas.",
+      "Paso 2: Reconocer la palabra 'omni' (todo) y 'sciente' (que sabe).",
+      "Paso 3: Identificar que habla en tercera persona y tiene un conocimiento total.",
+      "Resultado: Omnisciente."
+    ],
+    "analisisDeError": {
+      "0": "El protagonista habla en primera persona y solo conoce su perspectiva.",
+      "1": "El testigo participa en la historia pero no conoce el interior de los demás."
+    }
+  },
+  {
+    "id": 129,
+    "materia": "Literatura",
+    "dificultad": 3,
+    "tiempoSugerido": 90,
+    "pregunta": "Principal característica del Romanticismo literario:",
+    "formulaPrincipal": "",
+    "opciones": ["Predominio de la razón", "Uso de lenguaje técnico", "Subjetividad y libertad creativa", "Imitación de los clásicos"],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Ubicar el movimiento en la primera mitad del siglo XIX.",
+      "Paso 2: Reconocer la importancia del 'yo', las emociones y la rebeldía.",
+      "Paso 3: Contrastar con el Neoclasicismo previo.",
+      "Resultado: Subjetividad y libertad creativa."
+    ],
+    "analisisDeError": {
+      "0": "La razón es la base de la Ilustración y el Neoclasicismo.",
+      "3": "Esa es una característica del Renacimiento."
+    }
+  },
+  {
+    "id": 130,
+    "materia": "Literatura",
+    "dificultad": 1,
+    "tiempoSugerido": 45,
+    "pregunta": "¿Cuál es la estructura externa de un texto dramático?",
+    "formulaPrincipal": "",
+    "opciones": ["Párrafos y oraciones", "Versos y estrofas", "Actos, escenas y cuadros", "Capítulos y apartados"],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Identificar el formato de una obra de teatro.",
+      "Paso 2: Reconocer que se divide por la subida y bajada del telón (actos) o entrada de personajes (escenas).",
+      "Paso 3: Diferenciar de los textos narrativos o líricos.",
+      "Resultado: Actos, escenas y cuadros."
+    ],
+    "analisisDeError": {
+      "1": "Esa es la estructura del género lírico.",
+      "0": "Esa es la estructura general de la prosa narrativa o informativa."
+    }
+  },
+  {
+    "id": 131,
+    "materia": "Literatura",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "Relaciona la obra con su autor: 1. 'Pedro Páramo', 2. 'El Aleph', 3. 'El extranjero'. (a. Camus, b. Borges, c. Rulfo).",
+    "formulaPrincipal": "",
+    "opciones": ["1c, 2b, 3a", "1a, 2c, 3b", "1c, 2a, 3b", "1b, 2c, 3a"],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Asociar a Juan Rulfo con el realismo mágico y 'Pedro Páramo'.",
+      "Paso 2: Asociar a Jorge Luis Borges con la literatura metafísica y 'El Aleph'.",
+      "Paso 3: Asociar a Albert Camus con el existencialismo y 'El extranjero'.",
+      "Resultado: 1c, 2b, 3a."
+    ],
+    "analisisDeError": {
+      "1": "Confundiste a Rulfo con Camus."
+    }
+  },
+  {
+    "id": 132,
+    "materia": "Literatura",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "Identifica la figura retórica en: 'Las paredes oyen'.",
+    "formulaPrincipal": "",
+    "opciones": ["Sinécdoque", "Metonimia", "Prosopopeya", "Epíteto"],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Notar que se le atribuye una capacidad humana (oír) a un objeto inanimado (paredes).",
+      "Paso 2: Recordar el sinónimo de personificación.",
+      "Paso 3: Clasificar como prosopopeya.",
+      "Resultado: Prosopopeya."
+    ],
+    "analisisDeError": {
+      "3": "El epíteto es un adjetivo innecesario que indica una cualidad intrínseca (ej. 'nieve blanca')."
+    }
+  },
+  {
+    "id": 133,
+    "materia": "Literatura",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "Género literario que utiliza la función poética del lenguaje para expresar los sentimientos íntimos del autor:",
+    "formulaPrincipal": "",
+    "opciones": ["Épico", "Lírico", "Didáctico", "Dramático"],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Relacionar el término con la 'lira' (instrumento musical antiguo).",
+      "Paso 2: Identificar la subjetividad como rasgo principal.",
+      "Paso 3: Reconocer que suele escribirse en verso.",
+      "Resultado: Lírico."
+    ],
+    "analisisDeError": {
+      "0": "El épico se centra en hazañas heroicas y hechos históricos objetivos."
+    }
+  },
+  {
+    "id": 134,
+    "materia": "Literatura",
+    "dificultad": 4,
+    "tiempoSugerido": 90,
+    "pregunta": "Son características de la ficha de comentario:",
+    "formulaPrincipal": "",
+    "opciones": ["Copiar fragmentos entre comillas", "Explicar el texto con palabras propias", "Expresar una opinión personal sobre el contenido", "Anotar solo los datos bibliográficos"],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Diferenciar entre resumen, paráfrasis y comentario.",
+      "Paso 2: Identificar que el comentario requiere un juicio crítico o interpretación propia.",
+      "Paso 3: Reconocer que es una herramienta de análisis más que de registro.",
+      "Resultado: Expresar una opinión personal sobre el contenido."
+    ],
+    "analisisDeError": {
+      "1": "Esa es la ficha de paráfrasis.",
+      "3": "Esa es la ficha bibliográfica."
+    }
+  },
+  {
+    "id": 135,
+    "materia": "Literatura",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "Especie narrativa breve, de origen antiguo, que deja una enseñanza moral o 'moraleja':",
+    "formulaPrincipal": "",
+    "opciones": ["Mito", "Leyenda", "Fábula", "Crónica"],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Identificar el propósito didáctico de la narración.",
+      "Paso 2: Notar que frecuentemente los personajes son animales personificados.",
+      "Paso 3: Reconocer autores como Esopo o La Fontaine.",
+      "Resultado: Fábula."
+    ],
+    "analisisDeError": {
+      "0": "El mito explica el origen del mundo o fenómenos naturales mediante dioses.",
+      "1": "La leyenda mezcla hechos históricos con elementos fantásticos de una comunidad."
+    }
+  },
+  {
+    "id": 136,
+    "materia": "Literatura",
+    "dificultad": 1,
+    "tiempoSugerido": 45,
+    "pregunta": "¿Qué es el desenlace en una obra literaria?",
+    "formulaPrincipal": "",
+    "opciones": ["La presentación de los personajes", "El momento de mayor suspenso", "La resolución del conflicto", "La introducción al tema"],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Identificar las partes de la estructura narrativa (inicio, nudo, clímax, desenlace).",
+      "Paso 2: Reconocer el final de la historia.",
+      "Paso 3: Definir la etapa donde se cierran las tramas.",
+      "Resultado: La resolución del conflicto."
+    ],
+    "analisisDeError": {
+      "1": "Ese es el clímax.",
+      "0": "Esa es la exposición o planteamiento."
+    }
+  }
+]

@@ -1,0 +1,385 @@
+[
+  {
+    "id": 137,
+    "materia": "Biología",
+    "dificultad": 1,
+    "tiempoSugerido": 45,
+    "pregunta": "¿Cuál es la unidad estructural y funcional de todos los seres vivos?",
+    "formulaPrincipal": "",
+    "opciones": ["El átomo", "La molécula", "La célula", "El tejido"],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Recordar los postulados de la Teoría Celular.",
+      "Paso 2: Identificar que todos los organismos, desde bacterias hasta humanos, están compuestos por al menos una célula.",
+      "Paso 3: Reconocer que en ella ocurren todas las reacciones metabólicas.",
+      "Resultado: La célula."
+    ],
+    "analisisDeError": {
+      "0": "El átomo es la unidad de la materia, pero no tiene vida por sí mismo.",
+      "3": "El tejido es un conjunto de células especializadas, no la unidad mínima."
+    }
+  },
+  {
+    "id": 138,
+    "materia": "Biología",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "Organelo celular encargado de realizar la fotosíntesis en células vegetales:",
+    "formulaPrincipal": "",
+    "opciones": ["Mitocondria", "Lisosoma", "Cloroplasto", "Ribosoma"],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Identificar el proceso de conversión de energía luminosa a química.",
+      "Paso 2: Reconocer el pigmento llamado clorofila.",
+      "Paso 3: Ubicar el organelo exclusivo de plantas y algas que contiene dicho pigmento.",
+      "Resultado: Cloroplasto."
+    ],
+    "analisisDeError": {
+      "0": "La mitocondria realiza la respiración celular (obtención de energía).",
+      "3": "El ribosoma se encarga de la síntesis de proteínas."
+    }
+  },
+  {
+    "id": 139,
+    "materia": "Biología",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Qué molécula es considerada la 'moneda energética' de la célula?",
+    "formulaPrincipal": "",
+    "opciones": ["ADN", "Glucosa", "ATP", "ARN"],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Identificar la molécula que almacena energía en sus enlaces de fosfato.",
+      "Paso 2: Reconocer el nombre Adenosín Trifosfato.",
+      "Paso 3: Comprender que se produce principalmente en la mitocondria.",
+      "Resultado: ATP."
+    ],
+    "analisisDeError": {
+      "1": "La glucosa es el combustible, pero el ATP es la energía ya 'procesada' lista para usarse."
+    }
+  },
+  {
+    "id": 140,
+    "materia": "Biología",
+    "dificultad": 4,
+    "tiempoSugerido": 90,
+    "pregunta": "Durante la fase S de la interfase del ciclo celular, ocurre la:",
+    "formulaPrincipal": "",
+    "opciones": ["División del citoplasma", "Duplicación del ADN", "Condensación de cromosomas", "Formación del huso mitótico"],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Analizar las etapas de la interfase (G1, S, G2).",
+      "Paso 2: Identificar la fase de síntesis (S).",
+      "Paso 3: Comprender que la célula debe copiar su material genético antes de dividirse.",
+      "Resultado: Duplicación del ADN."
+    ],
+    "analisisDeError": {
+      "0": "La división del citoplasma se llama citocinesis y ocurre al final de la mitosis.",
+      "2": "La condensación ocurre en la profase de la mitosis."
+    }
+  },
+  {
+    "id": 141,
+    "materia": "Biología",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Cuáles son las bases nitrogenadas propias del ADN?",
+    "formulaPrincipal": "",
+    "opciones": ["Adenina, Guanina, Citocina, Uracilo", "Adenina, Guanina, Citocina, Timina", "Adenina, Uracilo, Timina, Guanina", "Guanina, Citocina, Uracilo, Ribosa"],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Diferenciar entre ADN (ácido desoxirribonucleico) y ARN.",
+      "Paso 2: Recordar que la Timina es exclusiva del ADN.",
+      "Paso 3: Recordar que el Uracilo es exclusivo del ARN.",
+      "Resultado: Adenina, Guanina, Citocina, Timina."
+    ],
+    "analisisDeError": {
+      "0": "Contiene Uracilo, que es una base del ARN."
+    }
+  },
+  {
+    "id": 142,
+    "materia": "Biología",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "Proceso mediante el cual se forman dos células hijas idénticas a la madre, con el mismo número de cromosomas:",
+    "formulaPrincipal": "",
+    "opciones": ["Meiosis", "Mitosis", "Fecundación", "Gametogénesis"],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar el tipo de división celular en células somáticas.",
+      "Paso 2: Reconocer que se mantiene la diploidía (2n).",
+      "Paso 3: Diferenciar del proceso que reduce la carga genética a la mitad.",
+      "Resultado: Mitosis."
+    ],
+    "analisisDeError": {
+      "0": "La meiosis produce 4 células hijas con la mitad de cromosomas (haploides)."
+    }
+  },
+  {
+    "id": 143,
+    "materia": "Biología",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "Según la teoría de la evolución de Darwin, el mecanismo principal del cambio es:",
+    "formulaPrincipal": "",
+    "opciones": ["La herencia de caracteres adquiridos", "La selección natural", "Las mutaciones inducidas", "La generación espontánea"],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar el postulado central de 'El origen de las especies'.",
+      "Paso 2: Comprender que los individuos más aptos sobreviven y se reproducen.",
+      "Paso 3: Diferenciar de las ideas de Lamarck.",
+      "Resultado: Selección natural."
+    ],
+    "analisisDeError": {
+      "0": "Esta es la idea de Lamarck, hoy descartada por la genética."
+    }
+  },
+  {
+    "id": 144,
+    "materia": "Biología",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "En un cruce de plantas con semillas amarillas (dominante AA) y verdes (recesivo aa), ¿cómo será el fenotipo de la primera generación (F1)?",
+    "formulaPrincipal": "",
+    "opciones": ["100% Verdes", "50% Amarillas y 50% Verdes", "100% Amarillas", "75% Amarillas y 25% Verdes"],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Realizar el cuadro de Punnett: AA x aa.",
+      "Paso 2: Identificar que todos los descendientes serán heterocigotos (Aa).",
+      "Paso 3: Aplicar la ley de la dominancia: el alelo 'A' enmascara al 'a'.",
+      "Resultado: 100% Amarillas."
+    ],
+    "analisisDeError": {
+      "3": "Esa proporción corresponde a la segunda generación (F2)."
+    }
+  },
+  {
+    "id": 145,
+    "materia": "Biología",
+    "dificultad": 4,
+    "tiempoSugerido": 90,
+    "pregunta": "La respiración aerobia ocurre en presencia de oxígeno y produce un total neto de _____ moléculas de ATP por cada glucosa.",
+    "formulaPrincipal": "",
+    "opciones": ["2", "36 a 38", "12", "150"],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Diferenciar entre fermentación (anaerobia) y respiración aerobia.",
+      "Paso 2: Sumar la energía obtenida en glucólisis, ciclo de Krebs y cadena de transporte.",
+      "Paso 3: Identificar el rendimiento energético estándar en células eucariotas.",
+      "Resultado: 36 a 38."
+    ],
+    "analisisDeError": {
+      "0": "Ese es el rendimiento de la fermentación láctica o alcohólica."
+    }
+  },
+  {
+    "id": 146,
+    "materia": "Biología",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Qué reino de la naturaleza agrupa a organismos procariontes como las bacterias?",
+    "formulaPrincipal": "",
+    "opciones": ["Protista", "Fungi", "Monera", "Plantae"],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Definir célula procarionte (sin núcleo definido).",
+      "Paso 2: Descartar reinos eucariontes (Animalia, Plantae, Fungi, Protista).",
+      "Paso 3: Identificar el reino que incluye a las arqueobacterias y eubacterias.",
+      "Resultado: Monera."
+    ],
+    "analisisDeError": {
+      "0": "Los protistas ya tienen células eucariontes (con núcleo)."
+    }
+  },
+  {
+    "id": 147,
+    "materia": "Biología",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "Relación entre organismos de diferentes especies donde ambos resultan beneficiados:",
+    "formulaPrincipal": "",
+    "opciones": ["Parasitismo", "Comensalismo", "Mutualismo", "Depredación"],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Analizar los tipos de simbiosis.",
+      "Paso 2: Identificar la relación (+/+).",
+      "Paso 3: Ejemplo: las abejas y las flores.",
+      "Resultado: Mutualismo."
+    ],
+    "analisisDeError": {
+      "0": "En el parasitismo uno se beneficia y el otro se perjudica (+/-)."
+    }
+  },
+  {
+    "id": 148,
+    "materia": "Biología",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "Teoría que explica el origen de mitocondrias y cloroplastos a partir de la simbiosis entre procariontes:",
+    "formulaPrincipal": "",
+    "opciones": ["Generación espontánea", "Teoría Endosimbiótica", "Teoría Quimiosintética", "Teoría de la Evolución"],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar a Lynn Margulis como la autora de esta propuesta.",
+      "Paso 2: Notar que estos organelos tienen su propio ADN circular.",
+      "Paso 3: Comprender la absorción de una bacteria por otra célula mayor.",
+      "Resultado: Teoría Endosimbiótica."
+    ],
+    "analisisDeError": {
+      "2": "La teoría de Oparin-Haldane (quimiosintética) explica el origen de la primera célula, no de sus organelos."
+    }
+  },
+  {
+    "id": 149,
+    "materia": "Biología",
+    "dificultad": 1,
+    "tiempoSugerido": 45,
+    "pregunta": "¿Cuál es la principal función de los carbohidratos en los seres vivos?",
+    "formulaPrincipal": "",
+    "opciones": ["Información genética", "Reserva de energía inmediata", "Catálisis enzimática", "Aislamiento térmico"],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar moléculas como la glucosa y el almidón.",
+      "Paso 2: Reconocer que son la fuente primaria de combustible para la respiración.",
+      "Paso 3: Diferenciar de los lípidos (energía a largo plazo).",
+      "Resultado: Reserva de energía inmediata."
+    ],
+    "analisisDeError": {
+      "3": "Esa es una función principal de los lípidos (grasas)."
+    }
+  },
+  {
+    "id": 150,
+    "materia": "Biología",
+    "dificultad": 4,
+    "tiempoSugerido": 90,
+    "pregunta": "Es un ejemplo de un ácido nucleico encargado de transportar los aminoácidos hacia los ribosomas:",
+    "formulaPrincipal": "",
+    "opciones": ["ADN polimerasa", "ARN mensajero", "ARN de transferencia", "ARN ribosomal"],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Analizar la síntesis de proteínas (traducción).",
+      "Paso 2: Identificar el tipo de ARN que tiene el anticodón.",
+      "Paso 3: Reconocer su función de 'acarreo' de bloques de construcción proteica.",
+      "Resultado: ARN de transferencia (ARNt)."
+    ],
+    "analisisDeError": {
+      "1": "El ARN mensajero lleva el código del núcleo al ribosoma, no los aminoácidos."
+    }
+  },
+  {
+    "id": 151,
+    "materia": "Biología",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "Las enzimas son moléculas de naturaleza _______ que aceleran las reacciones químicas.",
+    "formulaPrincipal": "",
+    "opciones": ["Lipídica", "Carbohidratada", "Proteica", "Mineral"],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Definir biocatalizador.",
+      "Paso 2: Recordar que la mayoría de las enzimas terminan en el sufijo '-asa'.",
+      "Paso 3: Identificar que están formadas por cadenas de aminoácidos.",
+      "Resultado: Proteica."
+    ],
+    "analisisDeError": {
+      "0": "Los lípidos funcionan como reserva o estructura, no como catalizadores."
+    }
+  },
+  {
+    "id": 152,
+    "materia": "Biología",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "Principal contaminante atmosférico responsable del efecto invernadero y el calentamiento global:",
+    "formulaPrincipal": "",
+    "opciones": ["Oxígeno", "Dióxido de carbono", "CFCs", "Nitrógeno"],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar los gases que atrapan el calor en la atmósfera.",
+      "Paso 2: Reconocer el producto de la quema de combustibles fósiles.",
+      "Paso 3: Diferenciar del gas que daña la capa de ozono (CFC).",
+      "Resultado: Dióxido de carbono (CO2)."
+    ],
+    "analisisDeError": {
+      "2": "Los CFCs dañan la capa de ozono, pero no son el principal motor del calentamiento global actual."
+    }
+  },
+  {
+    "id": 153,
+    "materia": "Biología",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "Fase de la mitosis donde los cromosomas se alinean en el ecuador de la célula:",
+    "formulaPrincipal": "",
+    "opciones": ["Profase", "Metafase", "Anafase", "Telofase"],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Recordar el acrónimo 'PRO-META-ANA-TELO'.",
+      "Paso 2: Identificar la fase donde se forma la placa ecuatorial.",
+      "Paso 3: Observar que los microtúbulos se unen a los centrómeros.",
+      "Resultado: Metafase."
+    ],
+    "analisisDeError": {
+      "2": "En la anafase los cromosomas ya se están separando hacia los polos."
+    }
+  },
+  {
+    "id": 154,
+    "materia": "Biología",
+    "dificultad": 4,
+    "tiempoSugerido": 120,
+    "pregunta": "Es un postulado de la teoría celular que indica que toda célula proviene de otra preexistente:",
+    "formulaPrincipal": "",
+    "opciones": ["Postulado anatómico", "Postulado fisiológico", "Postulado de origen", "Postulado genético"],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Repasar las ideas de Virchow.",
+      "Paso 2: Identificar el postulado que descarta la generación espontánea.",
+      "Paso 3: Reconocer que la vida es un proceso continuo.",
+      "Resultado: Postulado de origen."
+    ],
+    "analisisDeError": {
+      "0": "El anatómico dice que todos los seres están formados por células."
+    }
+  },
+  {
+    "id": 155,
+    "materia": "Biología",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "Vía metabólica anaerobia que ocurre en el citosol y rompe la glucosa en dos moléculas de piruvato:",
+    "formulaPrincipal": "",
+    "opciones": ["Ciclo de Krebs", "Glucólisis", "Cadena respiratoria", "Ciclo de Calvin"],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Localizar el primer paso de la degradación de azúcares.",
+      "Paso 2: Notar que no requiere oxígeno y sucede fuera de la mitocondria.",
+      "Paso 3: Identificar la ganancia neta de 2 ATP.",
+      "Resultado: Glucólisis."
+    ],
+    "analisisDeError": {
+      "3": "El ciclo de Calvin es parte de la fotosíntesis, no de la respiración."
+    }
+  },
+  {
+    "id": 156,
+    "materia": "Biología",
+    "dificultad": 1,
+    "tiempoSugerido": 45,
+    "pregunta": "¿Cómo se llama el proceso por el cual las plantas producen su propio alimento?",
+    "formulaPrincipal": "",
+    "opciones": ["Quimiosíntesis", "Heterotrofia", "Fotosíntesis", "Fermentación"],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Identificar organismos autótrofos.",
+      "Paso 2: Reconocer el uso de la luz solar, agua y CO2.",
+      "Paso 3: Identificar la producción de glucosa y oxígeno.",
+      "Resultado: Fotosíntesis."
+    ],
+    "analisisDeError": {
+      "1": "La heterotrofia es el consumo de otros organismos (animales)."
+    }
+  }
+]

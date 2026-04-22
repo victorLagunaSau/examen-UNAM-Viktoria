@@ -1,0 +1,399 @@
+[
+  {
+    "id": 57,
+    "materia": "Historia Universal",
+    "dificultad": 1,
+    "tiempoSugerido": 45,
+    "pregunta": "¿Qué movimiento intelectual del siglo XVIII se basaba en el uso de la razón y buscaba terminar con el absolutismo?",
+    "formulaPrincipal": "",
+    "opciones": ["El Renacimiento", "La Ilustración", "El Positivismo", "El Liberalismo"],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar el siglo mencionado (XVIII).",
+      "Paso 2: Relacionar el concepto 'Uso de la razón' con el pensamiento crítico contra la monarquía absoluta.",
+      "Paso 3: Confirmar que pensadores como Voltaire y Rousseau pertenecen a esta corriente.",
+      "Resultado: La Ilustración."
+    ],
+    "analisisDeError": {
+      "0": "El Renacimiento es de los siglos XV-XVI, centrado en el humanismo artístico.",
+      "2": "El Positivismo es una corriente científica y filosófica del siglo XIX."
+    }
+  },
+  {
+    "id": 58,
+    "materia": "Historia Universal",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "Es una de las principales causas de la Primera Guerra Mundial:",
+    "formulaPrincipal": "",
+    "opciones": ["La invasión a Polonia", "El asesinato del archiduque Francisco Fernando", "La caída del muro de Berlín", "La Revolución Rusa"],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Analizar los eventos detonantes de conflictos mundiales.",
+      "Paso 2: Recordar el incidente de Sarajevo en 1914 donde el heredero al trono austrohúngaro fue asesinado.",
+      "Paso 3: Este evento activó las alianzas militares europeas (Triple Entente y Triple Alianza).",
+      "Resultado: El asesinato del archiduque Francisco Fernando."
+    ],
+    "analisisDeError": {
+      "0": "La invasión a Polonia inició la Segunda Guerra Mundial en 1939.",
+      "2": "La caída del muro simboliza el fin de la Guerra Fría en 1989."
+    }
+  },
+  {
+    "id": 59,
+    "materia": "Historia Universal",
+    "dificultad": 3,
+    "tiempoSugerido": 90,
+    "pregunta": "¿Cuál fue la principal característica de la Guerra Fría?",
+    "formulaPrincipal": "",
+    "opciones": ["Enfrentamiento bélico directo entre EUA y la URSS", "Enfrentamiento ideológico, económico y político entre el bloque capitalista y el socialista", "La alianza militar entre Alemania y Japón", "El dominio del Imperio Napoleónico"],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Definir el término 'fría' en el contexto de un conflicto.",
+      "Paso 2: Identificar los dos bloques líderes tras la Segunda Guerra Mundial (EUA y URSS).",
+      "Paso 3: Reconocer que la competencia fue tecnológica, ideológica y a través de guerras subsidiarias.",
+      "Resultado: Enfrentamiento ideológico, económico y político."
+    ],
+    "analisisDeError": {
+      "0": "No hubo enfrentamiento directo por la amenaza de destrucción mutua nuclear.",
+      "2": "Ese fue el 'Eje' durante la Segunda Guerra Mundial."
+    }
+  },
+  {
+    "id": 60,
+    "materia": "Historia Universal",
+    "dificultad": 4,
+    "tiempoSugerido": 90,
+    "pregunta": "Ordena cronológicamente los siguientes sucesos de la Segunda Guerra Mundial: I. Lanzamiento de bombas atómicas, II. Invasión de Alemania a Polonia, III. Ataque a Pearl Harbor, IV. Día D (Desembarco en Normandía).",
+    "formulaPrincipal": "",
+    "opciones": ["II, III, IV, I", "II, I, III, IV", "III, II, IV, I", "I, II, III, IV"],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Identificar el inicio (Invasión a Polonia, 1939).",
+      "Paso 2: Identificar la entrada de EUA al conflicto (Pearl Harbor, 1941).",
+      "Paso 3: Identificar la recuperación de Europa (Día D, 1944).",
+      "Paso 4: Identificar el evento final (Bombas atómicas, 1945).",
+      "Resultado: II, III, IV, I."
+    ],
+    "analisisDeError": {
+      "1": "Las bombas atómicas cierran el conflicto; no pueden ser el segundo evento."
+    }
+  },
+  {
+    "id": 61,
+    "materia": "Historia Universal",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "Países que conformaron la Triple Entente al inicio de la Gran Guerra:",
+    "formulaPrincipal": "",
+    "opciones": ["Alemania, Austria e Italia", "Francia, Inglaterra y Rusia", "EUA, Rusia y China", "Japón, Alemania e Italia"],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar los dos bloques principales de la Primera Guerra Mundial.",
+      "Paso 2: Recordar que la 'Entente' unía a las potencias occidentales y el imperio ruso.",
+      "Paso 3: Descartar a las Potencias Centrales (Alemania/Austria).",
+      "Resultado: Francia, Inglaterra y Rusia."
+    ],
+    "analisisDeError": {
+      "0": "Esa fue la Triple Alianza (Potencias Centrales).",
+      "3": "Ese fue el pacto del Eje en la Segunda Guerra Mundial."
+    }
+  },
+  {
+    "id": 62,
+    "materia": "Historia de México",
+    "dificultad": 1,
+    "tiempoSugerido": 45,
+    "pregunta": "¿Quién es conocido como el 'Siervo de la Nación' y redactó los 'Sentimientos de la Nación'?",
+    "formulaPrincipal": "",
+    "opciones": ["Miguel Hidalgo", "José María Morelos y Pavón", "Vicente Guerrero", "Agustín de Iturbide"],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Asociar el título 'Siervo de la Nación' con el líder insurgente correspondiente.",
+      "Paso 2: Identificar el autor del documento que pedía la independencia total y la abolición de la esclavitud en el Congreso de Chilpancingo.",
+      "Paso 3: Confirmar que Morelos lideró la etapa de organización.",
+      "Resultado: José María Morelos y Pavón."
+    ],
+    "analisisDeError": {
+      "0": "Hidalgo inició el movimiento, pero no usó ese título ni redactó ese documento.",
+      "3": "Iturbide consumó la independencia mediante el Plan de Iguala."
+    }
+  },
+  {
+    "id": 63,
+    "materia": "Historia de México",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "Documento con el que se puso fin a la guerra de independencia de México en 1821:",
+    "formulaPrincipal": "",
+    "opciones": ["Tratados de Córdoba", "Plan de Iguala", "Constitución de Apatzingán", "Sentimientos de la Nación"],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Identificar el acuerdo final firmado entre Agustín de Iturbide y el último jefe político español Juan O'Donojú.",
+      "Paso 2: Recordar que este documento reconoce formalmente la soberanía de México.",
+      "Paso 3: Diferenciar del Plan de Iguala, que fue la alianza política previa.",
+      "Resultado: Tratados de Córdoba."
+    ],
+    "analisisDeError": {
+      "1": "El Plan de Iguala unió a las fuerzas insurgentes y realistas, pero no fue el tratado final con España.",
+      "2": "Apatzingán fue la primera constitución insurgente (1814)."
+    }
+  },
+  {
+    "id": 64,
+    "materia": "Historia de México",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Qué nombre recibió el periodo de 1928 a 1934 en el que Plutarco Elías Calles controló la política nacional sin ser presidente?",
+    "formulaPrincipal": "",
+    "opciones": ["El Porfiriato", "El Cardenismo", "El Maximato", "El Milagro Mexicano"],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Relacionar a Plutarco Elías Calles con su título de 'Jefe Máximo de la Revolución'.",
+      "Paso 2: Identificar la etapa donde hubo tres presidentes bajo su influencia directa.",
+      "Paso 3: Reconocer que este periodo termina con la llegada de Lázaro Cárdenas.",
+      "Resultado: El Maximato."
+    ],
+    "analisisDeError": {
+      "0": "El Porfiriato fue la dictadura de Díaz en el siglo XIX e inicios del XX.",
+      "3": "El Milagro Mexicano es una etapa de crecimiento económico (1940-1970)."
+    }
+  },
+  {
+    "id": 65,
+    "materia": "Historia de México",
+    "dificultad": 4,
+    "tiempoSugerido": 120,
+    "pregunta": "Ordena los periodos históricos de México: I. Porfiriato, II. República Restaurada, III. Reforma, IV. Revolución.",
+    "formulaPrincipal": "",
+    "opciones": ["III, II, I, IV", "III, I, II, IV", "I, II, III, IV", "II, III, I, IV"],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Ubicar la Guerra de Reforma (Leyes de Reforma y Juárez).",
+      "Paso 2: Ubicar la República Restaurada tras la caída del Segundo Imperio (1867-1876).",
+      "Paso 3: Ubicar el ascenso de Díaz (Porfiriato).",
+      "Paso 4: Ubicar el inicio de la Revolución Mexicana (1910).",
+      "Resultado: III, II, I, IV."
+    ],
+    "analisisDeError": {
+      "1": "Invierte el Porfiriato y la República Restaurada. Díaz llegó después de Juárez y Lerdo."
+    }
+  },
+  {
+    "id": 66,
+    "materia": "Historia de México",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "Presidente de México que llevó a cabo la Expropiación Petrolera en 1938:",
+    "formulaPrincipal": "",
+    "opciones": ["Lázaro Cárdenas", "Adolfo López Mateos", "Manuel Ávila Camacho", "Plutarco Elías Calles"],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Identificar el suceso ocurrido el 18 de marzo de 1938.",
+      "Paso 2: Reconocer al presidente que impulsó el reparto agrario y el apoyo a sindicatos.",
+      "Paso 3: Confirmar que fundó el IPN y el partido que luego sería el PRI.",
+      "Resultado: Lázaro Cárdenas."
+    ],
+    "analisisDeError": {
+      "1": "López Mateos nacionalizó la industria eléctrica, pero mucho después (1960).",
+      "3": "Calles creó el Banco de México y el PNR, pero no expropió el petróleo."
+    }
+  },
+  {
+    "id": 67,
+    "materia": "Historia Universal",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "¿En qué país se originó la Revolución Industrial a mediados del siglo XVIII?",
+    "formulaPrincipal": "",
+    "opciones": ["Francia", "Estados Unidos", "Inglaterra", "Alemania"],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Identificar el país que poseía grandes yacimientos de carbón y hierro.",
+      "Paso 2: Reconocer la estabilidad política y el dominio naval que permitieron la expansión comercial.",
+      "Paso 3: Confirmar que fue la cuna de la máquina de vapor.",
+      "Resultado: Inglaterra."
+    ],
+    "analisisDeError": {
+      "0": "Francia tuvo un desarrollo industrial más lento debido a sus conflictos internos posrevolucionarios.",
+      "1": "Estados Unidos inició su proceso de industrialización masiva hasta el siglo XIX."
+    }
+  },
+  {
+    "id": 68,
+    "materia": "Historia Universal",
+    "dificultad": 3,
+    "tiempoSugerido": 90,
+    "pregunta": "Personaje clave en el proceso de unificación alemana en el siglo XIX, conocido como el 'Canciller de Hierro':",
+    "formulaPrincipal": "",
+    "opciones": ["Giuseppe Garibaldi", "Otto von Bismarck", "Napoleón III", "Víctor Manuel II"],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar al líder del reino de Prusia que impulsó la unión de los estados germanos.",
+      "Paso 2: Relacionar la frase 'sangre y hierro' con la política de este canciller.",
+      "Paso 3: Confirmar su papel tras la guerra franco-prusiana de 1871.",
+      "Resultado: Otto von Bismarck."
+    ],
+    "analisisDeError": {
+      "0": "Garibaldi fue una figura central, pero de la unificación italiana.",
+      "3": "Víctor Manuel II fue el primer rey de Italia, no de Alemania."
+    }
+  },
+  {
+    "id": 69,
+    "materia": "Historia Universal",
+    "dificultad": 1,
+    "tiempoSugerido": 45,
+    "pregunta": "Sistema económico y político que surgió tras la Revolución Rusa de 1917:",
+    "formulaPrincipal": "",
+    "opciones": ["Capitalismo", "Socialismo", "Feudalismo", "Liberalismo"],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Analizar el derrocamiento del régimen zarista por parte de los bolcheviques.",
+      "Paso 2: Identificar la ideología basada en las obras de Marx y Engels que adoptó Lenin.",
+      "Paso 3: Reconocer la búsqueda de la propiedad colectiva de los medios de producción.",
+      "Resultado: Socialismo."
+    ],
+    "analisisDeError": {
+      "0": "El capitalismo es el sistema basado en el libre mercado y propiedad privada que el nuevo régimen rechazaba."
+    }
+  },
+  {
+    "id": 70,
+    "materia": "Historia Universal",
+    "dificultad": 4,
+    "tiempoSugerido": 120,
+    "pregunta": "Relaciona los regímenes totalitarios con sus respectivos líderes: 1. Nazismo, 2. Fascismo, 3. Militarismo (a. Mussolini, b. Hirohito, c. Hitler).",
+    "formulaPrincipal": "",
+    "opciones": ["1c, 2a, 3b", "1a, 2c, 3b", "1c, 2b, 3a", "1b, 2a, 3c"],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Asociar a Adolf Hitler con el Tercer Reich y el Nazismo en Alemania.",
+      "Paso 2: Asociar a Benito Mussolini con el surgimiento del Fascismo en Italia.",
+      "Paso 3: Asociar al emperador Hirohito con el expansionismo militarista de Japón.",
+      "Resultado: 1c, 2a, 3b."
+    ],
+    "analisisDeError": {
+      "1": "Invertiste a los líderes europeos; Mussolini es el líder fascista.",
+      "2": "Confundiste a Hirohito con el líder fascista italiano."
+    }
+  },
+  {
+    "id": 71,
+    "materia": "Historia Universal",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Qué organismo internacional se creó al finalizar la Segunda Guerra Mundial para mantener la paz?",
+    "formulaPrincipal": "",
+    "opciones": ["La Sociedad de Naciones", "La OTAN", "La ONU", "El Pacto de Varsovia"],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Identificar el año de fundación (1945).",
+      "Paso 2: Reconocer el organismo que reemplazó a la ineficaz Sociedad de Naciones.",
+      "Paso 3: Confirmar la sede principal en Nueva York.",
+      "Resultado: La ONU (Organización de las Naciones Unidas)."
+    ],
+    "analisisDeError": {
+      "0": "La Sociedad de Naciones se creó tras la Primera Guerra Mundial.",
+      "1": "La OTAN es una alianza militar defensiva, no un organismo de paz global."
+    }
+  },
+  {
+    "id": 72,
+    "materia": "Historia de México",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "Etapa de la Revolución Mexicana en la que Francisco I. Madero buscó derrocar a Porfirio Díaz bajo el lema 'Sufragio efectivo, no reelección':",
+    "formulaPrincipal": "",
+    "opciones": ["Constitucionalismo", "Lucha armada de 1910", "Zapatismo", "Decena Trágica"],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar el inicio del conflicto tras la publicación del Plan de San Luis.",
+      "Paso 2: Reconocer la primera fase del movimiento revolucionario centrada en el cambio político democrático.",
+      "Paso 3: Confirmar que esta etapa culmina con la renuncia de Díaz.",
+      "Resultado: Lucha armada de 1910."
+    ],
+    "analisisDeError": {
+      "0": "El constitucionalismo es una etapa posterior liderada por Carranza (1913-1917).",
+      "3": "La Decena Trágica fue el cuartelazo para traicionar y asesinar a Madero."
+    }
+  },
+  {
+    "id": 73,
+    "materia": "Historia de México",
+    "dificultad": 3,
+    "tiempoSugerido": 90,
+    "pregunta": "Constitución que rige actualmente a México, producto de la Revolución Mexicana:",
+    "formulaPrincipal": "",
+    "opciones": ["Constitución de 1824", "Constitución de 1857", "Constitución de 1917", "Constitución de Cádiz"],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Identificar el año en que Venustiano Carranza promulgó la nueva carta magna en Querétaro.",
+      "Paso 2: Reconocer que fue la primera a nivel mundial en incluir derechos sociales (educación, tierra y trabajo).",
+      "Paso 3: Confirmar que es la ley suprema vigente tras el movimiento revolucionario.",
+      "Resultado: Constitución de 1917."
+    ],
+    "analisisDeError": {
+      "1": "La de 1857 es de la época liberal juarista, previa a la Revolución."
+    }
+  },
+  {
+    "id": 74,
+    "materia": "Historia de México",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "Periodo de crecimiento económico sostenido en México entre 1940 y 1970:",
+    "formulaPrincipal": "",
+    "opciones": ["Neoliberalismo", "El Milagro Mexicano", "Globalización", "Cardenismo"],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Analizar la etapa de industrialización acelerada por sustitución de importaciones.",
+      "Paso 2: Reconocer la estabilidad del peso y el crecimiento del PIB por encima del 6%.",
+      "Paso 3: Asociar este periodo con el término 'Desarrollo Estabilizador'.",
+      "Resultado: El Milagro Mexicano."
+    ],
+    "analisisDeError": {
+      "0": "El neoliberalismo es un modelo que se implementó a partir de los años 80.",
+      "3": "El Cardenismo se enfocó en el reparto agrario y nacionalismo, previo al auge industrial de los 40."
+    }
+  },
+  {
+    "id": 75,
+    "materia": "Historia de México",
+    "dificultad": 4,
+    "tiempoSugerido": 90,
+    "pregunta": "Conflicto armado que enfrentó al gobierno de Plutarco Elías Calles con milicias religiosas entre 1926 y 1929:",
+    "formulaPrincipal": "",
+    "opciones": ["Guerra de Reforma", "Revolución Mexicana", "Guerra Cristera", "Guerra de los Pasteles"],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Identificar la causa del conflicto: la aplicación de leyes que limitaban el culto católico.",
+      "Paso 2: Reconocer el periodo de tiempo bajo la presidencia de Calles.",
+      "Paso 3: Asociar el lema '¡Viva Cristo Rey!' con el bando insurgente.",
+      "Resultado: Guerra Cristera."
+    ],
+    "analisisDeError": {
+      "0": "La Guerra de Reforma fue un conflicto entre liberales y conservadores a mediados del siglo XIX."
+    }
+  },
+  {
+    "id": 76,
+    "materia": "Historia de México",
+    "dificultad": 1,
+    "tiempoSugerido": 45,
+    "pregunta": "¿Qué cultura prehispánica es considerada la 'Cultura Madre' de Mesoamérica?",
+    "formulaPrincipal": "",
+    "opciones": ["Maya", "Mexica", "Olmeca", "Tolteca"],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Identificar la cultura más antigua que influyó en el calendario y la escritura mesoamericana.",
+      "Paso 2: Ubicar su región geográfica en la costa del Golfo de México (Veracruz y Tabasco).",
+      "Paso 3: Asociar las cabezas colosales con esta civilización.",
+      "Resultado: Olmeca."
+    ],
+    "analisisDeError": {
+      "1": "Los mexicas fueron el último gran imperio antes de la conquista española.",
+      "0": "Los mayas tuvieron un gran desarrollo astronómico, pero son posteriores al auge Olmeca."
+    }
+  }
+]

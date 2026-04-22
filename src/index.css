@@ -1,0 +1,117 @@
+@import "tailwindcss";
+
+/* KaTeX para fórmulas matemáticas perfectas */
+@import 'katex/dist/katex.min.css';
+
+@theme {
+  /* Registramos las variables para que Tailwind las reconozca */
+  --color-viktoria-navy: #0f172a;
+  --color-viktoria-emerald: #10b981;
+  --shadow-cute: 0 20px 50px -12px rgba(0, 0, 0, 0.08);
+}
+
+/* 1. Reset y Estilos Base */
+:root {
+  background-color: #fdfbf7; /* Color crema suave para descansar la vista */
+  color: #0f172a;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: 'Inter', system-ui, sans-serif;
+}
+
+/* 2. Componentes Personalizados */
+@layer components {
+
+  /* LA FICHA BLANCA MAESTRA */
+  .ficha-viktoria {
+    background-color: white;
+    border-radius: 3.5rem;
+    box-shadow: var(--shadow-cute);
+    border: 1px solid white;
+    position: relative;
+    overflow: hidden;
+    transition: all 0.5s cubic-bezier(0.16, 1, 0.3, 1);
+  }
+
+  /* BOTÓN PRIMARIO (EL VERDE FREGÓN) */
+  .btn-viktoria-primary {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.75rem;
+    padding: 1.5rem 3rem;
+
+    /* Redondeado total (Capsule Style) */
+    border-radius: 9999px;
+
+    /* Gradiente Esmeralda */
+    background: linear-gradient(135deg, #34d399 0%, #0d9488 100%);
+    color: white;
+
+    /* Tipografía */
+    font-weight: 900;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    font-size: 0.85rem;
+
+    /* Interacción */
+    border: none;
+    cursor: pointer;
+    box-shadow: 0 15px 35px -5px rgba(16, 185, 129, 0.4);
+    transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  }
+
+  .btn-viktoria-primary:hover {
+    transform: translateY(-4px) scale(1.02);
+    box-shadow: 0 25px 50px -10px rgba(16, 185, 129, 0.6);
+    filter: brightness(1.1);
+  }
+
+  .btn-viktoria-primary:active {
+    transform: translateY(2px) scale(0.98);
+  }
+
+  /* BOTÓN FANTASMA (Para opciones no seleccionadas) */
+  .btn-viktoria-ghost {
+    background-color: #f8fafc;
+    color: #94a3b8;
+    border-radius: 1.5rem;
+    padding: 1rem 1.5rem;
+    font-weight: 700;
+    border: 2px solid transparent;
+    transition: all 0.3s ease;
+    cursor: pointer;
+  }
+
+  .btn-viktoria-ghost:hover {
+    background-color: white;
+    border-color: #e2e8f0;
+    color: #64748b;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.03);
+  }
+}
+
+/* 3. Animaciones */
+@keyframes slideUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px) scale(0.95);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+.animate-viktoria {
+  animation: slideUp 0.8s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+/* Estilos de KaTeX para que no se vean pegados */
+.katex-display {
+  padding: 1.5rem;
+  background-color: #f8fafc;
+  border-radius: 2rem;
+  margin: 1.5rem 0;
+  border: 1px solid #f1f5f9;
+}

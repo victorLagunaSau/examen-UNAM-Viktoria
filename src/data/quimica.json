@@ -1,0 +1,390 @@
+[
+  {
+    "id": 97,
+    "materia": "Química",
+    "dificultad": 1,
+    "tiempoSugerido": 45,
+    "pregunta": "¿Qué partículas subatómicas determinan la identidad de un elemento químico (número atómico)?",
+    "formulaPrincipal": "",
+    "opciones": ["Electrones", "Protones", "Neutrones", "Positrones"],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Definir el número atómico (Z).",
+      "Paso 2: Reconocer que Z representa la cantidad de cargas positivas en el núcleo.",
+      "Paso 3: Identificar que los protones son la única partícula que no varía sin cambiar el elemento mismo.",
+      "Resultado: Protones."
+    ],
+    "analisisDeError": {
+      "0": "Los electrones varían en los iones sin cambiar la identidad del elemento.",
+      "2": "La variación de neutrones crea isótopos del mismo elemento."
+    }
+  },
+  {
+    "id": 98,
+    "materia": "Química",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "De acuerdo con la configuración electrónica del carbono (1s² 2s² 2p²), ¿en qué grupo de la tabla periódica se encuentra?",
+    "formulaPrincipal": "",
+    "opciones": ["Grupo 2", "Grupo 14 (IV A)", "Grupo 16 (VI A)", "Grupo 4"],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar el nivel de energía más alto (n=2).",
+      "Paso 2: Sumar los electrones en ese nivel (2 de 's' + 2 de 'p' = 4 electrones de valencia).",
+      "Paso 3: Relacionar los 4 electrones de valencia con la familia IV A o Grupo 14.",
+      "Resultado: Grupo 14."
+    ],
+    "analisisDeError": {
+      "0": "Error común: solo contar los electrones del subnivel p.",
+      "3": "El grupo 4 pertenece a metales de transición (bloque d)."
+    }
+  },
+  {
+    "id": 99,
+    "materia": "Química",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Cuál es el tipo de enlace que se forma por la transferencia completa de electrones de un metal a un no metal?",
+    "formulaPrincipal": "",
+    "opciones": ["Covalente polar", "Metálico", "Iónico", "Covalente coordinado"],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Identificar la naturaleza de los elementos (Metal + No Metal).",
+      "Paso 2: Reconocer que existe una gran diferencia de electronegatividad.",
+      "Paso 3: Definir el enlace donde un átomo 'gana' y otro 'pierde' electrones.",
+      "Resultado: Iónico."
+    ],
+    "analisisDeError": {
+      "0": "En el enlace covalente los electrones se comparten, no se transfieren."
+    }
+  },
+  {
+    "id": 100,
+    "materia": "Química",
+    "dificultad": 4,
+    "tiempoSugerido": 90,
+    "pregunta": "Al balancear la ecuación CH₄ + O₂ → CO₂ + H₂O, ¿qué coeficiente debe llevar el O₂?",
+    "formulaPrincipal": "",
+    "opciones": ["1", "2", "3", "4"],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Contar carbonos (1 reactivo, 1 producto) - Balanceado.",
+      "Paso 2: Balancear hidrógenos: poner un 2 en H₂O para tener 4.",
+      "Paso 3: Contar oxígenos en productos: 2 (en CO₂) + 2 (en 2H₂O) = 4.",
+      "Paso 4: Poner un 2 en el reactivo O₂ para obtener 4 oxígenos.",
+      "Resultado: 2."
+    ],
+    "analisisDeError": {
+      "0": "Dejaría los oxígenos y los hidrógenos sin balancear."
+    }
+  },
+  {
+    "id": 101,
+    "materia": "Química",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Cuál es la masa molar del agua (H₂O)? (H=1 g/mol, O=16 g/mol)",
+    "formulaPrincipal": "",
+    "opciones": ["17 g/mol", "18 g/mol", "33 g/mol", "16 g/mol"],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar el número de átomos (2 de H, 1 de O).",
+      "Paso 2: Multiplicar masa por cantidad (2x1 + 1x16).",
+      "Paso 3: Sumar los resultados parciales.",
+      "Resultado: 18 g/mol."
+    ],
+    "analisisDeError": {
+      "0": "Olvidaste multiplicar el hidrógeno por su subíndice 2."
+    }
+  },
+  {
+    "id": 102,
+    "materia": "Química",
+    "dificultad": 1,
+    "tiempoSugerido": 45,
+    "pregunta": "En una escala de pH, una sustancia con un valor de 3 se clasifica como:",
+    "formulaPrincipal": "",
+    "opciones": ["Base fuerte", "Neutro", "Ácido", "Base débil"],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Recordar el rango de la escala de pH (0 a 14).",
+      "Paso 2: Identificar el punto neutro (7).",
+      "Paso 3: Ubicar que los valores menores a 7 son ácidos.",
+      "Resultado: Ácido."
+    ],
+    "analisisDeError": {
+      "0": "Las bases se encuentran en el rango de 7.1 a 14."
+    }
+  },
+  {
+    "id": 103,
+    "materia": "Química",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Cuál de los siguientes es un cambio químico?",
+    "formulaPrincipal": "",
+    "opciones": ["Evaporación del agua", "Oxidación de un clavo", "Romper un vidrio", "Disolver azúcar"],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Diferenciar entre cambio físico (misma sustancia) y químico (nueva sustancia).",
+      "Paso 2: Analizar la oxidación: el hierro reacciona con oxígeno para crear óxido de hierro.",
+      "Paso 3: Confirmar que las propiedades originales cambiaron irreversiblemente.",
+      "Resultado: Oxidación de un clavo."
+    ],
+    "analisisDeError": {
+      "0": "La evaporación es un cambio de estado físico (H₂O líquida a gas)."
+    }
+  },
+  {
+    "id": 104,
+    "materia": "Química",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "Según la teoría de Lewis, un ácido es una sustancia que:",
+    "formulaPrincipal": "",
+    "opciones": ["Dona protones", "Acepta un par de electrones", "Libera iones OH-", "Dona un par de electrones"],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar que Lewis se enfoca en el intercambio de electrones.",
+      "Paso 2: Recordar que los ácidos de Lewis son 'electrofílicos'.",
+      "Paso 3: Definir que aceptan pares electrónicos para formar enlaces.",
+      "Resultado: Acepta un par de electrones."
+    ],
+    "analisisDeError": {
+      "0": "Esa es la definición de Brönsted-Lowry.",
+      "3": "Donar electrones define a una base de Lewis."
+    }
+  },
+  {
+    "id": 105,
+    "materia": "Química",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Qué nombre recibe la columna vertical de la tabla periódica con propiedades similares?",
+    "formulaPrincipal": "",
+    "opciones": ["Periodo", "Grupo o Familia", "Bloque", "Serie"],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Definir la organización de la tabla periódica.",
+      "Paso 2: Reconocer que las filas horizontales son periodos.",
+      "Paso 3: Identificar que las columnas verticales agrupan elementos con igual número de electrones de valencia.",
+      "Resultado: Grupo o Familia."
+    ],
+    "analisisDeError": {
+      "0": "Los periodos indican el nivel de energía, no la similitud química."
+    }
+  },
+  {
+    "id": 106,
+    "materia": "Química",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "En una reacción exotérmica, el sistema:",
+    "formulaPrincipal": "",
+    "opciones": ["Absorbe calor", "Libera calor", "Mantiene temperatura", "No intercambia energía"],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Analizar el prefijo 'exo' (fuera) y 'termos' (calor).",
+      "Paso 2: Identificar que la energía de los productos es menor que la de los reactivos.",
+      "Paso 3: Concluir que el exceso de energía se desprende al entorno.",
+      "Resultado: Libera calor."
+    ],
+    "analisisDeError": {
+      "0": "Absorber calor es propio de reacciones endotérmicas."
+    }
+  },
+  {
+    "id": 107,
+    "materia": "Química",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Cuál es el número de oxidación del azufre en el H₂SO₄?",
+    "formulaPrincipal": "",
+    "opciones": ["+4", "+6", "+2", "-2"],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Asignar valores conocidos (O = -2, H = +1).",
+      "Paso 2: Multiplicar por subíndices (4x-2 = -8; 2x1 = +2).",
+      "Paso 3: Calcular el valor faltante para que la suma sea cero (+2 + X - 8 = 0).",
+      "Resultado: +6."
+    ],
+    "analisisDeError": {
+      "0": "El +4 corresponde al ácido sulfuroso (H₂SO₃)."
+    }
+  },
+  {
+    "id": 108,
+    "materia": "Química",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Qué gas se desprende en la combustión completa de un hidrocarburo?",
+    "formulaPrincipal": "",
+    "opciones": ["Monóxido de carbono", "Dióxido de carbono", "Metano", "Hidrógeno"],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar los productos de una combustión completa (CO₂ + H₂O).",
+      "Paso 2: Diferenciar de la incompleta (donde se produce CO).",
+      "Paso 3: Reconocer el gas resultante de la oxidación total del carbono.",
+      "Resultado: Dióxido de carbono."
+    ],
+    "analisisDeError": {
+      "0": "El monóxido de carbono es producto de combustión incompleta."
+    }
+  },
+  {
+    "id": 109,
+    "materia": "Química",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "El enlace presente en la molécula de nitrógeno gaseoso (N₂) es:",
+    "formulaPrincipal": "",
+    "opciones": ["Covalente sencillo", "Covalente triple", "Iónico", "Puente de hidrógeno"],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Ubicar al nitrógeno en el grupo 15 (5 electrones de valencia).",
+      "Paso 2: Determinar cuántos electrones le faltan para el octeto (3).",
+      "Paso 3: Identificar que dos átomos de N comparten tres pares electrónicos.",
+      "Resultado: Covalente triple."
+    ],
+    "analisisDeError": {
+      "3": "El puente de hidrógeno es una fuerza intermolecular, no un enlace atómico."
+    }
+  },
+  {
+    "id": 110,
+    "materia": "Química",
+    "dificultad": 4,
+    "tiempoSugerido": 90,
+    "pregunta": "¿Cuál es la molaridad de una solución con 2 moles en 500 mL?",
+    "formulaPrincipal": "",
+    "opciones": ["1 M", "4 M", "0.25 M", "10 M"],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Convertir el volumen a litros (500 mL = 0.5 L).",
+      "Paso 2: Aplicar la fórmula M = n / V.",
+      "Paso 3: Realizar la división (2 / 0.5).",
+      "Resultado: 4 M."
+    ],
+    "analisisDeError": {
+      "0": "Error al no convertir mL a L o dividir erróneamente."
+    }
+  },
+  {
+    "id": 111,
+    "materia": "Química",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "Los isótopos son átomos con diferente número de:",
+    "formulaPrincipal": "",
+    "opciones": ["Protones", "Neutrones", "Electrones", "Niveles de energía"],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Definir isótopo (mismo elemento, distinta masa).",
+      "Paso 2: Reconocer que la identidad (protones) debe ser igual.",
+      "Paso 3: Identificar que la masa cambia por la cantidad de partículas neutras.",
+      "Resultado: Neutrones."
+    ],
+    "analisisDeError": {
+      "0": "Si cambian los protones, cambia el elemento químico.",
+      "2": "El cambio en electrones genera iones."
+    }
+  },
+  {
+    "id": 112,
+    "materia": "Química",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Qué postula el principio de exclusión de Pauli?",
+    "formulaPrincipal": "",
+    "opciones": ["Ocupan menor energía primero", "No pueden tener los 4 números cuánticos iguales", "Se distribuyen uno a uno", "Incertidumbre de posición"],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Analizar las reglas de configuración electrónica.",
+      "Paso 2: Identificar que Pauli se refiere a la ocupación de los orbitales.",
+      "Paso 3: Concluir que dos electrones deben tener espines opuestos (+1/2, -1/2).",
+      "Resultado: No pueden tener los 4 números cuánticos iguales."
+    ],
+    "analisisDeError": {
+      "0": "Ese es el principio de Aufbau.",
+      "2": "Esa es la regla de Hund."
+    }
+  },
+  {
+    "id": 113,
+    "materia": "Química",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Cuál de los siguientes es un ejemplo de mezcla heterogénea?",
+    "formulaPrincipal": "",
+    "opciones": ["Aire filtrado", "Agua con aceite", "Bronce", "Agua azucarada"],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Definir mezcla heterogénea (se distinguen sus componentes/fases).",
+      "Paso 2: Analizar la inmiscibilidad del agua y el aceite.",
+      "Paso 3: Observar que forman dos capas claramente separadas.",
+      "Resultado: Agua con aceite."
+    ],
+    "analisisDeError": {
+      "2": "El bronce es una aleación, que se considera mezcla homogénea sólida."
+    }
+  },
+  {
+    "id": 114,
+    "materia": "Química",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "En química orgánica, el grupo funcional de los alcoholes es:",
+    "formulaPrincipal": "",
+    "opciones": ["Carbonilo", "Hidroxilo", "Carboxilo", "Amino"],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar el sufijo '-ol' en la nomenclatura.",
+      "Paso 2: Asociar el grupo con el enlace oxígeno-hidrógeno (-OH).",
+      "Paso 3: Diferenciar de otros grupos oxigenados.",
+      "Resultado: Hidroxilo."
+    ],
+    "analisisDeError": {
+      "0": "El carbonilo es de aldehídos y cetonas.",
+      "2": "El carboxilo es de ácidos carboxílicos."
+    }
+  },
+  {
+    "id": 115,
+    "materia": "Química",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Cuál es la hibridación del carbono en un alcano (enlace sencillo)?",
+    "formulaPrincipal": "",
+    "opciones": ["sp", "sp3", "sp2", "dsp2"],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Contar los enlaces sigma (sencillos) del carbono.",
+      "Paso 2: En un alcano, el carbono forma 4 enlaces sencillos.",
+      "Paso 3: Identificar la geometría tetraédrica resultante.",
+      "Resultado: sp3."
+    ],
+    "analisisDeError": {
+      "0": "La hibridación sp es para enlaces triples (alquinos).",
+      "2": "La hibridación sp2 es para enlaces dobles (alquenos)."
+    }
+  },
+  {
+    "id": 116,
+    "materia": "Química",
+    "dificultad": 1,
+    "tiempoSugerido": 45,
+    "pregunta": "De acuerdo con la Ley de Lavoisier, en una reacción cerrada:",
+    "formulaPrincipal": "",
+    "opciones": ["La masa aumenta", "La masa permanece constante", "La masa disminuye", "Los átomos cambian"],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Recordar el principio de conservación de la materia.",
+      "Paso 2: Establecer que la materia solo se transforma.",
+      "Paso 3: Concluir que la suma de masas de reactivos es igual a la de productos.",
+      "Resultado: La masa permanece constante."
+    ],
+    "analisisDeError": {
+      "3": "Los átomos solo se reorganizan, no cambian de identidad (eso sería nuclear)."
+    }
+  }
+]

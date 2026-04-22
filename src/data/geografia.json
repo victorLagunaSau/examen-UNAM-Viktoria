@@ -1,0 +1,385 @@
+[
+  {
+    "id": 157,
+    "materia": "Geografía",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Qué capa de la Tierra está fragmentada en placas tectónicas que se desplazan debido a las corrientes de convección del manto?",
+    "formulaPrincipal": "",
+    "opciones": ["Núcleo", "Litósfera", "Mesósfera", "Hidrósfera"],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar la capa más externa y rígida de la Tierra.",
+      "Paso 2: Comprender que incluye la corteza y la parte superior del manto.",
+      "Paso 3: Reconocer que es la capa que 'flota' sobre la astenósfera.",
+      "Resultado: Litósfera."
+    ],
+    "analisisDeError": {
+      "0": "El núcleo es la capa más interna y densa, compuesta de hierro y níquel.",
+      "3": "La hidrósfera es el conjunto de toda el agua del planeta."
+    }
+  },
+  {
+    "id": 158,
+    "materia": "Geografía",
+    "dificultad": 1,
+    "tiempoSugerido": 45,
+    "pregunta": "La línea imaginaria que divide a la Tierra en los hemisferios Norte y Sur se llama:",
+    "formulaPrincipal": "",
+    "opciones": ["Meridiano de Greenwich", "Trópico de Cáncer", "Ecuador", "Eje Terrestre"],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Identificar el círculo máximo perpendicular al eje de rotación.",
+      "Paso 2: Reconocer que es el paralelo 0°.",
+      "Paso 3: Diferenciarlo de los meridianos que dividen Este y Oeste.",
+      "Resultado: Ecuador."
+    ],
+    "analisisDeError": {
+      "0": "El meridiano de Greenwich divide la Tierra en Hemisferio Este y Oeste.",
+      "1": "El Trópico de Cáncer es un paralelo situado al norte del Ecuador."
+    }
+  },
+  {
+    "id": 159,
+    "materia": "Geografía",
+    "dificultad": 3,
+    "tiempoSugerido": 90,
+    "pregunta": "¿Cuál es la consecuencia principal del movimiento de traslación de la Tierra?",
+    "formulaPrincipal": "",
+    "opciones": ["El día y la noche", "Las estaciones del año", "La desviación de los vientos", "El achatamiento de los polos"],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar el movimiento de la Tierra alrededor del Sol.",
+      "Paso 2: Considerar la inclinación del eje terrestre (23.5°).",
+      "Paso 3: Reconocer la variación de la luz solar en distintas épocas del año.",
+      "Resultado: Las estaciones del año."
+    ],
+    "analisisDeError": {
+      "0": "El día y la noche son consecuencia de la rotación.",
+      "2": "Ese es el Efecto Coriolis, derivado de la rotación."
+    }
+  },
+  {
+    "id": 160,
+    "materia": "Geografía",
+    "dificultad": 4,
+    "tiempoSugerido": 120,
+    "pregunta": "Relaciona las placas tectónicas con las zonas de mayor sismicidad que afectan a México: 1. Placa de Cocos, 2. Placa Norteamericana, 3. Placa del Pacífico. (a. Falla de San Andrés, b. Trinchera Mesoamericana, c. Resto del territorio nacional).",
+    "formulaPrincipal": "",
+    "opciones": ["1b, 2c, 3a", "1a, 2b, 3c", "1c, 2a, 3b", "1b, 2a, 3c"],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Identificar que la placa de Cocos subduce bajo la Norteamericana en la costa del Pacífico sur (Trinchera).",
+      "Paso 2: Reconocer que la mayoría del país está sobre la placa Norteamericana.",
+      "Paso 3: Ubicar la falla de San Andrés como límite entre la placa del Pacífico y la Norteamericana.",
+      "Resultado: 1b, 2c, 3a."
+    ],
+    "analisisDeError": {
+      "3": "Invierte la ubicación de la Placa del Pacífico con la de Cocos."
+    }
+  },
+  {
+    "id": 161,
+    "materia": "Geografía",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Qué tipo de clima predomina en la mayor parte del territorio del norte de México?",
+    "formulaPrincipal": "",
+    "opciones": ["Tropical con lluvias", "Templado", "Seco o Desértico", "Polar"],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Analizar la latitud de la zona norte de México.",
+      "Paso 2: Observar la presencia de grandes desiertos (Sonora, Chihuahua).",
+      "Paso 3: Identificar la escasez de precipitación anual.",
+      "Resultado: Seco o Desértico."
+    ],
+    "analisisDeError": {
+      "0": "El clima tropical se encuentra principalmente en el sur y sureste del país."
+    }
+  },
+  {
+    "id": 162,
+    "materia": "Geografía",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "La cadena montañosa más larga del mundo, situada en América del Sur, es:",
+    "formulaPrincipal": "",
+    "opciones": ["Los Alpes", "El Himalaya", "Los Andes", "Las Rocallosas"],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Ubicar geográficamente los sistemas montañosos.",
+      "Paso 2: Identificar la cordillera que recorre el borde occidental de Sudamérica.",
+      "Paso 3: Reconocer su origen por la subducción de la placa de Nazca.",
+      "Resultado: Los Andes."
+    ],
+    "analisisDeError": {
+      "1": "El Himalaya está en Asia y contiene los picos más altos, pero no es la más larga."
+    }
+  },
+  {
+    "id": 163,
+    "materia": "Geografía",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "Es el río más largo y caudaloso del mundo, ubicado en la región amazónica:",
+    "formulaPrincipal": "",
+    "opciones": ["Río Nilo", "Río Bravo", "Río Amazonas", "Río Mississippi"],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Identificar el cuerpo de agua con la mayor cuenca hidrográfica.",
+      "Paso 2: Comparar longitud y caudal con el Nilo.",
+      "Paso 3: Confirmar su ubicación en Sudamérica (principalmente Brasil).",
+      "Resultado: Río Amazonas."
+    ],
+    "analisisDeError": {
+      "0": "Tradicionalmente se consideraba el más largo, pero el Amazonas lo supera en caudal y estudios recientes en longitud."
+    }
+  },
+  {
+    "id": 164,
+    "materia": "Geografía",
+    "dificultad": 1,
+    "tiempoSugerido": 45,
+    "pregunta": "¿Qué actividad económica consiste en la extracción de recursos minerales del subsuelo?",
+    "formulaPrincipal": "",
+    "opciones": ["Agricultura", "Ganadería", "Minería", "Comercio"],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Clasificar las actividades según el sector económico.",
+      "Paso 2: Identificar la minería como parte del sector primario extractivo.",
+      "Paso 3: Diferenciar de la producción de alimentos.",
+      "Resultado: Minería."
+    ],
+    "analisisDeError": {
+      "3": "El comercio pertenece al sector terciario (servicios)."
+    }
+  },
+  {
+    "id": 165,
+    "materia": "Geografía",
+    "dificultad": 4,
+    "tiempoSugerido": 120,
+    "pregunta": "Principal indicador que mide el valor monetario de la producción total de bienes y servicios de un país en un año:",
+    "formulaPrincipal": "",
+    "opciones": ["IDH", "PIB", "Tasa de inflación", "Deuda externa"],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Definir los indicadores económicos.",
+      "Paso 2: Identificar el Producto Interno Bruto como la medida de riqueza producida.",
+      "Paso 3: Diferenciar del índice que mide bienestar social (IDH).",
+      "Resultado: PIB."
+    ],
+    "analisisDeError": {
+      "0": "El IDH (Índice de Desarrollo Humano) incluye salud y educación, no solo dinero."
+    }
+  },
+  {
+    "id": 166,
+    "materia": "Geografía",
+    "dificultad": 3,
+    "tiempoSugerido": 90,
+    "pregunta": "Es el bloque económico integrado por México, Estados Unidos y Canadá:",
+    "formulaPrincipal": "",
+    "opciones": ["Mercosur", "Unión Europea", "T-MEC", "APEC"],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Identificar los acuerdos comerciales regionales.",
+      "Paso 2: Recordar el nombre que sustituyó al TLCAN.",
+      "Paso 3: Reconocer las siglas del Tratado entre México, Estados Unidos y Canadá.",
+      "Resultado: T-MEC."
+    ],
+    "analisisDeError": {
+      "0": "Mercosur es el bloque de los países del cono sur de América."
+    }
+  },
+  {
+    "id": 167,
+    "materia": "Geografía",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Qué estado de la República Mexicana es el principal productor de petróleo?",
+    "formulaPrincipal": "",
+    "opciones": ["Chihuahua", "Nuevo León", "Campeche", "Jalisco"],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Ubicar las zonas petroleras de México (Sonda de Campeche).",
+      "Paso 2: Reconocer que la mayoría de la extracción es marina.",
+      "Paso 3: Identificar al estado costero con mayor producción.",
+      "Resultado: Campeche."
+    ],
+    "analisisDeError": {
+      "1": "Nuevo León destaca en industria manufacturera, no en extracción de crudo."
+    }
+  },
+  {
+    "id": 168,
+    "materia": "Geografía",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "El fenómeno demográfico que consiste en el desplazamiento de personas de su lugar de origen hacia otro para establecerse es:",
+    "formulaPrincipal": "",
+    "opciones": ["Natalidad", "Migración", "Densidad", "Urbanización"],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Definir los conceptos de dinámica poblacional.",
+      "Paso 2: Identificar el traslado físico de individuos.",
+      "Paso 3: Reconocer que incluye tanto la emigración como la inmigración.",
+      "Resultado: Migración."
+    ],
+    "analisisDeError": {
+      "0": "La natalidad refiere al número de nacimientos."
+    }
+  },
+  {
+    "id": 169,
+    "materia": "Geografía",
+    "dificultad": 3,
+    "tiempoSugerido": 90,
+    "pregunta": "Principal causa de la formación de lluvia ácida:",
+    "formulaPrincipal": "",
+    "opciones": ["Uso de fertilizantes", "Quema de combustibles fósiles", "Deforestación", "Contaminación por plásticos"],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Analizar la reacción química de gases en la atmósfera.",
+      "Paso 2: Identificar los óxidos de nitrógeno y azufre liberados por industrias y autos.",
+      "Paso 3: Comprender cómo estos se combinan con el vapor de agua para formar ácidos.",
+      "Resultado: Quema de combustibles fósiles."
+    ],
+    "analisisDeError": {
+      "2": "La deforestación reduce el CO2 absorbido, pero no genera lluvia ácida directamente."
+    }
+  },
+  {
+    "id": 170,
+    "materia": "Geografía",
+    "dificultad": 4,
+    "tiempoSugerido": 120,
+    "pregunta": "¿Qué puerto mexicano es el más importante para el comercio internacional en el Océano Pacífico?",
+    "formulaPrincipal": "",
+    "opciones": ["Veracruz", "Tampico", "Manzanillo", "Progreso"],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Ubicar los puertos principales en ambos litorales.",
+      "Paso 2: Identificar al puerto con mayor movimiento de contenedores del lado del Pacífico.",
+      "Paso 3: Confirmar su ubicación en el estado de Colima.",
+      "Resultado: Manzanillo."
+    ],
+    "analisisDeError": {
+      "0": "Veracruz es el puerto más importante del Golfo de México, no del Pacífico."
+    }
+  },
+  {
+    "id": 171,
+    "materia": "Geografía",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "País con la mayor extensión territorial en el mundo:",
+    "formulaPrincipal": "",
+    "opciones": ["China", "Canadá", "Rusia", "Brasil"],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Comparar las superficies terrestres de los países más grandes.",
+      "Paso 2: Reconocer al país que abarca dos continentes (Europa y Asia).",
+      "Paso 3: Identificar que supera los 17 millones de km².",
+      "Resultado: Rusia."
+    ],
+    "analisisDeError": {
+      "0": "China es muy grande y el más poblado, pero es el tercero o cuarto en superficie."
+    }
+  },
+  {
+    "id": 172,
+    "materia": "Geografía",
+    "dificultad": 1,
+    "tiempoSugerido": 45,
+    "pregunta": "¿Cuál es el gas más abundante en la atmósfera terrestre?",
+    "formulaPrincipal": "",
+    "opciones": ["Oxígeno", "Dióxido de carbono", "Nitrógeno", "Argón"],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Recordar la composición porcentual del aire.",
+      "Paso 2: Identificar que el nitrógeno ocupa aproximadamente el 78%.",
+      "Paso 3: Descartar el oxígeno, que ocupa solo el 21%.",
+      "Resultado: Nitrógeno."
+    ],
+    "analisisDeError": {
+      "0": "Error común: creemos que el oxígeno es el principal porque es vital para nosotros, pero es el segundo."
+    }
+  },
+  {
+    "id": 173,
+    "materia": "Geografía",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "La región natural que se caracteriza por tener lluvias todo el año y una densa vegetación de selva es:",
+    "formulaPrincipal": "",
+    "opciones": ["Sabana", "Tundra", "Ecuatorial o Tropical", "Estepa"],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Analizar la relación entre clima y vegetación.",
+      "Paso 2: Identificar la zona de bajas presiones constantes cerca del ecuador.",
+      "Paso 3: Asociar con la selva húmeda.",
+      "Resultado: Ecuatorial o Tropical."
+    ],
+    "analisisDeError": {
+      "1": "La tundra es un bioma frío de escasa vegetación cerca de los polos."
+    }
+  },
+  {
+    "id": 174,
+    "materia": "Geografía",
+    "dificultad": 3,
+    "tiempoSugerido": 90,
+    "pregunta": "¿Qué fenómeno meteorológico se caracteriza por un aumento inusual de la temperatura de las aguas del Océano Pacífico central?",
+    "formulaPrincipal": "",
+    "opciones": ["La Niña", "El Niño (ENOS)", "Tsunami", "Huracán"],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar las anomalías térmicas marinas.",
+      "Paso 2: Reconocer que el calentamiento afecta los patrones de lluvia a nivel global.",
+      "Paso 3: Diferenciar del enfriamiento (La Niña).",
+      "Resultado: El Niño."
+    ],
+    "analisisDeError": {
+      "0": "La Niña es el enfriamiento de las mismas aguas."
+    }
+  },
+  {
+    "id": 175,
+    "materia": "Geografía",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Cómo se llama el proceso de crecimiento de las ciudades y el aumento de la población que vive en ellas?",
+    "formulaPrincipal": "",
+    "opciones": ["Globalización", "Ruralización", "Urbanización", "Gentrificación"],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Identificar el cambio de modo de vida rural a urbano.",
+      "Paso 2: Reconocer el crecimiento de la infraestructura citadina.",
+      "Paso 3: Notar la concentración de servicios en áreas urbanas.",
+      "Resultado: Urbanización."
+    ],
+    "analisisDeError": {
+      "0": "La globalización es la integración económica y cultural mundial, no solo el crecimiento de ciudades."
+    }
+  },
+  {
+    "id": 176,
+    "materia": "Geografía",
+    "dificultad": 4,
+    "tiempoSugerido": 150,
+    "pregunta": "¿Cuál es la principal función de los meridianos en la cartografía?",
+    "formulaPrincipal": "",
+    "opciones": ["Determinar la latitud", "Establecer las zonas térmicas", "Determinar la longitud y los husos horarios", "Dividir las estaciones"],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Definir la función de las líneas verticales imaginarias.",
+      "Paso 2: Recordar que la distancia entre el meridiano de Greenwich y cualquier punto es la longitud.",
+      "Paso 3: Reconocer que la rotación de la Tierra sobre estos meridianos define la hora local.",
+      "Resultado: Determinar la longitud y los husos horarios."
+    ],
+    "analisisDeError": {
+      "0": "La latitud se determina mediante los paralelos."
+    }
+  }
+]

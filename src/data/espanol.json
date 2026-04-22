@@ -1,0 +1,398 @@
+[
+  {
+    "id": 77,
+    "materia": "Español",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "Identifica la función de la lengua que predomina en el siguiente enunciado: 'El hidrógeno es el elemento químico de número atómico 1, representado por el símbolo H'.",
+    "formulaPrincipal": "",
+    "opciones": ["Apelativa", "Referencial", "Poética", "Metalingüística"],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Analizar la intención del texto: está transmitiendo conocimientos objetivos sobre la realidad.",
+      "Paso 2: Observar que no busca convencer (apelativa) ni crear belleza (poética).",
+      "Paso 3: Identificar que se centra en el contexto o referente informativo.",
+      "Resultado: Función Referencial."
+    ],
+    "analisisDeError": {
+      "0": "La función apelativa busca una respuesta o acción del receptor, no solo informar.",
+      "3": "La función metalingüística se usa cuando hablamos del lenguaje mismo, no de química."
+    }
+  },
+  {
+    "id": 78,
+    "materia": "Español",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "En la oración 'Los ingenieros diseñaron un puente **resistente**', ¿cuál es la función sintáctica de la palabra en negritas?",
+    "formulaPrincipal": "",
+    "opciones": ["Sujeto", "Núcleo del predicado", "Adjetivo (Modificador directo)", "Objeto indirecto"],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Identificar la categoría gramatical de 'resistente' (es un adjetivo).",
+      "Paso 2: Determinar a quién modifica: está calificando directamente al sustantivo 'puente'.",
+      "Paso 3: En el análisis sintáctico, los adjetivos que acompañan al sustantivo funcionan como modificadores directos.",
+      "Resultado: Adjetivo (Modificador directo)."
+    ],
+    "analisisDeError": {
+      "0": "El sujeto es 'Los ingenieros'.",
+      "1": "El núcleo del predicado siempre es el verbo: 'diseñaron'."
+    }
+  },
+  {
+    "id": 79,
+    "materia": "Español",
+    "dificultad": 1,
+    "tiempoSugerido": 45,
+    "pregunta": "Elige la opción que presenta una ortografía correcta:",
+    "formulaPrincipal": "",
+    "opciones": ["Hazlo haci.", "Haslo así.", "Hazlo así.", "Haslo haci."],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Analizar el verbo: proviene de 'hacer', por lo tanto en imperativo es 'haz'.",
+      "Paso 2: Analizar el adverbio de modo: la forma correcta de escribirlo es 'así' con tilde.",
+      "Paso 3: Descartar 'has' ya que ese es del verbo 'haber' (auxiliar).",
+      "Resultado: Hazlo así."
+    ],
+    "analisisDeError": {
+      "1": "'Has' se usa para tiempos compuestos (Has hecho), no para órdenes.",
+      "0": "'Haci' es un error ortográfico inexistente en español."
+    }
+  },
+  {
+    "id": 80,
+    "materia": "Español",
+    "dificultad": 4,
+    "tiempoSugerido": 90,
+    "pregunta": "Identifica el tipo de oración coordinada: 'Llegamos temprano, sin embargo, la puerta estaba cerrada'.",
+    "formulaPrincipal": "",
+    "opciones": ["Copulativa", "Disyuntiva", "Adversativa", "Distributiva"],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Localizar el nexo que une las dos oraciones independientes: 'sin embargo'.",
+      "Paso 2: Determinar el sentido del nexo: expresa una oposición o contrariedad parcial.",
+      "Paso 3: Relacionar la oposición con la clasificación de las coordinadas.",
+      "Resultado: Adversativa."
+    ],
+    "analisisDeError": {
+      "0": "Las copulativas usan nexos de suma como 'y', 'e', 'ni'.",
+      "1": "Las disyuntivas ofrecen exclusión con 'o', 'u'."
+    }
+  },
+  {
+    "id": 81,
+    "materia": "Español",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Cuál es el antónimo de la palabra 'Efímero'?",
+    "formulaPrincipal": "",
+    "opciones": ["Pasajero", "Breve", "Duradero", "Fugaz"],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Definir la palabra base: 'Efímero' significa algo que dura muy poco tiempo.",
+      "Paso 2: Buscar una palabra que signifique lo opuesto (que dure mucho tiempo).",
+      "Paso 3: Comparar opciones: 'Pasajero', 'Breve' y 'Fugaz' son sinónimos.",
+      "Resultado: Duradero."
+    ],
+    "analisisDeError": {
+      "3": "Ese es un sinónimo; recuerda que la pregunta pide el antónimo (opuesto)."
+    }
+  },
+  {
+    "id": 82,
+    "materia": "Español",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "En la oración 'Cervantes, **el Manco de Lepanto**, escribió el Quijote', la parte en negritas funciona como:",
+    "formulaPrincipal": "",
+    "opciones": ["Sujeto", "Aposición", "Complemento circunstancial", "Vocativo"],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Observar que la frase está entre comas y explica o define de otra forma al sustantivo anterior ('Cervantes').",
+      "Paso 2: Recordar que una frase sustantiva que intercambia significado con el núcleo del sujeto se llama aposición.",
+      "Paso 3: Confirmar que si quitamos la frase, la oración sigue teniendo sentido completo.",
+      "Resultado: Aposición."
+    ],
+    "analisisDeError": {
+      "3": "El vocativo se usa para llamar la atención de alguien, no para dar información sobre el sujeto.",
+      "2": "No indica tiempo, modo ni lugar de la acción verbal."
+    }
+  },
+  {
+    "id": 83,
+    "materia": "Español",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "Selecciona la opción con la acentuación correcta en palabras esdrújulas:",
+    "formulaPrincipal": "",
+    "opciones": ["Telefono, musica", "Teléfono, música", "Telefóno, musicá", "Telefonó, musica"],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar la sílaba tónica: en 'teléfono' es 'lé' y en 'música' es 'mú'.",
+      "Paso 2: Contar las sílabas: en ambos casos la tónica es la antepenúltima.",
+      "Paso 3: Aplicar la regla: todas las palabras esdrújulas se tildan siempre.",
+      "Resultado: Teléfono, música."
+    ],
+    "analisisDeError": {
+      "0": "Olvidaste que las esdrújulas no tienen excepciones, siempre llevan tilde.",
+      "2": "La tilde está mal colocada; esas serían palabras graves o agudas."
+    }
+  },
+  {
+    "id": 84,
+    "materia": "Español",
+    "dificultad": 4,
+    "tiempoSugerido": 120,
+    "pregunta": "Identifica el vicio del lenguaje en la frase: 'Salió para afuera de la casa'.",
+    "formulaPrincipal": "",
+    "opciones": ["Cacofonía", "Pleonasmo", "Solecismo", "Anfibología"],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Analizar la redundancia: el verbo 'salir' ya implica ir hacia afuera.",
+      "Paso 2: Identificar el uso innecesario de palabras que repiten el mismo concepto.",
+      "Paso 3: Clasificar el error dentro de los vicios del lenguaje.",
+      "Resultado: Pleonasmo."
+    ],
+    "analisisDeError": {
+      "0": "La cacofonía es la repetición molesta de sonidos (ej. 'Tomando té te vas').",
+      "3": "La anfibología es cuando una frase tiene doble sentido o es ambigua."
+    }
+  },
+  {
+    "id": 85,
+    "materia": "Español",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "Selecciona el nexo que completa correctamente la oración: 'Estudió mucho, ________ no logró pasar el examen'.",
+    "formulaPrincipal": "",
+    "opciones": ["porque", "ya que", "pero", "y"],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Analizar la relación entre las dos ideas: estudiar mucho vs. no pasar (es una contradicción).",
+      "Paso 2: Buscar un nexo adversativo que indique oposición.",
+      "Paso 3: Probar los nexos: 'pero' es el que mejor encaja para mostrar el contraste.",
+      "Resultado: pero."
+    ],
+    "analisisDeError": {
+      "0": "El nexo 'porque' indica causa, lo cual no tiene sentido lógico aquí.",
+      "3": "El nexo 'y' indica suma, pero las ideas son opuestas."
+    }
+  },
+  {
+    "id": 86,
+    "materia": "Español",
+    "dificultad": 1,
+    "tiempoSugerido": 45,
+    "pregunta": "¿Qué tipo de punto se utiliza para separar dos párrafos distintos?",
+    "formulaPrincipal": "",
+    "opciones": ["Punto y seguido", "Punto y coma", "Punto y aparte", "Punto final"],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Diferenciar los usos del punto.",
+      "Paso 2: El punto y seguido separa oraciones en el mismo párrafo.",
+      "Paso 3: El punto y aparte indica que se ha terminado un bloque de ideas y se iniciará otro en una nueva línea.",
+      "Resultado: Punto y aparte."
+    ],
+    "analisisDeError": {
+      "3": "El punto final es el que cierra todo el texto."
+    }
+  },
+  {
+    "id": 87,
+    "materia": "Español",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Qué tipo de ficha se utiliza para reproducir textualmente un fragmento de una obra, siempre entre comillas?",
+    "formulaPrincipal": "",
+    "opciones": ["Ficha de resumen", "Ficha de paráfrasis", "Ficha de cita textual", "Ficha de comentario"],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Identificar la palabra clave 'textualmente'.",
+      "Paso 2: Recordar que la norma ortográfica exige comillas para distinguir las palabras del autor original de las propias.",
+      "Paso 3: Confirmar que esta técnica se plasma en la ficha de cita.",
+      "Resultado: Ficha de cita textual."
+    ],
+    "analisisDeError": {
+      "1": "La paráfrasis es explicar con tus propias palabras, no es textual.",
+      "0": "El resumen sintetiza ideas, pero no requiere necesariamente comillas ni ser literal."
+    }
+  },
+  {
+    "id": 88,
+    "materia": "Español",
+    "dificultad": 3,
+    "tiempoSugerido": 90,
+    "pregunta": "Identifica el sujeto de la siguiente oración: 'A los estudiantes les entregó sus resultados el profesor'.",
+    "formulaPrincipal": "",
+    "opciones": ["A los estudiantes", "Los resultados", "El profesor", "Les"],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Localizar el verbo: 'entregó'.",
+      "Paso 2: Preguntar al verbo ¿quién realizó la acción de entregar?: El profesor.",
+      "Paso 3: Comprobar la concordancia: Si el sujeto fuera plural ('los profesores'), el verbo cambiaría a 'entregaron'.",
+      "Resultado: El profesor."
+    ],
+    "analisisDeError": {
+      "0": "Ese es el objeto indirecto; el sujeto nunca empieza con la preposición 'a'.",
+      "1": "Ese es el objeto directo (lo que fue entregado)."
+    }
+  },
+  {
+    "id": 89,
+    "materia": "Español",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "Elige la palabra que completa correctamente la oración por su significado (homófonos): 'Espero que el consejo ________ la nueva ley'.",
+    "formulaPrincipal": "",
+    "opciones": ["valla", "vaya", "vaya a", "valla a"],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Analizar el contexto: se requiere el verbo 'ir' en subjuntivo.",
+      "Paso 2: Distinguir entre 'vaya' (del verbo ir) y 'valla' (cerca o obstáculo).",
+      "Paso 3: Seleccionar la forma verbal correcta.",
+      "Resultado: vaya."
+    ],
+    "analisisDeError": {
+      "0": "Valla con 'll' es una barda o un obstáculo en atletismo."
+    }
+  },
+  {
+    "id": 90,
+    "materia": "Español",
+    "dificultad": 4,
+    "tiempoSugerido": 120,
+    "pregunta": "Identifica el tipo de texto al que pertenece el siguiente fragmento: 'El calentamiento global es un fenómeno que preocupa a la comunidad científica, debido al aumento de gases de efecto invernadero...'",
+    "formulaPrincipal": "",
+    "opciones": ["Texto narrativo", "Texto descriptivo", "Texto expositivo", "Texto dramático"],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Evaluar la intención del autor: presentar información de manera objetiva sobre un tema.",
+      "Paso 2: Descartar narración (no hay personajes ni acciones) y drama (no hay diálogos).",
+      "Paso 3: Confirmar que el objetivo es explicar y difundir conocimiento.",
+      "Resultado: Texto expositivo."
+    ],
+    "analisisDeError": {
+      "0": "No cuenta una historia con inicio, nudo y desenlace.",
+      "1": "Aunque describe el fenómeno, su función primordial es la explicación científica (exposición)."
+    }
+  },
+  {
+    "id": 91,
+    "materia": "Español",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Qué nombre recibe el elemento de la narración que marca el orden en que suceden los hechos?",
+    "formulaPrincipal": "",
+    "opciones": ["Ambiente", "Trama", "Tiempo", "Nudo"],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Definir los elementos del cuento o novela.",
+      "Paso 2: Relacionar la secuencia cronológica o psicológica con la categoría correspondiente.",
+      "Paso 3: El tiempo puede ser lineal, circular o con saltos (analepsis/prolepsis).",
+      "Resultado: Tiempo."
+    ],
+    "analisisDeError": {
+      "1": "La trama es el conjunto de eventos, pero el orden es el tiempo.",
+      "3": "El nudo es el momento de mayor tensión en la historia."
+    }
+  },
+  {
+    "id": 92,
+    "materia": "Español",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "Selecciona la opción que contiene una pareja de sinónimos:",
+    "formulaPrincipal": "",
+    "opciones": ["Hablar - Escuchar", "Gélido - Helado", "Subir - Bajar", "Fuerte - Débil"],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Recordar que los sinónimos tienen significados iguales o muy parecidos.",
+      "Paso 2: Analizar las opciones: la mayoría son antónimos (opuestos).",
+      "Paso 3: Identificar que 'gélido' y 'helado' refieren ambos a temperaturas muy bajas.",
+      "Resultado: Gélido - Helado."
+    ],
+    "analisisDeError": {
+      "0": "Son acciones complementarias, no sinónimos.",
+      "3": "Son antónimos directos."
+    }
+  },
+  {
+    "id": 93,
+    "materia": "Español",
+    "dificultad": 4,
+    "tiempoSugerido": 120,
+    "pregunta": "Identifica la forma verbal en voz pasiva:",
+    "formulaPrincipal": "",
+    "opciones": ["Ellos construyeron la casa.", "La casa fue construida por ellos.", "La casa se construye rápido.", "Ellos han construido la casa."],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Recordar la estructura de la voz pasiva: Sujeto paciente + verbo ser (auxiliar) + participio.",
+      "Paso 2: Localizar el objeto que recibe la acción como sujeto ('La casa').",
+      "Paso 3: Identificar el complemento agente introducido por 'por'.",
+      "Resultado: La casa fue construida por ellos."
+    ],
+    "analisisDeError": {
+      "0": "Voz activa: el sujeto realiza la acción.",
+      "2": "Pasiva refleja, pero la pasiva analítica estándar requiere el verbo ser."
+    }
+  },
+  {
+    "id": 94,
+    "materia": "Español",
+    "dificultad": 1,
+    "tiempoSugerido": 45,
+    "pregunta": "Elige la opción que presenta un uso correcto de las mayúsculas:",
+    "formulaPrincipal": "",
+    "opciones": ["el próximo Lunes iré a México.", "El próximo lunes iré a méxico.", "El próximo lunes iré a México.", "el Próximo lunes iré a méxico."],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Aplicar regla de inicio: la primera palabra de una oración lleva mayúscula.",
+      "Paso 2: Aplicar regla de días de la semana: en español se escriben con minúscula.",
+      "Paso 3: Aplicar regla de nombres propios: los países llevan mayúscula inicial.",
+      "Resultado: El próximo lunes iré a México."
+    ],
+    "analisisDeError": {
+      "0": "Los días de la semana no son nombres propios.",
+      "1": "México debe llevar mayúscula por ser nombre de país."
+    }
+  },
+  {
+    "id": 95,
+    "materia": "Español",
+    "dificultad": 3,
+    "tiempoSugerido": 90,
+    "pregunta": "Selecciona el par de palabras que completa la analogía: ________ es a ave como ________ es a pez.",
+    "formulaPrincipal": "",
+    "opciones": ["Pluma - Escama", "Vuelo - Agua", "Pico - Branquia", "Nido - Arrecife"],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Identificar la relación de 'cubierta corporal'.",
+      "Paso 2: El ave está cubierta de plumas.",
+      "Paso 3: El pez está cubierto de escamas.",
+      "Resultado: Pluma - Escama."
+    ],
+    "analisisDeError": {
+      "2": "Pico es parte de la cabeza, mientras que branquia es del sistema respiratorio; la relación no es simétrica."
+    }
+  },
+  {
+    "id": 96,
+    "materia": "Español",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "Identifica el modo del verbo en la oración: 'Ojalá llueva pronto'.",
+    "formulaPrincipal": "",
+    "opciones": ["Indicativo", "Subjuntivo", "Imperativo", "Infinitivo"],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Analizar la actitud del hablante: expresa un deseo o posibilidad.",
+      "Paso 2: Descartar el indicativo (hechos reales) y el imperativo (órdenes).",
+      "Paso 3: El modo que expresa deseo, duda o temor es el subjuntivo.",
+      "Resultado: Subjuntivo."
+    ],
+    "analisisDeError": {
+      "0": "El indicativo sería 'Llueve pronto'.",
+      "3": "El infinitivo es la forma no personal (Llover)."
+    }
+  }
+]
