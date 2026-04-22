@@ -6,7 +6,9 @@ import fisica from './fisica.json';
 import espanol from './espanol.json';
 import geografia from './geografia.json'; // Nuevo
 import historia from './historia.json';   // Nuevo
-import biologia from './biologia.json';       // Nuevo (Formación Cívica)
+import biologia from './biologia.json';
+import literatura from './literatura.json';
+import quimica from './quimica.json';
 
 // Función auxiliar para validar que cada importación sea un array
 const validarArray = (data) => (Array.isArray(data) ? data : []);
@@ -17,7 +19,9 @@ const todasLasPreguntas = [
   ...validarArray(espanol),
   ...validarArray(geografia),
   ...validarArray(historia),
-  ...validarArray(biologia)
+  ...validarArray(biologia),
+  ...validarArray(literatura),
+  ...validarArray(quimica),
 ];
 
 // Tip: Puedes imprimir en consola para ver cuántas preguntas llevas en total
