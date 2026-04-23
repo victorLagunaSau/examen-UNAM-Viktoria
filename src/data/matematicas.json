@@ -1,36 +1,46 @@
 [
   {
-  "id": 1,
-  "materia": "Matemáticas (Área 1)",
-  "dificultad": 1,
-  "tiempoSugerido": 60,
-  "pregunta": "Simplifica la expresión utilizando las leyes de los exponentes:",
-  "formulaPrincipal": "((x^3)(y^2))^3 / (x^5)(y^4)",
-  "opciones": ["x^4 y^2", "x^14 y^2", "x^4 y^10", "x^2 y^2"],
-  "correcta": 0,
-  "explicacionPasos": [
-    "Paso 1: Eleva el numerador a la potencia 3 multiplicando exponentes: (x^(3*3) * y^(2*3)) = x^9 * y^6.",
-    "Paso 2: Divide entre el denominador restando los exponentes: x^(9-5) * y^(6-4).",
-    "Paso 3: Resultado final: x^4 * y^2."
-  ],
-  "analisisDeError": {
-    "1": "Error: Sumaste los exponentes en el numerador en lugar de multiplicarlos.",
-    "3": "Cuidado con la resta de exponentes: 9 menos 5 es 4, no 2."
-  }
-},
+    "id": "m1",
+    "materia": "Matemáticas (Área 1)",
+    "dificultad": 1,
+    "tiempoSugerido": 60,
+    "pregunta": "Simplifica la expresión utilizando las leyes de los exponentes:",
+    "formulaPrincipal": "((x^3)(y^2))^3 / (x^5)(y^4)",
+    "opciones": [
+      "x^4 y^2",
+      "x^14 y^2",
+      "x^4 y^10",
+      "x^2 y^2"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Eleva el numerador a la potencia (form)3(/form) multiplicando exponentes: (form)(x^{3 \\cdot 3} \\cdot y^{2 \\cdot 3}) = x^9 \\cdot y^6(/form).",
+      "Paso 2: Divide entre el denominador restando los exponentes: (form)x^{9-5} \\cdot y^{6-4}(/form).",
+      "Paso 3: Resultado final: (form)x^4 \\cdot y^2(/form)."
+    ],
+    "analisisDeError": {
+      "1": "Error: Sumaste los exponentes en el numerador en lugar de multiplicarlos.",
+      "3": "Cuidado con la resta de exponentes: (form)9(/form) menos (form)5(/form) es (form)4(/form), no (form)2(/form)."
+    }
+  },
   {
-    "id": 2,
+    "id": "m2",
     "materia": "Matemáticas (Área 1)",
     "dificultad": 2,
     "tiempoSugerido": 90,
     "pregunta": "Calcula el valor del siguiente logaritmo:",
     "formulaPrincipal": "\\log_2(64) + \\log_3(27)",
-    "opciones": ["6", "9", "12", "7"],
+    "opciones": [
+      "6",
+      "9",
+      "12",
+      "7"
+    ],
     "correcta": 1,
     "explicacionPasos": [
-      "Paso 1: Encuentra a qué potencia elevar 2 para que dé 64: 2^6 = 64, por lo que log2(64) = 6.",
-      "Paso 2: Encuentra a qué potencia elevar 3 para que dé 27: 3^3 = 27, por lo que log3(27) = 3.",
-      "Paso 3: Suma los resultados: 6 + 3 = 9."
+      "Paso 1: Encuentra a qué potencia elevar (form)2(/form) para que dé (form)64(/form): (form)2^6 = 64(/form), por lo que (form)\\log_2(64) = 6(/form).",
+      "Paso 2: Encuentra a qué potencia elevar (form)3(/form) para que dé (form)27(/form): (form)3^3 = 27(/form), por lo que (form)\\log_3(27) = 3(/form).",
+      "Paso 3: Suma los resultados: (form)6 + 3 = 9(/form)."
     ],
     "analisisDeError": {
       "0": "Solo calculaste el primer logaritmo.",
@@ -38,38 +48,48 @@
     }
   },
   {
-    "id": 3,
+    "id": "m3",
     "materia": "Matemáticas (Área 1)",
     "dificultad": 2,
     "tiempoSugerido": 90,
     "pregunta": "Resuelve la siguiente operación con números complejos:",
     "formulaPrincipal": "(4 + 3i) - (2 - 5i)",
-    "opciones": ["2 - 2i", "2 + 8i", "6 + 8i", "2 - 8i"],
+    "opciones": [
+      "2 - 2i",
+      "2 + 8i",
+      "6 + 8i",
+      "2 - 8i"
+    ],
     "correcta": 1,
     "explicacionPasos": [
-      "Paso 1: Resta las partes reales: 4 - 2 = 2.",
-      "Paso 2: Resta las partes imaginarias tomando en cuenta el signo: 3i - (-5i) = 3i + 5i = 8i.",
-      "Paso 3: Resultado final: 2 + 8i."
+      "Paso 1: Resta las partes reales: (form)4 - 2 = 2(/form).",
+      "Paso 2: Resta las partes imaginarias tomando en cuenta el signo: (form)3i - (-5i) = 3i + 5i = 8i(/form).",
+      "Paso 3: Resultado final: (form)2 + 8i(/form)."
     ],
     "analisisDeError": {
-      "0": "Error de signo: Restaste 3 - 5 en la parte imaginaria.",
-      "3": "Error de signo en la parte imaginaria al no multiplicar (-) por (-)."
+      "0": "Error de signo: Restaste (form)3 - 5(/form) en la parte imaginaria.",
+      "3": "Error de signo en la parte imaginaria al no multiplicar (form)-(/form) por (form)-(/form)."
     }
   },
   {
-    "id": 4,
+    "id": "m4",
     "materia": "Matemáticas (Área 1)",
     "dificultad": 3,
     "tiempoSugerido": 120,
-    "pregunta": "Obtén la pendiente (m) de la recta que es perpendicular a la recta definida por:",
+    "pregunta": "Obtén la pendiente (form)m(/form) de la recta que es perpendicular a la recta definida por:",
     "formulaPrincipal": "3x - 6y + 2 = 0",
-    "opciones": ["m = 1/2", "m = -1/2", "m = 2", "m = -2"],
+    "opciones": [
+      "m = 1/2",
+      "m = -1/2",
+      "m = 2",
+      "m = -2"
+    ],
     "correcta": 3,
     "explicacionPasos": [
-      "Paso 1: Despeja 'y' para encontrar la pendiente original: -6y = -3x - 2 -> y = (-3/-6)x - 2/-6 -> y = 1/2x + 1/3.",
-      "Paso 2: La pendiente original es m1 = 1/2.",
-      "Paso 3: Para que sea perpendicular, la pendiente m2 debe ser el recíproco negativo: m2 = -1 / (1/2).",
-      "Paso 4: Resultado final: m2 = -2."
+      "Paso 1: Despeja (form)y(/form) para encontrar la pendiente original: (form)-6y = -3x - 2 \\rightarrow y = \\frac{-3}{-6}x - \\frac{2}{-6} \\rightarrow y = \\frac{1}{2}x + \\frac{1}{3}(/form).",
+      "Paso 2: La pendiente original es (form)m_1 = \\frac{1}{2}(/form).",
+      "Paso 3: Para que sea perpendicular, la pendiente (form)m_2(/form) debe ser el recíproco negativo: (form)m_2 = -\\frac{1}{m_1} = -\\frac{1}{1/2}(/form).",
+      "Paso 4: Resultado final: (form)m_2 = -2(/form)."
     ],
     "analisisDeError": {
       "0": "Esa es la pendiente de la recta original, no de la perpendicular.",
@@ -77,20 +97,25 @@
     }
   },
   {
-    "id": 5,
+    "id": "m5",
     "materia": "Matemáticas (Área 1)",
     "dificultad": 3,
     "tiempoSugerido": 120,
-    "pregunta": "Identifica el centro (h, k) y el radio (r) de la circunferencia con la ecuación:",
+    "pregunta": "Identifica el centro (form)(h, k)(/form) y el radio (form)r(/form) de la circunferencia con la ecuación:",
     "formulaPrincipal": "(x + 4)^2 + (y - 7)^2 = 36",
-    "opciones": ["C(4, -7), r=36", "C(-4, 7), r=6", "C(4, -7), r=6", "C(-4, 7), r=36"],
+    "opciones": [
+      "C(4, -7), r=36",
+      "C(-4, 7), r=6",
+      "C(4, -7), r=6",
+      "C(-4, 7), r=36"
+    ],
     "correcta": 1,
     "explicacionPasos": [
-      "Paso 1: La forma canónica es (x-h)^2 + (y-k)^2 = r^2.",
-      "Paso 2: Extrae h: x - h = x + 4 -> h = -4.",
-      "Paso 3: Extrae k: y - k = y - 7 -> k = 7.",
-      "Paso 4: Extrae el radio: r^2 = 36 -> r = 6.",
-      "Resultado: C(-4, 7), r=6."
+      "Paso 1: La forma canónica es (form)(x - h)^2 + (y - k)^2 = r^2(/form).",
+      "Paso 2: Extrae (form)h(/form): (form)x - h = x + 4 \\rightarrow h = -4(/form).",
+      "Paso 3: Extrae (form)k(/form): (form)y - k = y - 7 \\rightarrow k = 7(/form).",
+      "Paso 4: Extrae el radio: (form)r^2 = 36 \\rightarrow r = 6(/form).",
+      "Resultado: (form)C(-4, 7), \\, r = 6(/form)."
     ],
     "analisisDeError": {
       "2": "Invertiste los signos de las coordenadas del centro.",
@@ -98,239 +123,299 @@
     }
   },
   {
-    "id": 6,
+    "id": "m6",
     "materia": "Matemáticas (Área 1)",
     "dificultad": 1,
     "tiempoSugerido": 45,
-    "pregunta": "¿Cuál es el valor de la función trigonométrica tan(45°)?",
+    "pregunta": "¿Cuál es el valor de la función trigonométrica (form)\\tan(45^{\\circ})(/form)?",
     "formulaPrincipal": "\\tan(45^{\\circ})",
-    "opciones": ["0", "1/2", "1", "\\sqrt{2}/2"],
+    "opciones": [
+      "0",
+      "1/2",
+      "1",
+      "\\sqrt{2}/2"
+    ],
     "correcta": 2,
     "explicacionPasos": [
-      "Paso 1: En un triángulo notable de 45°, los catetos son iguales.",
-      "Paso 2: Tan = Cateto Opuesto / Cateto Adyacente.",
-      "Paso 3: Como son iguales, el resultado de la división es 1."
+      "Paso 1: En un triángulo notable de (form)45^{\\circ}(/form), los catetos son iguales.",
+      "Paso 2: (form)\\tan(\\theta) = \\frac{Cateto \\, Opuesto}{Cateto \\, Adyacente}(/form).",
+      "Paso 3: Como los catetos son iguales, el resultado de la división es (form)1(/form)."
     ],
     "analisisDeError": {
-      "3": "Ese es el valor de sen(45°) o cos(45°)."
+      "3": "Ese es el valor de (form)\\text{sen}(45^{\\circ})(/form) o (form)\\cos(45^{\\circ})(/form)."
     }
   },
   {
-    "id": 7,
+    "id": "m7",
     "materia": "Matemáticas (Área 1)",
     "dificultad": 3,
     "tiempoSugerido": 150,
-    "pregunta": "Encuentra el límite de la siguiente función cuando x tiende a 3:",
+    "pregunta": "Encuentra el límite de la siguiente función cuando (form)x(/form) tiende a (form)3(/form):",
     "formulaPrincipal": "\\lim_{x \\to 3} \\frac{x^2 - 9}{x - 3}",
-    "opciones": ["0", "3", "6", "Indefinido"],
+    "opciones": [
+      "0",
+      "3",
+      "6",
+      "Indefinido"
+    ],
     "correcta": 2,
     "explicacionPasos": [
-      "Paso 1: Sustitución directa da 0/0 (indeterminación).",
-      "Paso 2: Factoriza el numerador (diferencia de cuadrados): (x - 3)(x + 3).",
-      "Paso 3: Cancela el término (x - 3) en el numerador y denominador.",
-      "Paso 4: Evalúa el límite en la expresión restante: x + 3 -> 3 + 3 = 6."
+      "Paso 1: Sustitución directa da (form)\\frac{0}{0}(/form) (indeterminación).",
+      "Paso 2: Factoriza el numerador (diferencia de cuadrados): (form)(x - 3)(x + 3)(/form).",
+      "Paso 3: Cancela el término (form)(x - 3)(/form) en el numerador y denominador.",
+      "Paso 4: Evalúa el límite en la expresión restante: (form)x + 3 \\rightarrow 3 + 3 = 6(/form)."
     ],
     "analisisDeError": {
       "0": "Error: Solo evaluaste el numerador.",
-      "3": "Cuidado: Las indeterminaciones 0/0 suelen poder resolverse con factorización."
+      "3": "Cuidado: Las indeterminaciones (form)\\frac{0}{0}(/form) suelen poder resolverse con factorización."
     }
   },
   {
-    "id": 8,
+    "id": "m8",
     "materia": "Matemáticas (Área 1)",
     "dificultad": 4,
     "tiempoSugerido": 180,
     "pregunta": "Calcula la integral indefinida de la función:",
     "formulaPrincipal": "\\int (6x^2 - 4x + 3) dx",
-    "opciones": ["2x^3 - 2x^2 + 3x + C", "12x - 4 + C", "6x^3 - 4x^2 + 3x + C", "2x^3 - 4x^2 + 3x + C"],
+    "opciones": [
+      "2x^3 - 2x^2 + 3x + C",
+      "12x - 4 + C",
+      "6x^3 - 4x^2 + 3x + C",
+      "2x^3 - 4x^2 + 3x + C"
+    ],
     "correcta": 0,
     "explicacionPasos": [
-      "Paso 1: Aplica la regla de la potencia para 6x^2: (6/3)x^3 = 2x^3.",
-      "Paso 2: Aplica la regla para -4x: (-4/2)x^2 = -2x^2.",
-      "Paso 3: La integral de una constante 3 es 3x.",
-      "Paso 4: Agrega la constante de integración C.",
-      "Resultado: 2x^3 - 2x^2 + 3x + C"
+      "Paso 1: Aplica la regla de la potencia para (form)6x^2: \\frac{6}{3}x^3 = 2x^3(/form).",
+      "Paso 2: Aplica la regla para (form)-4x: \\frac{-4}{2}x^2 = -2x^2(/form).",
+      "Paso 3: La integral de una constante (form)3(/form) es (form)3x(/form).",
+      "Paso 4: Agrega la constante de integración (form)C(/form).",
+      "Resultado: (form)2x^3 - 2x^2 + 3x + C(/form)"
     ],
     "analisisDeError": {
       "1": "Derivaste en lugar de integrar.",
-      "2": "Olvidaste dividir entre el nuevo exponente (n+1)."
+      "2": "Olvidaste dividir entre el nuevo exponente (form)n + 1(/form)."
     }
   },
   {
-    "id": 9,
+    "id": "m9",
     "materia": "Matemáticas (Área 1)",
     "dificultad": 4,
     "tiempoSugerido": 200,
-    "pregunta": "Determina la ecuación de la elipse con centro en el origen, eje mayor sobre el eje X, si a=5 y b=3.",
+    "pregunta": "Determina la ecuación de la elipse con centro en el origen, eje mayor sobre el eje (form)X(/form), si (form)a = 5(/form) y (form)b = 3(/form).",
     "formulaPrincipal": "\\frac{x^2}{a^2} + \\frac{y^2}{b^2} = 1",
-    "opciones": ["\\frac{x^2}{9} + \\frac{y^2}{25} = 1", "\\frac{x^2}{25} + \\frac{y^2}{9} = 1", "25x^2 + 9y^2 = 1", "\\frac{x^2}{5} + \\frac{y^2}{3} = 1"],
+    "opciones": [
+      "\\frac{x^2}{9} + \\frac{y^2}{25} = 1",
+      "\\frac{x^2}{25} + \\frac{y^2}{9} = 1",
+      "25x^2 + 9y^2 = 1",
+      "\\frac{x^2}{5} + \\frac{y^2}{3} = 1"
+    ],
     "correcta": 1,
     "explicacionPasos": [
-      "Paso 1: Identifica que al estar el eje mayor en X, 'a' va debajo de x^2.",
-      "Paso 2: Eleva los parámetros al cuadrado: a^2 = 25, b^2 = 9.",
+      "Paso 1: Identifica que al estar el eje mayor en (form)X(/form), (form)a(/form) va debajo de (form)x^2(/form).",
+      "Paso 2: Eleva los parámetros al cuadrado: (form)a^2 = 25, \\, b^2 = 9(/form).",
       "Paso 3: Sustituye en la fórmula estándar.",
-      "Resultado: x^2/25 + y^2/9 = 1."
+      "Resultado: (form)\\frac{x^2}{25} + \\frac{y^2}{9} = 1(/form)."
     ],
     "analisisDeError": {
-      "0": "Colocaste el eje mayor sobre el eje Y (a^2 debajo de y^2).",
-      "3": "Olvidaste elevar los parámetros a y b al cuadrado."
+      "0": "Colocaste el eje mayor sobre el eje (form)Y(/form) ( (form)a^2(/form) debajo de (form)y^2(/form) ).",
+      "3": "Olvidaste elevar los parámetros (form)a(/form) y (form)b(/form) al cuadrado."
     }
   },
   {
-    "id": 10,
+    "id": "m10",
     "materia": "Matemáticas (Área 1)",
     "dificultad": 2,
     "tiempoSugerido": 60,
-    "pregunta": "¿A cuántos grados equivalen 3π/2 radianes?",
+    "pregunta": "¿A cuántos grados equivalen (form)\\frac{3\\pi}{2}(/form) radianes?",
     "formulaPrincipal": "S = R \\cdot \\frac{180^{\\circ}}{\\pi}",
-    "opciones": ["90°", "180°", "270°", "360°"],
+    "opciones": [
+      "90°",
+      "180°",
+      "270°",
+      "360°"
+    ],
     "correcta": 2,
     "explicacionPasos": [
-      "Paso 1: Sustituye R = 3π/2 en la fórmula de conversión.",
-      "Paso 2: Simplifica π: (3/2) * 180°.",
-      "Paso 3: Multiplica: 3 * 90° = 270°."
+      "Paso 1: Sustituye (form)R = \\frac{3\\pi}{2}(/form) en la fórmula de conversión.",
+      "Paso 2: Simplifica (form)\\pi: \\frac{3}{2} \\cdot 180^{\\circ}(/form).",
+      "Paso 3: Multiplica: (form)3 \\cdot 90^{\\circ} = 270^{\\circ}(/form)."
     ],
     "analisisDeError": {
-      "0": "Ese valor es π/2.",
-      "1": "Ese valor es π."
+      "0": "Ese valor es (form)\\frac{\\pi}{2}(/form).",
+      "1": "Ese valor es (form)\\pi(/form)."
     }
   },
   {
-    "id": 11,
+    "id": "m11",
     "materia": "Matemáticas (Área 1)",
     "dificultad": 3,
     "tiempoSugerido": 120,
     "pregunta": "Determina el dominio de la siguiente función con radical:",
     "formulaPrincipal": "f(x) = \\sqrt{2x - 8}",
-    "opciones": ["x < 4", "x \\geq 4", "x > 0", "x \\neq 4"],
+    "opciones": [
+      "x < 4",
+      "x \\geq 4",
+      "x > 0",
+      "x \\neq 4"
+    ],
     "correcta": 1,
     "explicacionPasos": [
-      "Paso 1: Para raíces cuadradas reales, el argumento debe ser mayor o igual a cero: 2x - 8 >= 0.",
-      "Paso 2: Despeja x: 2x >= 8.",
-      "Paso 3: Divide entre 2: x >= 4.",
-      "Resultado: El dominio son todos los números reales mayores o iguales a 4."
+      "Paso 1: Para raíces cuadradas reales, el argumento debe ser mayor o igual a cero: (form)2x - 8 \\geq 0(/form).",
+      "Paso 2: Despeja (form)x: 2x \\geq 8(/form).",
+      "Paso 3: Divide entre (form)2: x \\geq 4(/form).",
+      "Resultado: El dominio son todos los números reales mayores o iguales a (form)4(/form)."
     ],
     "analisisDeError": {
       "0": "Invertiste el sentido de la desigualdad.",
-      "3": "Cuidado: En una raíz cuadrada, el valor exacto que hace cero al argumento (x=4) sí está incluido."
+      "3": "Cuidado: En una raíz cuadrada, el valor exacto que hace cero al argumento ((form)x = 4(/form)) sí está incluido."
     }
   },
   {
-    "id": 12,
+    "id": "m12",
     "materia": "Matemáticas (Área 1)",
     "dificultad": 4,
     "tiempoSugerido": 180,
-    "pregunta": "Encuentra la distancia del punto P(3, 2) a la recta definida por la ecuación:",
+    "pregunta": "Encuentra la distancia del punto (form)P(3, 2)(/form) a la recta definida por la ecuación:",
     "formulaPrincipal": "4x + 3y - 3 = 0",
-    "opciones": ["2 unidades", "3 unidades", "5 unidades", "1 unidad"],
+    "opciones": [
+      "2 unidades",
+      "3 unidades",
+      "5 unidades",
+      "1 unidad"
+    ],
     "correcta": 1,
     "explicacionPasos": [
-      "Paso 1: Usa la fórmula d = |Ax + By + C| / sqrt(A^2 + B^2).",
-      "Paso 2: Sustituye valores: d = |4(3) + 3(2) - 3| / sqrt(4^2 + 3^2).",
-      "Paso 3: Calcula el numerador: |12 + 6 - 3| = |15| = 15.",
-      "Paso 4: Calcula el denominador: sqrt(16 + 9) = sqrt(25) = 5.",
-      "Paso 5: Divide: 15 / 5 = 3."
+      "Paso 1: Usa la fórmula de distancia punto-recta: (form)d = \\frac{|Ax + By + C|}{\\sqrt{A^2 + B^2}}(/form).",
+      "Paso 2: Sustituye los valores del punto y la recta: (form)d = \\frac{|4(3) + 3(2) - 3|}{\\sqrt{4^2 + 3^2}}(/form).",
+      "Paso 3: Calcula el valor absoluto del numerador: (form)|12 + 6 - 3| = |15| = 15(/form).",
+      "Paso 4: Calcula la raíz del denominador: (form)d = \\sqrt{16 + 9} = \\sqrt{25} = 5(/form).",
+      "Paso 5: Realiza la división final: (form)\\frac{15}{5} = 3(/form)."
     ],
     "analisisDeError": {
-      "0": "Revisa tus operaciones en el numerador: 12 + 6 - 3 no es 10.",
-      "2": "Olvidaste sacar la raíz cuadrada al denominador (A^2 + B^2)."
+      "0": "Revisa tus operaciones en el numerador: (form)|12 + 6 - 3|(/form) no es (form)10(/form).",
+      "2": "Olvidaste calcular la raíz cuadrada del denominador: (form)\\sqrt{A^2 + B^2}(/form)."
     }
   },
   {
-    "id": 13,
+    "id": "m13",
     "materia": "Matemáticas (Área 1)",
     "dificultad": 2,
     "tiempoSugerido": 90,
-    "pregunta": "¿Cuál es la imagen (rango) de la función f(x) = x^2 + 5?",
+    "pregunta": "¿Cuál es la imagen (rango) de la función (form)f(x) = x^2 + 5(/form)?",
     "formulaPrincipal": "f(x) = x^2 + 5",
-    "opciones": ["(-\\infty, \\infty)", "[0, \\infty)", "[5, \\infty)", "(-\\infty, 5]"],
+    "opciones": [
+      "(-\\infty, \\infty)",
+      "[0, \\infty)",
+      "[5, \\infty)",
+      "(-\\infty, 5]"
+    ],
     "correcta": 2,
     "explicacionPasos": [
-      "Paso 1: El valor mínimo de x^2 para cualquier número real es 0.",
-      "Paso 2: Suma la constante: 0 + 5 = 5.",
-      "Paso 3: Como x^2 crece infinitamente, la función parte de 5 hacia arriba.",
-      "Resultado: [5, infinito)."
+      "Paso 1: El valor mínimo de (form)x^2(/form) para cualquier número real es (form)0(/form).",
+      "Paso 2: Suma la constante: (form)0 + 5 = 5(/form).",
+      "Paso 3: Como (form)x^2(/form) crece infinitamente, la función parte de (form)5(/form) hacia arriba.",
+      "Resultado: (form)[5, \\infty)(/form)."
     ],
     "analisisDeError": {
-      "1": "Este sería el rango si la función fuera simplemente f(x) = x^2.",
+      "1": "Este sería el rango si la función fuera simplemente (form)f(x) = x^2(/form).",
       "3": "Invertiste la dirección; la parábola abre hacia arriba, no hacia abajo."
     }
   },
   {
-    "id": 14,
+    "id": "m14",
     "materia": "Matemáticas (Área 1)",
     "dificultad": 4,
     "tiempoSugerido": 200,
     "pregunta": "Calcula la derivada de la función trigonométrica:",
     "formulaPrincipal": "f(x) = \\sin(x^2)",
-    "opciones": ["\\cos(x^2)", "2x \\cdot \\cos(x^2)", "-2x \\cdot \\cos(x^2)", "2x \\cdot \\sin(x^2)"],
+    "opciones": [
+      "\\cos(x^2)",
+      "2x \\cdot \\cos(x^2)",
+      "-2x \\cdot \\cos(x^2)",
+      "2x \\cdot \\sin(x^2)"
+    ],
     "correcta": 1,
     "explicacionPasos": [
-      "Paso 1: Aplica la regla de la cadena: derivada de sin(u) es cos(u) * u'.",
-      "Paso 2: Identifica u = x^2 y u' = 2x.",
-      "Paso 3: Multiplica: cos(x^2) * 2x.",
-      "Resultado: 2x cos(x^2)."
+      "Paso 1: Aplica la regla de la cadena: derivada de (form)\\text{sen}(u)(/form) es (form)\\cos(u) \\cdot u'(/form).",
+      "Paso 2: Identifica (form)u = x^2(/form) y (form)u' = 2x(/form).",
+      "Paso 3: Multiplica: (form)\\cos(x^2) \\cdot 2x(/form).",
+      "Resultado: (form)2x \\cdot \\cos(x^2)(/form)."
     ],
     "analisisDeError": {
-      "0": "Olvidaste derivar el argumento (x^2).",
+      "0": "Olvidaste derivar el argumento ((form)x^2(/form)).",
       "2": "Cuidado: La derivada del seno es coseno positivo, no negativo."
     }
   },
   {
-    "id": 15,
+    "id": "m15",
     "materia": "Matemáticas (Área 1)",
     "dificultad": 3,
     "tiempoSugerido": 150,
     "pregunta": "Determina las coordenadas del foco de la parábola:",
     "formulaPrincipal": "y^2 = 12x",
-    "opciones": ["F(0, 3)", "F(3, 0)", "F(-3, 0)", "F(0, -3)"],
+    "opciones": [
+      "F(0, 3)",
+      "F(3, 0)",
+      "F(-3, 0)",
+      "F(0, -3)"
+    ],
     "correcta": 1,
     "explicacionPasos": [
-      "Paso 1: La forma es y^2 = 4px. La parábola abre hacia la derecha sobre el eje X.",
-      "Paso 2: Iguala términos: 4p = 12.",
-      "Paso 3: Resuelve para p: p = 3.",
-      "Paso 4: El foco en esta posición es F(p, 0).",
-      "Resultado: F(3, 0)."
+      "Paso 1: La forma es (form)y^2 = 4px(/form). La parábola abre hacia la derecha sobre el eje (form)X(/form).",
+      "Paso 2: Iguala términos: (form)4p = 12(/form).",
+      "Paso 3: Resuelve para (form)p: p = 3(/form).",
+      "Paso 4: El foco en esta posición es (form)F(p, 0)(/form).",
+      "Resultado: (form)F(3, 0)(/form)."
     ],
     "analisisDeError": {
-      "0": "Confundiste el eje: y^2 indica que la parábola es horizontal, por lo que el foco está en el eje X.",
-      "2": "Invertiste el signo de p; la ecuación es positiva, por lo que abre a la derecha."
+      "0": "Confundiste el eje: (form)y^2(/form) indica que la parábola es horizontal, por lo que el foco está en el eje (form)X(/form).",
+      "2": "Invertiste el signo de (form)p(/form); la ecuación es positiva, por lo que abre a la derecha."
     }
   },
   {
-    "id": 16,
+    "id": "m16",
     "materia": "Matemáticas (Área 1)",
     "dificultad": 2,
     "tiempoSugerido": 90,
     "pregunta": "Simplifica la siguiente expresión logarítmica utilizando propiedades:",
     "formulaPrincipal": "\\log(a) + \\log(b) - 2\\log(c)",
-    "opciones": ["\\log(a + b - 2c)", "\\log(\\frac{ab}{c^2})", "\\log(\\frac{ab}{2c})", "\\log(ab - c^2)"],
+    "opciones": [
+      "\\log(a + b - 2c)",
+      "\\log(\\frac{ab}{c^2})",
+      "\\log(\\frac{ab}{2c})",
+      "\\log(ab - c^2)"
+    ],
     "correcta": 1,
     "explicacionPasos": [
-      "Paso 1: Usa la propiedad de la suma (producto): log(a) + log(b) = log(ab).",
-      "Paso 2: Usa la propiedad del exponente: 2 log(c) = log(c^2).",
-      "Paso 3: Usa la propiedad de la resta (cociente): log(ab) - log(c^2) = log(ab / c^2).",
-      "Resultado: log(ab / c^2)."
+      "Paso 1: Usa la propiedad de la suma (producto): (form)\\log(a) + \\log(b) = \\log(ab)(/form).",
+      "Paso 2: Usa la propiedad del exponente: (form)2\\log(c) = \\log(c^2)(/form).",
+      "Paso 3: Usa la propiedad de la resta (cociente): (form)\\log(ab) - \\log(c^2) = \\log\\left(\\frac{ab}{c^2}\\right)(/form).",
+      "Resultado: (form)\\log\\left(\\frac{ab}{c^2}\\right)(/form)."
     ],
     "analisisDeError": {
       "0": "Los logaritmos no se suman ni restan internamente de esa forma.",
-      "2": "Cuidado: El coeficiente 2 sube como exponente (c al cuadrado), no como multiplicador (2c)."
+      "2": "Cuidado: El coeficiente (form)2(/form) sube como exponente ((form)c^2(/form)), no como multiplicador ((form)2c(/form))."
     }
   },
   {
-    "id": 17,
+    "id": "m17",
     "materia": "Matemáticas (Área 1)",
     "dificultad": 4,
     "tiempoSugerido": 180,
     "pregunta": "Calcula el valor de la integral definida:",
     "formulaPrincipal": "\\int_{1}^{3} (2x) dx",
-    "opciones": ["4", "8", "9", "10"],
+    "opciones": [
+      "4",
+      "8",
+      "9",
+      "10"
+    ],
     "correcta": 1,
     "explicacionPasos": [
-      "Paso 1: Integra la función 2x: la integral es x^2.",
-      "Paso 2: Evalúa en el límite superior (3): 3^2 = 9.",
-      "Paso 3: Evalúa en el límite inferior (1): 1^2 = 1.",
-      "Paso 4: Resta los resultados: 9 - 1 = 8."
+      "Paso 1: Integra la función (form)2x(/form): la integral es (form)x^2(/form).",
+      "Paso 2: Evalúa en el límite superior ((form)3(/form)): (form)3^2 = 9(/form).",
+      "Paso 3: Evalúa en el límite inferior ((form)1(/form)): (form)1^2 = 1(/form).",
+      "Paso 4: Resta los resultados: (form)9 - 1 = 8(/form)."
     ],
     "analisisDeError": {
       "0": "Parece que no restaste el límite inferior correctamente.",
@@ -338,175 +423,220 @@
     }
   },
   {
-    "id": 18,
+    "id": "m18",
     "materia": "Matemáticas (Área 1)",
     "dificultad": 3,
     "tiempoSugerido": 120,
-    "pregunta": "Identifica la pendiente de la recta tangente a la curva f(x) = x^2 - 4x en el punto x = 5.",
+    "pregunta": "Identifica la pendiente de la recta tangente a la curva (form)f(x) = x^2 - 4x(/form) en el punto (form)x = 5(/form).",
     "formulaPrincipal": "f'(x) = \\frac{d}{dx}(x^2 - 4x)",
-    "opciones": ["2", "5", "6", "10"],
+    "opciones": [
+      "2",
+      "5",
+      "6",
+      "10"
+    ],
     "correcta": 2,
     "explicacionPasos": [
-      "Paso 1: Deriva la función: f'(x) = 2x - 4.",
+      "Paso 1: Deriva la función: (form)f'(x) = 2x - 4(/form).",
       "Paso 2: La pendiente de la tangente es el valor de la derivada en el punto dado.",
-      "Paso 3: Sustituye x = 5 en la derivada: 2(5) - 4 = 10 - 4 = 6.",
-      "Resultado: 6."
+      "Paso 3: Sustituye (form)x = 5(/form) en la derivada: (form)2(5) - 4 = 10 - 4 = 6(/form).",
+      "Resultado: (form)6(/form)."
     ],
     "analisisDeError": {
-      "1": "Ese es el valor de x, no la pendiente.",
-      "3": "Olvidaste restar el 4 después de multiplicar 2 por 5."
+      "1": "Ese es el valor de (form)x(/form), no la pendiente.",
+      "3": "Olvidaste restar el (form)4(/form) después de multiplicar (form)2(/form) por (form)5(/form)."
     }
   },
   {
-    "id": 19,
+    "id": "m19",
     "materia": "Matemáticas (Área 1)",
     "dificultad": 1,
     "tiempoSugerido": 60,
-    "pregunta": "En un triángulo rectángulo, si el cateto opuesto es 3 y el adyacente es 4, ¿cuál es el valor del seno del ángulo?",
+    "pregunta": "En un triángulo rectángulo, si el cateto opuesto es (form)3(/form) y el adyacente es (form)4(/form), ¿cuál es el valor del seno del ángulo?",
     "formulaPrincipal": "\\sin(\\theta) = \\frac{CO}{H}",
-    "opciones": ["3/4", "4/5", "3/5", "5/3"],
+    "opciones": [
+      "3/4",
+      "4/5",
+      "3/5",
+      "5/3"
+    ],
     "correcta": 2,
     "explicacionPasos": [
-      "Paso 1: Calcula la hipotenusa usando Pitágoras: sqrt(3^2 + 4^2) = sqrt(9 + 16) = 5.",
-      "Paso 2: Aplica la definición de seno: Cateto Opuesto / Hipotenusa.",
-      "Paso 3: Sustituye: 3 / 5."
+      "Paso 1: Calcula la hipotenusa usando Pitágoras: (form)\\sqrt{3^2 + 4^2} = \\sqrt{9 + 16} = 5(/form).",
+      "Paso 2: Aplica la definición de seno: (form)\\frac{Cateto \\, Opuesto}{Hipotenusa}(/form).",
+      "Paso 3: Sustituye: (form)\\frac{3}{5}(/form)."
     ],
     "analisisDeError": {
-      "0": "Ese es el valor de la tangente (CO/CA).",
-      "1": "Ese es el valor del coseno (CA/H)."
+      "0": "Ese es el valor de la tangente ((form)\\frac{CO}{CA}(/form)).",
+      "1": "Ese es el valor del coseno ((form)\\frac{CA}{H}(/form))."
     }
   },
   {
-    "id": 20,
+    "id": "m20",
     "materia": "Matemáticas (Área 1)",
     "dificultad": 3,
     "tiempoSugerido": 120,
     "pregunta": "Resuelve la siguiente desigualdad lineal:",
     "formulaPrincipal": "5 - 2x \\leq 11",
-    "opciones": ["x \\leq -3", "x \\geq -3", "x \\geq 3", "x \\leq 3"],
+    "opciones": [
+      "x \\leq -3",
+      "x \\geq -3",
+      "x \\geq 3",
+      "x \\leq 3"
+    ],
     "correcta": 1,
     "explicacionPasos": [
-      "Paso 1: Resta 5 de ambos lados: -2x <= 11 - 5 -> -2x <= 6.",
-      "Paso 2: Divide entre -2. Recuerda que al dividir por un negativo, el signo de la desigualdad se invierte.",
-      "Paso 3: x >= 6 / -2.",
-      "Resultado: x >= -3."
+      "Paso 1: Resta (form)5(/form) de ambos lados: (form)-2x \\leq 11 - 5 \\rightarrow -2x \\leq 6(/form).",
+      "Paso 2: Divide entre (form)-2(/form). Recuerda que al dividir por un negativo, el signo de la desigualdad se invierte.",
+      "Paso 3: (form)x \\geq \\frac{6}{-2}(/form).",
+      "Resultado: (form)x \\geq -3(/form)."
     ],
     "analisisDeError": {
       "0": "Olvidaste invertir el signo de la desigualdad al dividir entre un número negativo.",
-      "2": "Cuidado con los signos: 6 entre -2 es -3, no 3 positivo."
+      "2": "Cuidado con los signos: (form)6(/form) entre (form)-2(/form) es (form)-3(/form), no (form)3(/form) positivo."
     }
   },
   {
-    "id": 21,
+    "id": "m21",
     "materia": "Matemáticas (Área 1)",
     "dificultad": 4,
     "tiempoSugerido": 200,
     "pregunta": "Determina las ecuaciones de las asíntotas de la hipérbola con ecuación:",
     "formulaPrincipal": "\\frac{x^2}{16} - \\frac{y^2}{9} = 1",
-    "opciones": ["y = \\pm \\frac{16}{9}x", "y = \\pm \\frac{4}{3}x", "y = \\pm \\frac{3}{4}x", "y = \\pm \\frac{9}{16}x"],
+    "opciones": [
+      "y = \\pm \\frac{16}{9}x",
+      "y = \\pm \\frac{4}{3}x",
+      "y = \\pm \\frac{3}{4}x",
+      "y = \\pm \\frac{9}{16}x"
+    ],
     "correcta": 2,
     "explicacionPasos": [
-      "Paso 1: Identifica a² = 16 (a = 4) y b² = 9 (b = 3).",
-      "Paso 2: Como el eje real está sobre X, la fórmula de las asíntotas es y = ±(b/a)x.",
-      "Paso 3: Sustituye los valores de a y b: y = ±(3/4)x."
+      "Paso 1: Identifica (form)a^2 = 16  = 4(/form)) y (form)b^2 = 9 b = 3(/form)).",
+      "Paso 2: Como el eje real está sobre (form)X(/form), la fórmula de las asíntotas es (form)y = \\pm \\frac{b}{a}x(/form).",
+      "Paso 3: Sustituye los valores de (form)a(/form) y (form)b(/form): (form)y = \\pm \\frac{3}{4}x(/form)."
     ],
     "analisisDeError": {
-      "1": "Invertiste los valores: usaste a/b en lugar de b/a.",
+      "1": "Invertiste los valores: usaste (form)\\frac{a}{b}(/form) en lugar de (form)\\frac{b}{a}(/form).",
       "3": "Olvidaste sacar la raíz cuadrada a los denominadores."
     }
   },
   {
-    "id": 22,
+    "id": "m22",
     "materia": "Matemáticas (Área 1)",
     "dificultad": 4,
     "tiempoSugerido": 180,
-    "pregunta": "Calcula el área bajo la curva de la función f(x) = x² en el intervalo [0, 3].",
+    "pregunta": "Calcula el área bajo la curva de la función (form)f(x) = x^2(/form) en el intervalo (form)[0, 3](/form).",
     "formulaPrincipal": "A = \\int_{0}^{3} x^2 dx",
-    "opciones": ["3 u²", "6 u²", "9 u²", "27 u²"],
+    "opciones": [
+      "3 u²",
+      "6 u²",
+      "9 u²",
+      "27 u²"
+    ],
     "correcta": 2,
     "explicacionPasos": [
-      "Paso 1: Integra la función x²: F(x) = x³/3.",
-      "Paso 2: Evalúa en el límite superior: (3)³/3 = 27 / 3 = 9.",
-      "Paso 3: Evalúa en el límite inferior: (0)³/3 = 0.",
-      "Paso 4: Resta los resultados: 9 - 0 = 9."
+      "Paso 1: Integra la función (form)x^2: F(x) = \\frac{x^3}{3}(/form).",
+      "Paso 2: Evalúa en el límite superior: (form)\\frac{(3)^3}{3} = \\frac{27}{3} = 9(/form).",
+      "Paso 3: Evalúa en el límite inferior: (form)\\frac{(0)^3}{3} = 0(/form).",
+      "Paso 4: Resta los resultados: (form)9 - 0 = 9(/form)."
     ],
     "analisisDeError": {
-      "1": "Error al integrar: x² se convierte en x³/3, no en x³/2.",
-      "3": "Olvidaste dividir entre 3 al aplicar la regla de la potencia."
+      "1": "Error al integrar: (form)x^2(/form) se convierte en (form)\\frac{x^3}{3}(/form), no en (form)\\frac{x^3}{2}(/form).",
+      "3": "Olvidaste dividir entre (form)3(/form) al aplicar la regla de la potencia."
     }
   },
   {
-    "id": 23,
+    "id": "m23",
     "materia": "Matemáticas (Área 1)",
     "dificultad": 3,
     "tiempoSugerido": 150,
     "pregunta": "Encuentra la directriz de la parábola cuya ecuación es:",
     "formulaPrincipal": "x^2 = -8y",
-    "opciones": ["y = 2", "y = -2", "x = 2", "x = -2"],
+    "opciones": [
+      "y = 2",
+      "y = -2",
+      "x = 2",
+      "x = -2"
+    ],
     "correcta": 0,
     "explicacionPasos": [
-      "Paso 1: Identifica la forma x² = 4py. La parábola es vertical y abre hacia abajo.",
-      "Paso 2: Iguala 4p = -8, por lo tanto p = -2.",
-      "Paso 3: La directriz de una parábola vertical es y = -p.",
-      "Paso 4: Sustituye p: y = -(-2) = 2."
+      "Paso 1: Identifica la forma (form)x^2 = 4py(/form). La parábola es vertical y abre hacia abajo.",
+      "Paso 2: Iguala (form)4p = -8(/form), por lo tanto (form)p = -2(/form).",
+      "Paso 3: La directriz de una parábola vertical es (form)y = -p(/form).",
+      "Paso 4: Sustituye (form)p: y = -(-2) = 2(/form)."
     ],
     "analisisDeError": {
-      "1": "Ese es el valor de p (posición del foco), la directriz tiene el signo opuesto.",
-      "2": "Confundiste el eje: x² indica una parábola vertical, por lo que la directriz debe ser y = k."
+      "1": "Ese es el valor de (form)p(/form) (posición del foco), la directriz tiene el signo opuesto.",
+      "2": "Confundiste el eje: (form)x^2(/form) indica una parábola vertical, por lo que la directriz debe ser una recta horizontal (form)y = k(/form)."
     }
   },
   {
-    "id": 24,
+    "id": "m24",
     "materia": "Matemáticas (Área 1)",
     "dificultad": 3,
     "tiempoSugerido": 120,
-    "pregunta": "Dada la función f(x) = 2x - 3 y g(x) = x², calcula la función compuesta (g ∘ f)(x):",
+    "pregunta": "Dada la función (form)f(x) = 2x - 3(/form) y (form)g(x) = x^2(/form), calcula la función compuesta (form)(g \\circ f)(x)(/form):",
     "formulaPrincipal": "(g \\circ f)(x) = g(f(x))",
-    "opciones": ["2x^2 - 3", "4x^2 - 12x + 9", "4x^2 - 9", "2x^2 - 6x + 9"],
+    "opciones": [
+      "2x^2 - 3",
+      "4x^2 - 12x + 9",
+      "4x^2 - 9",
+      "2x^2 - 6x + 9"
+    ],
     "correcta": 1,
     "explicacionPasos": [
-      "Paso 1: Sustituye f(x) dentro de g(x): g(2x - 3) = (2x - 3)².",
-      "Paso 2: Desarrolla el binomio al cuadrado: (a-b)² = a² - 2ab + b².",
-      "Paso 3: Calcula: (2x)² - 2(2x)(3) + (3)² = 4x² - 12x + 9."
+      "Paso 1: Sustituye (form)f(x)(/form) dentro de (form)g(x): g(2x - 3) = (2x - 3)^2(/form).",
+      "Paso 2: Desarrolla el binomio al cuadrado: (form)(a - b)^2 = a^2 - 2ab + b^2(/form).",
+      "Paso 3: Calcula: (form)(2x)^2 - 2(2x)(3) + (3)^2 = 4x^2 - 12x + 9(/form)."
     ],
     "analisisDeError": {
-      "0": "Hiciste la composición inversa (f ∘ g).",
-      "2": "Error al desarrollar el binomio: olvidaste el término medio (-2ab)."
+      "0": "Hiciste la composición inversa (form)(f \\circ g)(/form).",
+      "2": "Error al desarrollar el binomio: olvidaste el término medio ((form)-2ab(/form))."
     }
   },
   {
-    "id": 25,
+    "id": "m25",
     "materia": "Matemáticas (Área 1)",
     "dificultad": 2,
     "tiempoSugerido": 90,
-    "pregunta": "En una caja hay 5 bolas rojas, 3 azules y 2 verdes. Si se saca una bola al azar, ¿cuál es la probabilidad de que NO sea roja?",
+    "pregunta": "En una caja hay (form)5(/form) bolas rojas, (form)3(/form) azules y (form)2(/form) verdes. Si se saca una bola al azar, ¿cuál es la probabilidad de que NO sea roja?",
     "formulaPrincipal": "P(A') = 1 - P(A)",
-    "opciones": ["50%", "30%", "20%", "70%"],
+    "opciones": [
+      "50%",
+      "30%",
+      "20%",
+      "70%"
+    ],
     "correcta": 0,
     "explicacionPasos": [
-      "Paso 1: Suma el total de bolas: 5 + 3 + 2 = 10.",
-      "Paso 2: Identifica las bolas que NO son rojas: 3 (azules) + 2 (verdes) = 5.",
-      "Paso 3: Calcula la probabilidad: 5 / 10 = 0.5.",
-      "Paso 4: Convierte a porcentaje: 0.5 * 100 = 50%."
+      "Paso 1: Suma el total de bolas: (form)5 + 3 + 2 = 10(/form).",
+      "Paso 2: Identifica las bolas que NO son rojas: (form)3 \\, (azules) + 2 \\, (verdes) = 5(/form).",
+      "Paso 3: Calcula la probabilidad: (form)\\frac{5}{10} = 0.5(/form).",
+      "Paso 4: Convierte a porcentaje: (form)0.5 \\cdot 100 = 50\\%(/form)."
     ],
     "analisisDeError": {
       "3": "Esa sería la probabilidad si sumaras rojas y azules solamente."
     }
   },
   {
-    "id": 26,
+    "id": "m26",
     "materia": "Matemáticas (Área 1)",
     "dificultad": 4,
     "tiempoSugerido": 180,
     "pregunta": "Calcula la segunda derivada de la función:",
     "formulaPrincipal": "f(x) = x^4 - 5x^3 + 2x",
-    "opciones": ["4x^3 - 15x^2 + 2", "12x^2 - 30x", "12x^2 - 15x", "4x^3 - 30x"],
+    "opciones": [
+      "4x^3 - 15x^2 + 2",
+      "12x^2 - 30x",
+      "12x^2 - 15x",
+      "4x^3 - 30x"
+    ],
     "correcta": 1,
     "explicacionPasos": [
-      "Paso 1: Obtén la primera derivada: f'(x) = 4x³ - 15x² + 2.",
-      "Paso 2: Deriva el resultado anterior para obtener f''(x).",
-      "Paso 3: Derivada de 4x³ es 12x². Derivada de -15x² es -30x. Derivada de 2 es 0.",
-      "Resultado: 12x² - 30x."
+      "Paso 1: Obtén la primera derivada: (form)f'(x) = 4x^3 - 15x^2 + 2(/form).",
+      "Paso 2: Deriva el resultado anterior para obtener (form)f''(x)(/form).",
+      "Paso 3: Derivada de (form)4x^3(/form) es (form)12x^2(/form). Derivada de (form)-15x^2(/form) es (form)-30x(/form). Derivada de (form)2(/form) es (form)0(/form).",
+      "Resultado: (form)12x^2 - 30x(/form)."
     ],
     "analisisDeError": {
       "0": "Esta es la primera derivada, la pregunta pide la segunda.",

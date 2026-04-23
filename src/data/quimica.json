@@ -1,16 +1,16 @@
 [
   {
-    "id": 97,
+    "id": "q1",
     "materia": "Química",
     "dificultad": 1,
     "tiempoSugerido": 45,
-    "pregunta": "¿Qué partículas subatómicas determinan la identidad de un elemento químico (número atómico)?",
-    "formulaPrincipal": "",
+    "pregunta": "¿Qué partículas subatómicas determinan la identidad de un elemento químico (número atómico (form)Z(/form))?",
+    "formulaPrincipal": "Z = p^+",
     "opciones": ["Electrones", "Protones", "Neutrones", "Positrones"],
     "correcta": 1,
     "explicacionPasos": [
-      "Paso 1: Definir el número atómico (Z).",
-      "Paso 2: Reconocer que Z representa la cantidad de cargas positivas en el núcleo.",
+      "Paso 1: Definir el número atómico (form)Z(/form).",
+      "Paso 2: Reconocer que (form)Z(/form) representa la cantidad de cargas positivas en el núcleo.",
       "Paso 3: Identificar que los protones son la única partícula que no varía sin cambiar el elemento mismo.",
       "Resultado: Protones."
     ],
@@ -20,38 +20,38 @@
     }
   },
   {
-    "id": 98,
+    "id": "q2",
     "materia": "Química",
     "dificultad": 3,
     "tiempoSugerido": 60,
-    "pregunta": "De acuerdo con la configuración electrónica del carbono (1s² 2s² 2p²), ¿en qué grupo de la tabla periódica se encuentra?",
-    "formulaPrincipal": "",
+    "pregunta": "De acuerdo con la configuración electrónica del carbono ((form)1s^2 \\, 2s^2 \\, 2p^2(/form)), ¿en qué grupo de la tabla periódica se encuentra?",
+    "formulaPrincipal": "ns^x np^y",
     "opciones": ["Grupo 2", "Grupo 14 (IV A)", "Grupo 16 (VI A)", "Grupo 4"],
     "correcta": 1,
     "explicacionPasos": [
-      "Paso 1: Identificar el nivel de energía más alto (n=2).",
-      "Paso 2: Sumar los electrones en ese nivel (2 de 's' + 2 de 'p' = 4 electrones de valencia).",
-      "Paso 3: Relacionar los 4 electrones de valencia con la familia IV A o Grupo 14.",
+      "Paso 1: Identificar el nivel de energía más alto ((form)n = 2(/form)).",
+      "Paso 2: Sumar los electrones en ese nivel ((form)2(/form) de (form)s + 2(/form) de (form)p = 4(/form) electrones de valencia).",
+      "Paso 3: Relacionar los (form)4(/form) electrones de valencia con la familia (form)IV \\, A(/form) o Grupo (form)14(/form).",
       "Resultado: Grupo 14."
     ],
     "analisisDeError": {
-      "0": "Error común: solo contar los electrones del subnivel p.",
-      "3": "El grupo 4 pertenece a metales de transición (bloque d)."
+      "0": "Error común: solo contar los electrones del subnivel (form)p(/form).",
+      "3": "El grupo 4 pertenece a metales de transición (bloque (form)d(/form))."
     }
   },
   {
-    "id": 99,
+    "id": "q3",
     "materia": "Química",
     "dificultad": 2,
     "tiempoSugerido": 60,
     "pregunta": "¿Cuál es el tipo de enlace que se forma por la transferencia completa de electrones de un metal a un no metal?",
-    "formulaPrincipal": "",
+    "formulaPrincipal": "\\Delta EN > 1.7",
     "opciones": ["Covalente polar", "Metálico", "Iónico", "Covalente coordinado"],
     "correcta": 2,
     "explicacionPasos": [
       "Paso 1: Identificar la naturaleza de los elementos (Metal + No Metal).",
       "Paso 2: Reconocer que existe una gran diferencia de electronegatividad.",
-      "Paso 3: Definir el enlace donde un átomo 'gana' y otro 'pierde' electrones.",
+      "Paso 3: Definir el enlace donde un átomo \"gana\" y otro \"pierde\" electrones.",
       "Resultado: Iónico."
     ],
     "analisisDeError": {
@@ -59,19 +59,19 @@
     }
   },
   {
-    "id": 100,
+    "id": "q4",
     "materia": "Química",
     "dificultad": 4,
     "tiempoSugerido": 90,
-    "pregunta": "Al balancear la ecuación CH₄ + O₂ → CO₂ + H₂O, ¿qué coeficiente debe llevar el O₂?",
-    "formulaPrincipal": "",
+    "pregunta": "Al balancear la ecuación (form)CH_4 + O_2 \\rightarrow CO_2 + H_2O(/form), ¿qué coeficiente debe llevar el (form)O_2(/form)?",
+    "formulaPrincipal": "CH_4 + 2O_2 \\rightarrow CO_2 + 2H_2O",
     "opciones": ["1", "2", "3", "4"],
     "correcta": 1,
     "explicacionPasos": [
       "Paso 1: Contar carbonos (1 reactivo, 1 producto) - Balanceado.",
-      "Paso 2: Balancear hidrógenos: poner un 2 en H₂O para tener 4.",
-      "Paso 3: Contar oxígenos en productos: 2 (en CO₂) + 2 (en 2H₂O) = 4.",
-      "Paso 4: Poner un 2 en el reactivo O₂ para obtener 4 oxígenos.",
+      "Paso 2: Balancear hidrógenos: poner un (form)2(/form) en (form)H_2O(/form) para tener (form)4(/form).",
+      "Paso 3: Contar oxígenos en productos: (form)2(/form) (en (form)CO_2(/form)) + (form)2(/form) (en (form)2H_2O(/form)) = (form)4(/form).",
+      "Paso 4: Poner un (form)2(/form) en el reactivo (form)O_2(/form) para obtener (form)4(/form) oxígenos.",
       "Resultado: 2."
     ],
     "analisisDeError": {
@@ -79,50 +79,50 @@
     }
   },
   {
-    "id": 101,
+    "id": "q5",
     "materia": "Química",
     "dificultad": 2,
     "tiempoSugerido": 60,
-    "pregunta": "¿Cuál es la masa molar del agua (H₂O)? (H=1 g/mol, O=16 g/mol)",
-    "formulaPrincipal": "",
+    "pregunta": "¿Cuál es la masa molar del agua ((form)H_2O(/form))? ((form)H = 1 \\, g/mol, \\, O = 16 \\, g/mol(/form))",
+    "formulaPrincipal": "M = \\sum (n \\times m_a)",
     "opciones": ["17 g/mol", "18 g/mol", "33 g/mol", "16 g/mol"],
     "correcta": 1,
     "explicacionPasos": [
-      "Paso 1: Identificar el número de átomos (2 de H, 1 de O).",
-      "Paso 2: Multiplicar masa por cantidad (2x1 + 1x16).",
+      "Paso 1: Identificar el número de átomos ((form)2(/form) de (form)H, \\, 1(/form) de (form)O(/form)).",
+      "Paso 2: Multiplicar masa por cantidad ((form)2 \\times 1 + 1 \\times 16(/form)).",
       "Paso 3: Sumar los resultados parciales.",
-      "Resultado: 18 g/mol."
+      "Resultado: (form)18 \\, g/mol(/form)."
     ],
     "analisisDeError": {
-      "0": "Olvidaste multiplicar el hidrógeno por su subíndice 2."
+      "0": "Olvidaste multiplicar el hidrógeno por su subíndice (form)2(/form)."
     }
   },
   {
-    "id": 102,
+    "id": "q6",
     "materia": "Química",
     "dificultad": 1,
     "tiempoSugerido": 45,
-    "pregunta": "En una escala de pH, una sustancia con un valor de 3 se clasifica como:",
-    "formulaPrincipal": "",
+    "pregunta": "En una escala de (form)pH(/form), una sustancia con un valor de (form)3(/form) se clasifica como:",
+    "formulaPrincipal": "pH = -\\log[H^+]",
     "opciones": ["Base fuerte", "Neutro", "Ácido", "Base débil"],
     "correcta": 2,
     "explicacionPasos": [
-      "Paso 1: Recordar el rango de la escala de pH (0 a 14).",
-      "Paso 2: Identificar el punto neutro (7).",
-      "Paso 3: Ubicar que los valores menores a 7 son ácidos.",
+      "Paso 1: Recordar el rango de la escala de (form)pH(/form) ((form)0(/form) a (form)14(/form)).",
+      "Paso 2: Identificar el punto neutro ((form)7(/form)).",
+      "Paso 3: Ubicar que los valores menores a (form)7(/form) son ácidos.",
       "Resultado: Ácido."
     ],
     "analisisDeError": {
-      "0": "Las bases se encuentran en el rango de 7.1 a 14."
+      "0": "Las bases se encuentran en el rango de (form)7.1(/form) a (form)14(/form)."
     }
   },
   {
-    "id": 103,
+    "id": "q7",
     "materia": "Química",
     "dificultad": 2,
     "tiempoSugerido": 60,
     "pregunta": "¿Cuál de los siguientes es un cambio químico?",
-    "formulaPrincipal": "",
+    "formulaPrincipal": "Fe + O_2 \\rightarrow Fe_2O_3",
     "opciones": ["Evaporación del agua", "Oxidación de un clavo", "Romper un vidrio", "Disolver azúcar"],
     "correcta": 1,
     "explicacionPasos": [
@@ -132,21 +132,21 @@
       "Resultado: Oxidación de un clavo."
     ],
     "analisisDeError": {
-      "0": "La evaporación es un cambio de estado físico (H₂O líquida a gas)."
+      "0": "La evaporación es un cambio de estado físico ((form)H_2O(/form) líquida a gas)."
     }
   },
   {
-    "id": 104,
+    "id": "q8",
     "materia": "Química",
     "dificultad": 3,
     "tiempoSugerido": 60,
     "pregunta": "Según la teoría de Lewis, un ácido es una sustancia que:",
-    "formulaPrincipal": "",
+    "formulaPrincipal": "A + :B \\rightarrow A-B",
     "opciones": ["Dona protones", "Acepta un par de electrones", "Libera iones OH-", "Dona un par de electrones"],
     "correcta": 1,
     "explicacionPasos": [
       "Paso 1: Identificar que Lewis se enfoca en el intercambio de electrones.",
-      "Paso 2: Recordar que los ácidos de Lewis son 'electrofílicos'.",
+      "Paso 2: Recordar que los ácidos de Lewis son \"electrofílicos\".",
       "Paso 3: Definir que aceptan pares electrónicos para formar enlaces.",
       "Resultado: Acepta un par de electrones."
     ],
@@ -156,7 +156,7 @@
     }
   },
   {
-    "id": 105,
+    "id": "q9",
     "materia": "Química",
     "dificultad": 2,
     "tiempoSugerido": 60,
@@ -175,16 +175,16 @@
     }
   },
   {
-    "id": 106,
+    "id": "q10",
     "materia": "Química",
     "dificultad": 2,
     "tiempoSugerido": 60,
     "pregunta": "En una reacción exotérmica, el sistema:",
-    "formulaPrincipal": "",
+    "formulaPrincipal": "\\Delta H < 0",
     "opciones": ["Absorbe calor", "Libera calor", "Mantiene temperatura", "No intercambia energía"],
     "correcta": 1,
     "explicacionPasos": [
-      "Paso 1: Analizar el prefijo 'exo' (fuera) y 'termos' (calor).",
+      "Paso 1: Analizar el prefijo \"exo\" (fuera) y \"termos\" (calor).",
       "Paso 2: Identificar que la energía de los productos es menor que la de los reactivos.",
       "Paso 3: Concluir que el exceso de energía se desprende al entorno.",
       "Resultado: Libera calor."
@@ -194,36 +194,36 @@
     }
   },
   {
-    "id": 107,
+    "id": "q11",
     "materia": "Química",
     "dificultad": 3,
     "tiempoSugerido": 60,
-    "pregunta": "¿Cuál es el número de oxidación del azufre en el H₂SO₄?",
-    "formulaPrincipal": "",
+    "pregunta": "¿Cuál es el número de oxidación del azufre en el (form)H_2SO_4(/form)?",
+    "formulaPrincipal": "\\sum E_{ox} = 0",
     "opciones": ["+4", "+6", "+2", "-2"],
     "correcta": 1,
     "explicacionPasos": [
-      "Paso 1: Asignar valores conocidos (O = -2, H = +1).",
-      "Paso 2: Multiplicar por subíndices (4x-2 = -8; 2x1 = +2).",
-      "Paso 3: Calcular el valor faltante para que la suma sea cero (+2 + X - 8 = 0).",
-      "Resultado: +6."
+      "Paso 1: Asignar valores conocidos ((form)O = -2, \\, H = +1(/form)).",
+      "Paso 2: Multiplicar por subíndices ((form)4 \\times -2 = -8; \\, 2 \\times 1 = +2(/form)).",
+      "Paso 3: Calcular el valor faltante para que la suma sea cero ((form)+2 + X - 8 = 0(/form)).",
+      "Resultado: (form)+6(/form)."
     ],
     "analisisDeError": {
-      "0": "El +4 corresponde al ácido sulfuroso (H₂SO₃)."
+      "0": "El (form)+4(/form) corresponde al ácido sulfuroso ((form)H_2SO_3(/form))."
     }
   },
   {
-    "id": 108,
+    "id": "q12",
     "materia": "Química",
     "dificultad": 2,
     "tiempoSugerido": 60,
     "pregunta": "¿Qué gas se desprende en la combustión completa de un hidrocarburo?",
-    "formulaPrincipal": "",
+    "formulaPrincipal": "C_xH_y + O_2 \\rightarrow CO_2 + H_2O",
     "opciones": ["Monóxido de carbono", "Dióxido de carbono", "Metano", "Hidrógeno"],
     "correcta": 1,
     "explicacionPasos": [
-      "Paso 1: Identificar los productos de una combustión completa (CO₂ + H₂O).",
-      "Paso 2: Diferenciar de la incompleta (donde se produce CO).",
+      "Paso 1: Identificar los productos de una combustión completa ((form)CO_2 + H_2O(/form)).",
+      "Paso 2: Diferenciar de la incompleta (donde se produce (form)CO(/form)).",
       "Paso 3: Reconocer el gas resultante de la oxidación total del carbono.",
       "Resultado: Dióxido de carbono."
     ],
@@ -232,18 +232,18 @@
     }
   },
   {
-    "id": 109,
+    "id": "q13",
     "materia": "Química",
     "dificultad": 3,
     "tiempoSugerido": 60,
-    "pregunta": "El enlace presente en la molécula de nitrógeno gaseoso (N₂) es:",
-    "formulaPrincipal": "",
+    "pregunta": "El enlace presente en la molécula de nitrógeno gaseoso ((form)N_2(/form)) es:",
+    "formulaPrincipal": ":N \\equiv N:",
     "opciones": ["Covalente sencillo", "Covalente triple", "Iónico", "Puente de hidrógeno"],
     "correcta": 1,
     "explicacionPasos": [
-      "Paso 1: Ubicar al nitrógeno en el grupo 15 (5 electrones de valencia).",
-      "Paso 2: Determinar cuántos electrones le faltan para el octeto (3).",
-      "Paso 3: Identificar que dos átomos de N comparten tres pares electrónicos.",
+      "Paso 1: Ubicar al nitrógeno en el grupo (form)15(/form) ((form)5(/form) electrones de valencia).",
+      "Paso 2: Determinar cuántos electrones le faltan para el octeto ((form)3(/form)).",
+      "Paso 3: Identificar que dos átomos de (form)N(/form) comparten tres pares electrónicos.",
       "Resultado: Covalente triple."
     ],
     "analisisDeError": {
@@ -251,31 +251,31 @@
     }
   },
   {
-    "id": 110,
+    "id": "q14",
     "materia": "Química",
     "dificultad": 4,
     "tiempoSugerido": 90,
-    "pregunta": "¿Cuál es la molaridad de una solución con 2 moles en 500 mL?",
-    "formulaPrincipal": "",
+    "pregunta": "¿Cuál es la molaridad de una solución con (form)2 \\, moles(/form) en (form)500 \\, mL(/form)?",
+    "formulaPrincipal": "M = \\frac{n}{V(L)}",
     "opciones": ["1 M", "4 M", "0.25 M", "10 M"],
     "correcta": 1,
     "explicacionPasos": [
-      "Paso 1: Convertir el volumen a litros (500 mL = 0.5 L).",
-      "Paso 2: Aplicar la fórmula M = n / V.",
-      "Paso 3: Realizar la división (2 / 0.5).",
-      "Resultado: 4 M."
+      "Paso 1: Convertir el volumen a litros ((form)500 \\, mL = 0.5 \\, L(/form)).",
+      "Paso 2: Aplicar la fórmula (form)M = n / V(/form).",
+      "Paso 3: Realizar la división ((form)2 / 0.5(/form)).",
+      "Resultado: (form)4 \\, M(/form)."
     ],
     "analisisDeError": {
-      "0": "Error al no convertir mL a L o dividir erróneamente."
+      "0": "Error al no convertir (form)mL(/form) a (form)L(/form) o dividir erróneamente."
     }
   },
   {
-    "id": 111,
+    "id": "q15",
     "materia": "Química",
     "dificultad": 2,
     "tiempoSugerido": 60,
     "pregunta": "Los isótopos son átomos con diferente número de:",
-    "formulaPrincipal": "",
+    "formulaPrincipal": "A = Z + n",
     "opciones": ["Protones", "Neutrones", "Electrones", "Niveles de energía"],
     "correcta": 1,
     "explicacionPasos": [
@@ -290,27 +290,27 @@
     }
   },
   {
-    "id": 112,
+    "id": "q16",
     "materia": "Química",
     "dificultad": 3,
     "tiempoSugerido": 60,
     "pregunta": "¿Qué postula el principio de exclusión de Pauli?",
-    "formulaPrincipal": "",
+    "formulaPrincipal": "(n, l, m, s)",
     "opciones": ["Ocupan menor energía primero", "No pueden tener los 4 números cuánticos iguales", "Se distribuyen uno a uno", "Incertidumbre de posición"],
     "correcta": 1,
     "explicacionPasos": [
       "Paso 1: Analizar las reglas de configuración electrónica.",
       "Paso 2: Identificar que Pauli se refiere a la ocupación de los orbitales.",
-      "Paso 3: Concluir que dos electrones deben tener espines opuestos (+1/2, -1/2).",
+      "Paso 3: Concluir que dos electrones deben tener espines opuestos ((form)+1/2, \\, -1/2(/form)).",
       "Resultado: No pueden tener los 4 números cuánticos iguales."
     ],
     "analisisDeError": {
-      "0": "Ese es el principio de Aufbau.",
-      "2": "Esa es la regla de Hund."
+      "0": "Ese es el principio de (form)Aufbau(/form).",
+      "2": "Esa es la regla de (form)Hund(/form)."
     }
   },
   {
-    "id": 113,
+    "id": "q17",
     "materia": "Química",
     "dificultad": 2,
     "tiempoSugerido": 60,
@@ -329,17 +329,17 @@
     }
   },
   {
-    "id": 114,
+    "id": "q18",
     "materia": "Química",
     "dificultad": 2,
     "tiempoSugerido": 60,
     "pregunta": "En química orgánica, el grupo funcional de los alcoholes es:",
-    "formulaPrincipal": "",
+    "formulaPrincipal": "R-OH",
     "opciones": ["Carbonilo", "Hidroxilo", "Carboxilo", "Amino"],
     "correcta": 1,
     "explicacionPasos": [
-      "Paso 1: Identificar el sufijo '-ol' en la nomenclatura.",
-      "Paso 2: Asociar el grupo con el enlace oxígeno-hidrógeno (-OH).",
+      "Paso 1: Identificar el sufijo \"-ol\" en la nomenclatura.",
+      "Paso 2: Asociar el grupo con el enlace oxígeno-hidrógeno ((form)-OH(/form)).",
       "Paso 3: Diferenciar de otros grupos oxigenados.",
       "Resultado: Hidroxilo."
     ],
@@ -349,32 +349,32 @@
     }
   },
   {
-    "id": 115,
+    "id": "q19",
     "materia": "Química",
     "dificultad": 3,
     "tiempoSugerido": 60,
     "pregunta": "¿Cuál es la hibridación del carbono en un alcano (enlace sencillo)?",
-    "formulaPrincipal": "",
+    "formulaPrincipal": "sp^3",
     "opciones": ["sp", "sp3", "sp2", "dsp2"],
     "correcta": 1,
     "explicacionPasos": [
       "Paso 1: Contar los enlaces sigma (sencillos) del carbono.",
-      "Paso 2: En un alcano, el carbono forma 4 enlaces sencillos.",
+      "Paso 2: En un alcano, el carbono forma (form)4(/form) enlaces sencillos.",
       "Paso 3: Identificar la geometría tetraédrica resultante.",
-      "Resultado: sp3."
+      "Resultado: (form)sp^3(/form)."
     ],
     "analisisDeError": {
-      "0": "La hibridación sp es para enlaces triples (alquinos).",
-      "2": "La hibridación sp2 es para enlaces dobles (alquenos)."
+      "0": "La hibridación (form)sp(/form) es para enlaces triples (alquinos).",
+      "2": "La hibridación (form)sp^2(/form) es para enlaces dobles (alquenos)."
     }
   },
   {
-    "id": 116,
+    "id": "q20",
     "materia": "Química",
     "dificultad": 1,
     "tiempoSugerido": 45,
     "pregunta": "De acuerdo con la Ley de Lavoisier, en una reacción cerrada:",
-    "formulaPrincipal": "",
+    "formulaPrincipal": "m_{reactivos} = m_{productos}",
     "opciones": ["La masa aumenta", "La masa permanece constante", "La masa disminuye", "Los átomos cambian"],
     "correcta": 1,
     "explicacionPasos": [
@@ -384,7 +384,7 @@
       "Resultado: La masa permanece constante."
     ],
     "analisisDeError": {
-      "3": "Los átomos solo se reorganizan, no cambian de identidad (eso sería nuclear)."
+      "3": "Los átomos solo se reorganizan, no cambian de identidad (eso sería un cambio nuclear)."
     }
   }
 ]

@@ -1,38 +1,38 @@
 [
   {
-    "id": 27,
+    "id": "f1",
     "materia": "Física (Área 1)",
     "dificultad": 1,
     "tiempoSugerido": 60,
-    "pregunta": "Un corredor completa una pista de 400 metros en 80 segundos. ¿Cuál es su velocidad promedio?",
+    "pregunta": "Un corredor completa una pista de (form)400 \\, m(/form) en (form)80 \\, s(/form). ¿Cuál es su velocidad promedio?",
     "formulaPrincipal": "v = d / t",
     "opciones": ["5 m/s", "32,000 m/s", "0.2 m/s", "50 m/s"],
     "correcta": 0,
     "explicacionPasos": [
-      "Paso 1: Identifica los datos: distancia (d) = 400 m, tiempo (t) = 80 s.",
-      "Paso 2: Aplica la fórmula de velocidad: v = 400 / 80.",
-      "Paso 3: Realiza la división: 400 entre 80 es igual a 5.",
-      "Resultado: 5 m/s."
+      "Paso 1: Identifica los datos: distancia (form)d = 400 \\, m(/form), tiempo (form)t = 80 \\, s(/form).",
+      "Paso 2: Aplica la fórmula de velocidad: (form)v = \\frac{400}{80}(/form).",
+      "Paso 3: Realiza la división: (form)400(/form) entre (form)80(/form) es igual a (form)5(/form).",
+      "Resultado: (form)5 \\, m/s(/form)."
     ],
     "analisisDeError": {
       "1": "Multiplicaste distancia por tiempo en lugar de dividir.",
-      "2": "Dividiste tiempo entre distancia (80/400) en lugar de d/t."
+      "2": "Dividiste tiempo entre distancia (form)80/400(/form) en lugar de (form)d/t(/form)."
     }
   },
   {
-    "id": 28,
+    "id": "f2",
     "materia": "Física (Área 1)",
     "dificultad": 2,
     "tiempoSugerido": 90,
-    "pregunta": "¿Cuál es la energía potencial de un objeto de 10 kg que se encuentra a una altura de 5 metros? (Considera g = 10 m/s^2)",
+    "pregunta": "¿Cuál es la energía potencial de un objeto de (form)10 \\, kg(/form) que se encuentra a una altura de (form)5 \\, m(/form)? (Considera (form)g = 10 \\, m/s^2(/form))",
     "formulaPrincipal": "Ep = m * g * h",
     "opciones": ["50 J", "100 J", "500 J", "200 J"],
     "correcta": 2,
     "explicacionPasos": [
-      "Paso 1: Identifica los datos: m = 10 kg, g = 10 m/s^2, h = 5 m.",
-      "Paso 2: Multiplica los tres valores: 10 * 10 * 5.",
-      "Paso 3: 100 * 5 = 500.",
-      "Resultado: 500 Joules."
+      "Paso 1: Identifica los datos: (form)m = 10 \\, kg, \\, g = 10 \\, m/s^2, \\, h = 5 \\, m(/form).",
+      "Paso 2: Multiplica los tres valores: (form)10 \\cdot 10 \\cdot 5(/form).",
+      "Paso 3: (form)100 \\cdot 5 = 500(/form).",
+      "Resultado: (form)500 \\, J(/form)."
     ],
     "analisisDeError": {
       "0": "Parece que solo multiplicaste masa por altura olvidando la gravedad.",
@@ -40,32 +40,32 @@
     }
   },
   {
-    "id": 29,
+    "id": "f3",
     "materia": "Física (Área 1)",
     "dificultad": 2,
     "tiempoSugerido": 90,
-    "pregunta": "Según la Ley de Ohm, ¿cuánta intensidad de corriente circula por una resistencia de 20 ohms conectada a una fuente de 120 voltios?",
+    "pregunta": "Según la Ley de Ohm, ¿cuánta intensidad de corriente circula por una resistencia de (form)20 \\, \\Omega(/form) conectada a una fuente de (form)120 \\, V(/form)?",
     "formulaPrincipal": "I = V / R",
     "opciones": ["2400 A", "6 A", "0.16 A", "140 A"],
     "correcta": 1,
     "explicacionPasos": [
-      "Paso 1: Datos: Voltaje (V) = 120 V, Resistencia (R) = 20 ohms.",
-      "Paso 2: Despeja la Intensidad: I = 120 / 20.",
-      "Paso 3: Simplifica la división: 12 / 2 = 6.",
-      "Resultado: 6 Amperes."
+      "Paso 1: Datos: Voltaje (form)V = 120 \\, V(/form), Resistencia (form)R = 20 \\, \\Omega(/form).",
+      "Paso 2: Despeja la Intensidad: (form)I = \\frac{120}{20}(/form).",
+      "Paso 3: Simplifica la división: (form)\\frac{12}{2} = 6(/form).",
+      "Resultado: (form)6 \\, A(/form)."
     ],
     "analisisDeError": {
       "0": "Multiplicaste voltaje por resistencia en lugar de dividir.",
-      "2": "Dividiste resistencia entre voltaje (20/120)."
+      "2": "Dividiste resistencia entre voltaje (form)20/120(/form)."
     }
   },
   {
-    "id": 30,
+    "id": "f4",
     "materia": "Física (Área 1)",
     "dificultad": 3,
     "tiempoSugerido": 120,
-    "pregunta": "Un rayo de luz pasa del aire (n=1) al agua (n=1.33). ¿Qué fenómeno ocurre con el rayo de luz?",
-    "formulaPrincipal": "Ley de Snell",
+    "pregunta": "Un rayo de luz pasa del aire ((form)n=1(/form)) al agua ((form)n=1.33(/form)). ¿Qué fenómeno ocurre con el rayo de luz?   Ley de Snell",
+    "formulaPrincipal": "",
     "opciones": ["Reflexión", "Difracción", "Refracción", "Polarización"],
     "correcta": 2,
     "explicacionPasos": [
@@ -79,100 +79,100 @@
     }
   },
   {
-    "id": 31,
+    "id": "f5",
     "materia": "Física (Área 1)",
     "dificultad": 3,
     "tiempoSugerido": 150,
-    "pregunta": "Calcula la presión hidrostática al fondo de una alberca de 3 metros de profundidad. (Densidad del agua = 1000 kg/m^3, g = 10 m/s^2)",
+    "pregunta": "Calcula la presión hidrostática al fondo de una alberca de (form)3 \\, m(/form) de profundidad. (Densidad del agua (form)= 1000 \\, kg/m^3, \\, g = 10 \\, m/s^2(/form))",
     "formulaPrincipal": "Ph = rho * g * h",
     "opciones": ["3000 Pa", "30,000 Pa", "300 Pa", "10,030 Pa"],
     "correcta": 1,
     "explicacionPasos": [
-      "Paso 1: Datos: rho = 1000, g = 10, h = 3.",
-      "Paso 2: Multiplica: 1000 * 10 * 3.",
-      "Paso 3: 10,000 * 3 = 30,000.",
-      "Resultado: 30,000 Pascales."
+      "Paso 1: Datos: (form)\\rho = 1000, \\, g = 10, \\, h = 3(/form).",
+      "Paso 2: Multiplica: (form)1000 \\cdot 10 \\cdot 3(/form).",
+      "Paso 3: (form)10,000 \\cdot 3 = 30,000(/form).",
+      "Resultado: (form)30,000 \\, Pa(/form)."
     ],
     "analisisDeError": {
-      "0": "Olvidaste incluir el valor de la gravedad (10 m/s^2) en la multiplicación.",
+      "0": "Olvidaste incluir el valor de la gravedad (form)10 \\, m/s^2(/form) en la multiplicación.",
       "2": "Error en el manejo de los ceros en la multiplicación decimal."
     }
   },
   {
-    "id": 32,
+    "id": "f6",
     "materia": "Física (Área 1)",
     "dificultad": 4,
     "tiempoSugerido": 180,
-    "pregunta": "Un gas ideal ocupa un volumen de 2 litros a una presión de 1 atm. Si la presión aumenta a 4 atm manteniendo la temperatura constante, ¿cuál será el nuevo volumen?",
+    "pregunta": "Un gas ideal ocupa un volumen de (form)2 \\, L(/form) a una presión de (form)1 \\, atm(/form). Si la presión aumenta a (form)4 \\, atm(/form) manteniendo la temperatura constante, ¿cuál será el nuevo volumen?",
     "formulaPrincipal": "P1 * V1 = P2 * V2 (Ley de Boyle)",
     "opciones": ["8 L", "0.5 L", "2 L", "1 L"],
     "correcta": 1,
     "explicacionPasos": [
-      "Paso 1: Identifica que es un proceso isotérmico (T constante).",
-      "Paso 2: Datos: P1 = 1, V1 = 2, P2 = 4.",
-      "Paso 3: Sustituye y despeja V2: (1 * 2) = 4 * V2.",
-      "Paso 4: V2 = 2 / 4 = 0.5.",
-      "Resultado: 0.5 Litros."
+      "Paso 1: Identifica que es un proceso isotérmico ((form)T(/form) constante).",
+      "Paso 2: Datos: (form)P_1 = 1, \\, V_1 = 2, \\, P_2 = 4(/form).",
+      "Paso 3: Sustituye y despeja (form)V_2: (1 \\cdot 2) = 4 \\cdot V_2(/form).",
+      "Paso 4: (form)V_2 = \\frac{2}{4} = 0.5(/form).",
+      "Resultado: (form)0.5 \\, L(/form)."
     ],
     "analisisDeError": {
-      "0": "Multiplicaste en lugar de dividir (P2 * V1), recuerda que la relación es inversa.",
+      "0": "Multiplicaste en lugar de dividir (form)P_2 \\cdot V_1(/form), recuerda que la relación es inversa.",
       "3": "Error en el despeje matemático."
     }
   },
   {
-    "id": 33,
+    "id": "f7",
     "materia": "Física (Área 1)",
     "dificultad": 4,
     "tiempoSugerido": 200,
-    "pregunta": "Dos cargas de 2 mC y 4 mC están separadas por 2 metros. Calcula la magnitud de la fuerza eléctrica entre ellas. (K = 9x10^9 Nm^2/C^2)",
+    "pregunta": "Dos cargas de (form)2 \\, mC(/form) y (form)4 \\, mC(/form) están separadas por (form)2 \\, m(/form). Calcula la magnitud de la fuerza eléctrica entre ellas. (form)k = 9 \\times 10^9 \\, Nm^2/C^2(/form)",
     "formulaPrincipal": "F = K * q1 * q2 / r^2",
     "opciones": ["18,000 N", "18 * 10^6 N", "18 * 10^3 N", "36,000 N"],
     "correcta": 1,
     "explicacionPasos": [
-      "Paso 1: Convierte mC a Coulombs: q1 = 2x10^-3, q2 = 4x10^-3.",
-      "Paso 2: Eleva la distancia al cuadrado: r^2 = 2^2 = 4.",
-      "Paso 3: Aplica la fórmula: F = (9x10^9 * 2x10^-3 * 4x10^-3) / 4.",
-      "Paso 4: Multiplica cargas y constante: 9 * 2 * 4 = 72. Exponentes: 10^(9-3-3) = 10^3.",
-      "Paso 5: Divide entre r^2: (72x10^3) / 4 = 18x10^3.",
-      "Nota: Al ser mC (milicoulombs) el resultado ajustado es 18x10^3 N (o 18,000 N).",
-      "Resultado: 18,000 N."
+      "Paso 1: Convierte milicoulombs a Coulombs: (form)q_1 = 2 \\times 10^{-3} \\, C, \\, q_2 = 4 \\times 10^{-3} \\, C(/form).",
+      "Paso 2: Eleva la distancia al cuadrado: (form)r^2 = 2^2 = 4 \\, m^2(/form).",
+      "Paso 3: Aplica la Ley de Coulomb: (form)F = \\frac{9 \\times 10^9 \\cdot 2 \\times 10^{-3} \\cdot 4 \\times 10^{-3}}{4}(/form).",
+      "Paso 4: Multiplica la constante y las cargas: (form)9 \\cdot 2 \\cdot 4 = 72(/form). Suma de exponentes: (form)10^{(9-3-3)} = 10^3(/form).",
+      "Paso 5: Divide el resultado entre la distancia al cuadrado: (form)\\frac{72 \\times 10^3}{4} = 18 \\times 10^3(/form).",
+      "Nota: Al ser (form)mC(/form) el resultado final es (form)18,000 \\, N(/form).",
+      "Resultado: (form)18,000 \\, N(/form)."
     ],
     "analisisDeError": {
-      "3": "Olvidaste dividir entre el cuadrado de la distancia (r^2 = 4)."
+      "3": "Olvidaste dividir entre el cuadrado de la distancia (form)r^2 = 4(/form)."
     }
   },
   {
-    "id": 34,
+    "id": "f8",
     "materia": "Física (Área 1)",
     "dificultad": 1,
     "tiempoSugerido": 45,
-    "pregunta": "¿Qué escala de temperatura se conoce como escala absoluta y no tiene valores negativos?",
-    "formulaPrincipal": "Escalas Térmicas",
+    "pregunta": "Escalas Térmicas ¿Qué escala de temperatura se conoce como escala absoluta y no tiene valores negativos?",
+    "formulaPrincipal": "",
     "opciones": ["Celsius", "Fahrenheit", "Kelvin", "Rankine"],
     "correcta": 2,
     "explicacionPasos": [
-      "Paso 1: Recuerda que el cero absoluto (0 K) es la temperatura teórica más baja posible.",
+      "Paso 1: Recuerda que el cero absoluto ((form)0 \\, K(/form)) es la temperatura teórica más baja posible.",
       "Paso 2: La escala Kelvin no utiliza el símbolo de grados y es la unidad base del SI.",
       "Resultado: Kelvin."
     ],
     "analisisDeError": {
-      "0": "Celsius tiene valores negativos (congelación del agua es 0°C).",
+      "0": "Celsius tiene valores negativos (congelación del agua es (form)0^{\\circ}C(/form)).",
       "1": "Fahrenheit también permite valores negativos."
     }
   },
   {
-    "id": 35,
+    "id": "f9",
     "materia": "Física (Área 1)",
     "dificultad": 2,
     "tiempoSugerido": 60,
-    "pregunta": "Un cuerpo de 50 kg se mueve a 10 m/s. ¿Cuál es su cantidad de movimiento (momentum)?",
+    "pregunta": "Un cuerpo de (form)50 \\, kg(/form) se mueve a (form)10 \\, m/s(/form). ¿Cuál es su cantidad de movimiento (momentum)?",
     "formulaPrincipal": "p = m * v",
     "opciones": ["5 kg m/s", "500 kg m/s", "250 kg m/s", "0.2 kg m/s"],
     "correcta": 1,
     "explicacionPasos": [
-      "Paso 1: Datos: m = 50 kg, v = 10 m/s.",
-      "Paso 2: Multiplica masa por velocidad: 50 * 10.",
-      "Resultado: 500 kg m/s."
+      "Paso 1: Datos: (form)m = 50 \\, kg, \\, v = 10 \\, m/s(/form).",
+      "Paso 2: Multiplica masa por velocidad: (form)50 \\cdot 10(/form).",
+      "Resultado: (form)500 \\, kg \\cdot m/s(/form)."
     ],
     "analisisDeError": {
       "0": "Dividiste en lugar de multiplicar.",
@@ -180,39 +180,39 @@
     }
   },
   {
-    "id": 36,
+    "id": "f10",
     "materia": "Física (Área 1)",
     "dificultad": 4,
     "tiempoSugerido": 180,
-    "pregunta": "Determina la potencia de un motor que realiza un trabajo de 12,000 J en 2 minutos.",
+    "pregunta": "Determina la potencia de un motor que realiza un trabajo de (form)12,000 \\, J(/form) en (form)2 \\, minutos(/form).",
     "formulaPrincipal": "P = W / t",
     "opciones": ["6,000 W", "100 W", "24,000 W", "60 W"],
     "correcta": 1,
     "explicacionPasos": [
-      "Paso 1: Convierte el tiempo a segundos: 2 minutos * 60 s = 120 s.",
-      "Paso 2: Aplica la fórmula de potencia: P = 12,000 / 120.",
-      "Paso 3: Realiza la división: 1200 / 12 = 100.",
-      "Resultado: 100 Watts."
+      "Paso 1: Convierte el tiempo a segundos: (form)2 \\, min \\times 60 \\, s = 120 \\, s(/form).",
+      "Paso 2: Aplica la fórmula de potencia: (form)P = \\frac{12,000 \\, J}{120 \\, s}(/form).",
+      "Paso 3: Realiza la división final para obtener los Watts: (form)\\frac{1200}{12} = 100 \\, W(/form).",
+      "Resultado: (form)100 \\, Watts(/form)."
     ],
     "analisisDeError": {
-      "0": "No convertiste los minutos a segundos.",
-      "2": "Multiplicaste trabajo por tiempo en lugar de dividir."
+      "0": "No convertiste los minutos a segundos. Recuerda que la potencia se mide en (form)J/s(/form).",
+      "2": "Multiplicaste trabajo por tiempo (form)W \\cdot t(/form) en lugar de dividir (form)W / t(/form)."
     }
   },
   {
-    "id": 37,
+    "id": "f11",
     "materia": "Física (Área 1)",
     "dificultad": 2,
     "tiempoSugerido": 90,
-    "pregunta": "Calcula la longitud de onda de una señal que viaja a 300,000 km/s con una frecuencia de 100 MHz.",
+    "pregunta": "Calcula la longitud de onda de una señal que viaja a (form)300,000 \\, km/s(/form) con una frecuencia de (form)100 \\, MHz(/form).",
     "formulaPrincipal": "v = lambda * f",
     "opciones": ["3 m", "30 m", "0.3 m", "300 m"],
     "correcta": 0,
     "explicacionPasos": [
-      "Paso 1: Convierte la velocidad a m/s: 300,000,000 m/s.",
-      "Paso 2: Convierte frecuencia a Hz: 100,000,000 Hz.",
-      "Paso 3: Despeja lambda: v / f = 300,000,000 / 100,000,000.",
-      "Paso 4: Resultado: 3 metros."
+      "Paso 1: Convierte la velocidad a (form)m/s: 300,000,000 \\, m/s(/form).",
+      "Paso 2: Convierte frecuencia a (form)Hz: 100,000,000 \\, Hz(/form).",
+      "Paso 3: Despeja lambda: (form)\\lambda = \\frac{v}{f} = \\frac{300,000,000}{100,000,000}(/form).",
+      "Paso 4: Resultado: (form)3 \\, m(/form)."
     ],
     "analisisDeError": {
       "1": "Error en la conversión de unidades de frecuencia o velocidad.",
@@ -220,12 +220,12 @@
     }
   },
   {
-    "id": 38,
+    "id": "f12",
     "materia": "Física (Área 1)",
     "dificultad": 1,
     "tiempoSugerido": 45,
-    "pregunta": "¿Qué tipo de espejo produce siempre imágenes virtuales, derechas y de menor tamaño que el objeto?",
-    "formulaPrincipal": "Óptica Geométrica",
+    "pregunta": "Óptica Geométrica ¿Qué tipo de espejo produce siempre imágenes virtuales, derechas y de menor tamaño que el objeto?",
+    "formulaPrincipal": "",
     "opciones": ["Espejo Cóncavo", "Espejo Convexo", "Espejo Plano", "Espejo Parabólico"],
     "correcta": 1,
     "explicacionPasos": [
@@ -239,20 +239,20 @@
     }
   },
   {
-    "id": 39,
+    "id": "f13",
     "materia": "Física (Área 1)",
     "dificultad": 3,
     "tiempoSugerido": 120,
-    "pregunta": "De acuerdo con la Ley de Charles, si un gas a 300 K ocupa 2 L, ¿qué volumen ocupará si la temperatura sube a 600 K a presión constante?",
+    "pregunta": "De acuerdo con la Ley de Charles, si un gas a (form)300 \\, K(/form) ocupa (form)2 \\, L(/form), ¿qué volumen ocupará si la temperatura sube a (form)600 \\, K(/form) a presión constante?",
     "formulaPrincipal": "V1 / T1 = V2 / T2",
     "opciones": ["1 L", "4 L", "6 L", "0.5 L"],
     "correcta": 1,
     "explicacionPasos": [
       "Paso 1: Identifica la relación directa entre volumen y temperatura.",
-      "Paso 2: Datos: V1=2, T1=300, T2=600.",
-      "Paso 3: Despeja V2: (V1 * T2) / T1 = (2 * 600) / 300.",
-      "Paso 4: 1200 / 300 = 4.",
-      "Resultado: 4 Litros."
+      "Paso 2: Datos: (form)V_1=2, \\, T_1=300, \\, T_2=600(/form).",
+      "Paso 3: Despeja (form)V_2: \\frac{V_1 \\cdot T_2}{T_1} = \\frac{2 \\cdot 600}{300}(/form).",
+      "Paso 4: (form)\\frac{1200}{300} = 4(/form).",
+      "Resultado: (form)4 \\, L(/form)."
     ],
     "analisisDeError": {
       "0": "Invertiste la relación (pensaste que era inversamente proporcional).",
@@ -260,19 +260,19 @@
     }
   },
   {
-    "id": 40,
+    "id": "f14",
     "materia": "Física (Área 1)",
     "dificultad": 4,
     "tiempoSugerido": 180,
-    "pregunta": "Calcula la resistencia total de un circuito que tiene dos resistencias de 6 ohms conectadas en paralelo.",
+    "pregunta": "Calcula la resistencia total de un circuito que tiene dos resistencias de (form)6 \\, \\Omega(/form) conectadas en paralelo.",
     "formulaPrincipal": "1 / Rt = 1 / R1 + 1 / R2",
     "opciones": ["12 ohms", "3 ohms", "6 ohms", "1 ohm"],
     "correcta": 1,
     "explicacionPasos": [
-      "Paso 1: Aplica la fórmula para paralelo: 1/Rt = 1/6 + 1/6.",
-      "Paso 2: Suma las fracciones: 2/6.",
-      "Paso 3: Invierte el resultado para obtener Rt: 6 / 2 = 3.",
-      "Resultado: 3 ohms."
+      "Paso 1: Aplica la fórmula para paralelo: (form)\\frac{1}{R_t} = \\frac{1}{6} + \\frac{1}{6}(/form).",
+      "Paso 2: Suma las fracciones: (form)\\frac{2}{6}(/form).",
+      "Paso 3: Invierte el resultado para obtener (form)R_t: \\frac{6}{2} = 3(/form).",
+      "Resultado: (form)3 \\, \\Omega(/form)."
     ],
     "analisisDeError": {
       "0": "Sumaste las resistencias como si estuvieran en serie.",
@@ -280,39 +280,39 @@
     }
   },
   {
-    "id": 41,
+    "id": "f15",
     "materia": "Física (Área 1)",
     "dificultad": 2,
     "tiempoSugerido": 90,
-    "pregunta": "¿Cuál es la fuerza de empuje que recibe un objeto que desplaza 0.02 m^3 de agua? (Densidad agua = 1000 kg/m^3, g = 10 m/s^2)",
+    "pregunta": "¿Cuál es la fuerza de empuje que recibe un objeto que desplaza (form)0.02 \\, m^3(/form) de agua? (Densidad agua (form)= 1000 \\, kg/m^3, \\, g = 10 \\, m/s^2(/form))",
     "formulaPrincipal": "E = rho * g * V",
     "opciones": ["20 N", "200 N", "2000 N", "2 N"],
     "correcta": 1,
     "explicacionPasos": [
-      "Paso 1: Datos: rho=1000, g=10, V=0.02.",
-      "Paso 2: Multiplica: 1000 * 10 * 0.02.",
-      "Paso 3: 10,000 * 0.02 = 200.",
-      "Resultado: 200 N."
+      "Paso 1: Datos: (form)\\rho=1000, \\, g=10, \\, V=0.02(/form).",
+      "Paso 2: Multiplica: (form)1000 \\cdot 10 \\cdot 0.02(/form).",
+      "Paso 3: (form)10,000 \\cdot 0.02 = 200(/form).",
+      "Resultado: (form)200 \\, N(/form)."
     ],
     "analisisDeError": {
-      "0": "Olvidaste multiplicar por la gravedad (10 m/s^2).",
+      "0": "Olvidaste multiplicar por la gravedad (form)10 \\, m/s^2(/form).",
       "3": "Error en el manejo de los puntos decimales."
     }
   },
   {
-    "id": 42,
+    "id": "f16",
     "materia": "Física (Área 1)",
     "dificultad": 3,
     "tiempoSugerido": 120,
-    "pregunta": "Un objeto realiza 60 oscilaciones en un minuto. ¿Cuál es su frecuencia y su periodo?",
+    "pregunta": "Un objeto realiza (form)60(/form) oscilaciones en un minuto. ¿Cuál es su frecuencia y su periodo?",
     "formulaPrincipal": "f = ciclos / t , T = 1 / f",
     "opciones": ["1 Hz y 1 s", "60 Hz y 60 s", "1 Hz y 60 s", "60 Hz y 1 s"],
     "correcta": 0,
     "explicacionPasos": [
-      "Paso 1: Convierte el tiempo a segundos: 1 min = 60 s.",
-      "Paso 2: Frecuencia (f) = 60 ciclos / 60 s = 1 Hz.",
-      "Paso 3: Periodo (T) = 1 / f = 1 / 1 = 1 s.",
-      "Resultado: 1 Hz y 1 s."
+      "Paso 1: Convierte el tiempo a segundos: (form)1 \\, min = 60 \\, s(/form).",
+      "Paso 2: Frecuencia (form)f = \\frac{60 \\, ciclos}{60 \\, s} = 1 \\, Hz(/form).",
+      "Paso 3: Periodo (form)T = \\frac{1}{f} = \\frac{1}{1} = 1 \\, s(/form).",
+      "Resultado: (form)1 \\, Hz(/form) y (form)1 \\, s(/form)."
     ],
     "analisisDeError": {
       "1": "No convertiste el minuto a segundos.",
@@ -320,39 +320,39 @@
     }
   },
   {
-    "id": 43,
+    "id": "f17",
     "materia": "Física (Área 1)",
     "dificultad": 4,
     "tiempoSugerido": 150,
-    "pregunta": "¿Qué cantidad de calor se requiere para elevar la temperatura de 200g de agua de 20°C a 50°C? (Ce agua = 1 cal/g°C)",
+    "pregunta": "¿Qué cantidad de calor se requiere para elevar la temperatura de (form)200 \\, g(/form) de agua de (form)20^{\\circ}C(/form) a (form)50^{\\circ}C(/form)? ((form)C_e \\text{ agua} = 1 \\, cal/g^{\\circ}C(/form))",
     "formulaPrincipal": "Q = m * Ce * deltaT",
     "opciones": ["600 cal", "6000 cal", "4000 cal", "10,000 cal"],
     "correcta": 1,
     "explicacionPasos": [
-      "Paso 1: Calcula deltaT: 50 - 20 = 30°C.",
-      "Paso 2: Sustituye en la fórmula: Q = 200 * 1 * 30.",
-      "Paso 3: Multiplica: 200 * 30 = 6000.",
-      "Resultado: 6000 calorías."
+      "Paso 1: Calcula (form)\\Delta T: 50 - 20 = 30^{\\circ}C(/form).",
+      "Paso 2: Sustituye en la fórmula: (form)Q = 200 \\cdot 1 \\cdot 30(/form).",
+      "Paso 3: Multiplica: (form)200 \\cdot 30 = 6000(/form).",
+      "Resultado: (form)6000 \\, cal(/form)."
     ],
     "analisisDeError": {
       "0": "Olvidaste un cero en la multiplicación final.",
-      "2": "Usaste la temperatura inicial en lugar de la diferencia (deltaT)."
+      "2": "Usaste la temperatura inicial en lugar de la diferencia (form)\\Delta T(/form)."
     }
   },
   {
-    "id": 44,
+    "id": "f18",
     "materia": "Física (Área 1)",
     "dificultad": 3,
     "tiempoSugerido": 120,
-    "pregunta": "¿Cuál es la capacitancia equivalente de dos capacitores de 10 microF y 20 microF conectados en serie?",
+    "pregunta": "¿Cuál es la capacitancia equivalente de dos capacitores de (form)10 \\, \\mu F(/form) y (form)20 \\, \\mu F(/form) conectados en serie?",
     "formulaPrincipal": "1 / Ce = 1 / C1 + 1 / C2",
     "opciones": ["30 microF", "6.66 microF", "15 microF", "2 microF"],
     "correcta": 1,
     "explicacionPasos": [
-      "Paso 1: Para capacitores en serie se usa la suma de inversos: 1/Ce = 1/10 + 1/20.",
-      "Paso 2: Común denominador es 20: 2/20 + 1/20 = 3/20.",
-      "Paso 3: Invierte el resultado: 20 / 3 = 6.66.",
-      "Resultado: 6.66 microfaradios."
+      "Paso 1: Para capacitores en serie se usa la suma de inversos: (form)\\frac{1}{C_e} = \\frac{1}{10} + \\frac{1}{20}(/form).",
+      "Paso 2: Común denominador es (form)20: \\frac{2}{20} + \\frac{1}{20} = \\frac{3}{20}(/form).",
+      "Paso 3: Invierte el resultado: (form)\\frac{20}{3} = 6.66(/form).",
+      "Resultado: (form)6.66 \\, \\mu F(/form)."
     ],
     "analisisDeError": {
       "0": "Los sumaste como si estuvieran en paralelo (los capacitores funcionan al revés que las resistencias).",
@@ -360,17 +360,17 @@
     }
   },
   {
-    "id": 45,
+    "id": "f19",
     "materia": "Física (Área 1)",
     "dificultad": 1,
     "tiempoSugerido": 45,
-    "pregunta": "De acuerdo con la Tercera Ley de la Termodinámica, es imposible alcanzar:",
-    "formulaPrincipal": "Leyes de la Termodinámica",
+    "pregunta": "Leyes de la Termodinámica - De acuerdo con la Tercera Ley de la Termodinámica, es imposible alcanzar:",
+    "formulaPrincipal": "",
     "opciones": ["El punto de ebullición", "El equilibrio térmico", "El cero absoluto", "La máxima eficiencia"],
     "correcta": 2,
     "explicacionPasos": [
       "Paso 1: La tercera ley establece que la entropía de un cristal perfecto es cero en el cero absoluto.",
-      "Paso 2: También afirma que es imposible llegar al 0 K mediante un número finito de procesos físicos.",
+      "Paso 2: También afirma que es imposible llegar al (form)0 \\, K(/form) mediante un número finito de procesos físicos.",
       "Resultado: El cero absoluto."
     ],
     "analisisDeError": {
@@ -379,20 +379,20 @@
     }
   },
   {
-    "id": 46,
+    "id": "f20",
     "materia": "Física (Área 1)",
     "dificultad": 4,
     "tiempoSugerido": 180,
-    "pregunta": "Un transformador tiene 100 vueltas en el primario y 500 en el secundario. Si el voltaje de entrada es de 120 V, ¿cuál es el voltaje de salida?",
+    "pregunta": "Un transformador tiene (form)100(/form) vueltas en el primario y (form)500(/form) en el secundario. Si el voltaje de entrada es de (form)120 \\, V(/form), ¿cuál es el voltaje de salida?",
     "formulaPrincipal": "Vp / Np = Vs / Ns",
     "opciones": ["24 V", "600 V", "120 V", "500 V"],
     "correcta": 1,
     "explicacionPasos": [
-      "Paso 1: Datos: Vp=120, Np=100, Ns=500.",
-      "Paso 2: Despeja Vs: Vs = (Vp * Ns) / Np.",
-      "Paso 3: Sustituye: (120 * 500) / 100.",
-      "Paso 4: Simplifica ceros: 120 * 5 = 600.",
-      "Resultado: 600 V."
+      "Paso 1: Datos: (form)V_p=120, \\, N_p=100, \\, N_s=500(/form).",
+      "Paso 2: Despeja (form)V_s: V_s = \\frac{V_p \\cdot N_s}{N_p}(/form).",
+      "Paso 3: Sustituye: (form)\\frac{120 \\cdot 500}{100}(/form).",
+      "Paso 4: Simplifica ceros: (form)120 \\cdot 5 = 600(/form).",
+      "Resultado: (form)600 \\, V(/form)."
     ],
     "analisisDeError": {
       "0": "Dividiste en lugar de multiplicar (asumiste que era reductor cuando es elevador).",
@@ -400,37 +400,37 @@
     }
   },
   {
-    "id": 47,
+    "id": "f21",
     "materia": "Física (Área 1)",
     "dificultad": 3,
     "tiempoSugerido": 150,
-    "pregunta": "Dos fuerzas de 3 N y 4 N actúan sobre un mismo punto formando un ángulo de 90 grados entre ellas. ¿Cuál es la magnitud de la fuerza resultante?",
+    "pregunta": "Dos fuerzas de (form)3 \\, N(/form) y (form)4 \\, N(/form) actúan sobre un mismo punto formando un ángulo de (form)90(/form) grados entre ellas. ¿Cuál es la magnitud de la fuerza resultante?",
     "formulaPrincipal": "R = sqrt(Fx^2 + Fy^2)",
     "opciones": ["7 N", "1 N", "5 N", "12 N"],
     "correcta": 2,
     "explicacionPasos": [
-      "Paso 1: Al ser perpendiculares (90°), aplicamos el Teorema de Pitágoras.",
-      "Paso 2: R = sqrt(3^2 + 4^2).",
-      "Paso 3: R = sqrt(9 + 16) = sqrt(25).",
-      "Paso 4: Resultado: 5 N."
+      "Paso 1: Al ser perpendiculares ((form)90^{\\circ}(/form)), aplicamos el Teorema de Pitágoras.",
+      "Paso 2: (form)R = \\sqrt{3^2 + 4^2}(/form).",
+      "Paso 3: (form)R = \\sqrt{9 + 16} = \\sqrt{25}(/form).",
+      "Paso 4: Resultado: (form)5 \\, N(/form)."
     ],
     "analisisDeError": {
-      "0": "Sumaste las fuerzas aritméticamente (3+4), lo cual solo se hace si tienen la misma dirección.",
+      "0": "Sumaste las fuerzas aritméticamente (form)3+4(/form), lo cual solo se hace si tienen la misma dirección.",
       "1": "Restaste las fuerzas, lo cual solo se hace si tienen direcciones opuestas."
     }
   },
   {
-    "id": 48,
+    "id": "f22",
     "materia": "Física (Área 1)",
     "dificultad": 4,
     "tiempoSugerido": 180,
-    "pregunta": "De acuerdo con la Teoría de la Relatividad Especial, si un objeto se mueve a velocidades cercanas a la de la luz, ¿qué sucede con su masa desde la perspectiva de un observador en reposo?",
-    "formulaPrincipal": "Relatividad de Einstein",
+    "pregunta": "Relatividad de Einstein - De acuerdo con la Teoría de la Relatividad Especial, si un objeto se mueve a velocidades cercanas a la de la luz, ¿qué sucede con su masa desde la perspectiva de un observador en reposo?",
+    "formulaPrincipal": "",
     "opciones": ["Disminuye", "Permanece constante", "Aumenta", "Se vuelve cero"],
     "correcta": 2,
     "explicacionPasos": [
       "Paso 1: Einstein postuló que la masa relativista varía con la velocidad.",
-      "Paso 2: Conforme v se acerca a c (velocidad de la luz), el factor de Lorentz aumenta.",
+      "Paso 2: Conforme (form)v(/form) se acerca a (form)c(/form) (velocidad de la luz), el factor de Lorentz aumenta.",
       "Resultado: La masa aumenta (masa relativista)."
     ],
     "analisisDeError": {
@@ -439,7 +439,7 @@
     }
   },
   {
-    "id": 49,
+    "id": "f23",
     "materia": "Física (Área 1)",
     "dificultad": 2,
     "tiempoSugerido": 90,
@@ -458,20 +458,20 @@
     }
   },
   {
-    "id": 50,
+    "id": "f24",
     "materia": "Física (Área 1)",
     "dificultad": 4,
     "tiempoSugerido": 180,
-    "pregunta": "Un fotón tiene una frecuencia de 5x10^14 Hz. ¿Cuál es su energía? (h = 6.6x10^-34 J*s)",
+    "pregunta": "Un fotón tiene una frecuencia de (form)5 \\times 10^{14} \\, Hz(/form). ¿Cuál es su energía? ((form)h = 6.6 \\times 10^{-34} \\, J \\cdot s(/form))",
     "formulaPrincipal": "E = h * f",
     "opciones": ["3.3 * 10^-19 J", "33 * 10^-19 J", "1.3 * 10^-48 J", "3.3 * 10^-48 J"],
     "correcta": 0,
     "explicacionPasos": [
-      "Paso 1: Multiplica la constante de Planck por la frecuencia: 6.6x10^-34 * 5x10^14.",
-      "Paso 2: Multiplica coeficientes: 6.6 * 5 = 33.",
-      "Paso 3: Suma exponentes: -34 + 14 = -20.",
-      "Paso 4: Ajusta notación científica: 33x10^-20 = 3.3x10^-19.",
-      "Resultado: 3.3 * 10^-19 J."
+      "Paso 1: Multiplica la constante de Planck por la frecuencia: (form)6.6 \\times 10^{-34} \\cdot 5 \\times 10^{14}(/form).",
+      "Paso 2: Multiplica coeficientes: (form)6.6 \\cdot 5 = 33(/form).",
+      "Paso 3: Suma exponentes: (form)-34 + 14 = -20(/form).",
+      "Paso 4: Ajusta notación científica: (form)33 \\times 10^{-20} = 3.3 \\times 10^{-19}(/form).",
+      "Resultado: (form)3.3 \\times 10^{-19} \\, J(/form)."
     ],
     "analisisDeError": {
       "1": "No ajustaste correctamente la notación científica.",
@@ -479,12 +479,12 @@
     }
   },
   {
-    "id": 51,
+    "id": "f25",
     "materia": "Física (Área 1)",
     "dificultad": 3,
     "tiempoSugerido": 120,
-    "pregunta": "¿Qué fenómeno explica que una persona vea su voz reflejada como un eco al estar frente a una montaña?",
-    "formulaPrincipal": "Propiedades de las ondas",
+    "pregunta": "Propiedades de las ondas ¿Qué fenómeno explica que una persona vea su voz reflejada como un eco al estar frente a una montaña?",
+    "formulaPrincipal": "",
     "opciones": ["Refracción", "Reflexión", "Interferencia", "Efecto Doppler"],
     "correcta": 1,
     "explicacionPasos": [
@@ -498,19 +498,19 @@
     }
   },
   {
-    "id": 52,
+    "id": "f26",
     "materia": "Física (Área 1)",
     "dificultad": 2,
     "tiempoSugerido": 60,
-    "pregunta": "Un objeto de 2 kg está colgado de un hilo. ¿Cuál es la tensión del hilo si el objeto está en reposo? (g = 10 m/s^2)",
+    "pregunta": "Un objeto de (form)2 \\, kg(/form) está colgado de un hilo. ¿Cuál es la tensión del hilo si el objeto está en reposo? ((form)g = 10 \\, m/s^2(/form))",
     "formulaPrincipal": "Sigma F = 0 -> T - w = 0",
     "opciones": ["2 N", "10 N", "20 N", "0 N"],
     "correcta": 2,
     "explicacionPasos": [
-      "Paso 1: En equilibrio, la tensión (T) es igual al peso (w).",
-      "Paso 2: Peso = masa * gravedad = 2 kg * 10 m/s^2.",
-      "Paso 3: T = 20 N.",
-      "Resultado: 20 N."
+      "Paso 1: En equilibrio, la tensión ((form)T(/form)) es igual al peso ((form)w(/form)).",
+      "Paso 2: Peso (form)= masa \\cdot gravedad = 2 \\, kg \\cdot 10 \\, m/s^2(/form).",
+      "Paso 3: (form)T = 20 \\, N(/form).",
+      "Resultado: (form)20 \\, N(/form)."
     ],
     "analisisDeError": {
       "0": "Confundiste masa con peso (tensión).",
@@ -518,7 +518,7 @@
     }
   },
   {
-    "id": 53,
+    "id": "f27",
     "materia": "Física (Área 1)",
     "dificultad": 4,
     "tiempoSugerido": 180,
@@ -536,32 +536,32 @@
     }
   },
   {
-    "id": 54,
+    "id": "f28",
     "materia": "Física (Área 1)",
     "dificultad": 3,
     "tiempoSugerido": 150,
-    "pregunta": "Calcula la potencia de una lente cuya distancia focal es de 0.5 metros.",
+    "pregunta": "Calcula la potencia de una lente cuya distancia focal es de (form)0.5 \\, metros(/form).",
     "formulaPrincipal": "P = 1 / f",
     "opciones": ["0.5 dioptrías", "5 dioptrías", "2 dioptrías", "1 dioptría"],
     "correcta": 2,
     "explicacionPasos": [
       "Paso 1: La potencia de una lente es el inverso de la focal en metros.",
-      "Paso 2: P = 1 / 0.5.",
-      "Paso 3: Realiza la división: 1 dividido entre la mitad es 2.",
-      "Resultado: 2 dioptrías."
+      "Paso 2: (form)P = \\frac{1}{0.5}(/form).",
+      "Paso 3: Realiza la división: 1 dividido entre la mitad es (form)2(/form).",
+      "Resultado: (form)2 \\, dioptrías(/form)."
     ],
     "analisisDeError": {
       "0": "Usaste el valor de la focal como si fuera la potencia.",
-      "1": "Error en el cálculo decimal de 1 / 0.5."
+      "1": "Error en el cálculo decimal de (form)1 / 0.5(/form)."
     }
   },
   {
-    "id": 55,
+    "id": "f29",
     "materia": "Física (Área 1)",
     "dificultad": 1,
     "tiempoSugerido": 45,
-    "pregunta": "¿Qué partícula del átomo tiene carga negativa?",
-    "formulaPrincipal": "Estructura atómica",
+    "pregunta": "Estructura atómica ¿Qué partícula del átomo tiene carga negativa?",
+    "formulaPrincipal": "",
     "opciones": ["Protón", "Neutrón", "Electrón", "Positrón"],
     "correcta": 2,
     "explicacionPasos": [
@@ -575,24 +575,24 @@
     }
   },
   {
-    "id": 56,
+    "id": "f30",
     "materia": "Física (Área 1)",
     "dificultad": 4,
     "tiempoSugerido": 200,
-    "pregunta": "Un proyectil se lanza con una velocidad de 50 m/s y un ángulo de 30 grados. ¿Cuál es su velocidad en el punto más alto de su trayectoria? (cos 30 = 0.86, sen 30 = 0.5)",
+    "pregunta": "Un proyectil se lanza con una velocidad de (form)50 \\, m/s(/form) y un ángulo de (form)30(/form) grados. ¿Cuál es su velocidad en el punto más alto de su trayectoria? ((form)\\cos 30 = 0.86, \\, \\text{sen} 30 = 0.5(/form))",
     "formulaPrincipal": "vx = v0 * cos(theta)",
     "opciones": ["0 m/s", "25 m/s", "43 m/s", "50 m/s"],
     "correcta": 2,
     "explicacionPasos": [
-      "Paso 1: En el tiro parabólico, en el punto más alto, la velocidad vertical (vy) es cero.",
-      "Paso 2: Sin embargo, la velocidad horizontal (vx) es constante en todo el vuelo.",
-      "Paso 3: vx = v0 * cos(30°) = 50 * 0.86.",
-      "Paso 4: Multiplica: 50 * 0.86 = 43.",
-      "Resultado: 43 m/s."
+      "Paso 1: En el tiro parabólico, en el punto más alto, la velocidad vertical ((form)v_y(/form)) es cero.",
+      "Paso 2: Sin embargo, la velocidad horizontal ((form)v_x(/form)) es constante en todo el vuelo.",
+      "Paso 3: (form)v_x = v_0 \\cdot \\cos(30^{\\circ}) = 50 \\cdot 0.86(/form).",
+      "Paso 4: Multiplica: (form)50 \\cdot 0.86 = 43(/form).",
+      "Resultado: (form)43 \\, m/s(/form)."
     ],
     "analisisDeError": {
       "0": "Error común: En el punto más alto la velocidad vertical es 0, pero la horizontal NO.",
-      "1": "Calculaste la velocidad vertical inicial (v0 * sen 30)."
+      "1": "Calculaste la velocidad vertical inicial (form)v_0 \\cdot \\text{sen} 30(/form)."
     }
   }
 ]
