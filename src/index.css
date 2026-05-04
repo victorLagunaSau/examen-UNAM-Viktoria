@@ -4,16 +4,17 @@
 @import 'katex/dist/katex.min.css';
 
 @theme {
-  /* Registramos las variables para que Tailwind las reconozca */
-  --color-viktoria-navy: #0f172a;
-  --color-viktoria-emerald: #10b981;
+  /* Registramos las variables con los colores institucionales de la UNAM */
+  --color-viktoria-navy: #002b7a; /* Azul UNAM */
+  --color-viktoria-gold: #f2c100; /* Oro UNAM */
+  --color-viktoria-gold-dark: #b89300;
   --shadow-cute: 0 20px 50px -12px rgba(0, 0, 0, 0.08);
 }
 
 /* 1. Reset y Estilos Base */
 :root {
-  background-color: #fdfbf7; /* Color crema suave para descansar la vista */
-  color: #0f172a;
+  background-color: #fdfbf7;
+  color: #002b7a; /* Texto en Azul UNAM */
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-family: 'Inter', system-ui, sans-serif;
@@ -33,7 +34,7 @@
     transition: all 0.5s cubic-bezier(0.16, 1, 0.3, 1);
   }
 
-  /* BOTÓN PRIMARIO (EL VERDE FREGÓN) */
+  /* BOTÓN PRIMARIO (ESTILO UNAM) */
   .btn-viktoria-primary {
     display: flex;
     align-items: center;
@@ -41,12 +42,11 @@
     gap: 0.75rem;
     padding: 1.5rem 3rem;
 
-    /* Redondeado total (Capsule Style) */
     border-radius: 9999px;
 
-    /* Gradiente Esmeralda */
-    background: linear-gradient(135deg, #34d399 0%, #0d9488 100%);
-    color: white;
+    /* Gradiente Azul a Oro (Pumas Style) */
+    background: linear-gradient(135deg, #002b7a 0%, #001b4d 100%);
+    color: #f2c100; /* Texto en Oro para contraste */
 
     /* Tipografía */
     font-weight: 900;
@@ -55,26 +55,29 @@
     font-size: 0.85rem;
 
     /* Interacción */
-    border: none;
+    border: 2px solid #f2c100; /* Borde dorado */
     cursor: pointer;
-    box-shadow: 0 15px 35px -5px rgba(16, 185, 129, 0.4);
+    box-shadow: 0 15px 35px -5px rgba(0, 43, 122, 0.3);
     transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
   }
 
   .btn-viktoria-primary:hover {
     transform: translateY(-4px) scale(1.02);
-    box-shadow: 0 25px 50px -10px rgba(16, 185, 129, 0.6);
-    filter: brightness(1.1);
+    /* Al hacer hover brilla el oro */
+    background: linear-gradient(135deg, #003da5 0%, #002b7a 100%);
+    box-shadow: 0 25px 50px -10px rgba(0, 43, 122, 0.5);
+    color: white;
+    border-color: white;
   }
 
   .btn-viktoria-primary:active {
     transform: translateY(2px) scale(0.98);
   }
 
-  /* BOTÓN FANTASMA (Para opciones no seleccionadas) */
+  /* BOTÓN FANTASMA */
   .btn-viktoria-ghost {
-    background-color: #f8fafc;
-    color: #94a3b8;
+    background-color: #f1f5f9;
+    color: #002b7a; /* Texto en azul */
     border-radius: 1.5rem;
     padding: 1rem 1.5rem;
     font-weight: 700;
@@ -85,9 +88,9 @@
 
   .btn-viktoria-ghost:hover {
     background-color: white;
-    border-color: #e2e8f0;
-    color: #64748b;
-    box-shadow: 0 10px 20px rgba(0,0,0,0.03);
+    border-color: #f2c100; /* Borde oro al pasar el mouse */
+    color: #002b7a;
+    box-shadow: 0 10px 20px rgba(0, 43, 122, 0.05);
   }
 }
 
@@ -107,11 +110,11 @@
   animation: slideUp 0.8s cubic-bezier(0.16, 1, 0.3, 1) forwards;
 }
 
-/* Estilos de KaTeX para que no se vean pegados */
+/* Estilos de KaTeX - Ajustados a tonos azulados */
 .katex-display {
   padding: 1.5rem;
-  background-color: #f8fafc;
+  background-color: #f0f4f8; /* Azul muy pálido */
   border-radius: 2rem;
   margin: 1.5rem 0;
-  border: 1px solid #f1f5f9;
+  border: 1px solid #d1d9e6;
 }

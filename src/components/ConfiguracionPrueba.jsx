@@ -29,7 +29,7 @@ function ConfiguracionPrueba({cantidad, setCantidad, dificultad, setDificultad, 
                     </div>
                     <h1 className="text-5xl font-black italic tracking-tighter text-white">
                         Viktoria <span
-                        className="text-emerald-400 underline decoration-wavy decoration-1 underline-offset-8">UNAM</span>
+                        className="text-yellow-600 underline decoration-wavy decoration-1 underline-offset-8">UNAM</span>
                     </h1>
                     <p className="text-emerald-100/60 font-bold uppercase tracking-[0.3em] text-[10px] mt-4">
                         Área 1: Ciencias Físico-Matemáticas
