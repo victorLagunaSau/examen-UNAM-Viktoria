@@ -1,7 +1,7 @@
 [
   {
     "id": "H-01",
-    "materia": "Historia Universal",
+    "materia": "Historia",
     "dificultad": 1,
     "tiempoSugerido": 45,
     "pregunta": "¿Qué nombre recibe la disciplina que se encarga de estudiar y narrar los acontecimientos pasados de la humanidad a través de la interpretación de fuentes?",
@@ -24,7 +24,7 @@
   },
   {
     "id": "H-02",
-    "materia": "Historia Universal",
+    "materia": "Historia",
     "dificultad": 2,
     "tiempoSugerido": 60,
     "pregunta": "Movimiento intelectual del siglo XVIII que basaba el progreso de la humanidad en el uso de la razón y la crítica a los dogmas religiosos.",
@@ -47,7 +47,7 @@
   },
   {
     "id": "H-03",
-    "materia": "Historia Universal",
+    "materia": "Historia",
     "dificultad": 2,
     "tiempoSugerido": 60,
     "pregunta": "¿Cuál fue uno de los principales pensadores de la Ilustración que propuso la división de poderes (Ejecutivo, Legislativo y Judicial)?",
@@ -70,7 +70,7 @@
   },
   {
     "id": "H-04",
-    "materia": "Historia Universal",
+    "materia": "Historia",
     "dificultad": 2,
     "tiempoSugerido": 60,
     "pregunta": "¿Cuál fue la causa económica inmediata que detonó la Independencia de las Trece Colonias de Norteamérica?",
@@ -94,7 +94,7 @@
   },
   {
     "id": "H-05",
-    "materia": "Historia Universal",
+    "materia": "Historia",
     "dificultad": 1,
     "tiempoSugerido": 50,
     "pregunta": "Suceso que marca el inicio simbólico de la Revolución Francesa en 1789.",
@@ -117,7 +117,7 @@
   },
   {
     "id": "H-06",
-    "materia": "Historia Universal",
+    "materia": "Historia",
     "dificultad": 2,
     "tiempoSugerido": 60,
     "pregunta": "Clase social que lideró las revoluciones de finales del siglo XVIII y que buscaba el control político y económico.",
@@ -140,7 +140,7 @@
   },
   {
     "id": "H-07",
-    "materia": "Historia Universal",
+    "materia": "Historia",
     "dificultad": 2,
     "tiempoSugerido": 60,
     "pregunta": "Documento fundamental de la Revolución Francesa que establecía la igualdad, libertad y fraternidad entre los ciudadanos.",
@@ -163,7 +163,7 @@
   },
   {
     "id": "H-08",
-    "materia": "Historia Universal",
+    "materia": "Historia",
     "dificultad": 2,
     "tiempoSugerido": 60,
     "pregunta": "Principal fuente de energía utilizada durante la primera fase de la Revolución Industrial.",
@@ -186,7 +186,7 @@
   },
   {
     "id": "H-09",
-    "materia": "Historia Universal",
+    "materia": "Historia",
     "dificultad": 1,
     "tiempoSugerido": 45,
     "pregunta": "¿Qué tipo de fuentes históricas son los diarios, cartas y documentos oficiales de la época en estudio?",
@@ -209,7 +209,7 @@
   },
   {
     "id": "H-10",
-    "materia": "Historia Universal",
+    "materia": "Historia",
     "dificultad": 2,
     "tiempoSugerido": 60,
     "pregunta": "¿En qué consiste el 'Contrato Social' propuesto por Rousseau?",
@@ -232,7 +232,7 @@
   },
   {
     "id": "H-11",
-    "materia": "Historia Universal",
+    "materia": "Historia",
     "dificultad": 1,
     "tiempoSugerido": 50,
     "pregunta": "Periodo de la historia que se sitúa entre la caída del Imperio Romano de Occidente (476) y la caída de Constantinopla (1453).",
@@ -255,7 +255,7 @@
   },
   {
     "id": "H-12",
-    "materia": "Historia Universal",
+    "materia": "Historia",
     "dificultad": 2,
     "tiempoSugerido": 60,
     "pregunta": "País que brindó apoyo militar clave a las colonias americanas para derrotar a Inglaterra en su proceso de independencia.",
@@ -278,7 +278,7 @@
   },
   {
     "id": "H-13",
-    "materia": "Historia Universal",
+    "materia": "Historia",
     "dificultad": 2,
     "tiempoSugerido": 55,
     "pregunta": "Consiste en la creencia de que los monarcas recibían su poder directamente de Dios, característica central del Absolutismo.",
@@ -301,7 +301,7 @@
   },
   {
     "id": "H-14",
-    "materia": "Historia Universal",
+    "materia": "Historia",
     "dificultad": 2,
     "tiempoSugerido": 60,
     "pregunta": "¿Qué consecuencia social trajo consigo la Revolución Industrial?",
@@ -324,7 +324,7 @@
   },
   {
     "id": "H-15",
-    "materia": "Historia Universal",
+    "materia": "Historia",
     "dificultad": 2,
     "tiempoSugerido": 65,
     "pregunta": "¿Quién escribió 'La Riqueza de las Naciones', sentando las bases del liberalismo económico?",
@@ -347,7 +347,7 @@
   },
   {
     "id": "H-16",
-    "materia": "Historia Universal",
+    "materia": "Historia",
     "dificultad": 1,
     "tiempoSugerido": 50,
     "pregunta": "¿Cómo se denominan los restos materiales, documentos o testimonios que el historiador utiliza para reconstruir el pasado?",
@@ -370,7 +370,7 @@
   },
   {
     "id": "H-17",
-    "materia": "Historia Universal",
+    "materia": "Historia",
     "dificultad": 2,
     "tiempoSugerido": 60,
     "pregunta": "Filósofo ilustrado que en su obra 'El contrato social' afirmó que la soberanía reside en el pueblo y no en el monarca.",
@@ -393,7 +393,7 @@
   },
   {
     "id": "H-18",
-    "materia": "Historia Universal",
+    "materia": "Historia",
     "dificultad": 2,
     "tiempoSugerido": 60,
     "pregunta": "¿Qué evento detonó la Guerra de Independencia de las Trece Colonias en 1773, relacionado con el monopolio comercial británico?",
@@ -416,7 +416,7 @@
   },
   {
     "id": "H-19",
-    "materia": "Historia Universal",
+    "materia": "Historia",
     "dificultad": 2,
     "tiempoSugerido": 65,
     "pregunta": "Es el sistema político, social y económico que predominaba en Europa antes de la Revolución Francesa, caracterizado por el absolutismo y la sociedad estamental.",
@@ -439,7 +439,7 @@
   },
   {
     "id": "H-20",
-    "materia": "Historia Universal",
+    "materia": "Historia",
     "dificultad": 2,
     "tiempoSugerido": 60,
     "pregunta": "Durante la Revolución Francesa, ¿qué grupo político representaba a la pequeña burguesía y se caracterizaba por sus posturas radicales?",
@@ -462,7 +462,7 @@
   },
   {
     "id": "H-21",
-    "materia": "Historia Universal",
+    "materia": "Historia",
     "dificultad": 2,
     "tiempoSugerido": 55,
     "pregunta": "¿Cuál fue la principal innovación tecnológica que permitió el surgimiento de las fábricas durante la Revolución Industrial?",
@@ -485,7 +485,7 @@
   },
   {
     "id": "H-22",
-    "materia": "Historia Universal",
+    "materia": "Historia",
     "dificultad": 1,
     "tiempoSugerido": 50,
     "pregunta": "¿Cómo se llama el proceso de interpretación histórica que busca objetividad analizando críticamente las fuentes?",
@@ -508,7 +508,7 @@
   },
   {
     "id": "H-23",
-    "materia": "Historia Universal",
+    "materia": "Historia",
     "dificultad": 2,
     "tiempoSugerido": 60,
     "pregunta": "El lema 'Libertad, Igualdad y Fraternidad' fue la bandera principal de:",
@@ -531,7 +531,7 @@
   },
   {
     "id": "H-24",
-    "materia": "Historia Universal",
+    "materia": "Historia",
     "dificultad": 2,
     "tiempoSugerido": 60,
     "pregunta": "¿Qué pensador ilustrado es autor de 'Cartas Filosóficas' y defendió fervientemente la tolerancia religiosa y la libertad de culto?",
@@ -554,7 +554,7 @@
   },
   {
     "id": "H-25",
-    "materia": "Historia Universal",
+    "materia": "Historia",
     "dificultad": 2,
     "tiempoSugerido": 65,
     "pregunta": "¿Cuál fue el principal cambio económico que propició la burguesía con las revoluciones burguesas?",
@@ -577,7 +577,7 @@
   },
   {
     "id": "H-26",
-    "materia": "Historia Universal",
+    "materia": "Historia",
     "dificultad": 1,
     "tiempoSugerido": 45,
     "pregunta": "¿A qué edad de la historia dio inicio la Revolución Francesa en 1789?",
@@ -600,7 +600,7 @@
   },
   {
     "id": "H-27",
-    "materia": "Historia Universal",
+    "materia": "Historia",
     "dificultad": 2,
     "tiempoSugerido": 60,
     "pregunta": "¿Cuál fue una consecuencia política fundamental de la Independencia de las Trece Colonias?",
@@ -623,7 +623,7 @@
   },
   {
     "id": "H-28",
-    "materia": "Historia Universal",
+    "materia": "Historia",
     "dificultad": 2,
     "tiempoSugerido": 60,
     "pregunta": "La Enciclopedia, obra monumental de la Ilustración, tenía como objetivo:",
@@ -646,7 +646,7 @@
   },
   {
     "id": "H-29",
-    "materia": "Historia Universal",
+    "materia": "Historia",
     "dificultad": 2,
     "tiempoSugerido": 60,
     "pregunta": "Durante la Primera Revolución Industrial, ¿cuál fue la industria que se mecanizó primero y con mayor rapidez?",
@@ -669,7 +669,7 @@
   },
   {
     "id": "H-30",
-    "materia": "Historia Universal",
+    "materia": "Historia",
     "dificultad": 2,
     "tiempoSugerido": 55,
     "pregunta": "¿Qué nombre recibió la ley que obligaba a los colonos americanos a pagar por un sello oficial en documentos y periódicos, provocando gran indignación?",
@@ -692,7 +692,7 @@
   },
   {
     "id": "H-31",
-    "materia": "Historia Universal",
+    "materia": "Historia",
     "dificultad": 2,
     "tiempoSugerido": 60,
     "pregunta": "¿Qué movimiento filosófico y cultural del siglo XVIII consideraba que la ignorancia y el fanatismo eran los mayores obstáculos para la felicidad humana?",
@@ -715,7 +715,7 @@
   },
   {
     "id": "H-32",
-    "materia": "Historia Universal",
+    "materia": "Historia",
     "dificultad": 2,
     "tiempoSugerido": 65,
     "pregunta": "¿Cuál de las siguientes opciones describe una característica del liberalismo político del siglo XIX?",
@@ -738,7 +738,7 @@
   },
   {
     "id": "H-33",
-    "materia": "Historia Universal",
+    "materia": "Historia",
     "dificultad": 2,
     "tiempoSugerido": 60,
     "pregunta": "Personaje que lideró el Ejército Continental durante la Guerra de Independencia de las Trece Colonias y se convirtió en su primer presidente.",
@@ -761,7 +761,7 @@
   },
   {
     "id": "H-34",
-    "materia": "Historia Universal",
+    "materia": "Historia",
     "dificultad": 1,
     "tiempoSugerido": 50,
     "pregunta": "¿Cómo se llama la ciencia auxiliar de la historia que estudia las inscripciones hechas sobre materiales duros (piedra, metal)?",
@@ -784,7 +784,7 @@
   },
   {
     "id": "H-35",
-    "materia": "Historia Universal",
+    "materia": "Historia",
     "dificultad": 2,
     "tiempoSugerido": 60,
     "pregunta": "Durante la Revolución Francesa, ¿qué nombre recibió la fase radical liderada por Robespierre donde se ejecutó a miles de 'enemigos de la revolución'?",
@@ -807,7 +807,7 @@
   },
   {
     "id": "H-36",
-    "materia": "Historia Universal",
+    "materia": "Historia",
     "dificultad": 2,
     "tiempoSugerido": 60,
     "pregunta": "¿Cuál fue el principal cambio demográfico provocado por la Revolución Industrial?",
@@ -830,7 +830,7 @@
   },
   {
     "id": "H-37",
-    "materia": "Historia Universal",
+    "materia": "Historia",
     "dificultad": 1,
     "tiempoSugerido": 45,
     "pregunta": "¿En qué siglo se desarrolló principalmente el movimiento de la Ilustración?",
@@ -853,7 +853,7 @@
   },
   {
     "id": "H-38",
-    "materia": "Historia Universal",
+    "materia": "Historia",
     "dificultad": 2,
     "tiempoSugerido": 60,
     "pregunta": "¿Qué documento de 1776 proclamó que 'todos los hombres son creados iguales' y poseen derechos inalienables como la vida y la libertad?",
@@ -876,7 +876,7 @@
   },
   {
     "id": "H-39",
-    "materia": "Historia Universal",
+    "materia": "Historia",
     "dificultad": 2,
     "tiempoSugerido": 60,
     "pregunta": "Es considerada la primera gran revolución burguesa que limitó el poder absoluto de un monarca y estableció una monarquía parlamentaria.",
@@ -899,7 +899,7 @@
   },
   {
     "id": "H-40",
-    "materia": "Historia Universal",
+    "materia": "Historia",
     "dificultad": 1,
     "tiempoSugerido": 50,
     "pregunta": "Periodo de la prehistoria caracterizado por el descubrimiento de la agricultura y la sedentarización del ser humano.",
@@ -922,7 +922,7 @@
   },
   {
     "id": "H-41",
-    "materia": "Historia Universal",
+    "materia": "Historia",
     "dificultad": 2,
     "tiempoSugerido": 65,
     "pregunta": "¿Cuál fue el principal invento de James Watt que transformó la producción industrial?",
@@ -945,7 +945,7 @@
   },
   {
     "id": "H-42",
-    "materia": "Historia Universal",
+    "materia": "Historia",
     "dificultad": 2,
     "tiempoSugerido": 60,
     "pregunta": "Durante el Antiguo Régimen, el 'Tercer Estado' o 'Estado Llano' estaba compuesto por:",
@@ -968,7 +968,7 @@
   },
   {
     "id": "H-43",
-    "materia": "Historia Universal",
+    "materia": "Historia",
     "dificultad": 2,
     "tiempoSugerido": 60,
     "pregunta": "¿Qué nombre recibió la coalición de monarquías europeas que se unieron para combatir la expansión de la Revolución Francesa?",
@@ -991,7 +991,7 @@
   },
   {
     "id": "H-44",
-    "materia": "Historia Universal",
+    "materia": "Historia",
     "dificultad": 2,
     "tiempoSugerido": 60,
     "pregunta": "Eran pensadores ilustrados que coordinaron la creación de 'La Enciclopedia' para sistematizar el saber humano.",
@@ -1014,7 +1014,7 @@
   },
   {
     "id": "H-45",
-    "materia": "Historia Universal",
+    "materia": "Historia",
     "dificultad": 1,
     "tiempoSugerido": 45,
     "pregunta": "Es el estudio de la sucesión de los acontecimientos en el tiempo.",
@@ -1037,7 +1037,7 @@
   },
   {
     "id": "H-46",
-    "materia": "Historia Universal",
+    "materia": "Historia",
     "dificultad": 2,
     "tiempoSugerido": 60,
     "pregunta": "¿Qué movimiento obrero del siglo XIX consistía en la destrucción de máquinas por parte de los trabajadores, al considerar que estas causaban el desempleo?",
@@ -1060,7 +1060,7 @@
   },
   {
     "id": "H-47",
-    "materia": "Historia Universal",
+    "materia": "Historia",
     "dificultad": 3,
     "tiempoSugerido": 65,
     "pregunta": "Es la fase del capitalismo que se caracteriza por la expansión de las potencias industriales para controlar materias primas y mercados en África y Asia a finales del siglo XIX.",
@@ -1083,7 +1083,7 @@
   },
   {
     "id": "H-48",
-    "materia": "Historia Universal",
+    "materia": "Historia",
     "dificultad": 3,
     "tiempoSugerido": 70,
     "pregunta": "¿Cuál fue el pretexto o detonante inmediato que dio inicio a la Primera Guerra Mundial en 1914?",
@@ -1106,7 +1106,7 @@
   },
   {
     "id": "H-49",
-    "materia": "Historia Universal",
+    "materia": "Historia",
     "dificultad": 2,
     "tiempoSugerido": 60,
     "pregunta": "Conferencia de 1884-1885 donde las potencias europeas se repartieron el territorio africano sin tomar en cuenta a las poblaciones locales.",
@@ -1129,7 +1129,7 @@
   },
   {
     "id": "H-50",
-    "materia": "Historia Universal",
+    "materia": "Historia",
     "dificultad": 3,
     "tiempoSugerido": 60,
     "pregunta": "Alianza militar formada antes de la Primera Guerra Mundial integrada por Alemania, Austria-Hungría e Italia.",
@@ -1152,7 +1152,7 @@
   },
   {
     "id": "H-51",
-    "materia": "Historia Universal",
+    "materia": "Historia",
     "dificultad": 3,
     "tiempoSugerido": 75,
     "pregunta": "Documento con el que termina formalmente la Primera Guerra Mundial, imponiendo severas sanciones económicas y militares a Alemania.",
@@ -1175,7 +1175,7 @@
   },
   {
     "id": "H-52",
-    "materia": "Historia Universal",
+    "materia": "Historia",
     "dificultad": 2,
     "tiempoSugerido": 55,
     "pregunta": "¿Qué nombre recibió la táctica militar predominante durante la fase de estancamiento de la Gran Guerra (1915-1917)?",
@@ -1198,7 +1198,7 @@
   },
   {
     "id": "H-53",
-    "materia": "Historia Universal",
+    "materia": "Historia",
     "dificultad": 3,
     "tiempoSugerido": 65,
     "pregunta": "Personaje que unificó los estados alemanes en 1871 a través de una política de 'hierro y sangre', dando origen al Segundo Reich.",
@@ -1221,7 +1221,7 @@
   },
   {
     "id": "H-54",
-    "materia": "Historia Universal",
+    "materia": "Historia",
     "dificultad": 2,
     "tiempoSugerido": 60,
     "pregunta": "Forma de dominio imperialista en la que la potencia extranjera permite al gobierno local mantener cierta autonomía interna, pero controla la política exterior y la defensa.",
@@ -1244,7 +1244,7 @@
   },
   {
     "id": "H-55",
-    "materia": "Historia Universal",
+    "materia": "Historia",
     "dificultad": 3,
     "tiempoSugerido": 60,
     "pregunta": "Propuesta de 14 puntos presentada por el presidente de EE.UU. Woodrow Wilson al final de la guerra para garantizar una paz duradera.",
@@ -1267,7 +1267,7 @@
   },
   {
     "id": "H-56",
-    "materia": "Historia Universal",
+    "materia": "Historia",
     "dificultad": 2,
     "tiempoSugerido": 60,
     "pregunta": "¿Qué corriente de pensamiento del siglo XIX proponía la creación de comunidades ideales (falansterios) donde la propiedad fuera colectiva y el trabajo se distribuyera equitativamente?",
@@ -1290,7 +1290,7 @@
   },
   {
     "id": "H-57",
-    "materia": "Historia Universal",
+    "materia": "Historia",
     "dificultad": 3,
     "tiempoSugerido": 65,
     "pregunta": "¿Cuál fue el principal objetivo político de la Unificación Italiana liderada por figuras como el Conde de Cavour y Giuseppe Garibaldi?",
@@ -1313,7 +1313,7 @@
   },
   {
     "id": "H-58",
-    "materia": "Historia Universal",
+    "materia": "Historia",
     "dificultad": 3,
     "tiempoSugerido": 70,
     "pregunta": "Durante la Primera Guerra Mundial, ¿qué evento de 1917 obligó a Rusia a firmar el Tratado de Brest-Litovsk y retirarse del conflicto?",
@@ -1336,7 +1336,7 @@
   },
   {
     "id": "H-59",
-    "materia": "Historia Universal",
+    "materia": "Historia",
     "dificultad": 2,
     "tiempoSugerido": 60,
     "pregunta": "¿Qué nombre recibió la política de alianzas y rearme masivo en Europa previa a 1914, donde no había guerra pero las naciones se preparaban para ella?",
@@ -1359,7 +1359,7 @@
   },
   {
     "id": "H-60",
-    "materia": "Historia Universal",
+    "materia": "Historia",
     "dificultad": 3,
     "tiempoSugerido": 65,
     "pregunta": "Es una de las consecuencias territoriales más importantes del fin de la Primera Guerra Mundial.",
@@ -1382,7 +1382,7 @@
   },
   {
     "id": "H-61",
-    "materia": "Historia Universal",
+    "materia": "Historia",
     "dificultad": 3,
     "tiempoSugerido": 60,
     "pregunta": "¿Cuál fue la justificación ideológica del Imperialismo que sostenía que las naciones europeas tenían el 'deber' de civilizar a los pueblos 'atrasados'?",
@@ -1405,7 +1405,7 @@
   },
   {
     "id": "H-62",
-    "materia": "Historia Universal",
+    "materia": "Historia",
     "dificultad": 3,
     "tiempoSugerido": 60,
     "pregunta": "Organización internacional creada al final de la Primera Guerra Mundial con el objetivo de evitar nuevos conflictos armados, aunque fracasó años después.",
@@ -1428,7 +1428,7 @@
   },
   {
     "id": "H-63",
-    "materia": "Historia Universal",
+    "materia": "Historia",
     "dificultad": 2,
     "tiempoSugerido": 55,
     "pregunta": "¿Qué potencia imperialista dominaba la mayor cantidad de territorios (el imperio 'donde nunca se ponía el sol') a principios del siglo XX?",
@@ -1451,7 +1451,7 @@
   },
   {
     "id": "H-64",
-    "materia": "Historia Universal",
+    "materia": "Historia",
     "dificultad": 3,
     "tiempoSugerido": 60,
     "pregunta": "¿Cuál fue el motivo por el cual Estados Unidos abandonó su neutralidad y entró a la Primera Guerra Mundial en 1917?",
@@ -1474,7 +1474,7 @@
   },
   {
     "id": "H-65",
-    "materia": "Historia Universal",
+    "materia": "Historia",
     "dificultad": 2,
     "tiempoSugerido": 60,
     "pregunta": "¿Qué grupo social surge como consecuencia de la Revolución Industrial y se convierte en el protagonista de los movimientos obreros del siglo XIX?",
@@ -1497,7 +1497,7 @@
   },
   {
     "id": "H-66",
-    "materia": "Historia Universal",
+    "materia": "Historia",
     "dificultad": 3,
     "tiempoSugerido": 65,
     "pregunta": "¿Qué nombre recibió el documento redactado por Karl Marx y Friedrich Engels en 1848 que sentó las bases del socialismo científico?",
@@ -1520,7 +1520,7 @@
   },
   {
     "id": "H-67",
-    "materia": "Historia Universal",
+    "materia": "Historia",
     "dificultad": 3,
     "tiempoSugerido": 70,
     "pregunta": "Estrategia diplomática de Otto von Bismarck que consistía en crear una red de alianzas secretas para aislar a Francia y mantener la hegemonía de Alemania.",
@@ -1543,7 +1543,7 @@
   },
   {
     "id": "H-68",
-    "materia": "Historia Universal",
+    "materia": "Historia",
     "dificultad": 2,
     "tiempoSugerido": 60,
     "pregunta": "¿Cuál fue el principal cambio político derivado de la Unificación Alemana de 1871?",
@@ -1566,7 +1566,7 @@
   },
   {
     "id": "H-69",
-    "materia": "Historia Universal",
+    "materia": "Historia",
     "dificultad": 3,
     "tiempoSugerido": 65,
     "pregunta": "¿Cómo se llamó el conflicto bélico entre Gran Bretaña y China (1839-1842) motivado por intereses comerciales imperialistas?",
@@ -1589,7 +1589,7 @@
   },
   {
     "id": "H-70",
-    "materia": "Historia Universal",
+    "materia": "Historia",
     "dificultad": 2,
     "tiempoSugerido": 55,
     "pregunta": "Clase social que, según el marxismo, es la dueña de los medios de producción y explota al trabajador.",
@@ -1612,7 +1612,7 @@
   },
   {
     "id": "H-71",
-    "materia": "Historia Universal",
+    "materia": "Historia",
     "dificultad": 3,
     "tiempoSugerido": 70,
     "pregunta": "¿Qué nación se unificó bajo el liderazgo de Víctor Manuel II y el apoyo de las camisas rojas de Garibaldi?",
@@ -1635,7 +1635,7 @@
   },
   {
     "id": "H-72",
-    "materia": "Historia Universal",
+    "materia": "Historia",
     "dificultad": 3,
     "tiempoSugerido": 60,
     "pregunta": "Acontecimiento de 1915 que aumentó la tensión entre EE.UU. y Alemania debido a la muerte de civiles estadounidenses en el mar.",
@@ -1658,7 +1658,7 @@
   },
   {
     "id": "H-73",
-    "materia": "Historia Universal",
+    "materia": "Historia",
     "dificultad": 2,
     "tiempoSugerido": 50,
     "pregunta": "¿Qué nombre recibió la última gran ofensiva de la guerra de movimientos en 1914, que detuvo el avance alemán hacia París?",
@@ -1681,7 +1681,7 @@
   },
   {
     "id": "H-74",
-    "materia": "Historia Universal",
+    "materia": "Historia",
     "dificultad": 3,
     "tiempoSugerido": 60,
     "pregunta": "Conferencia de 1906 que intentó resolver las disputas imperialistas entre Francia y Alemania por el control de Marruecos.",
@@ -1704,7 +1704,7 @@
   },
   {
     "id": "H-75",
-    "materia": "Historia Universal",
+    "materia": "Historia",
     "dificultad": 2,
     "tiempoSugerido": 60,
     "pregunta": "¿Qué imperio fue apodado el 'enfermo de Europa' debido a su debilidad política y territorial antes de la Gran Guerra?",
@@ -1727,7 +1727,7 @@
   },
   {
     "id": "H-76",
-    "materia": "Historia de México",
+    "materia": "Historia",
     "dificultad": 3,
     "tiempoSugerido": 60,
     "pregunta": "¿Qué institución virreinal se encargaba de regular el comercio entre España y sus colonias, además de controlar el flujo de pasajeros hacia América?",
@@ -1750,7 +1750,7 @@
   },
   {
     "id": "H-77",
-    "materia": "Historia de México",
+    "materia": "Historia",
     "dificultad": 3,
     "tiempoSugerido": 65,
     "pregunta": "Forma de explotación indígena en la Nueva España donde se otorgaba a un conquistador el derecho a recibir tributo y trabajo a cambio de evangelización.",
@@ -1773,7 +1773,7 @@
   },
   {
     "id": "H-78",
-    "materia": "Historia de México",
+    "materia": "Historia",
     "dificultad": 4,
     "tiempoSugerido": 70,
     "pregunta": "¿Cuál fue el principal motivo de las Reformas Borbónicas implementadas por la Corona española en la segunda mitad del siglo XVIII?",
@@ -1796,7 +1796,7 @@
   },
   {
     "id": "H-79",
-    "materia": "Historia de México",
+    "materia": "Historia",
     "dificultad": 3,
     "tiempoSugerido": 60,
     "pregunta": "En la etapa de Organización de la Independencia, ¿qué documento redactado por José María Morelos y Pavón proponía la soberanía popular y la abolición de la esclavitud?",
@@ -1819,7 +1819,7 @@
   },
   {
     "id": "H-80",
-    "materia": "Historia de México",
+    "materia": "Historia",
     "dificultad": 4,
     "tiempoSugerido": 65,
     "pregunta": "¿Cuál fue la principal característica de la Constitución de 1857 que provocó el rechazo de los conservadores y el inicio de la Guerra de Reforma?",
@@ -1842,7 +1842,7 @@
   },
   {
     "id": "H-81",
-    "materia": "Historia de México",
+    "materia": "Historia",
     "dificultad": 3,
     "tiempoSugerido": 60,
     "pregunta": "Consumador de la Independencia de México que pactó el Plan de Iguala con Vicente Guerrero.",
@@ -1865,7 +1865,7 @@
   },
   {
     "id": "H-82",
-    "materia": "Historia de México",
+    "materia": "Historia",
     "dificultad": 4,
     "tiempoSugerido": 70,
     "pregunta": "¿Qué ley de Reforma decretaba la desamortización de las fincas rústicas y urbanas de las corporaciones civiles y eclesiásticas?",
@@ -1888,7 +1888,7 @@
   },
   {
     "id": "H-83",
-    "materia": "Historia de México",
+    "materia": "Historia",
     "dificultad": 3,
     "tiempoSugerido": 60,
     "pregunta": "Durante el Segundo Imperio Mexicano (1864-1867), ¿qué monarca europeo ocupó el trono con el apoyo de los conservadores y tropas francesas?",
@@ -1911,7 +1911,7 @@
   },
   {
     "id": "H-84",
-    "materia": "Historia de México",
+    "materia": "Historia",
     "dificultad": 3,
     "tiempoSugerido": 60,
     "pregunta": "¿Qué nombre recibió la conspiración de 1810 donde participaron Allende, Aldama y la corregidora Josefa Ortiz de Domínguez?",
@@ -1934,7 +1934,7 @@
   },
   {
     "id": "H-85",
-    "materia": "Historia de México",
+    "materia": "Historia",
     "dificultad": 4,
     "tiempoSugerido": 60,
     "pregunta": "Es el periodo que va de 1867 a 1876, caracterizado por el triunfo de la República sobre el Imperio y los mandatos de Juárez y Lerdo de Tejada.",
@@ -1957,7 +1957,7 @@
   },
   {
     "id": "H-86",
-    "materia": "Historia de México",
+    "materia": "Historia",
     "dificultad": 5,
     "tiempoSugerido": 80,
     "pregunta": "¿Qué impacto tuvieron las Reformas Borbónicas en la estructura política de la Nueva España respecto a la figura de los Virreyes?",
@@ -1981,7 +1981,7 @@
   },
   {
     "id": "H-87",
-    "materia": "Historia de México",
+    "materia": "Historia",
     "dificultad": 5,
     "tiempoSugerido": 90,
     "pregunta": "Durante la etapa de Resistencia de la Independencia (1815-1820), ¿quién fue el insurgente que mantuvo viva la lucha en las montañas del sur tras la muerte de Morelos?",
@@ -2005,7 +2005,7 @@
   },
   {
     "id": "H-88",
-    "materia": "Historia de México",
+    "materia": "Historia",
     "dificultad": 4,
     "tiempoSugerido": 70,
     "pregunta": "Tratado firmado en agosto de 1821 entre Agustín de Iturbide y el último jefe político superior de Nueva España, donde se reconoce la independencia de México.",
@@ -2029,7 +2029,7 @@
   },
   {
     "id": "H-89",
-    "materia": "Historia de México",
+    "materia": "Historia",
     "dificultad": 5,
     "tiempoSugerido": 100,
     "pregunta": "¿Qué principio jurídico de la Ley Juárez (1855) resultó más ofensivo para el bando conservador de la época?",
@@ -2053,7 +2053,7 @@
   },
   {
     "id": "H-90",
-    "materia": "Historia de México",
+    "materia": "Historia",
     "dificultad": 4,
     "tiempoSugerido": 80,
     "pregunta": "¿Cuál fue el objetivo del Plan de Ayutla proclamado en 1854 por Florencio Villarreal y Juan Álvarez?",
@@ -2077,7 +2077,7 @@
   },
   {
     "id": "H-91",
-    "materia": "Historia de México",
+    "materia": "Historia",
     "dificultad": 5,
     "tiempoSugerido": 85,
     "pregunta": "¿Cuál fue la función política de la Real Audiencia frente a la figura del Virrey en la Nueva España?",
@@ -2100,7 +2100,7 @@
   },
   {
     "id": "H-92",
-    "materia": "Historia de México",
+    "materia": "Historia",
     "dificultad": 5,
     "tiempoSugerido": 90,
     "pregunta": "¿Qué factor externo de 1808 fue determinante para que los criollos en la Nueva España comenzaran a cuestionar la legitimidad del gobierno virreinal?",
@@ -2123,7 +2123,7 @@
   },
   {
     "id": "H-93",
-    "materia": "Historia de México",
+    "materia": "Historia",
     "dificultad": 4,
     "tiempoSugerido": 75,
     "pregunta": "¿Cuál fue la principal discrepancia ideológica entre el Plan de Iguala y la Constitución de 1824?",
@@ -2146,7 +2146,7 @@
   },
   {
     "id": "H-94",
-    "materia": "Historia de México",
+    "materia": "Historia",
     "dificultad": 5,
     "tiempoSugerido": 95,
     "pregunta": "La 'Ley Iglesias' de 1857 atacaba un pilar económico de la Iglesia al prohibir:",
@@ -2169,7 +2169,7 @@
   },
   {
     "id": "H-95",
-    "materia": "Historia de México",
+    "materia": "Historia",
     "dificultad": 5,
     "tiempoSugerido": 100,
     "pregunta": "¿Qué tratado internacional de 1859, firmado por el gobierno de Juárez, estuvo a punto de otorgar a EE.UU. el derecho de tránsito perpetuo por el Istmo de Tehuantepec a cambio de apoyo militar?",
@@ -3521,6 +3521,576 @@
       "Paso 1: Ubicar geográficamente el levantamiento indígena contra el TLCAN.",
       "Paso 2: Reconocer el impacto social de este movimiento en el sureste mexicano.",
       "Resultado: Chiapas."
+    ]
+  },
+  {
+    "id": "H-172",
+    "materia": "Historia",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Qué documento, redactado por José María Morelos y Pavón en 1813, establecía por primera vez que la soberanía dimana del pueblo y la abolición de la esclavitud?",
+    "opciones": [
+      "Plan de Iguala",
+      "Sentimientos de la Nación",
+      "Constitución de Cádiz",
+      "Tratados de Córdoba"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar el liderazgo de Morelos en la segunda etapa de la Independencia.",
+      "Paso 2: Reconocer el carácter social y político del documento presentado en el Congreso de Chilpancingo.",
+      "Resultado: Sentimientos de la Nación."
+    ]
+  },
+  {
+    "id": "H-173",
+    "materia": "Historia",
+    "dificultad": 3,
+    "tiempoSugerido": 65,
+    "pregunta": "¿Cuál fue el principal objetivo del Plan de Iguala proclamado por Agustín de Iturbide y Vicente Guerrero en 1821?",
+    "opciones": [
+      "Establecer una república federal",
+      "Lograr la independencia mediante la unión de las fuerzas insurgentes y realistas bajo las 'Tres Garantías'",
+      "Expulsar a todos los españoles del territorio mexicano",
+      "Declarar la guerra a los Estados Unidos por el territorio de Texas"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar el contexto del Abrazo de Acatempan.",
+      "Paso 2: Reconocer las Tres Garantías: Religión, Unión e Independencia.",
+      "Resultado: Unión de fuerzas para lograr la independencia."
+    ]
+  },
+  {
+    "id": "H-174",
+    "materia": "Historia",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Qué forma de gobierno adoptó México en su primera Constitución de 1824?",
+    "opciones": [
+      "Monarquía Constitucional",
+      "República Federal",
+      "República Centralista",
+      "Dictadura Militar"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Recordar el fin del Primer Imperio de Iturbide.",
+      "Paso 2: Identificar la división de poderes y la autonomía de los estados establecida tras la caída del imperio.",
+      "Resultado: República Federal."
+    ]
+  },
+  {
+    "id": "H-175",
+    "materia": "Historia",
+    "dificultad": 4,
+    "tiempoSugerido": 70,
+    "pregunta": "Conflicto bélico de 1838 provocado por las reclamaciones de ciudadanos franceses por daños a sus negocios, entre ellos una pastelería en Tacubaya.",
+    "opciones": [
+      "Guerra de los Pasteles",
+      "Guerra de Reforma",
+      "Intervención Francesa de 1862",
+      "Guerra de Texas"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Ubicar cronológicamente la primera intervención francesa.",
+      "Paso 2: Identificar el nombre popular derivado del incidente de la pastelería Remontel.",
+      "Resultado: Guerra de los Pasteles."
+    ]
+  },
+  {
+    "id": "H-176",
+    "materia": "Historia",
+    "dificultad": 4,
+    "tiempoSugerido": 75,
+    "pregunta": "¿Qué tratado puso fin a la guerra entre México y Estados Unidos en 1848, resultando en la pérdida de más de la mitad del territorio nacional?",
+    "opciones": [
+      "Tratado de Velasco",
+      "Tratado de Guadalupe Hidalgo",
+      "Tratado McLane-Ocampo",
+      "Tratado de la Mesilla"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar el final de la invasión estadounidense (1846-1848).",
+      "Paso 2: Recordar el nombre del documento que cedió la Alta California y Nuevo México.",
+      "Resultado: Tratado de Guadalupe Hidalgo."
+    ]
+  },
+  {
+    "id": "H-177",
+    "materia": "Historia",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Cuál era el postulado principal de la Ley Juárez de 1855?",
+    "opciones": [
+      "La desamortización de las fincas rústicas y urbanas de corporaciones religiosas",
+      "La supresión de los fueros militares y eclesiásticos en asuntos civiles",
+      "La creación del Registro Civil",
+      "La libertad de cultos"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar las Leyes de Reforma previas a la Constitución de 1857.",
+      "Paso 2: Reconocer el esfuerzo de Benito Juárez por igualar a todos los ciudadanos ante la ley civil.",
+      "Resultado: Supresión de fueros."
+    ]
+  },
+  {
+    "id": "H-178",
+    "materia": "Historia",
+    "dificultad": 4,
+    "tiempoSugerido": 70,
+    "pregunta": "¿Qué grupo político mexicano buscó el apoyo de Napoleón III para instaurar un Segundo Imperio en México, ofreciendo el trono a Maximiliano de Habsburgo?",
+    "opciones": [
+      "Los Liberales",
+      "Los Conservadores",
+      "Los Federalistas",
+      "Los Insurgentes"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Analizar la crisis de la Guerra de Reforma.",
+      "Paso 2: Identificar la facción que deseaba un gobierno monárquico para restablecer el orden y los privilegios de la Iglesia.",
+      "Resultado: Los Conservadores."
+    ]
+  },
+  {
+    "id": "H-179",
+    "materia": "Historia",
+    "dificultad": 3,
+    "tiempoSugerido": 65,
+    "pregunta": "Batalla ocurrida el 5 de mayo de 1862 en la que el ejército mexicano, liderado por Ignacio Zaragoza, derrotó a las tropas francesas.",
+    "opciones": [
+      "Batalla de Chapultepec",
+      "Batalla de Puebla",
+      "Batalla de Querétaro",
+      "Batalla del Monte de las Cruces"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Ubicar la resistencia contra la Segunda Intervención Francesa.",
+      "Paso 2: Identificar el triunfo del Ejército de Oriente sobre el 'mejor ejército del mundo' en los fuertes de Loreto y Guadalupe.",
+      "Resultado: Batalla de Puebla."
+    ]
+  },
+  {
+    "id": "H-180",
+    "materia": "Historia",
+    "dificultad": 4,
+    "tiempoSugerido": 70,
+    "pregunta": "¿Cómo se conoce al periodo que va desde la caída del Segundo Imperio en 1867 hasta el inicio del Porfiriato en 1876?",
+    "opciones": [
+      "La Colonia",
+      "La República Restaurada",
+      "La Ilustración Mexicana",
+      "El Maximato"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar el triunfo definitivo del proyecto liberal de Benito Juárez.",
+      "Paso 2: Reconocer los gobiernos de Juárez y Sebastián Lerdo de Tejada enfocados en reconstruir el país.",
+      "Resultado: República Restaurada."
+    ]
+  },
+  {
+    "id": "H-181",
+    "materia": "Historia",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Qué plan proclamó Porfirio Díaz en 1876 para oponerse a la reelección de Sebastián Lerdo de Tejada?",
+    "opciones": [
+      "Plan de San Luis",
+      "Plan de Tuxtepec",
+      "Plan de Ayala",
+      "Plan de Guadalupe"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Diferenciar los planes de rebelión de Porfirio Díaz (La Noria contra Juárez y Tuxtepec contra Lerdo).",
+      "Paso 2: Identificar el lema 'No Reelección'.",
+      "Resultado: Plan de Tuxtepec."
+    ]
+  },
+  {
+    "id": "H-182",
+    "materia": "Historia",
+    "dificultad": 4,
+    "tiempoSugerido": 65,
+    "pregunta": "Filosofía política que predominó durante el Porfiriato, basada en el 'orden y progreso' y el conocimiento científico.",
+    "opciones": [
+      "Socialismo",
+      "Positivismo",
+      "Humanismo",
+      "Anarquismo"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar la influencia de los 'Científicos' en el gabinete de Díaz.",
+      "Paso 2: Reconocer la corriente de Auguste Comte aplicada al desarrollo económico y social.",
+      "Resultado: Positivismo."
+    ]
+  },
+  {
+    "id": "H-183",
+    "materia": "Historia",
+    "dificultad": 4,
+    "tiempoSugerido": 70,
+    "pregunta": "¿Cuál fue el principal cambio económico introducido durante el Porfiriato para atraer inversión extranjera?",
+    "opciones": [
+      "Nacionalización de la banca",
+      "Expansión del ferrocarril y concesiones mineras y petroleras",
+      "Prohibición de las exportaciones",
+      "Reparto agrario masivo"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Analizar la modernización del país entre 1876 y 1910.",
+      "Paso 2: Identificar los sectores impulsados por capital estadounidense, británico y francés.",
+      "Resultado: Ferrocarril y concesiones mineras."
+    ]
+  },
+  {
+    "id": "H-184",
+    "materia": "Historia",
+    "dificultad": 4,
+    "tiempoSugerido": 75,
+    "pregunta": "¿Qué huelgas mineras y textiles ocurridas en 1906 y 1907 se consideran antecedentes fundamentales de la Revolución Mexicana?",
+    "opciones": [
+      "Huelgas de Cananea y Río Blanco",
+      "Huelgas ferroviarias de 1958",
+      "Movimiento estudiantil de 1968",
+      "La Decena Trágica"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Identificar las crisis laborales al final del Porfiriato.",
+      "Paso 2: Reconocer la represión militar sufrida por los trabajadores que exigían mejores salarios.",
+      "Resultado: Cananea y Río Blanco."
+    ]
+  },
+  {
+    "id": "H-185",
+    "materia": "Historia",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Qué periodista estadounidense entrevistó a Porfirio Díaz en 1908, donde el dictador afirmó que México estaba listo para la democracia?",
+    "opciones": [
+      "James Creelman",
+      "John Reed",
+      "Joseph Pulitzer",
+      "Ernest Hemingway"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Identificar el detonante de la actividad política opositora de Francisco I. Madero.",
+      "Paso 2: Recordar la entrevista publicada en la revista Pearson's.",
+      "Resultado: James Creelman."
+    ]
+  },
+  {
+    "id": "H-186",
+    "materia": "Historia",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Cuál fue el lema principal de Francisco I. Madero en su campaña contra Porfirio Díaz?",
+    "opciones": [
+      "Tierra y Libertad",
+      "Sufragio efectivo, no reelección",
+      "La patria es primero",
+      "Orden y progreso"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Analizar el enfoque democrático del Plan de San Luis.",
+      "Paso 2: Identificar la demanda principal contra la permanencia de Díaz en el poder.",
+      "Resultado: Sufragio efectivo, no reelección."
+    ]
+  },
+  {
+    "id": "H-187",
+    "materia": "Historia",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Qué plan proclamó Francisco I. Madero en 1910, convocando al levantamiento armado contra la dictadura de Porfirio Díaz?",
+    "opciones": [
+      "Plan de Ayala",
+      "Plan de San Luis",
+      "Plan de Guadalupe",
+      "Plan de Agua Prieta"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar el inicio formal de la Revolución.",
+      "Paso 2: Recordar que el documento declaraba nulas las elecciones y establecía el lema 'Sufragio efectivo, no reelección'.",
+      "Resultado: Plan de San Luis."
+    ]
+  },
+  {
+    "id": "H-188",
+    "materia": "Historia",
+    "dificultad": 3,
+    "tiempoSugerido": 65,
+    "pregunta": "¿Cuál fue la principal demanda del Plan de Ayala, proclamado por Emiliano Zapata en 1911?",
+    "opciones": [
+      "La creación de un nuevo sistema educativo",
+      "La restitución de tierras a los campesinos y el reparto agrario",
+      "La nacionalización del petróleo",
+      "La destitución inmediata de Victoriano Huerta"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Reconocer el descontento de Zapata con el gobierno de Madero por la lentitud de la reforma agraria.",
+      "Paso 2: Identificar el lema 'Tierra y Libertad'.",
+      "Resultado: Restitución de tierras y reparto agrario."
+    ]
+  },
+  {
+    "id": "H-189",
+    "materia": "Historia",
+    "dificultad": 4,
+    "tiempoSugerido": 70,
+    "pregunta": "Nombre del evento en el que Francisco I. Madero fue traicionado por Victoriano Huerta, derivando en su asesinato y el de Pino Suárez en 1913.",
+    "opciones": [
+      "La Decena Trágica",
+      "La Convención de Aguascalientes",
+      "El Cuartelazo de Tacubaya",
+      "La Huelga de Cananea"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Ubicar el golpe de Estado contra el primer gobierno democrático de la Revolución.",
+      "Paso 2: Recordar los diez días de combate en la Ciudad de México.",
+      "Resultado: La Decena Trágica."
+    ]
+  },
+  {
+    "id": "H-190",
+    "materia": "Historia",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Quién encabezó el Ejército Constitucionalista y promulgó el Plan de Guadalupe para derrocar a Victoriano Huerta?",
+    "opciones": [
+      "Pancho Villa",
+      "Venustiano Carranza",
+      "Álvaro Obregón",
+      "Plutarco Elías Calles"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar al líder civil que buscaba restablecer el orden legal tras el asesinato de Madero.",
+      "Paso 2: Reconocer la figura del 'Primer Jefe' del constitucionalismo.",
+      "Resultado: Venustiano Carranza."
+    ]
+  },
+  {
+    "id": "H-191",
+    "materia": "Historia",
+    "dificultad": 4,
+    "tiempoSugerido": 75,
+    "pregunta": "Artículo de la Constitución de 1917 que establece el derecho a una educación laica, gratuita y obligatoria.",
+    "opciones": [
+      "Artículo 27",
+      "Artículo 123",
+      "Artículo 3º",
+      "Artículo 130"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Analizar los pilares sociales de la Constitución.",
+      "Paso 2: Relacionar el derecho a la educación con el número de artículo correspondiente.",
+      "Resultado: Artículo 3º."
+    ]
+  },
+  {
+    "id": "H-192",
+    "materia": "Historia",
+    "dificultad": 4,
+    "tiempoSugerido": 70,
+    "pregunta": "¿Qué artículo constitucional regula el derecho a la propiedad de la tierra y los recursos del subsuelo (como el petróleo)?",
+    "opciones": [
+      "Artículo 3º",
+      "Artículo 27",
+      "Artículo 123",
+      "Artículo 1º"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar la base legal para la Reforma Agraria y la futura Expropiación Petrolera.",
+      "Paso 2: Recordar el artículo que declara que la nación es dueña de las tierras y aguas.",
+      "Resultado: Artículo 27."
+    ]
+  },
+  {
+    "id": "H-193",
+    "materia": "Historia",
+    "dificultad": 3,
+    "tiempoSugerido": 65,
+    "pregunta": "¿Cuál fue el periodo histórico (1928-1934) en el que Plutarco Elías Calles ejerció el poder detrás de tres presidentes distintos?",
+    "opciones": [
+      "El Porfiriato",
+      "El Maximato",
+      "El Cardenismo",
+      "La Reconstrucción"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar la figura del 'Jefe Máximo de la Revolución'.",
+      "Paso 2: Reconocer el control político de Calles sobre Portes Gil, Ortiz Rubio y Abelardo L. Rodríguez.",
+      "Resultado: El Maximato."
+    ]
+  },
+  {
+    "id": "H-194",
+    "materia": "Historia",
+    "dificultad": 4,
+    "tiempoSugerido": 70,
+    "pregunta": "Acontecimiento ocurrido el 18 de marzo de 1938 bajo el gobierno de Lázaro Cárdenas.",
+    "opciones": [
+      "La creación del PNR",
+      "La Expropiación Petrolera",
+      "La firma del Tratado de Bucareli",
+      "El inicio de la Guerra Cristera"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Ubicar la fecha emblemática de la soberanía energética en México.",
+      "Paso 2: Reconocer el decreto que nacionalizó la industria petrolera.",
+      "Resultado: La Expropiación Petrolera."
+    ]
+  },
+  {
+    "id": "H-195",
+    "materia": "Historia",
+    "dificultad": 4,
+    "tiempoSugerido": 80,
+    "pregunta": "¿Cómo se llamó el modelo económico aplicado entre 1940 y 1970 que buscaba el crecimiento interno y la industrialización del país?",
+    "opciones": [
+      "Neoliberalismo",
+      "Desarrollo Estabilizador",
+      "Sustitución de Importaciones",
+      "Desarrollo Compartido"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar el periodo de mayor crecimiento económico estable en México ('El milagro mexicano').",
+      "Paso 2: Reconocer la estrategia de mantener baja inflación y tipo de cambio fijo.",
+      "Resultado: Desarrollo Estabilizador."
+    ]
+  },
+  {
+    "id": "H-196",
+    "materia": "Historia",
+    "dificultad": 4,
+    "tiempoSugerido": 75,
+    "pregunta": "Presidente que otorgó el voto universal a la mujer a nivel nacional en 1953.",
+    "opciones": [
+      "Lázaro Cárdenas",
+      "Manuel Ávila Camacho",
+      "Adolfo Ruiz Cortines",
+      "Miguel Alemán Valdés"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Ubicar el avance en derechos ciudadanos y participación política femenina.",
+      "Paso 2: Recordar la administración que reformó los artículos 34 y 35.",
+      "Resultado: Adolfo Ruiz Cortines."
+    ]
+  },
+  {
+    "id": "H-197",
+    "materia": "Historia",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Qué organismo internacional fue fundado en 1945 con la participación de México para mantener la paz mundial?",
+    "opciones": [
+      "OTAN",
+      "OEA",
+      "ONU",
+      "FMI"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Identificar la institución creada tras la Segunda Guerra Mundial.",
+      "Paso 2: Reconocer el papel diplomático de México en el escenario global.",
+      "Resultado: ONU."
+    ]
+  },
+  {
+    "id": "H-198",
+    "materia": "Historia",
+    "dificultad": 4,
+    "tiempoSugerido": 70,
+    "pregunta": "Conflicto armado ocurrido entre 1926 y 1929 entre el gobierno de Plutarco Elías Calles y milicias religiosas que se oponían a la aplicación de la Ley Calles.",
+    "opciones": [
+      "Guerra de Reforma",
+      "Revolución de Ayutla",
+      "Guerra Cristera",
+      "Guerra de los Pasteles"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Analizar la tensión entre el Estado laico y la Iglesia Católica.",
+      "Paso 2: Recordar el levantamiento bajo el lema '¡Viva Cristo Rey!'.",
+      "Resultado: Guerra Cristera."
+    ]
+  },
+  {
+    "id": "H-199",
+    "materia": "Historia",
+    "dificultad": 4,
+    "tiempoSugerido": 75,
+    "pregunta": "¿Qué presidente impulsó la creación de la Secretaría de Educación Pública (SEP) y designó a José Vasconcelos como su primer titular en 1921?",
+    "opciones": [
+      "Venustiano Carranza",
+      "Álvaro Obregón",
+      "Lázaro Cárdenas",
+      "Miguel Alemán Valdés"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar el periodo de reconstrucción cultural post-revolucionaria.",
+      "Paso 2: Reconocer el gobierno que inició la campaña de alfabetización masiva.",
+      "Resultado: Álvaro Obregón."
+    ]
+  },
+  {
+    "id": "H-200",
+    "materia": "Historia",
+    "dificultad": 3,
+    "tiempoSugerido": 65,
+    "pregunta": "Institución política fundada en 1929 bajo el nombre de PNR (Partido Nacional Revolucionario) para terminar con la era de los caudillos.",
+    "opciones": [
+      "PAN",
+      "PRI",
+      "PRD",
+      "Morena"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar la evolución del partido hegemónico (PNR -> PRM -> PRI).",
+      "Paso 2: Reconocer el objetivo de institucionalizar la Revolución.",
+      "Resultado: PRI."
+    ]
+  },
+  {
+    "id": "H-201",
+    "materia": "Historia",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Qué plan puso fin al gobierno de Venustiano Carranza en 1920?",
+    "opciones": [
+      "Plan de Ayala",
+      "Plan de Agua Prieta",
+      "Plan de Tuxtepec",
+      "Plan de la Noria"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Recordar el levantamiento de los sonorenses (Obregón, Calles y Adolfo de la Huerta).",
+      "Paso 2: Identificar el documento que desconocía al ejecutivo carrancista.",
+      "Resultado: Plan de Agua Prieta."
     ]
   }
 ]

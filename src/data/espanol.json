@@ -1,398 +1,4047 @@
 [
   {
-    "id": 77,
-    "materia": "Español",
-    "dificultad": 2,
-    "tiempoSugerido": 60,
-    "pregunta": "Identifica la función de la lengua que predomina en el siguiente enunciado: 'El hidrógeno es el elemento químico de número atómico 1, representado por el símbolo H'.",
-    "formulaPrincipal": "",
-    "opciones": ["Apelativa", "Referencial", "Poética", "Metalingüística"],
-    "correcta": 1,
-    "explicacionPasos": [
-      "Paso 1: Analizar la intención del texto: está transmitiendo conocimientos objetivos sobre la realidad.",
-      "Paso 2: Observar que no busca convencer (apelativa) ni crear belleza (poética).",
-      "Paso 3: Identificar que se centra en el contexto o referente informativo.",
-      "Resultado: Función Referencial."
-    ],
-    "analisisDeError": {
-      "0": "La función apelativa busca una respuesta o acción del receptor, no solo informar.",
-      "3": "La función metalingüística se usa cuando hablamos del lenguaje mismo, no de química."
-    }
-  },
-  {
-    "id": 78,
-    "materia": "Español",
-    "dificultad": 3,
-    "tiempoSugerido": 60,
-    "pregunta": "En la oración 'Los ingenieros diseñaron un puente **resistente**', ¿cuál es la función sintáctica de la palabra en negritas?",
-    "formulaPrincipal": "",
-    "opciones": ["Sujeto", "Núcleo del predicado", "Adjetivo (Modificador directo)", "Objeto indirecto"],
-    "correcta": 2,
-    "explicacionPasos": [
-      "Paso 1: Identificar la categoría gramatical de 'resistente' (es un adjetivo).",
-      "Paso 2: Determinar a quién modifica: está calificando directamente al sustantivo 'puente'.",
-      "Paso 3: En el análisis sintáctico, los adjetivos que acompañan al sustantivo funcionan como modificadores directos.",
-      "Resultado: Adjetivo (Modificador directo)."
-    ],
-    "analisisDeError": {
-      "0": "El sujeto es 'Los ingenieros'.",
-      "1": "El núcleo del predicado siempre es el verbo: 'diseñaron'."
-    }
-  },
-  {
-    "id": 79,
+    "id": "ESP-01",
     "materia": "Español",
     "dificultad": 1,
     "tiempoSugerido": 45,
-    "pregunta": "Elige la opción que presenta una ortografía correcta:",
-    "formulaPrincipal": "",
-    "opciones": ["Hazlo haci.", "Haslo así.", "Hazlo así.", "Haslo haci."],
-    "correcta": 2,
-    "explicacionPasos": [
-      "Paso 1: Analizar el verbo: proviene de 'hacer', por lo tanto en imperativo es 'haz'.",
-      "Paso 2: Analizar el adverbio de modo: la forma correcta de escribirlo es 'así' con tilde.",
-      "Paso 3: Descartar 'has' ya que ese es del verbo 'haber' (auxiliar).",
-      "Resultado: Hazlo así."
+    "pregunta": "¿Qué función de la lengua predomina en el siguiente enunciado: 'La capital de Francia es París'?",
+    "opciones": [
+      "Apelativa",
+      "Referencial",
+      "Poética",
+      "Fática"
     ],
-    "analisisDeError": {
-      "1": "'Has' se usa para tiempos compuestos (Has hecho), no para órdenes.",
-      "0": "'Haci' es un error ortográfico inexistente en español."
-    }
-  },
-  {
-    "id": 80,
-    "materia": "Español",
-    "dificultad": 4,
-    "tiempoSugerido": 90,
-    "pregunta": "Identifica el tipo de oración coordinada: 'Llegamos temprano, sin embargo, la puerta estaba cerrada'.",
-    "formulaPrincipal": "",
-    "opciones": ["Copulativa", "Disyuntiva", "Adversativa", "Distributiva"],
-    "correcta": 2,
-    "explicacionPasos": [
-      "Paso 1: Localizar el nexo que une las dos oraciones independientes: 'sin embargo'.",
-      "Paso 2: Determinar el sentido del nexo: expresa una oposición o contrariedad parcial.",
-      "Paso 3: Relacionar la oposición con la clasificación de las coordinadas.",
-      "Resultado: Adversativa."
-    ],
-    "analisisDeError": {
-      "0": "Las copulativas usan nexos de suma como 'y', 'e', 'ni'.",
-      "1": "Las disyuntivas ofrecen exclusión con 'o', 'u'."
-    }
-  },
-  {
-    "id": 81,
-    "materia": "Español",
-    "dificultad": 2,
-    "tiempoSugerido": 60,
-    "pregunta": "¿Cuál es el antónimo de la palabra 'Efímero'?",
-    "formulaPrincipal": "",
-    "opciones": ["Pasajero", "Breve", "Duradero", "Fugaz"],
-    "correcta": 2,
-    "explicacionPasos": [
-      "Paso 1: Definir la palabra base: 'Efímero' significa algo que dura muy poco tiempo.",
-      "Paso 2: Buscar una palabra que signifique lo opuesto (que dure mucho tiempo).",
-      "Paso 3: Comparar opciones: 'Pasajero', 'Breve' y 'Fugaz' son sinónimos.",
-      "Resultado: Duradero."
-    ],
-    "analisisDeError": {
-      "3": "Ese es un sinónimo; recuerda que la pregunta pide el antónimo (opuesto)."
-    }
-  },
-  {
-    "id": 82,
-    "materia": "Español",
-    "dificultad": 3,
-    "tiempoSugerido": 60,
-    "pregunta": "En la oración 'Cervantes, **el Manco de Lepanto**, escribió el Quijote', la parte en negritas funciona como:",
-    "formulaPrincipal": "",
-    "opciones": ["Sujeto", "Aposición", "Complemento circunstancial", "Vocativo"],
     "correcta": 1,
     "explicacionPasos": [
-      "Paso 1: Observar que la frase está entre comas y explica o define de otra forma al sustantivo anterior ('Cervantes').",
-      "Paso 2: Recordar que una frase sustantiva que intercambia significado con el núcleo del sujeto se llama aposición.",
-      "Paso 3: Confirmar que si quitamos la frase, la oración sigue teniendo sentido completo.",
-      "Resultado: Aposición."
+      "Paso 1: Identificar la intención. El mensaje transmite un dato objetivo y verificable.",
+      "Paso 2: Reconocer que cuando el foco está en el contexto o los hechos, la función es informativa.",
+      "Resultado: Referencial."
     ],
     "analisisDeError": {
-      "3": "El vocativo se usa para llamar la atención de alguien, no para dar información sobre el sujeto.",
-      "2": "No indica tiempo, modo ni lugar de la acción verbal."
+      "0": "La apelativa busca convencer o dar órdenes, no informar.",
+      "2": "La poética se centra en la estética del lenguaje."
     }
   },
   {
-    "id": 83,
-    "materia": "Español",
-    "dificultad": 2,
-    "tiempoSugerido": 60,
-    "pregunta": "Selecciona la opción con la acentuación correcta en palabras esdrújulas:",
-    "formulaPrincipal": "",
-    "opciones": ["Telefono, musica", "Teléfono, música", "Telefóno, musicá", "Telefonó, musica"],
-    "correcta": 1,
-    "explicacionPasos": [
-      "Paso 1: Identificar la sílaba tónica: en 'teléfono' es 'lé' y en 'música' es 'mú'.",
-      "Paso 2: Contar las sílabas: en ambos casos la tónica es la antepenúltima.",
-      "Paso 3: Aplicar la regla: todas las palabras esdrújulas se tildan siempre.",
-      "Resultado: Teléfono, música."
-    ],
-    "analisisDeError": {
-      "0": "Olvidaste que las esdrújulas no tienen excepciones, siempre llevan tilde.",
-      "2": "La tilde está mal colocada; esas serían palabras graves o agudas."
-    }
-  },
-  {
-    "id": 84,
-    "materia": "Español",
-    "dificultad": 4,
-    "tiempoSugerido": 120,
-    "pregunta": "Identifica el vicio del lenguaje en la frase: 'Salió para afuera de la casa'.",
-    "formulaPrincipal": "",
-    "opciones": ["Cacofonía", "Pleonasmo", "Solecismo", "Anfibología"],
-    "correcta": 1,
-    "explicacionPasos": [
-      "Paso 1: Analizar la redundancia: el verbo 'salir' ya implica ir hacia afuera.",
-      "Paso 2: Identificar el uso innecesario de palabras que repiten el mismo concepto.",
-      "Paso 3: Clasificar el error dentro de los vicios del lenguaje.",
-      "Resultado: Pleonasmo."
-    ],
-    "analisisDeError": {
-      "0": "La cacofonía es la repetición molesta de sonidos (ej. 'Tomando té te vas').",
-      "3": "La anfibología es cuando una frase tiene doble sentido o es ambigua."
-    }
-  },
-  {
-    "id": 85,
-    "materia": "Español",
-    "dificultad": 3,
-    "tiempoSugerido": 60,
-    "pregunta": "Selecciona el nexo que completa correctamente la oración: 'Estudió mucho, ________ no logró pasar el examen'.",
-    "formulaPrincipal": "",
-    "opciones": ["porque", "ya que", "pero", "y"],
-    "correcta": 2,
-    "explicacionPasos": [
-      "Paso 1: Analizar la relación entre las dos ideas: estudiar mucho vs. no pasar (es una contradicción).",
-      "Paso 2: Buscar un nexo adversativo que indique oposición.",
-      "Paso 3: Probar los nexos: 'pero' es el que mejor encaja para mostrar el contraste.",
-      "Resultado: pero."
-    ],
-    "analisisDeError": {
-      "0": "El nexo 'porque' indica causa, lo cual no tiene sentido lógico aquí.",
-      "3": "El nexo 'y' indica suma, pero las ideas son opuestas."
-    }
-  },
-  {
-    "id": 86,
+    "id": "ESP-02",
     "materia": "Español",
     "dificultad": 1,
     "tiempoSugerido": 45,
-    "pregunta": "¿Qué tipo de punto se utiliza para separar dos párrafos distintos?",
-    "formulaPrincipal": "",
-    "opciones": ["Punto y seguido", "Punto y coma", "Punto y aparte", "Punto final"],
+    "pregunta": "Identifica la función de la lengua en este texto: '¡Vota por el candidato azul, la mejor opción para tu futuro!'",
+    "opciones": [
+      "Metalingüística",
+      "Referencial",
+      "Apelativa",
+      "Poética"
+    ],
     "correcta": 2,
     "explicacionPasos": [
-      "Paso 1: Diferenciar los usos del punto.",
-      "Paso 2: El punto y seguido separa oraciones en el mismo párrafo.",
-      "Paso 3: El punto y aparte indica que se ha terminado un bloque de ideas y se iniciará otro en una nueva línea.",
-      "Resultado: Punto y aparte."
-    ],
-    "analisisDeError": {
-      "3": "El punto final es el que cierra todo el texto."
-    }
+      "Paso 1: Observar que el texto busca influir en la conducta del receptor.",
+      "Paso 2: Identificar el uso del imperativo ('vota') y la persuasión propia de la publicidad o política.",
+      "Resultado: Apelativa."
+    ]
   },
   {
-    "id": 87,
-    "materia": "Español",
-    "dificultad": 2,
-    "tiempoSugerido": 60,
-    "pregunta": "¿Qué tipo de ficha se utiliza para reproducir textualmente un fragmento de una obra, siempre entre comillas?",
-    "formulaPrincipal": "",
-    "opciones": ["Ficha de resumen", "Ficha de paráfrasis", "Ficha de cita textual", "Ficha de comentario"],
-    "correcta": 2,
-    "explicacionPasos": [
-      "Paso 1: Identificar la palabra clave 'textualmente'.",
-      "Paso 2: Recordar que la norma ortográfica exige comillas para distinguir las palabras del autor original de las propias.",
-      "Paso 3: Confirmar que esta técnica se plasma en la ficha de cita.",
-      "Resultado: Ficha de cita textual."
-    ],
-    "analisisDeError": {
-      "1": "La paráfrasis es explicar con tus propias palabras, no es textual.",
-      "0": "El resumen sintetiza ideas, pero no requiere necesariamente comillas ni ser literal."
-    }
-  },
-  {
-    "id": 88,
-    "materia": "Español",
-    "dificultad": 3,
-    "tiempoSugerido": 90,
-    "pregunta": "Identifica el sujeto de la siguiente oración: 'A los estudiantes les entregó sus resultados el profesor'.",
-    "formulaPrincipal": "",
-    "opciones": ["A los estudiantes", "Los resultados", "El profesor", "Les"],
-    "correcta": 2,
-    "explicacionPasos": [
-      "Paso 1: Localizar el verbo: 'entregó'.",
-      "Paso 2: Preguntar al verbo ¿quién realizó la acción de entregar?: El profesor.",
-      "Paso 3: Comprobar la concordancia: Si el sujeto fuera plural ('los profesores'), el verbo cambiaría a 'entregaron'.",
-      "Resultado: El profesor."
-    ],
-    "analisisDeError": {
-      "0": "Ese es el objeto indirecto; el sujeto nunca empieza con la preposición 'a'.",
-      "1": "Ese es el objeto directo (lo que fue entregado)."
-    }
-  },
-  {
-    "id": 89,
-    "materia": "Español",
-    "dificultad": 2,
-    "tiempoSugerido": 60,
-    "pregunta": "Elige la palabra que completa correctamente la oración por su significado (homófonos): 'Espero que el consejo ________ la nueva ley'.",
-    "formulaPrincipal": "",
-    "opciones": ["valla", "vaya", "vaya a", "valla a"],
-    "correcta": 1,
-    "explicacionPasos": [
-      "Paso 1: Analizar el contexto: se requiere el verbo 'ir' en subjuntivo.",
-      "Paso 2: Distinguir entre 'vaya' (del verbo ir) y 'valla' (cerca o obstáculo).",
-      "Paso 3: Seleccionar la forma verbal correcta.",
-      "Resultado: vaya."
-    ],
-    "analisisDeError": {
-      "0": "Valla con 'll' es una barda o un obstáculo en atletismo."
-    }
-  },
-  {
-    "id": 90,
-    "materia": "Español",
-    "dificultad": 4,
-    "tiempoSugerido": 120,
-    "pregunta": "Identifica el tipo de texto al que pertenece el siguiente fragmento: 'El calentamiento global es un fenómeno que preocupa a la comunidad científica, debido al aumento de gases de efecto invernadero...'",
-    "formulaPrincipal": "",
-    "opciones": ["Texto narrativo", "Texto descriptivo", "Texto expositivo", "Texto dramático"],
-    "correcta": 2,
-    "explicacionPasos": [
-      "Paso 1: Evaluar la intención del autor: presentar información de manera objetiva sobre un tema.",
-      "Paso 2: Descartar narración (no hay personajes ni acciones) y drama (no hay diálogos).",
-      "Paso 3: Confirmar que el objetivo es explicar y difundir conocimiento.",
-      "Resultado: Texto expositivo."
-    ],
-    "analisisDeError": {
-      "0": "No cuenta una historia con inicio, nudo y desenlace.",
-      "1": "Aunque describe el fenómeno, su función primordial es la explicación científica (exposición)."
-    }
-  },
-  {
-    "id": 91,
-    "materia": "Español",
-    "dificultad": 3,
-    "tiempoSugerido": 60,
-    "pregunta": "¿Qué nombre recibe el elemento de la narración que marca el orden en que suceden los hechos?",
-    "formulaPrincipal": "",
-    "opciones": ["Ambiente", "Trama", "Tiempo", "Nudo"],
-    "correcta": 2,
-    "explicacionPasos": [
-      "Paso 1: Definir los elementos del cuento o novela.",
-      "Paso 2: Relacionar la secuencia cronológica o psicológica con la categoría correspondiente.",
-      "Paso 3: El tiempo puede ser lineal, circular o con saltos (analepsis/prolepsis).",
-      "Resultado: Tiempo."
-    ],
-    "analisisDeError": {
-      "1": "La trama es el conjunto de eventos, pero el orden es el tiempo.",
-      "3": "El nudo es el momento de mayor tensión en la historia."
-    }
-  },
-  {
-    "id": 92,
-    "materia": "Español",
-    "dificultad": 2,
-    "tiempoSugerido": 60,
-    "pregunta": "Selecciona la opción que contiene una pareja de sinónimos:",
-    "formulaPrincipal": "",
-    "opciones": ["Hablar - Escuchar", "Gélido - Helado", "Subir - Bajar", "Fuerte - Débil"],
-    "correcta": 1,
-    "explicacionPasos": [
-      "Paso 1: Recordar que los sinónimos tienen significados iguales o muy parecidos.",
-      "Paso 2: Analizar las opciones: la mayoría son antónimos (opuestos).",
-      "Paso 3: Identificar que 'gélido' y 'helado' refieren ambos a temperaturas muy bajas.",
-      "Resultado: Gélido - Helado."
-    ],
-    "analisisDeError": {
-      "0": "Son acciones complementarias, no sinónimos.",
-      "3": "Son antónimos directos."
-    }
-  },
-  {
-    "id": 93,
-    "materia": "Español",
-    "dificultad": 4,
-    "tiempoSugerido": 120,
-    "pregunta": "Identifica la forma verbal en voz pasiva:",
-    "formulaPrincipal": "",
-    "opciones": ["Ellos construyeron la casa.", "La casa fue construida por ellos.", "La casa se construye rápido.", "Ellos han construido la casa."],
-    "correcta": 1,
-    "explicacionPasos": [
-      "Paso 1: Recordar la estructura de la voz pasiva: Sujeto paciente + verbo ser (auxiliar) + participio.",
-      "Paso 2: Localizar el objeto que recibe la acción como sujeto ('La casa').",
-      "Paso 3: Identificar el complemento agente introducido por 'por'.",
-      "Resultado: La casa fue construida por ellos."
-    ],
-    "analisisDeError": {
-      "0": "Voz activa: el sujeto realiza la acción.",
-      "2": "Pasiva refleja, pero la pasiva analítica estándar requiere el verbo ser."
-    }
-  },
-  {
-    "id": 94,
+    "id": "ESP-03",
     "materia": "Español",
     "dificultad": 1,
     "tiempoSugerido": 45,
-    "pregunta": "Elige la opción que presenta un uso correcto de las mayúsculas:",
-    "formulaPrincipal": "",
-    "opciones": ["el próximo Lunes iré a México.", "El próximo lunes iré a méxico.", "El próximo lunes iré a México.", "el Próximo lunes iré a méxico."],
+    "pregunta": "¿En qué tipo de textos es más común encontrar la función poética?",
+    "opciones": [
+      "Noticieros y reportajes",
+      "Manuales de usuario",
+      "Poemas y novelas literarias",
+      "Diccionarios"
+    ],
     "correcta": 2,
     "explicacionPasos": [
-      "Paso 1: Aplicar regla de inicio: la primera palabra de una oración lleva mayúscula.",
-      "Paso 2: Aplicar regla de días de la semana: en español se escriben con minúscula.",
-      "Paso 3: Aplicar regla de nombres propios: los países llevan mayúscula inicial.",
-      "Resultado: El próximo lunes iré a México."
-    ],
-    "analisisDeError": {
-      "0": "Los días de la semana no son nombres propios.",
-      "1": "México debe llevar mayúscula por ser nombre de país."
-    }
+      "Paso 1: Recordar que la función poética busca la belleza y el estilo mediante figuras retóricas.",
+      "Paso 2: Relacionar la estética con los géneros literarios.",
+      "Resultado: Poemas y novelas."
+    ]
   },
   {
-    "id": 95,
+    "id": "ESP-04",
     "materia": "Español",
-    "dificultad": 3,
-    "tiempoSugerido": 90,
-    "pregunta": "Selecciona el par de palabras que completa la analogía: ________ es a ave como ________ es a pez.",
-    "formulaPrincipal": "",
-    "opciones": ["Pluma - Escama", "Vuelo - Agua", "Pico - Branquia", "Nido - Arrecife"],
+    "dificultad": 2,
+    "tiempoSugerido": 50,
+    "pregunta": "Forma del discurso que tiene como objetivo presentar las características de objetos, personas o lugares de manera detallada.",
+    "opciones": [
+      "Narración",
+      "Descripción",
+      "Argumentación",
+      "Exposición"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar la palabra clave: 'características'.",
+      "Paso 2: Reconocer que pintar con palabras un escenario o sujeto es describir.",
+      "Resultado: Descripción."
+    ]
+  },
+  {
+    "id": "ESP-05",
+    "materia": "Español",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "El siguiente fragmento: 'El joven salió de su casa, caminó tres cuadras y de pronto se encontró con un viejo amigo', pertenece al discurso:",
+    "opciones": [
+      "Descriptivo",
+      "Argumentativo",
+      "Narrativo",
+      "Apelativo"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Notar que hay una secuencia de acciones en un tiempo determinado.",
+      "Paso 2: Identificar la presencia de verbos en pasado que indican avance de una historia.",
+      "Resultado: Narrativo."
+    ]
+  },
+  {
+    "id": "ESP-06",
+    "materia": "Español",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Qué discurso predomina cuando un autor intenta convencer al lector de su postura mediante razones y pruebas?",
+    "opciones": [
+      "Narrativo",
+      "Descriptivo",
+      "Argumentativo",
+      "Referencial"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Identificar la intención de defensa de una idea (tesis).",
+      "Paso 2: Reconocer que el uso de lógica y evidencia es propio de la argumentación.",
+      "Resultado: Argumentativo."
+    ]
+  },
+  {
+    "id": "ESP-07",
+    "materia": "Español",
+    "dificultad": 1,
+    "tiempoSugerido": 45,
+    "pregunta": "Si un texto científico explica el ciclo del agua de forma objetiva, ¿qué función de la lengua utiliza?",
+    "opciones": [
+      "Poética",
+      "Apelativa",
+      "Referencial",
+      "Emotiva"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Detectar que el texto se basa en hechos científicos y realidad externa.",
+      "Paso 2: Confirmar que no hay opiniones ni adornos literarios.",
+      "Resultado: Referencial."
+    ]
+  },
+  {
+    "id": "ESP-08",
+    "materia": "Español",
+    "dificultad": 2,
+    "tiempoSugerido": 50,
+    "pregunta": "Identifica la función predominante: 'Tus ojos son dos luceros que iluminan mi camino'.",
+    "opciones": [
+      "Referencial",
+      "Apelativa",
+      "Poética",
+      "Fática"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Notar el uso de la metáfora ('ojos como luceros').",
+      "Paso 2: Reconocer que el mensaje se enfoca en la forma bella del decir.",
+      "Resultado: Poética."
+    ]
+  },
+  {
+    "id": "ESP-09",
+    "materia": "Español",
+    "dificultad": 2,
+    "tiempoSugerido": 55,
+    "pregunta": "En un instructivo para armar un mueble, predomina la función:",
+    "opciones": [
+      "Poética",
+      "Referencial",
+      "Apelativa",
+      "Metalingüística"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Analizar la meta del texto: dar órdenes o instrucciones para que el usuario haga algo.",
+      "Paso 2: Relacionar las instrucciones con el mandato directo al receptor.",
+      "Resultado: Apelativa."
+    ]
+  },
+  {
+    "id": "ESP-10",
+    "materia": "Español",
+    "dificultad": 1,
+    "tiempoSugerido": 45,
+    "pregunta": "Tipo de discurso que se encuentra comúnmente en cuentos, mitos y leyendas.",
+    "opciones": [
+      "Argumentativo",
+      "Descriptivo",
+      "Narrativo",
+      "Expositivo"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Asociar los géneros literarios mencionados con el acto de relatar sucesos.",
+      "Paso 2: Confirmar que la estructura tiene inicio, nudo y desenlace.",
+      "Resultado: Narrativo."
+    ]
+  },
+  {
+    "id": "ESP-11",
+    "materia": "Español",
+    "dificultad": 2,
+    "tiempoSugerido": 55,
+    "pregunta": "Es la función de la lengua que aparece en los diccionarios para explicar el significado de las palabras usando el mismo código.",
+    "opciones": [
+      "Referencial",
+      "Apelativa",
+      "Metalingüística",
+      "Fática"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Identificar que el lenguaje se habla a sí mismo.",
+      "Paso 2: Reconocer que explicar gramática o definiciones es 'meta' (sobre el lenguaje).",
+      "Resultado: Metalingüística."
+    ]
+  },
+  {
+    "id": "ESP-12",
+    "materia": "Español",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Qué tipo de discurso utiliza un editorial de periódico para defender su postura sobre una nueva ley?",
+    "opciones": [
+      "Narrativo",
+      "Argumentativo",
+      "Descriptivo",
+      "Poético"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar el género periodístico de opinión.",
+      "Paso 2: Notar que el objetivo es persuadir al lector sobre la validez de un juicio.",
+      "Resultado: Argumentativo."
+    ]
+  },
+  {
+    "id": "ESP-13",
+    "materia": "Español",
+    "dificultad": 1,
+    "tiempoSugerido": 45,
+    "pregunta": "En el enunciado '¡Lávate las manos antes de comer!', ¿cuál es la función dominante?",
+    "opciones": [
+      "Apelativa",
+      "Referencial",
+      "Emotiva",
+      "Poética"
+    ],
     "correcta": 0,
     "explicacionPasos": [
-      "Paso 1: Identificar la relación de 'cubierta corporal'.",
-      "Paso 2: El ave está cubierta de plumas.",
-      "Paso 3: El pez está cubierto de escamas.",
-      "Resultado: Pluma - Escama."
-    ],
-    "analisisDeError": {
-      "2": "Pico es parte de la cabeza, mientras que branquia es del sistema respiratorio; la relación no es simétrica."
-    }
+      "Paso 1: Observar el uso de signos de admiración y un verbo imperativo.",
+      "Paso 2: Confirmar que se espera una reacción o acción del oyente.",
+      "Resultado: Apelativa."
+    ]
   },
   {
-    "id": 96,
+    "id": "ESP-14",
+    "materia": "Español",
+    "dificultad": 2,
+    "tiempoSugerido": 50,
+    "pregunta": "El discurso descriptivo se apoya principalmente en el uso de:",
+    "opciones": [
+      "Verbos de acción",
+      "Adjetivos calificativos",
+      "Conectores causales",
+      "Metáforas complejas"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Recordar que describir es decir 'cómo es' algo.",
+      "Paso 2: Identificar que los adjetivos son las palabras que dan cualidades a los sustantivos.",
+      "Resultado: Adjetivos calificativos."
+    ]
+  },
+  {
+    "id": "ESP-15",
     "materia": "Español",
     "dificultad": 2,
     "tiempoSugerido": 60,
-    "pregunta": "Identifica el modo del verbo en la oración: 'Ojalá llueva pronto'.",
-    "formulaPrincipal": "",
-    "opciones": ["Indicativo", "Subjuntivo", "Imperativo", "Infinitivo"],
+    "pregunta": "¿Cuál es la función de la lengua que permite verificar que el canal de comunicación sigue abierto? (Ej. '¿Bueno?', '¿Me escuchas?')",
+    "opciones": [
+      "Referencial",
+      "Fática",
+      "Metalingüística",
+      "Apelativa"
+    ],
     "correcta": 1,
     "explicacionPasos": [
-      "Paso 1: Analizar la actitud del hablante: expresa un deseo o posibilidad.",
-      "Paso 2: Descartar el indicativo (hechos reales) y el imperativo (órdenes).",
-      "Paso 3: El modo que expresa deseo, duda o temor es el subjuntivo.",
-      "Resultado: Subjuntivo."
+      "Paso 1: Analizar frases que no informan ni convencen, solo mantienen el contacto.",
+      "Paso 2: Identificar la función de contacto o relacional.",
+      "Resultado: Fática."
+    ]
+  },
+  {
+    "id": "ESP-16",
+    "materia": "Español",
+    "dificultad": 1,
+    "tiempoSugerido": 45,
+    "pregunta": "¿Qué función de la lengua predomina en un artículo de enciclopedia que describe las características de los metales?",
+    "opciones": [
+      "Apelativa",
+      "Poética",
+      "Referencial",
+      "Metalingüística"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Identificar que el texto ofrece conocimientos objetivos y factuales.",
+      "Paso 2: Reconocer que la enciclopedia busca informar sobre la realidad externa.",
+      "Resultado: Referencial."
+    ]
+  },
+  {
+    "id": "ESP-17",
+    "materia": "Español",
+    "dificultad": 2,
+    "tiempoSugerido": 50,
+    "pregunta": "Identifica la forma del discurso en el siguiente fragmento: 'Era un día nublado, el aire soplaba frío y las calles lucían desiertas y grises'.",
+    "opciones": [
+      "Narración",
+      "Descripción",
+      "Argumentación",
+      "Diálogo"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Notar que el texto se enfoca en 'pintar' una escena usando adjetivos.",
+      "Paso 2: Identificar que no hay una acción que avance en el tiempo, sino un estado de las cosas.",
+      "Resultado: Descripción."
+    ]
+  },
+  {
+    "id": "ESP-18",
+    "materia": "Español",
+    "dificultad": 1,
+    "tiempoSugerido": 45,
+    "pregunta": "La función apelativa de la lengua tiene como objetivo principal:",
+    "opciones": [
+      "Expresar los sentimientos del autor",
+      "Informar sobre un suceso reciente",
+      "Convencer o influir en la conducta del receptor",
+      "Explicar reglas gramaticales"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Recordar que 'apelar' significa llamar la atención o solicitar algo de otro.",
+      "Paso 2: Relacionar esta función con mandatos, ruegos o persuasión.",
+      "Resultado: Convencer o influir en el receptor."
+    ]
+  },
+  {
+    "id": "ESP-19",
+    "materia": "Español",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Qué función de la lengua se utiliza en el siguiente enunciado: 'Pablito clavó un clavito en la calva de un calvito'?",
+    "opciones": [
+      "Referencial",
+      "Poética",
+      "Apelativa",
+      "Fática"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Notar el juego de palabras y la aliteración (repetición de sonidos).",
+      "Paso 2: Identificar que el énfasis está en la construcción del mensaje y no en la información.",
+      "Resultado: Poética."
+    ]
+  },
+  {
+    "id": "ESP-20",
+    "materia": "Español",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "Cuando en un texto se presentan tesis, opiniones y conclusiones para demostrar una idea, hablamos de un discurso:",
+    "opciones": [
+      "Narrativo",
+      "Descriptivo",
+      "Argumentativo",
+      "Informativo"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Identificar los elementos estructurales mencionados (tesis, argumentos).",
+      "Paso 2: Reconocer que la finalidad es sustentar una postura personal.",
+      "Resultado: Argumentativo."
+    ]
+  },
+  {
+    "id": "ESP-21",
+    "materia": "Español",
+    "dificultad": 1,
+    "tiempoSugerido": 45,
+    "pregunta": "En un boletín meteorológico que dice 'Se esperan lluvias ligeras por la tarde', predomina la función:",
+    "opciones": [
+      "Apelativa",
+      "Emotiva",
+      "Referencial",
+      "Poética"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Evaluar si el mensaje es subjetivo u objetivo.",
+      "Paso 2: Confirmar que comunica un dato sobre el entorno o contexto.",
+      "Resultado: Referencial."
+    ]
+  },
+  {
+    "id": "ESP-22",
+    "materia": "Español",
+    "dificultad": 2,
+    "tiempoSugerido": 50,
+    "pregunta": "¿Qué discurso predomina en una biografía donde se relatan los sucesos cronológicos de la vida de un personaje?",
+    "opciones": [
+      "Argumentativo",
+      "Narrativo",
+      "Descriptivo",
+      "Expositivo"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar la secuencia temporal de hechos.",
+      "Paso 2: Reconocer que se está contando una historia real a través de acciones sucesivas.",
+      "Resultado: Narrativo."
+    ]
+  },
+  {
+    "id": "ESP-23",
+    "materia": "Español",
+    "dificultad": 1,
+    "tiempoSugerido": 45,
+    "pregunta": "Identifica la función de la lengua en: '¡Cierra la puerta al salir!'",
+    "opciones": [
+      "Metalingüística",
+      "Poética",
+      "Apelativa",
+      "Referencial"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Analizar el modo verbal (imperativo).",
+      "Paso 2: Determinar que se busca que el receptor realice una acción específica.",
+      "Resultado: Apelativa."
+    ]
+  },
+  {
+    "id": "ESP-24",
+    "materia": "Español",
+    "dificultad": 2,
+    "tiempoSugerido": 55,
+    "pregunta": "Forma del discurso que utiliza abundantes nexos causales y de consecuencia (porque, por lo tanto, debido a) para sostener una opinión.",
+    "opciones": [
+      "Narración",
+      "Descripción",
+      "Argumentación",
+      "Diálogo"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Asociar los nexos lógicos con la construcción de razones.",
+      "Paso 2: Identificar que estos conectores son pilares de la persuasión racional.",
+      "Resultado: Argumentación."
+    ]
+  },
+  {
+    "id": "ESP-25",
+    "materia": "Español",
+    "dificultad": 1,
+    "tiempoSugerido": 45,
+    "pregunta": "La función poética se centra principalmente en:",
+    "opciones": [
+      "El contexto",
+      "El canal",
+      "El código",
+      "El mensaje"
+    ],
+    "correcta": 3,
+    "explicacionPasos": [
+      "Paso 1: Recordar el esquema de la comunicación de Jakobson.",
+      "Paso 2: Identificar que cuando la atención recae en la 'forma' del mensaje mismo, la función es poética.",
+      "Resultado: El mensaje."
+    ]
+  },
+  {
+    "id": "ESP-26",
+    "materia": "Español",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "Si un texto describe el funcionamiento de un motor de combustión interna, ¿qué forma del discurso y función de la lengua utiliza?",
+    "opciones": [
+      "Descripción / Poética",
+      "Narración / Apelativa",
+      "Descripción / Referencial",
+      "Argumentación / Referencial"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Identificar que se explican características (Descripción).",
+      "Paso 2: Identificar que la intención es técnica e informativa (Referencial).",
+      "Resultado: Descripción / Referencial."
+    ]
+  },
+  {
+    "id": "ESP-27",
+    "materia": "Español",
+    "dificultad": 2,
+    "tiempoSugerido": 50,
+    "pregunta": "En la publicidad, ¿cuál es la función de la lengua que invita al consumo de un producto?",
+    "opciones": [
+      "Referencial",
+      "Poética",
+      "Apelativa",
+      "Metalingüística"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Reconocer el objetivo de la publicidad: modificar la voluntad del cliente.",
+      "Paso 2: Relacionar la persuasión comercial con la función orientada al receptor.",
+      "Resultado: Apelativa."
+    ]
+  },
+  {
+    "id": "ESP-28",
+    "materia": "Español",
+    "dificultad": 1,
+    "tiempoSugerido": 45,
+    "pregunta": "¿Qué discurso predomina en un cuento corto donde un caballero lucha contra un dragón?",
+    "opciones": [
+      "Argumentativo",
+      "Narrativo",
+      "Descriptivo",
+      "Expositivo"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar la existencia de personajes y un conflicto en desarrollo.",
+      "Paso 2: Notar que hay una secuencia de acciones (lucha).",
+      "Resultado: Narrativo."
+    ]
+  },
+  {
+    "id": "ESP-29",
+    "materia": "Español",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "El enunciado 'El sujeto es quien realiza la acción en la oración' cumple una función:",
+    "opciones": [
+      "Fática",
+      "Referencial",
+      "Metalingüística",
+      "Apelativa"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Observar que el lenguaje se usa para explicar un concepto del propio lenguaje (gramática).",
+      "Paso 2: Identificar la función aclaratoria sobre el código.",
+      "Resultado: Metalingüística."
+    ]
+  },
+  {
+    "id": "ESP-30",
+    "materia": "Español",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Cuál es la característica principal del discurso argumentativo?",
+    "opciones": [
+      "Relatar hechos en orden cronológico",
+      "Enumerar adjetivos para detallar un objeto",
+      "Defender una tesis mediante el razonamiento",
+      "Mantener abierto el canal de comunicación"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Definir la esencia de la argumentación.",
+      "Paso 2: Diferenciarla de la narración (hechos) y la descripción (adjetivos).",
+      "Resultado: Defender una tesis mediante el razonamiento."
+    ]
+  },
+  {
+    "id": "ESP-31",
+    "materia": "Español",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Qué función de la lengua predomina en un manual de procedimientos que indica paso a paso cómo operar una maquinaria?",
+    "opciones": [
+      "Referencial",
+      "Apelativa",
+      "Poética",
+      "Fática"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Analizar que el manual busca dirigir la acción del usuario.",
+      "Paso 2: Reconocer que las instrucciones son una forma de apelación al receptor.",
+      "Resultado: Apelativa."
+    ]
+  },
+  {
+    "id": "ESP-32",
+    "materia": "Español",
+    "dificultad": 2,
+    "tiempoSugerido": 55,
+    "pregunta": "Identifica la forma del discurso: 'La casa era amplia, con techos altos de madera rústica y ventanas que daban hacia un jardín lleno de rosales rojos'.",
+    "opciones": [
+      "Narración",
+      "Descripción",
+      "Argumentación",
+      "Exposición"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Notar el uso de sustantivos acompañados de adjetivos ('madera rústica', 'rosales rojos').",
+      "Paso 2: Observar que se presenta la imagen de un lugar sin que ocurra un avance temporal.",
+      "Resultado: Descripción."
+    ]
+  },
+  {
+    "id": "ESP-33",
+    "materia": "Español",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "En un ensayo donde el autor afirma que 'el uso de energías renovables es la única vía para salvar el planeta', predomina el discurso:",
+    "opciones": [
+      "Narrativo",
+      "Descriptivo",
+      "Argumentativo",
+      "Referencial"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Identificar que el autor está expresando una postura o juicio de valor.",
+      "Paso 2: Reconocer que la estructura busca convencer mediante una premisa lógica.",
+      "Resultado: Argumentativo."
+    ]
+  },
+  {
+    "id": "ESP-34",
+    "materia": "Español",
+    "dificultad": 1,
+    "tiempoSugerido": 45,
+    "pregunta": "¿Qué función de la lengua se cumple en un reporte de noticias que dice: 'El sismo ocurrió a las 7:00 am con epicentro en la costa'?",
+    "opciones": [
+      "Emotiva",
+      "Apelativa",
+      "Referencial",
+      "Metalingüística"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Evaluar que el mensaje se centra en informar hechos reales de forma neutra.",
+      "Paso 2: Confirmar que la atención está en el contexto o referente externo.",
+      "Resultado: Referencial."
+    ]
+  },
+  {
+    "id": "ESP-35",
+    "materia": "Español",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "Identifica la función en el siguiente verso: 'El viento de la noche gira en el cielo y canta'.",
+    "opciones": [
+      "Referencial",
+      "Apelativa",
+      "Poética",
+      "Metalingüística"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Detectar el uso de la personificación (el viento 'canta').",
+      "Paso 2: Identificar que la intención es estética y expresiva sobre la forma del lenguaje.",
+      "Resultado: Poética."
+    ]
+  },
+  {
+    "id": "ESP-36",
+    "materia": "Español",
+    "dificultad": 2,
+    "tiempoSugerido": 50,
+    "pregunta": "¿Cuál es la forma del discurso que se caracteriza por relatar una serie de hechos, reales o imaginarios, que se desarrollan en un tiempo y espacio?",
+    "opciones": [
+      "Descripción",
+      "Argumentación",
+      "Narración",
+      "Exposición"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Identificar las palabras clave 'relatar' y 'serie de hechos'.",
+      "Paso 2: Reconocer el avance cronológico como pilar de este discurso.",
+      "Resultado: Narración."
+    ]
+  },
+  {
+    "id": "ESP-37",
+    "materia": "Español",
+    "dificultad": 2,
+    "tiempoSugerido": 55,
+    "pregunta": "Si un texto publicitario dice: '¡No esperes más y cámbiate a nuestra compañía hoy mismo!', utiliza la función:",
+    "opciones": [
+      "Referencial",
+      "Apelativa",
+      "Poética",
+      "Fática"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Observar el uso del imperativo ('no esperes', 'cámbiate').",
+      "Paso 2: Identificar que el objetivo es movilizar al receptor hacia una acción de compra.",
+      "Resultado: Apelativa."
+    ]
+  },
+  {
+    "id": "ESP-38",
+    "materia": "Español",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "Forma del discurso que utiliza la técnica de 'prosopografía' para detallar el aspecto físico de un personaje.",
+    "opciones": [
+      "Argumentación",
+      "Narración",
+      "Descripción",
+      "Diálogo"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Recordar que la prosopografía es una herramienta para enumerar rasgos físicos.",
+      "Paso 2: Relacionar el acto de detallar rasgos con la pintura verbal.",
+      "Resultado: Descripción."
+    ]
+  },
+  {
+    "id": "ESP-39",
+    "materia": "Español",
+    "dificultad": 1,
+    "tiempoSugerido": 45,
+    "pregunta": "¿Cuál es la función predominante en la frase: 'Diga, ¿con quién hablo?'?",
+    "opciones": [
+      "Apelativa",
+      "Referencial",
+      "Fática",
+      "Poética"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Analizar que la frase sirve para establecer o verificar la conexión en el canal.",
+      "Paso 2: Identificar que no transmite información sustancial ni busca convencer.",
+      "Resultado: Fática."
+    ]
+  },
+  {
+    "id": "ESP-40",
+    "materia": "Español",
+    "dificultad": 2,
+    "tiempoSugerido": 65,
+    "pregunta": "Un artículo científico que expone los resultados de una investigación sobre el genoma humano utiliza principalmente:",
+    "opciones": [
+      "Discurso argumentativo y función poética",
+      "Discurso descriptivo y función referencial",
+      "Discurso narrativo y función apelativa",
+      "Discurso argumentativo y función emotiva"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Reconocer que el artículo científico detalla características y datos (Descripción).",
+      "Paso 2: Identificar que su meta es informar objetivamente (Referencial).",
+      "Resultado: Discurso descriptivo y función referencial."
+    ]
+  },
+  {
+    "id": "ESP-41",
+    "materia": "Español",
+    "dificultad": 2,
+    "tiempoSugerido": 55,
+    "pregunta": "Identifica la función en el enunciado: 'Las palabras agudas se acentúan si terminan en n, s o vocal'.",
+    "opciones": [
+      "Referencial",
+      "Poética",
+      "Metalingüística",
+      "Apelativa"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Observar que el lenguaje se utiliza para hablar sobre las reglas del propio idioma.",
+      "Paso 2: Reconocer la función aclaratoria del código.",
+      "Resultado: Metalingüística."
+    ]
+  },
+  {
+    "id": "ESP-42",
+    "materia": "Español",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Qué discurso se utiliza en la conclusión de una tesis donde se justifican los hallazgos para validar una propuesta?",
+    "opciones": [
+      "Narrativo",
+      "Descriptivo",
+      "Argumentativo",
+      "Poético"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Identificar que la 'justificación' requiere de razonamientos y lógica.",
+      "Paso 2: Reconocer la intención de validar una idea frente a un lector.",
+      "Resultado: Argumentativo."
+    ]
+  },
+  {
+    "id": "ESP-43",
+    "materia": "Español",
+    "dificultad": 1,
+    "tiempoSugerido": 45,
+    "pregunta": "En una receta de cocina, las instrucciones como 'Bata los huevos' cumplen la función:",
+    "opciones": [
+      "Apelativa",
+      "Referencial",
+      "Poética",
+      "Fática"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Notar el uso de mandatos directos para que el lector realice una tarea.",
+      "Paso 2: Confirmar que el foco está en la respuesta del receptor.",
+      "Resultado: Apelativa."
+    ]
+  },
+  {
+    "id": "ESP-44",
+    "materia": "Español",
+    "dificultad": 2,
+    "tiempoSugerido": 55,
+    "pregunta": "¿Cuál es la función del lenguaje que busca expresar la subjetividad, emociones y sentimientos del emisor?",
+    "opciones": [
+      "Referencial",
+      "Emotiva o Sintomática",
+      "Apelativa",
+      "Poética"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar que el foco del mensaje es el 'yo' (emisor).",
+      "Paso 2: Reconocer el uso de interjecciones u opiniones personales.",
+      "Resultado: Emotiva o Sintomática."
+    ]
+  },
+  {
+    "id": "ESP-45",
+    "materia": "Español",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "Relaciona correctamente: 'El cielo está llorando' con su función de la lengua.",
+    "opciones": [
+      "Metalingüística",
+      "Referencial",
+      "Poética",
+      "Apelativa"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Identificar la metáfora para referirse a la lluvia.",
+      "Paso 2: Reconocer que se prioriza el adorno del lenguaje sobre la claridad informativa.",
+      "Resultado: Poética."
+    ]
+  },
+  {
+    "id": "ESP-46",
+    "materia": "Español",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Qué es la idea principal de un texto?",
+    "opciones": [
+      "La información que ejemplifica o detalla un concepto.",
+      "El núcleo del mensaje que resume la intención del autor.",
+      "El conjunto de datos estadísticos que aparecen en el texto.",
+      "La frase con la que inicia siempre el primer párrafo."
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Diferenciar entre información esencial y complementaria.",
+      "Paso 2: Reconocer que la idea principal es el eje sobre el cual giran las demás ideas.",
+      "Resultado: El núcleo del mensaje."
+    ]
+  },
+  {
+    "id": "ESP-47",
+    "materia": "Español",
+    "dificultad": 3,
+    "tiempoSugerido": 70,
+    "pregunta": "En un texto argumentativo, ¿qué elemento representa la postura u opinión que el autor busca defender?",
+    "opciones": [
+      "El resumen",
+      "La tesis",
+      "La conclusión",
+      "El contraargumento"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar la estructura de la argumentación.",
+      "Paso 2: Reconocer que la tesis es la proposición central que se sustenta con razones.",
+      "Resultado: La tesis."
+    ]
+  },
+  {
+    "id": "ESP-48",
+    "materia": "Español",
+    "dificultad": 2,
+    "tiempoSugerido": 65,
+    "pregunta": "¿Cuál es la función de las ideas secundarias en un párrafo?",
+    "opciones": [
+      "Contradecir la postura del autor.",
+      "Ampliar, ejemplificar o demostrar la idea principal.",
+      "Sustituir a la idea principal en textos largos.",
+      "Indicar el final de un capítulo."
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Analizar la jerarquía de la información.",
+      "Paso 2: Identificar que las ideas secundarias dependen de la principal para tener sentido.",
+      "Resultado: Ampliar, ejemplificar o demostrar."
+    ]
+  },
+  {
+    "id": "ESP-49",
+    "materia": "Español",
+    "dificultad": 3,
+    "tiempoSugerido": 80,
+    "pregunta": "Si un autor menciona: 'Aunque la tecnología ha avanzado, la brecha educativa sigue creciendo', ¿qué tipo de relación establece entre las ideas?",
+    "opciones": [
+      "Causalidad",
+      "Oposición o contraste",
+      "Consecuencia",
+      "Adición"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar el nexo subordinante 'Aunque'.",
+      "Paso 2: Reconocer que se presentan dos situaciones que parecen contradictorias o contrapuestas.",
+      "Resultado: Oposición o contraste."
+    ]
+  },
+  {
+    "id": "ESP-50",
+    "materia": "Español",
+    "dificultad": 3,
+    "tiempoSugerido": 90,
+    "pregunta": "¿Qué es una inferencia en la comprensión de lectura?",
+    "opciones": [
+      "Copiar literalmente una frase del texto.",
+      "Deducir información que no está explícita pero se sugiere en el texto.",
+      "Inventar un final alternativo para una historia.",
+      "Contar el número de párrafos de un artículo."
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Diferenciar entre lectura literal e interpretativa.",
+      "Paso 2: Usar pistas contextuales para llegar a una conclusión lógica no escrita.",
+      "Resultado: Deducir información no explícita."
+    ]
+  },
+  {
+    "id": "ESP-51",
+    "materia": "Español",
+    "dificultad": 3,
+    "tiempoSugerido": 75,
+    "pregunta": "Identifica el punto de vista del autor en la siguiente frase: 'Es lamentable que sigamos ignorando el impacto ambiental de nuestras dietas'.",
+    "opciones": [
+      "Objetivo e imparcial",
+      "Crítico y subjetivo",
+      "Científico y neutro",
+      "Descriptivo"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Detectar palabras con carga valorativa ('lamentable', 'ignorando').",
+      "Paso 2: Identificar que el emisor está emitiendo un juicio de valor personal.",
+      "Resultado: Crítico y subjetivo."
+    ]
+  },
+  {
+    "id": "ESP-52",
+    "materia": "Español",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "Un texto que presenta información de manera jerárquica, de lo más general a lo más específico, tiene una estructura:",
+    "opciones": [
+      "Inductiva",
+      "Deductiva",
+      "Cronológica",
+      "Circular"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Recordar los métodos de razonamiento.",
+      "Paso 2: Identificar que partir de una premisa general hacia casos particulares es deducir.",
+      "Resultado: Deductiva."
+    ]
+  },
+  {
+    "id": "ESP-53",
+    "materia": "Español",
+    "dificultad": 3,
+    "tiempoSugerido": 85,
+    "pregunta": "Si un texto científico concluye: 'Por lo tanto, la vacuna reduce el riesgo en un 90%', ¿qué tipo de razonamiento predomina?",
+    "opciones": [
+      "Analógico",
+      "Deductivo",
+      "Inductivo",
+      "Narrativo"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Observar que se llega a una conclusión general a partir de datos u observaciones previas.",
+      "Paso 2: Reconocer el patrón de lo particular a lo general.",
+      "Resultado: Inductivo."
+    ]
+  },
+  {
+    "id": "ESP-54",
+    "materia": "Español",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "¿A qué parte de la estructura del texto corresponde el planteamiento del tema y la captura de la atención del lector?",
+    "opciones": [
+      "Desarrollo",
+      "Conclusión",
+      "Introducción",
+      "Bibliografía"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Analizar las funciones de las partes de un texto.",
+      "Paso 2: Identificar la sección inicial donde se presenta el contexto.",
+      "Resultado: Introducción."
+    ]
+  },
+  {
+    "id": "ESP-55",
+    "materia": "Español",
+    "dificultad": 3,
+    "tiempoSugerido": 70,
+    "pregunta": "En la frase: 'El éxito no es el final, el fracaso no es fatal; es el coraje para continuar lo que cuenta', el autor tiene una intención:",
+    "opciones": [
+      "Informativa",
+      "Persuasiva / Motivadora",
+      "Irónica",
+      "Referencial"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Analizar el impacto emocional y la intención de influir en el ánimo del lector.",
+      "Paso 2: Descartar la mera transmisión de datos.",
+      "Resultado: Persuasiva / Motivadora."
+    ]
+  },
+  {
+    "id": "ESP-56",
+    "materia": "Español",
+    "dificultad": 2,
+    "tiempoSugerido": 65,
+    "pregunta": "¿Qué recurso utiliza un autor cuando cita a un experto para validar su propia opinión?",
+    "opciones": [
+      "Argumento de autoridad",
+      "Falacia lógica",
+      "Generalización",
+      "Metáfora"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Reconocer técnicas de argumentación.",
+      "Paso 2: Identificar el uso de una fuente prestigiosa como respaldo.",
+      "Resultado: Argumento de autoridad."
+    ]
+  },
+  {
+    "id": "ESP-57",
+    "materia": "Español",
+    "dificultad": 3,
+    "tiempoSugerido": 80,
+    "pregunta": "Al leer 'Juan entró a casa empapado y cerró su paraguas', podemos inferir que:",
+    "opciones": [
+      "Juan tiene sueño.",
+      "Estaba lloviendo.",
+      "Juan es un hombre joven.",
+      "La casa de Juan es grande."
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Analizar las pistas: 'empapado' y 'paraguas'.",
+      "Paso 2: Conectar lógicamente estos elementos con un fenómeno climático.",
+      "Resultado: Estaba lloviendo."
+    ]
+  },
+  {
+    "id": "ESP-58",
+    "materia": "Español",
+    "dificultad": 2,
+    "tiempoSugerido": 50,
+    "pregunta": "¿Cuál es el propósito de un resumen?",
+    "opciones": [
+      "Añadir críticas personales al texto original.",
+      "Reducir un texto manteniendo solo las ideas principales.",
+      "Cambiar todas las palabras del autor por sinónimos.",
+      "Hacer el texto más largo y detallado."
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Definir la técnica de síntesis.",
+      "Paso 2: Identificar que se debe conservar la esencia del mensaje original de forma abreviada.",
+      "Resultado: Reducir manteniendo ideas principales."
+    ]
+  },
+  {
+    "id": "ESP-59",
+    "materia": "Español",
+    "dificultad": 3,
+    "tiempoSugerido": 70,
+    "pregunta": "¿Qué tipo de texto tiene como objetivo primordial guiar al lector para realizar una actividad específica?",
+    "opciones": [
+      "Texto narrativo",
+      "Texto argumentativo",
+      "Texto instructivo",
+      "Texto lírico"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Asociar objetivo con género textual.",
+      "Paso 2: Reconocer que los manuales o recetas son guías de acción.",
+      "Resultado: Texto instructivo."
+    ]
+  },
+  {
+    "id": "ESP-60",
+    "materia": "Español",
+    "dificultad": 3,
+    "tiempoSugerido": 80,
+    "pregunta": "Identifica el nexo que indica una relación de consecuencia:",
+    "opciones": [
+      "Pero",
+      "Además",
+      "Por lo tanto",
+      "O bien"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Analizar la función de cada conector.",
+      "Paso 2: Identificar que 'Por lo tanto' introduce el efecto de una causa previa.",
+      "Resultado: Por lo tanto."
+    ]
+  },
+  {
+    "id": "ESP-61",
+    "materia": "Español",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Qué elemento del texto permite al lector anticipar el tema central antes de iniciar la lectura?",
+    "opciones": [
+      "El índice",
+      "El título",
+      "La conclusión",
+      "Las notas al pie"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar la función de los paratextos.",
+      "Paso 2: Reconocer que el título condensa la esencia temática del contenido.",
+      "Resultado: El título."
+    ]
+  },
+  {
+    "id": "ESP-62",
+    "materia": "Español",
+    "dificultad": 3,
+    "tiempoSugerido": 70,
+    "pregunta": "En un texto, un 'hecho' se diferencia de una 'opinión' porque el hecho es:",
+    "opciones": [
+      "Subjetivo y personal",
+      "Verificable y objetivo",
+      "Una interpretación del autor",
+      "Un adorno literario"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Definir la objetividad en el discurso informativo.",
+      "Paso 2: Diferenciar entre datos comprobables y juicios de valor.",
+      "Resultado: Verificable y objetivo."
+    ]
+  },
+  {
+    "id": "ESP-63",
+    "materia": "Español",
+    "dificultad": 3,
+    "tiempoSugerido": 85,
+    "pregunta": "Al leer: 'El sospechoso salió corriendo apenas vio la patrulla', ¿qué se puede inferir?",
+    "opciones": [
+      "El sospechoso tiene mucha condición física.",
+      "El sospechoso temía ser detenido o cuestionado.",
+      "La patrulla iba a exceso de velocidad.",
+      "El sospechoso es inocente."
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Analizar la reacción causa-efecto sugerida.",
+      "Paso 2: Deducir la motivación detrás de la acción de huir ante la autoridad.",
+      "Resultado: Temía ser detenido."
+    ]
+  },
+  {
+    "id": "ESP-64",
+    "materia": "Español",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Cuál es la estructura clásica de un texto narrativo?",
+    "opciones": [
+      "Tesis, desarrollo y conclusión",
+      "Inicio, nudo y desenlace",
+      "Introducción, argumentos y cierre",
+      "Título, subtítulo y cuerpo"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Recordar la progresión de una historia o relato.",
+      "Paso 2: Identificar el planteamiento, el conflicto y la resolución.",
+      "Resultado: Inicio, nudo y desenlace."
+    ]
+  },
+  {
+    "id": "ESP-65",
+    "materia": "Español",
+    "dificultad": 3,
+    "tiempoSugerido": 75,
+    "pregunta": "¿Qué recurso discursivo utiliza el autor en la frase: 'La educación es el vestido de gala para asistir a la fiesta de la vida'?",
+    "opciones": [
+      "Argumento de autoridad",
+      "Metáfora",
+      "Hipérbole",
+      "Ironía"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Observar la comparación directa entre dos conceptos sin usar nexos como 'como'.",
+      "Paso 2: Identificar el uso estético para transmitir una idea profunda.",
+      "Resultado: Metáfora."
+    ]
+  },
+  {
+    "id": "ESP-66",
+    "materia": "Español",
+    "dificultad": 3,
+    "tiempoSugerido": 80,
+    "pregunta": "Identifica la idea principal del siguiente fragmento: 'El reciclaje no solo reduce la cantidad de basura, sino que ahorra energía y protege los recursos naturales'.",
+    "opciones": [
+      "La basura es un problema global.",
+      "Existen muchas formas de ahorrar energía.",
+      "El reciclaje ofrece múltiples beneficios ambientales.",
+      "Los recursos naturales son limitados."
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Sintetizar los puntos mencionados (basura, energía, recursos).",
+      "Paso 2: Encontrar la afirmación que engloba todas las ventajas citadas.",
+      "Resultado: El reciclaje ofrece múltiples beneficios."
+    ]
+  },
+  {
+    "id": "ESP-67",
+    "materia": "Español",
+    "dificultad": 2,
+    "tiempoSugerido": 65,
+    "pregunta": "¿Qué parte de la estructura del texto argumentativo resume los puntos clave y reafirma la tesis?",
+    "opciones": [
+      "Introducción",
+      "Cuerpo argumentativo",
+      "Conclusión",
+      "Bibliografía"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Identificar la función de cierre del discurso.",
+      "Paso 2: Reconocer el espacio destinado a la recapitulación final.",
+      "Resultado: Conclusión."
+    ]
+  },
+  {
+    "id": "ESP-68",
+    "materia": "Español",
+    "dificultad": 3,
+    "tiempoSugerido": 90,
+    "pregunta": "¿Qué nexo de transición indica una idea de adición o suma de información?",
+    "opciones": [
+      "No obstante",
+      "Asimismo",
+      "Sin embargo",
+      "Por el contrario"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Analizar el significado de cada conector.",
+      "Paso 2: Identificar 'Asimismo' como sinónimo de 'también' o 'de igual manera'.",
+      "Resultado: Asimismo."
+    ]
+  },
+  {
+    "id": "ESP-69",
+    "materia": "Español",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "Un texto cuya finalidad es convencer al receptor de una idea se conoce como:",
+    "opciones": [
+      "Informativo",
+      "Persuasivo",
+      "Literario",
+      "Descriptivo"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Relacionar la intención comunicativa con el tipo de texto.",
+      "Paso 2: Identificar que la persuasión es el núcleo de la argumentación.",
+      "Resultado: Persuasivo."
+    ]
+  },
+  {
+    "id": "ESP-70",
+    "materia": "Español",
+    "dificultad": 3,
+    "tiempoSugerido": 80,
+    "pregunta": "Al leer un texto científico, ¿cuál es el punto de vista que se espera del autor?",
+    "opciones": [
+      "Emocional y apasionado",
+      "Objetivo y basado en evidencias",
+      "Irónico y burlón",
+      "Misterioso y poético"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Reconocer los estándares del rigor científico.",
+      "Paso 2: Descartar la subjetividad en favor de la comprobación.",
+      "Resultado: Objetivo y basado en evidencias."
+    ]
+  },
+  {
+    "id": "ESP-71",
+    "materia": "Español",
+    "dificultad": 3,
+    "tiempoSugerido": 70,
+    "pregunta": "¿Qué recurso se utiliza cuando se menciona: 'Según la OMS, el ejercicio previene enfermedades cardiacas'?",
+    "opciones": [
+      "Ejemplificación",
+      "Cita de autoridad",
+      "Analogía",
+      "Contraste"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar la mención de una institución reconocida.",
+      "Paso 2: Reconocer que se usa para dar validez y peso a una afirmación.",
+      "Resultado: Cita de autoridad."
+    ]
+  },
+  {
+    "id": "ESP-72",
+    "materia": "Español",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Qué es la síntesis de un texto?",
+    "opciones": [
+      "Un resumen que incluye la interpretación personal del lector.",
+      "La copia fiel de los primeros tres párrafos.",
+      "El análisis del origen de las palabras.",
+      "La lista de los nombres de los personajes."
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Diferenciar resumen (literal/objetivo) de síntesis (interpretativa).",
+      "Paso 2: Identificar que la síntesis requiere reelaborar el contenido con palabras propias.",
+      "Resultado: Resumen que incluye interpretación."
+    ]
+  },
+  {
+    "id": "ESP-73",
+    "materia": "Español",
+    "dificultad": 3,
+    "tiempoSugerido": 85,
+    "pregunta": "Si un texto comienza con una historia pequeña para luego explicar un concepto general, utiliza un método:",
+    "opciones": [
+      "Deductivo",
+      "Inductivo",
+      "Analógico",
+      "Cronológico"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar el avance de lo particular (la historia) a lo general (el concepto).",
+      "Paso 2: Relacionar este orden con el pensamiento inductivo.",
+      "Resultado: Inductivo."
+    ]
+  },
+  {
+    "id": "ESP-74",
+    "materia": "Español",
+    "dificultad": 2,
+    "tiempoSugerido": 50,
+    "pregunta": "¿Qué tipo de nexo es 'pero'?",
+    "opciones": [
+      "Causal",
+      "Adversativo",
+      "Consecutivo",
+      "Final"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Analizar la función del nexo (indica oposición).",
+      "Paso 2: Reconocer la categoría gramatical de las conjunciones que contraponen ideas.",
+      "Resultado: Adversativo."
+    ]
+  },
+  {
+    "id": "ESP-75",
+    "materia": "Español",
+    "dificultad": 3,
+    "tiempoSugerido": 80,
+    "pregunta": "¿Cuál es la intención comunicativa de un artículo de opinión?",
+    "opciones": [
+      "Narrar una noticia de forma imparcial.",
+      "Exponer datos técnicos de un producto.",
+      "Persuadir al lector sobre una postura específica.",
+      "Enseñar a utilizar un nuevo software."
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Identificar el género del texto.",
+      "Paso 2: Reconocer que la opinión busca la adhesión del lector a un juicio determinado.",
+      "Resultado: Persuadir al lector."
+    ]
+  },
+  {
+    "id": "ESP-76",
+    "materia": "Español",
+    "dificultad": 4,
+    "tiempoSugerido": 90,
+    "pregunta": "¿Qué técnica discursiva se utiliza cuando el autor presenta una opinión contraria a la suya para después demostrar su invalidez y reforzar su propia tesis?",
+    "opciones": [
+      "Paráfrasis",
+      "Refutación",
+      "Analogía",
+      "Generalización"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar la dinámica de presentar un argumento opuesto (contraargumento).",
+      "Paso 2: Reconocer que el acto de invalidar dicho argumento con pruebas se denomina refutar.",
+      "Resultado: Refutación."
+    ]
+  },
+  {
+    "id": "ESP-77",
+    "materia": "Español",
+    "dificultad": 4,
+    "tiempoSugerido": 80,
+    "pregunta": "En un texto argumentativo complejo, ¿cuál es la función de los 'concesivos' como 'si bien' o 'aunque'?",
+    "opciones": [
+      "Introducir una conclusión definitiva.",
+      "Reconocer una objeción parcial para matizar la postura principal.",
+      "Enumerar características descriptivas del objeto de estudio.",
+      "Expresar una relación de causa y efecto directa."
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Analizar el valor gramatical de los nexos concesivos.",
+      "Paso 2: Identificar que permiten admitir un hecho sin que este invalide la idea principal, dando mayor profundidad al argumento.",
+      "Resultado: Reconocer una objeción parcial."
+    ]
+  },
+  {
+    "id": "ESP-78",
+    "materia": "Español",
+    "dificultad": 4,
+    "tiempoSugerido": 100,
+    "pregunta": "Identifica la intención implícita en la siguiente ironía: 'Qué bueno que llegas justo a tiempo para el final de la reunión'.",
+    "opciones": [
+      "Felicitar al receptor por su puntualidad.",
+      "Criticar sutilmente la tardanza del receptor.",
+      "Informar que la reunión ha concluido satisfactoriamente.",
+      "Expresar alegría por la presencia del invitado."
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Detectar el contraste entre el sentido literal (felicitación) y el contexto (llegar al final).",
+      "Paso 2: Inferir la carga valorativa negativa o el reclamo oculto tras la frase positiva.",
+      "Resultado: Criticar sutilmente la tardanza."
+    ]
+  },
+  {
+    "id": "ESP-79",
+    "materia": "Español",
+    "dificultad": 4,
+    "tiempoSugerido": 120,
+    "pregunta": "Un autor que utiliza constantemente tecnicismos, citas de estudios indexados y un tono impersonal, busca proyectar un punto de vista:",
+    "opciones": [
+      "Sesgado y emocional.",
+      "Erudito y de autoridad científica.",
+      "Irónico y desapegado.",
+      "Narrativo y subjetivo."
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Evaluar el registro lingüístico (tecnicismos).",
+      "Paso 2: Relacionar el uso de fuentes externas confiables con la intención de generar credibilidad y objetividad académica.",
+      "Resultado: Erudito y de autoridad científica."
+    ]
+  },
+  {
+    "id": "ESP-80",
+    "materia": "Español",
+    "dificultad": 4,
+    "tiempoSugerido": 110,
+    "pregunta": "¿Qué proceso cognitivo de lectura permite distinguir entre la información sustancial (tesis y argumentos) y la información accesoria (ejemplos o digresiones)?",
+    "opciones": [
+      "Lectura fonética.",
+      "Análisis estructural o macroestructura.",
+      "Decodificación literal.",
+      "Escaneo rápido (skimming)."
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar la necesidad de ver el texto como una unidad jerarquizada.",
+      "Paso 2: Reconocer que la macroestructura es el esqueleto semántico que sostiene el sentido global.",
+      "Resultado: Análisis estructural o macroestructura."
+    ]
+  },
+  {
+    "id": "ESP-81",
+    "materia": "Español",
+    "dificultad": 4,
+    "tiempoSugerido": 90,
+    "pregunta": "Si un texto presenta una premisa universal y luego la aplica a un caso particular para llegar a una conclusión, ¿qué tipo de estructura lógica sigue?",
+    "opciones": [
+      "Inductiva.",
+      "Deductiva.",
+      "Analógica.",
+      "Circular."
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar el punto de partida (Premisa universal/general).",
+      "Paso 2: Observar el descenso hacia lo específico.",
+      "Resultado: Deductiva."
+    ]
+  },
+  {
+    "id": "ESP-82",
+    "materia": "Español",
+    "dificultad": 4,
+    "tiempoSugerido": 100,
+    "pregunta": "Al leer 'El candidato habló durante horas, pero no dijo nada', ¿qué inferencia es la más acertada sobre el discurso del político?",
+    "opciones": [
+      "El candidato perdió la voz al final.",
+      "El discurso careció de contenido sustancial o propuestas claras.",
+      "El candidato utilizó un lenguaje extranjero.",
+      "La audiencia no prestó atención al mensaje."
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Analizar la paradoja entre hablar mucho y 'no decir nada'.",
+      "Paso 2: Inferir que la crítica se dirige a la vacuidad o falta de ideas detrás de las palabras.",
+      "Resultado: Careció de contenido sustancial."
+    ]
+  },
+  {
+    "id": "ESP-83",
+    "materia": "Español",
+    "dificultad": 4,
+    "tiempoSugerido": 95,
+    "pregunta": "¿Cuál es la función de los marcadores textuales de orden como 'en primer lugar', 'por otra parte' y 'finalmente'?",
+    "opciones": [
+      "Añadir subjetividad al texto.",
+      "Garantizar la cohesión y organizar la progresión temática.",
+      "Resumir las ideas secundarias.",
+      "Cambiar el punto de vista del autor."
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Reconocer que estos nexos funcionan como señales de tránsito para el lector.",
+      "Paso 2: Identificar su papel en la articulación lógica de las partes del texto.",
+      "Resultado: Garantizar la cohesión y organizar la progresión."
+    ]
+  },
+  {
+    "id": "ESP-84",
+    "materia": "Español",
+    "dificultad": 4,
+    "tiempoSugerido": 120,
+    "pregunta": "Un texto que utiliza la primera persona del plural ('nosotros'), apelando a valores compartidos para buscar la adhesión del lector, utiliza un tono:",
+    "opciones": [
+      "Excluyente.",
+      "Inclusivo y persuasivo.",
+      "Informativo y neutro.",
+      "Descriptivo técnico."
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Evaluar el efecto de involucrar al lector en el grupo del emisor.",
+      "Paso 2: Identificar la intención de generar empatía para facilitar la aceptación de la tesis.",
+      "Resultado: Inclusivo y persuasivo."
+    ]
+  },
+  {
+    "id": "ESP-85",
+    "materia": "Español",
+    "dificultad": 4,
+    "tiempoSugerido": 110,
+    "pregunta": "¿Qué se busca identificar al analizar el 'contexto de producción' de un texto?",
+    "opciones": [
+      "El número de ejemplares impresos.",
+      "Las circunstancias históricas, sociales y culturales que rodearon al autor.",
+      "El tipo de papel o plataforma digital donde se publicó.",
+      "La cantidad de sinónimos utilizados por el autor."
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Comprender que el texto no nace en el vacío.",
+      "Paso 2: Reconocer que factores externos influyen en la intención y el mensaje del autor.",
+      "Resultado: Circunstancias históricas, sociales y culturales."
+    ]
+  },
+  {
+    "id": "ESP-86",
+    "materia": "Español",
+    "dificultad": 4,
+    "tiempoSugerido": 100,
+    "pregunta": "En la frase 'La libertad es un lujo que no todos pueden permitirse', el autor sugiere una visión de la libertad como algo:",
+    "opciones": [
+      "Derecho universal e inalienable.",
+      "Privilegio condicionado por factores socioeconómicos.",
+      "Obligación ciudadana.",
+      "Concepto abstracto sin importancia real."
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Analizar la palabra clave 'lujo' y la restricción 'no todos'.",
+      "Paso 2: Conectar la noción de lujo con la exclusividad y la desigualdad.",
+      "Resultado: Privilegio condicionado."
+    ]
+  },
+  {
+    "id": "ESP-87",
+    "materia": "Español",
+    "dificultad": 4,
+    "tiempoSugerido": 115,
+    "pregunta": "¿Cuál es la diferencia fundamental entre una síntesis y un análisis de texto?",
+    "opciones": [
+      "La síntesis descompone las partes y el análisis las une.",
+      "El análisis descompone el texto para entender sus componentes y la síntesis integra las ideas principales de forma breve.",
+      "No existe diferencia; son sinónimos.",
+      "La síntesis es siempre más larga que el análisis."
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Definir análisis (separar para entender).",
+      "Paso 2: Definir síntesis (reunir lo esencial).",
+      "Resultado: El análisis descompone y la síntesis integra."
+    ]
+  },
+  {
+    "id": "ESP-88",
+    "materia": "Español",
+    "dificultad": 4,
+    "tiempoSugerido": 90,
+    "pregunta": "Identifica el nexo que indica una relación de finalidad:",
+    "opciones": [
+      "A fin de que.",
+      "Puesto que.",
+      "A pesar de que.",
+      "En consecuencia."
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Analizar el propósito de la acción expresada.",
+      "Paso 2: Reconocer 'A fin de que' como introductor de un objetivo o meta.",
+      "Resultado: A fin de que."
+    ]
+  },
+  {
+    "id": "ESP-89",
+    "materia": "Español",
+    "dificultad": 4,
+    "tiempoSugerido": 105,
+    "pregunta": "Al leer un ensayo que critica el consumismo actual, el autor utiliza la expresión 'espejismos de felicidad'. ¿A qué se refiere?",
+    "opciones": [
+      "A la calidad óptica de los nuevos televisores.",
+      "A la falsa sensación de bienestar que producen las compras materiales.",
+      "A los desiertos donde el calor produce ilusiones visuales.",
+      "A la felicidad real que se alcanza al ahorrar dinero."
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Relacionar 'espejismo' con ilusión o engaño.",
+      "Paso 2: Vincular el término con el tema central del texto (crítica al consumismo).",
+      "Resultado: Falsa sensación de bienestar."
+    ]
+  },
+  {
+    "id": "ESP-90",
+    "materia": "Español",
+    "dificultad": 4,
+    "tiempoSugerido": 120,
+    "pregunta": "En un texto de divulgación científica, ¿cuál es el objetivo primordial de utilizar analogías?",
+    "opciones": [
+      "Confundir al lector con comparaciones innecesarias.",
+      "Explicar conceptos complejos mediante ejemplos familiares o sencillos.",
+      "Demostrar la superioridad intelectual del autor.",
+      "Rellenar espacio para cumplir con un número de palabras."
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar la barrera del lenguaje técnico para el público general.",
+      "Paso 2: Reconocer la analogía como un puente pedagógico hacia el entendimiento.",
+      "Resultado: Explicar conceptos complejos mediante ejemplos familiares."
+    ]
+  },
+  {
+    "id": "ESP-91",
+    "materia": "Español",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "Identifica el sujeto en la siguiente oración: 'A los alumnos de ingeniería les preocupa el examen de cálculo'.",
+    "opciones": [
+      "A los alumnos de ingeniería",
+      "Les",
+      "El examen de cálculo",
+      "Ingeniería"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Localizar el verbo principal: 'preocupa'.",
+      "Paso 2: Realizar la prueba de concordancia. Si cambiamos 'el examen' por 'los exámenes', el verbo cambia a 'preocupan'.",
+      "Paso 3: El elemento que concuerda en número y persona con el verbo es el sujeto.",
+      "Resultado: El examen de cálculo."
     ],
     "analisisDeError": {
-      "0": "El indicativo sería 'Llueve pronto'.",
-      "3": "El infinitivo es la forma no personal (Llover)."
+      "0": "Error común: Confundir el objeto indirecto (a quiénes les preocupa) con el sujeto."
     }
+  },
+  {
+    "id": "ESP-92",
+    "materia": "Español",
+    "dificultad": 3,
+    "tiempoSugerido": 55,
+    "pregunta": "¿Qué tipo de sujeto se presenta en la oración: 'Comieron pizza después de la reunión'?",
+    "opciones": [
+      "Sujeto explícito",
+      "Sujeto tácito o morfológico",
+      "Sujeto compuesto",
+      "Sujeto paciente"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Notar que el sujeto no está escrito en la oración.",
+      "Paso 2: Identificar que la terminación del verbo 'comieron' indica que el sujeto es 'Ellos' o 'Ustedes'.",
+      "Resultado: Sujeto tácito o morfológico."
+    ]
+  },
+  {
+    "id": "ESP-93",
+    "materia": "Español",
+    "dificultad": 4,
+    "tiempoSugerido": 70,
+    "pregunta": "En la oración: 'Víctor entregó el proyecto al director ayer', ¿cuál es el objeto directo?",
+    "opciones": [
+      "Víctor",
+      "El proyecto",
+      "Al director",
+      "Ayer"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar la acción (entregó).",
+      "Paso 2: Preguntar '¿qué?' al verbo: ¿Qué entregó Víctor? -> El proyecto.",
+      "Paso 3: Verificar sustituyendo por el pronombre 'lo': Víctor LO entregó.",
+      "Resultado: El proyecto."
+    ],
+    "analisisDeError": {
+      "2": "'Al director' es el objeto indirecto (¿a quién?).",
+      "3": "'Ayer' es un complemento circunstancial de tiempo."
+    }
+  },
+  {
+    "id": "ESP-94",
+    "materia": "Español",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Cuál es la función del núcleo del predicado en una oración bimembre?",
+    "opciones": [
+      "Indicar la persona que realiza la acción.",
+      "Expresar la acción, estado o proceso mediante un verbo conjugado.",
+      "Calificar al sustantivo principal.",
+      "Unir dos oraciones subordinadas."
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Definir la estructura del predicado.",
+      "Paso 2: Reconocer que el verbo es el motor de la oración y su núcleo esencial.",
+      "Resultado: Expresar la acción o estado."
+    ]
+  },
+  {
+    "id": "ESP-95",
+    "materia": "Español",
+    "dificultad": 4,
+    "tiempoSugerido": 75,
+    "pregunta": "Identifica la oración que presenta una construcción lógica y sintáctica correcta:",
+    "opciones": [
+      "Hubieron muchos problemas en la implementación del software.",
+      "Habían demasiadas personas en la conferencia de IA.",
+      "Hubo varios errores en la lógica del algoritmo.",
+      "Han habido quejas sobre el nuevo servidor."
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Analizar el uso del verbo 'haber' como impersonal (referente a existencia).",
+      "Paso 2: Recordar que en su forma impersonal, 'haber' siempre se conjuga en tercera persona del singular.",
+      "Paso 3: Descartar las opciones pluralizadas ('hubieron', 'habían', 'han habido').",
+      "Resultado: Hubo varios errores."
+    ]
+  },
+  {
+    "id": "ESP-96",
+    "materia": "Español",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Qué elemento del predicado responde a la pregunta '¿para quién?' o '¿a quién?' se realiza la acción?",
+    "opciones": [
+      "Objeto Directo",
+      "Objeto Indirecto",
+      "Complemento Circunstancial",
+      "Agente"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Diferenciar entre el receptor de la acción y el objeto de la acción.",
+      "Paso 2: Identificar que el Objeto Indirecto señala al destinatario o beneficiario.",
+      "Resultado: Objeto Indirecto."
+    ]
+  },
+  {
+    "id": "ESP-97",
+    "materia": "Español",
+    "dificultad": 4,
+    "tiempoSugerido": 80,
+    "pregunta": "En la frase: 'El sistema falló debido a que la base de datos estaba saturada', ¿qué tipo de relación lógica establece el nexo subrayado?",
+    "opciones": [
+      "Consecuencia",
+      "Oposición",
+      "Causalidad",
+      "Finalidad"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Analizar el conector 'debido a que'.",
+      "Paso 2: Identificar que presenta la razón o el origen de la falla del sistema.",
+      "Resultado: Causalidad."
+    ]
+  },
+  {
+    "id": "ESP-98",
+    "materia": "Español",
+    "dificultad": 3,
+    "tiempoSugerido": 55,
+    "pregunta": "Identifica el núcleo del sujeto en: 'La moderna oficina de la startup tecnológica tiene buena iluminación'.",
+    "opciones": [
+      "Moderna",
+      "Oficina",
+      "Startup",
+      "Tecnológica"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Localizar todo el sujeto: 'La moderna oficina de la startup tecnológica'.",
+      "Paso 2: Quitar adjetivos y complementos. ¿De qué se habla esencialmente? -> De la oficina.",
+      "Resultado: Oficina."
+    ]
+  },
+  {
+    "id": "ESP-99",
+    "materia": "Español",
+    "dificultad": 4,
+    "tiempoSugerido": 70,
+    "pregunta": "¿Cuál de las siguientes opciones muestra un uso correcto del gerundio?",
+    "opciones": [
+      "Salió de la oficina llegando tarde a su casa.",
+      "Se necesita asistente conociendo Excel.",
+      "El ingeniero está trabajando en el nuevo módulo.",
+      "Envió un correo conteniendo los archivos."
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Recordar que el gerundio indica acción simultánea o anterior, nunca posterior ni como adjetivo.",
+      "Paso 2: 'Llegando' en la opción 0 es posterior. 'Conociendo' y 'conteniendo' funcionan erróneamente como adjetivos.",
+      "Paso 3: 'Está trabajando' es una perífrasis de acción simultánea correcta.",
+      "Resultado: Está trabajando."
+    ]
+  },
+  {
+    "id": "ESP-100",
+    "materia": "Español",
+    "dificultad": 4,
+    "tiempoSugerido": 65,
+    "pregunta": "¿Qué signo de puntuación es necesario para separar oraciones independientes que están estrechamente relacionadas por el sentido?",
+    "opciones": [
+      "Coma",
+      "Punto y seguido",
+      "Punto y coma",
+      "Dos puntos"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Evaluar la pausa necesaria entre dos ideas completas pero ligadas.",
+      "Paso 2: Identificar que el punto y coma es el nexo ideal cuando no se quiere una separación total (punto) ni una pausa breve (coma).",
+      "Resultado: Punto y coma."
+    ]
+  },
+  {
+    "id": "ESP-101",
+    "materia": "Español",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "En la oración 'Jorge, el CEO de Pathbooks, firmó el contrato', el elemento entre comas funciona como:",
+    "opciones": [
+      "Sujeto tácito",
+      "Aposición",
+      "Vocativo",
+      "Objeto directo"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Observar que la frase 'el CEO de Pathbooks' explica o renombra al núcleo del sujeto (Jorge).",
+      "Paso 2: Identificar este recurso gramatical aclaratorio.",
+      "Resultado: Aposición."
+    ]
+  },
+  {
+    "id": "ESP-102",
+    "materia": "Español",
+    "dificultad": 4,
+    "tiempoSugerido": 70,
+    "pregunta": "Identifica la opción con puntuación correcta:",
+    "opciones": [
+      "Víctor, programa en Next.js; sin embargo prefiere NestJS.",
+      "Víctor programa en Next.js; sin embargo, prefiere NestJS.",
+      "Víctor programa en Next.js sin embargo prefiere NestJS.",
+      "Víctor, programa en Next.js, sin embargo prefiere NestJS."
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar el nexo adversativo largo 'sin embargo'.",
+      "Paso 2: Aplicar la regla: punto y coma antes del nexo y coma después del nexo.",
+      "Resultado: Opción 1."
+    ]
+  },
+  {
+    "id": "ESP-103",
+    "materia": "Español",
+    "dificultad": 4,
+    "tiempoSugerido": 75,
+    "pregunta": "¿Qué error de redacción ocurre cuando el sujeto y el verbo no coinciden en número y persona?",
+    "opciones": [
+      "Pleonasmo",
+      "Solecismo de concordancia",
+      "Cacofonía",
+      "Anfibología"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Definir los vicios del lenguaje.",
+      "Paso 2: Identificar que la falta de acuerdo entre género/número o persona/verbo es un solecismo.",
+      "Resultado: Solecismo de concordancia."
+    ]
+  },
+  {
+    "id": "ESP-104",
+    "materia": "Español",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "En un párrafo, la oración que contiene la idea central y de la cual dependen las demás se llama:",
+    "opciones": [
+      "Oración secundaria",
+      "Oración temática o principal",
+      "Oración subordinada",
+      "Oración coordinada"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Analizar la jerarquía del párrafo.",
+      "Paso 2: Reconocer que la oración temática es la que da unidad al texto.",
+      "Resultado: Oración temática o principal."
+    ]
+  },
+  {
+    "id": "ESP-105",
+    "materia": "Español",
+    "dificultad": 4,
+    "tiempoSugerido": 70,
+    "pregunta": "Identifica el complemento circunstancial de modo en: 'El desarrollador resolvió el bug rápidamente con sus herramientas'.",
+    "opciones": [
+      "El desarrollador",
+      "Resolvió",
+      "Rápidamente",
+      "Con sus herramientas"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Preguntar '¿cómo?' al verbo: ¿Cómo lo resolvió? -> Rápidamente.",
+      "Paso 2: Identificar el adverbio terminado en -mente que indica el modo.",
+      "Resultado: Rápidamente."
+    ],
+    "analisisDeError": {
+      "3": "Este es un complemento circunstancial de instrumento."
+    }
+  },
+  {
+    "id": "ESP-106",
+    "materia": "Español",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "Identifica el predicado en la siguiente oración: 'Por la mañana, los ingenieros de Pathbooks revisaron el código del nuevo módulo'.",
+    "opciones": [
+      "Los ingenieros de Pathbooks",
+      "Revisaron el código del nuevo módulo",
+      "Por la mañana, revisaron el código del nuevo módulo",
+      "Por la mañana"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Localizar el sujeto ('los ingenieros de Pathbooks').",
+      "Paso 2: Todo lo que no es sujeto forma parte del predicado, incluyendo los complementos circunstanciales que lo modifican.",
+      "Paso 3: El complemento 'Por la mañana' indica tiempo y es parte del predicado.",
+      "Resultado: Por la mañana, revisaron el código del nuevo módulo."
+    ]
+  },
+  {
+    "id": "ESP-107",
+    "materia": "Español",
+    "dificultad": 4,
+    "tiempoSugerido": 70,
+    "pregunta": "¿Qué tipo de oración es: 'El servidor falló porque no hubo mantenimiento preventivo'?",
+    "opciones": [
+      "Oración simple",
+      "Oración compuesta coordinada",
+      "Oración compuesta subordinada causal",
+      "Oración compuesta subordinada final"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Identificar la presencia de dos verbos ('falló', 'hubo').",
+      "Paso 2: Localizar el nexo 'porque', que introduce una dependencia lógica.",
+      "Paso 3: Determinar que la segunda proposición explica la razón de la primera.",
+      "Resultado: Oración compuesta subordinada causal."
+    ]
+  },
+  {
+    "id": "ESP-108",
+    "materia": "Español",
+    "dificultad": 4,
+    "tiempoSugerido": 75,
+    "pregunta": "Identifica la opción que presenta un SOLECISMO (error de construcción):",
+    "opciones": [
+      "Bajo mi punto de vista, el proyecto es viable.",
+      "Desde mi punto de vista, el proyecto es viable.",
+      "A mi parecer, el proyecto es viable.",
+      "Según mi opinión, el proyecto es viable."
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Analizar las frases prepositivas de opinión.",
+      "Paso 2: Reconocer que la expresión correcta es 'Desde mi punto de vista'.",
+      "Paso 3: Identificar el uso incorrecto de la preposición 'bajo' en este contexto.",
+      "Resultado: Bajo mi punto de vista..."
+    ]
+  },
+  {
+    "id": "ESP-109",
+    "materia": "Español",
+    "dificultad": 3,
+    "tiempoSugerido": 65,
+    "pregunta": "En la oración: 'A Jorge le gusta programar en NestJS', el elemento 'A Jorge' funciona como:",
+    "opciones": [
+      "Sujeto",
+      "Objeto Directo",
+      "Objeto Indirecto",
+      "Complemento Circunstancial"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Identificar que el sujeto es 'programar en NestJS' (sujeto oracional).",
+      "Paso 2: Observar que 'A Jorge' indica el destinatario del sentimiento o gusto.",
+      "Paso 3: Notar la presencia del pronombre 'le', que refuerza al objeto indirecto.",
+      "Resultado: Objeto Indirecto."
+    ]
+  },
+  {
+    "id": "ESP-110",
+    "materia": "Español",
+    "dificultad": 4,
+    "tiempoSugerido": 70,
+    "pregunta": "¿Cuál es la función del nexo 'no obstante' en la redacción de un párrafo?",
+    "opciones": [
+      "Introducir una causa.",
+      "Señalar una oposición o contraposición de ideas.",
+      "Indicar una conclusión o cierre.",
+      "Enumerar elementos de una lista."
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar el significado del conector (equivalente a 'sin embargo').",
+      "Paso 2: Reconocer su valor adversativo en la estructura lógica del texto.",
+      "Resultado: Señalar una oposición."
+    ]
+  },
+  {
+    "id": "ESP-111",
+    "materia": "Español",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "Identifica el núcleo del predicado en: 'El nuevo sistema de pagos será implementado la próxima semana'.",
+    "opciones": [
+      "Sistema",
+      "Pagos",
+      "Será implementado",
+      "Semana"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Localizar el verbo de la oración.",
+      "Paso 2: Identificar que se trata de una frase verbal en voz pasiva (verbo ser + participio).",
+      "Paso 3: Reconocer que la frase completa funciona como núcleo.",
+      "Resultado: Será implementado."
+    ]
+  },
+  {
+    "id": "ESP-112",
+    "materia": "Español",
+    "dificultad": 4,
+    "tiempoSugerido": 80,
+    "pregunta": "Elija la opción con la concordancia gramatical CORRECTA:",
+    "opciones": [
+      "La mayoría de los usuarios reportó el error.",
+      "La mayoría de los usuarios reportaron el error.",
+      "Ambas son correctas.",
+      "Ninguna es correcta."
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Analizar el uso de sustantivos colectivos acompañados de un complemento en plural ('la mayoría de...').",
+      "Paso 2: Recordar que la RAE permite tanto la concordancia en singular (con el núcleo 'mayoría') como en plural (con el complemento 'usuarios').",
+      "Resultado: Ambas son correctas."
+    ]
+  },
+  {
+    "id": "ESP-113",
+    "materia": "Español",
+    "dificultad": 3,
+    "tiempoSugerido": 55,
+    "pregunta": "¿Qué elemento del enunciado 'El azul Honda Civic 2006' es un ADJETIVO?",
+    "opciones": [
+      "El",
+      "Azul",
+      "Honda",
+      "Civic"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar la categoría gramatical de cada palabra.",
+      "Paso 2: Determinar qué palabra describe una cualidad o característica del sustantivo 'Civic'.",
+      "Resultado: Azul."
+    ]
+  },
+  {
+    "id": "ESP-114",
+    "materia": "Español",
+    "dificultad": 4,
+    "tiempoSugerido": 70,
+    "pregunta": "Identifica la oración que utiliza correctamente los dos puntos:",
+    "opciones": [
+      "Víctor sabe usar: Next.js, Vercel y Firebase.",
+      "Las herramientas que Víctor usa son: Next.js, Vercel y Firebase.",
+      "Víctor utiliza las siguientes herramientas: Next.js, Vercel y Firebase.",
+      "Víctor: utiliza herramientas de desarrollo web."
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Recordar que no se deben poner dos puntos entre el verbo y sus complementos (opciones 0 y 1).",
+      "Paso 2: Identificar que deben usarse tras una frase que anuncia una enumeración clara.",
+      "Resultado: Opción 2."
+    ]
+  },
+  {
+    "id": "ESP-115",
+    "materia": "Español",
+    "dificultad": 4,
+    "tiempoSugerido": 75,
+    "pregunta": "¿A qué vicio del lenguaje se refiere la frase 'Salió para afuera'?",
+    "opciones": [
+      "Cacofonía",
+      "Pleonasmo",
+      "Anfibología",
+      "Arcaísmo"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar la repetición innecesaria de un concepto ya implícito en el verbo.",
+      "Paso 2: Reconocer que el acto de 'salir' ya implica ir hacia afuera.",
+      "Resultado: Pleonasmo."
+    ]
+  },
+  {
+    "id": "ESP-116",
+    "materia": "Español",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "En un párrafo, las oraciones que aportan detalles, ejemplos o explicaciones se denominan:",
+    "opciones": [
+      "Oraciones principales",
+      "Oraciones secundarias",
+      "Oraciones introductorias",
+      "Oraciones conclusivas"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Analizar la jerarquía de las ideas dentro del párrafo.",
+      "Paso 2: Identificar aquellas que dependen de la idea central para complementar el mensaje.",
+      "Resultado: Oraciones secundarias."
+    ]
+  },
+  {
+    "id": "ESP-117",
+    "materia": "Español",
+    "dificultad": 4,
+    "tiempoSugerido": 70,
+    "pregunta": "Identifica el error en: 'Le vi a tu hermana en el centro comercial'.",
+    "opciones": [
+      "Leísmo",
+      "Laísmo",
+      "Loísmo",
+      "No hay error"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Identificar el objeto directo (tu hermana).",
+      "Paso 2: El objeto directo femenino debe ser sustituido por el pronombre 'La'.",
+      "Paso 3: El uso de 'Le' (pronombre de objeto indirecto) para un objeto directo es una incorrección llamada leísmo.",
+      "Resultado: Leísmo."
+    ]
+  },
+  {
+    "id": "ESP-118",
+    "materia": "Español",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Qué tipo de predicado tiene la oración: 'El diseño del logo es minimalista'?",
+    "opciones": [
+      "Predicado verbal",
+      "Predicado nominal",
+      "Predicado compuesto",
+      "Predicado tácito"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Localizar el verbo principal ('es').",
+      "Paso 2: Reconocer que se trata de un verbo copulativo (ser, estar, parecer).",
+      "Paso 3: Identificar que la función principal es unir al sujeto con un atributo ('minimalista').",
+      "Resultado: Predicado nominal."
+    ]
+  },
+  {
+    "id": "ESP-119",
+    "materia": "Español",
+    "dificultad": 4,
+    "tiempoSugerido": 75,
+    "pregunta": "Identifica la opción que presenta una redundancia innecesaria:",
+    "opciones": [
+      "Volver a ver",
+      "Entrar adentro",
+      "Subir al cerro",
+      "Resumen breve"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Analizar qué par de palabras repite el mismo significado.",
+      "Paso 2: 'Entrar' ya implica la dirección hacia el interior.",
+      "Resultado: Entrar adentro."
+    ]
+  },
+  {
+    "id": "ESP-120",
+    "materia": "Español",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "En la construcción de un párrafo, la 'cohesión' se refiere a:",
+    "opciones": [
+      "Que el texto trate de un solo tema.",
+      "La conexión lógica y gramatical entre las oraciones mediante nexos.",
+      "El uso correcto de la ortografía.",
+      "La extensión total del texto."
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Definir las propiedades del texto.",
+      "Paso 2: Diferenciar coherencia (sentido global) de cohesión (enlaces internos).",
+      "Resultado: Conexión lógica y gramatical."
+    ]
+  },
+  {
+    "id": "ESP-121",
+    "materia": "Español",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Qué tipo de complemento circunstancial se encuentra subrayado en: 'Víctor programó el algoritmo **con mucha paciencia**'?",
+    "opciones": [
+      "Complemento de instrumento",
+      "Complemento de modo",
+      "Complemento de causa",
+      "Complemento de cantidad"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Analizar la pregunta que responde el fragmento: ¿Cómo programó el algoritmo?",
+      "Paso 2: Identificar que describe la manera o forma en que se desarrolla la acción verbal.",
+      "Resultado: Complemento de modo."
+    ]
+  },
+  {
+    "id": "ESP-122",
+    "materia": "Español",
+    "dificultad": 4,
+    "tiempoSugerido": 75,
+    "pregunta": "Identifica la oración que presenta un uso correcto de la coma para separar una APOSICIÓN:",
+    "opciones": [
+      "Next.js el framework de React, es muy eficiente.",
+      "Next.js, el framework de React es muy eficiente.",
+      "Next.js, el framework de React, es muy eficiente.",
+      "Next.js el framework de React es muy, eficiente."
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Identificar que 'el framework de React' es una aclaración que explica al sujeto.",
+      "Paso 2: Aplicar la regla ortográfica: las aposiciones explicativas deben ir encerradas entre comas.",
+      "Resultado: Opción 2."
+    ]
+  },
+  {
+    "id": "ESP-123",
+    "materia": "Español",
+    "dificultad": 3,
+    "tiempoSugerido": 55,
+    "pregunta": "¿Cuál es el núcleo del sujeto en la oración: 'Las actualizaciones constantes del software de Pathbooks mejoran la experiencia del usuario'?",
+    "opciones": [
+      "Software",
+      "Pathbooks",
+      "Actualizaciones",
+      "Experiencia"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Localizar todo el sujeto: 'Las actualizaciones constantes del software de Pathbooks'.",
+      "Paso 2: Identificar el sustantivo principal del que se predica la acción 'mejoran'.",
+      "Resultado: Actualizaciones."
+    ]
+  },
+  {
+    "id": "ESP-124",
+    "materia": "Español",
+    "dificultad": 4,
+    "tiempoSugerido": 70,
+    "pregunta": "En la frase: 'A pesar de que el servidor estaba saturado, las transacciones se completaron', ¿qué valor lógico tiene el nexo?",
+    "opciones": [
+      "Causal",
+      "Concesivo",
+      "Consecutivo",
+      "Final"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar el nexo 'A pesar de que'.",
+      "Paso 2: Reconocer que introduce una dificultad que no impide el cumplimiento de la acción principal.",
+      "Resultado: Concesivo."
+    ]
+  },
+  {
+    "id": "ESP-125",
+    "materia": "Español",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "Identifica el predicado nominal en las siguientes opciones:",
+    "opciones": [
+      "El ingeniero diseña la interfaz.",
+      "La documentación parece estar completa.",
+      "El equipo terminó el despliegue.",
+      "Jorge firmó la propuesta ayer."
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Buscar oraciones con verbos copulativos (ser, estar, parecer).",
+      "Paso 2: Identificar que 'parece' une al sujeto con un atributo ('estar completa').",
+      "Resultado: La documentación parece estar completa."
+    ]
+  },
+  {
+    "id": "ESP-126",
+    "materia": "Español",
+    "dificultad": 4,
+    "tiempoSugerido": 80,
+    "pregunta": "¿Cuál de las siguientes construcciones evita la ANFIBOLOGÍA (ambigüedad)?",
+    "opciones": [
+      "Víctor saludó a Jorge en su oficina.",
+      "Víctor saludó a Jorge cuando este último estaba en su propia oficina.",
+      "Vimos a los alumnos de ingeniería corriendo rápido.",
+      "Se venden computadoras para estudiantes de segunda mano."
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Analizar qué oraciones tienen doble sentido (¿la oficina de quién?, ¿los alumnos son de segunda mano?).",
+      "Paso 2: Identificar la opción que utiliza pronombres o estructuras para aclarar el referente.",
+      "Resultado: Opción 1."
+    ]
+  },
+  {
+    "id": "ESP-127",
+    "materia": "Español",
+    "dificultad": 3,
+    "tiempoSugerido": 65,
+    "pregunta": "En la oración: 'Le entregué las llaves del Blue Honda Civic 2006 a mi padre', el objeto indirecto es:",
+    "opciones": [
+      "Las llaves",
+      "Del Blue Honda Civic 2006",
+      "A mi padre",
+      "Le"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Preguntar '¿A quién?' se le entregaron las llaves.",
+      "Paso 2: Identificar al destinatario de la acción.",
+      "Resultado: A mi padre."
+    ]
+  },
+  {
+    "id": "ESP-128",
+    "materia": "Español",
+    "dificultad": 4,
+    "tiempoSugerido": 70,
+    "pregunta": "Identifica el error de redacción en: 'La problemática que hay es grave'.",
+    "opciones": [
+      "Uso innecesario del sustantivo 'problemática' como sinónimo de 'problema'.",
+      "Solecismo de concordancia.",
+      "Cacofonía.",
+      "Ninguno es un error."
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Evaluar la precisión léxica. 'Problemática' se refiere a un conjunto de problemas, no a uno solo.",
+      "Paso 2: Reconocer que se suele usar erróneamente para sonar más técnico.",
+      "Resultado: Uso innecesario del sustantivo 'problemática'."
+    ]
+  },
+  {
+    "id": "ESP-129",
+    "materia": "Español",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Qué tipo de oración es: 'El equipo de marketing analizó los datos y diseñó la campaña'?",
+    "opciones": [
+      "Oración simple con sujeto compuesto",
+      "Oración compuesta coordinada copulativa",
+      "Oración compuesta coordinada adversativa",
+      "Oración compuesta subordinada"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar dos verbos independientes unidos por el nexo 'y'.",
+      "Paso 2: Reconocer que ambas proposiciones tienen el mismo nivel de importancia.",
+      "Resultado: Oración compuesta coordinada copulativa."
+    ]
+  },
+  {
+    "id": "ESP-130",
+    "materia": "Español",
+    "dificultad": 4,
+    "tiempoSugerido": 75,
+    "pregunta": "Señala la opción que utiliza correctamente el signo de PUNTO Y COMA:",
+    "opciones": [
+      "Víctor vive en Matamoros; Tamaulipas.",
+      "Jorge viajó a Monterrey; y firmó el contrato.",
+      "Los ingenieros prefieren NestJS; los diseñadores, Figma.",
+      "El código es eficiente; pero tiene errores."
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Identificar oraciones con paralelismos o elipsis verbal.",
+      "Paso 2: Reconocer que el punto y coma separa dos ideas relacionadas donde en la segunda se ha omitido el verbo ('los diseñadores prefieren Figma').",
+      "Resultado: Opción 2."
+    ]
+  },
+  {
+    "id": "ESP-131",
+    "materia": "Español",
+    "dificultad": 3,
+    "tiempoSugerido": 55,
+    "pregunta": "¿Cuál es la función de los nexos 'por consiguiente' y 'en consecuencia'?",
+    "opciones": [
+      "Introducir una contradicción.",
+      "Indicar el resultado o efecto de una premisa previa.",
+      "Enumerar pasos en un proceso.",
+      "Aclarar un concepto difícil."
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Analizar el significado lógico de los nexos.",
+      "Paso 2: Reconocer que introducen una deducción basada en lo anterior.",
+      "Resultado: Indicar resultado o efecto."
+    ]
+  },
+  {
+    "id": "ESP-132",
+    "materia": "Español",
+    "dificultad": 4,
+    "tiempoSugerido": 70,
+    "pregunta": "Identifica la opción que presenta un PLEONASMO vicioso:",
+    "opciones": [
+      "Justicia justa",
+      "Resumen condensado",
+      "Lava de volcán",
+      "Cita previa"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Evaluar la redundancia. 'Resumen' por definición ya es algo abreviado o condensado.",
+      "Paso 2: Identificar el uso de un adjetivo que repite la esencia del sustantivo.",
+      "Resultado: Resumen condensado."
+    ]
+  },
+  {
+    "id": "ESP-133",
+    "materia": "Español",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "En la oración: 'El taller de marketing digital será impartido por Víctor', el complemento subrayado es:",
+    "opciones": [
+      "Objeto Directo",
+      "Complemento Agente",
+      "Complemento de Modo",
+      "Sujeto Paciente"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar que la oración está en voz pasiva ('será impartido').",
+      "Paso 2: Localizar quién realiza la acción (Víctor) introducido por la preposición 'por'.",
+      "Resultado: Complemento Agente."
+    ]
+  },
+  {
+    "id": "ESP-134",
+    "materia": "Español",
+    "dificultad": 4,
+    "tiempoSugerido": 70,
+    "pregunta": "¿Qué error gramatical se comete en: 'Hubieron muchos asistentes en el CIMEDU8'?",
+    "opciones": [
+      "Uso incorrecto del verbo 'haber' en plural.",
+      "Falta de acento en el verbo.",
+      "Uso de un arcaísmo.",
+      "Cacofonía."
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Identificar que el verbo 'haber' indica existencia (impersonal).",
+      "Paso 2: Aplicar la regla: el verbo haber impersonal siempre va en singular.",
+      "Resultado: Uso incorrecto del plural."
+    ]
+  },
+  {
+    "id": "ESP-135",
+    "materia": "Español",
+    "dificultad": 4,
+    "tiempoSugerido": 80,
+    "pregunta": "Para que un párrafo tenga 'coherencia', debe cumplir con:",
+    "opciones": [
+      "Tener muchos conectores.",
+      "Que todas las oraciones giren en torno a un mismo tema central.",
+      "No tener errores de ortografía.",
+      "Ser lo suficientemente largo."
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Definir coherencia como unidad de sentido.",
+      "Paso 2: Diferenciarla de la cohesión (unión formal de oraciones).",
+      "Resultado: Todas las oraciones giran en torno a un tema central."
+    ]
+  },
+  {
+    "id": "ESP-136",
+    "materia": "Español",
+    "dificultad": 2,
+    "tiempoSugerido": 45,
+    "pregunta": "Identifica el SINÓNIMO de la palabra subrayada en la siguiente oración: 'El diseño del nuevo módulo es **austero**, pero funcional'.",
+    "opciones": [
+      "Extravagante",
+      "Sencillo",
+      "Costoso",
+      "Complejo"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Analizar el contexto de la oración (se busca algo funcional pero sin adornos).",
+      "Paso 2: Definir 'austero' como algo que carece de lujos o excesos.",
+      "Resultado: Sencillo."
+    ]
+  },
+  {
+    "id": "ESP-137",
+    "materia": "Español",
+    "dificultad": 2,
+    "tiempoSugerido": 50,
+    "pregunta": "¿Cuál es el ANTÓNIMO de la palabra **efímero**?",
+    "opciones": [
+      "Pasajero",
+      "Breve",
+      "Duradero",
+      "Fugaz"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Definir 'efímero' (aquello que dura muy poco tiempo).",
+      "Paso 2: Buscar la palabra que indique una permanencia prolongada en el tiempo.",
+      "Resultado: Duradero."
+    ]
+  },
+  {
+    "id": "ESP-138",
+    "materia": "Español",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "Resuelve la siguiente ANALOGÍA: **Programador** es a **Código** como **Escultor** es a...",
+    "opciones": [
+      "Cincel",
+      "Museo",
+      "Estatua",
+      "Piedra"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Identificar la relación en el primer par (Sujeto - Producto final). El programador produce código.",
+      "Paso 2: Aplicar la misma lógica al segundo par. El escultor produce una estatua.",
+      "Resultado: Estatua."
+    ],
+    "analisisDeError": {
+      "0": "Cincel es la herramienta, no el producto.",
+      "3": "Piedra es la materia prima."
+    }
+  },
+  {
+    "id": "ESP-139",
+    "materia": "Español",
+    "dificultad": 2,
+    "tiempoSugerido": 45,
+    "pregunta": "Identifica la opción que utiliza correctamente las palabras HOMÓFONAS:",
+    "opciones": [
+      "Ay que limpiar la oficina hoy.",
+      "Ahí están los archivos del proyecto.",
+      "¡Hay!, me dolió el brazo.",
+      "Ahí muchos errores en el servidor."
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Diferenciar entre 'Hay' (existencia), 'Ahí' (lugar) y 'Ay' (dolor).",
+      "Paso 2: 'Ahí' en la opción 1 indica correctamente la ubicación de los archivos.",
+      "Resultado: Opción 1."
+    ]
+  },
+  {
+    "id": "ESP-140",
+    "materia": "Español",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "Elija la palabra que completa correctamente la analogía: **Software** es a **Lógica** como **Hardware** es a...",
+    "opciones": [
+      "Monitor",
+      "Física",
+      "Internet",
+      "Electricidad"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Analizar la relación. El software es la parte intangible o lógica del sistema.",
+      "Paso 2: Buscar la contraparte tangible para el hardware.",
+      "Resultado: Física."
+    ]
+  },
+  {
+    "id": "ESP-141",
+    "materia": "Español",
+    "dificultad": 2,
+    "tiempoSugerido": 50,
+    "pregunta": "En la frase: 'El éxito es **relativo**', el antónimo de la palabra resaltada es:",
+    "opciones": [
+      "Variable",
+      "Subjetivo",
+      "Absoluto",
+      "Dependiente"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Definir 'relativo' (que depende de algo o que no es total).",
+      "Paso 2: Buscar el concepto de algo que es incondicionado e independiente.",
+      "Resultado: Absoluto."
+    ]
+  },
+  {
+    "id": "ESP-142",
+    "materia": "Español",
+    "dificultad": 3,
+    "tiempoSugerido": 55,
+    "pregunta": "Complete la oración con el homófono adecuado: 'Espero que el jefe no ______ puesto trabas al contrato'.",
+    "opciones": [
+      "Halla",
+      "Haya",
+      "Aya",
+      "Allá"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar que se requiere la conjugación del verbo 'haber'.",
+      "Paso 2: Diferenciar de 'Halla' (encontrar), 'Aya' (cuidadora) y 'Allá' (lugar).",
+      "Resultado: Haya."
+    ]
+  },
+  {
+    "id": "ESP-143",
+    "materia": "Español",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "Analogía: **Célula** es a **Tejido** como **Palabra** es a...",
+    "opciones": [
+      "Letra",
+      "Libro",
+      "Enunciado",
+      "Diccionario"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Relación de Parte - Todo (inmediato). Un conjunto de células forma un tejido.",
+      "Paso 2: Un conjunto de palabras forma un enunciado (u oración).",
+      "Resultado: Enunciado."
+    ]
+  },
+  {
+    "id": "ESP-144",
+    "materia": "Español",
+    "dificultad": 2,
+    "tiempoSugerido": 45,
+    "pregunta": "Seleccione el sinónimo de la palabra **precario**:",
+    "opciones": [
+      "Estable",
+      "Abundante",
+      "Insuficiente",
+      "Seguro"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Definir 'precario' (que no tiene los medios suficientes o es inestable).",
+      "Paso 2: Relacionar con la escasez o falta de algo.",
+      "Resultado: Insuficiente."
+    ]
+  },
+  {
+    "id": "ESP-145",
+    "materia": "Español",
+    "dificultad": 3,
+    "tiempoSugerido": 55,
+    "pregunta": "Homófonos: 'El ______ del Blue Honda Civic está en buenas condiciones'.",
+    "opciones": [
+      "Virlos",
+      "Birlos",
+      "Virlos",
+      "Birlós"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar la palabra técnica para los tornillos de las ruedas del auto.",
+      "Paso 2: Reconocer la ortografía correcta con 'B'.",
+      "Resultado: Birlos."
+    ]
+  },
+  {
+    "id": "ESP-146",
+    "materia": "Español",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "Analogía: **Teclado** es a **Escribir** como **Lápiz** es a...",
+    "opciones": [
+      "Papel",
+      "Dibujar",
+      "Goma",
+      "Mano"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Relación de Instrumento - Función. El teclado sirve para escribir.",
+      "Paso 2: El lápiz sirve para dibujar (o escribir).",
+      "Resultado: Dibujar."
+    ]
+  },
+  {
+    "id": "ESP-147",
+    "materia": "Español",
+    "dificultad": 3,
+    "tiempoSugerido": 50,
+    "pregunta": "¿Qué par de palabras son ANTÓNIMOS entre sí?",
+    "opciones": [
+      "Fiel - Leal",
+      "Apto - Capaz",
+      "Gélido - Tórrido",
+      "Breve - Corto"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Evaluar los pares. Las opciones 0, 1 y 3 son sinónimos.",
+      "Paso 2: Identificar que 'gélido' (muy frío) y 'tórrido' (muy caliente) son opuestos.",
+      "Resultado: Gélido - Tórrido."
+    ]
+  },
+  {
+    "id": "ESP-148",
+    "materia": "Español",
+    "dificultad": 2,
+    "tiempoSugerido": 45,
+    "pregunta": "Elija la opción que completa el sentido: 'No quiso ______ el secreto a pesar de la insistencia'.",
+    "opciones": [
+      "Revelar",
+      "Rebelar",
+      "Revelár",
+      "Rebelár"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Diferenciar homófonos. 'Revelar' es dar a conocer algo oculto; 'Rebelar' es sublevarse.",
+      "Paso 2: Aplicar al contexto de un secreto.",
+      "Resultado: Revelar."
+    ]
+  },
+  {
+    "id": "ESP-149",
+    "materia": "Español",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "Analogía: **Médico** es a **Hospital** como **Ingeniero** es a...",
+    "opciones": [
+      "Planos",
+      "Casco",
+      "Obra",
+      "Matemáticas"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Relación Sujeto - Lugar de trabajo. El médico trabaja en el hospital.",
+      "Paso 2: El ingeniero trabaja habitualmente en una obra (o industria).",
+      "Resultado: Obra."
+    ]
+  },
+  {
+    "id": "ESP-150",
+    "materia": "Español",
+    "dificultad": 3,
+    "tiempoSugerido": 50,
+    "pregunta": "Identifica el sinónimo de la palabra **innato**:",
+    "opciones": [
+      "Aprendido",
+      "Congénito",
+      "Adquirido",
+      "Extraño"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Definir 'innato' (algo que nace con el individuo, no es aprendido).",
+      "Paso 2: Buscar el término médico o biológico equivalente.",
+      "Resultado: Congénito."
+    ]
+  },
+  {
+    "id": "ESP-151",
+    "materia": "Español",
+    "dificultad": 4,
+    "tiempoSugerido": 65,
+    "pregunta": "Identifica el SINÓNIMO de la palabra subrayada en el siguiente contexto técnico: 'Es imperativo **optimizar** el rendimiento del servidor para evitar latencias'.",
+    "opciones": [
+      "Incrementar",
+      "Perfeccionar",
+      "Maximizar",
+      "Estabilizar"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Analizar el término 'optimizar' (buscar la mejor manera de realizar una actividad).",
+      "Paso 2: Diferenciar de 'incrementar' (solo subir cantidad) o 'estabilizar' (mantener sin cambios).",
+      "Paso 3: Identificar que perfeccionar implica llevar algo a su mejor estado posible de eficiencia.",
+      "Resultado: Perfeccionar."
+    ]
+  },
+  {
+    "id": "ESP-152",
+    "materia": "Español",
+    "dificultad": 4,
+    "tiempoSugerido": 70,
+    "pregunta": "¿Cuál es el ANTÓNIMO de la palabra **intrínseco** en un análisis de sistemas?",
+    "opciones": [
+      "Propio",
+      "Esencial",
+      "Extrínseco",
+      "Inherente"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Definir 'intrínseco' (lo que es esencial o interno a un objeto por su naturaleza).",
+      "Paso 2: Buscar el término que designe aquello que es externo o no esencial.",
+      "Resultado: Extrínseco."
+    ]
+  },
+  {
+    "id": "ESP-153",
+    "materia": "Español",
+    "dificultad": 4,
+    "tiempoSugerido": 80,
+    "pregunta": "Resuelve la siguiente ANALOGÍA de carácter simbólico: **Antorcha** es a **Libertad** como **Balanza** es a...",
+    "opciones": [
+      "Peso",
+      "Derecho",
+      "Justicia",
+      "Equilibrio"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Identificar la relación de Símbolo - Concepto abstracto. La antorcha simboliza la libertad.",
+      "Paso 2: Identificar qué concepto abstracto es representado universalmente por la balanza.",
+      "Resultado: Justicia."
+    ],
+    "analisisDeError": {
+      "3": "El equilibrio es una característica física de la balanza, no el concepto abstracto legal que simboliza."
+    }
+  },
+  {
+    "id": "ESP-154",
+    "materia": "Español",
+    "dificultad": 4,
+    "tiempoSugerido": 75,
+    "pregunta": "Elija la opción que utiliza correctamente los homófonos según el contexto legal: 'El acusado decidió ______ sus derechos ante el juez'.",
+    "opciones": [
+      "Ceder",
+      "Seder",
+      "Zeder",
+      "Ceder"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Identificar el significado necesario: 'transferir o renunciar a favor de otro'.",
+      "Paso 2: Reconocer la ortografía con 'C'.",
+      "Resultado: Ceder."
+    ]
+  },
+  {
+    "id": "ESP-155",
+    "materia": "Español",
+    "dificultad": 4,
+    "tiempoSugerido": 90,
+    "pregunta": "Analogía compleja: **Inhibir** es a **Frenar** como **Exacerbar** es a...",
+    "opciones": [
+      "Aliviar",
+      "Irritar",
+      "Intensificar",
+      "Propagar"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Relación de Sinonimia de intensidad. Inhibir es sinónimo de frenar o contener.",
+      "Paso 2: Definir 'exacerbar' (irritar, causar un gran enfado o intensificar un sentimiento o síntoma).",
+      "Paso 3: Buscar la palabra que refleje el aumento de grado o fuerza.",
+      "Resultado: Intensificar."
+    ]
+  },
+  {
+    "id": "ESP-156",
+    "materia": "Español",
+    "dificultad": 4,
+    "tiempoSugerido": 75,
+    "pregunta": "Identifica el sinónimo de la palabra **displicente** en un entorno profesional:",
+    "opciones": [
+      "Entusiasta",
+      "Indiferente",
+      "Riguroso",
+      "Eficiente"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Definir 'displicente' (que muestra falta de interés, afecto o entusiasmo).",
+      "Paso 2: Relacionar con una actitud de apatía o desgano.",
+      "Resultado: Indiferente."
+    ]
+  },
+  {
+    "id": "ESP-157",
+    "materia": "Español",
+    "dificultad": 4,
+    "tiempoSugerido": 80,
+    "pregunta": "¿Qué par de palabras presenta una relación de ANTONIMIA COMPLEMENTARIA?",
+    "opciones": [
+      "Frío - Caliente",
+      "Vivo - Muerto",
+      "Alto - Bajo",
+      "Pobre - Rico"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Definir antonimia complementaria (la existencia de uno excluye totalmente al otro, sin grados intermedios).",
+      "Paso 2: Evaluar las opciones. Frío/Caliente tiene grados (tibio); Alto/Bajo también.",
+      "Paso 3: Identificar que estar vivo excluye estar muerto sin puntos medios.",
+      "Resultado: Vivo - Muerto."
+    ]
+  },
+  {
+    "id": "ESP-158",
+    "materia": "Español",
+    "dificultad": 4,
+    "tiempoSugerido": 85,
+    "pregunta": "Complete la analogía: **Etiología** es a **Causa** como **Epistemología** es a...",
+    "opciones": [
+      "Valores",
+      "Conocimiento",
+      "Sociedad",
+      "Lenguaje"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Relación de Disciplina - Objeto de estudio. La etiología estudia las causas.",
+      "Paso 2: Identificar qué estudia la epistemología.",
+      "Resultado: Conocimiento."
+    ]
+  },
+  {
+    "id": "ESP-159",
+    "materia": "Español",
+    "dificultad": 4,
+    "tiempoSugerido": 70,
+    "pregunta": "Elija la opción con el homófono correcto: 'El gobierno decidió ______ el impuesto a las importaciones'.",
+    "opciones": [
+      "Grabar",
+      "Gravar",
+      "Grabár",
+      "Gravár"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Diferenciar 'Grabar' (registrar sonido/video o labrar una superficie) de 'Gravar' (imponer una carga o impuesto).",
+      "Paso 2: Aplicar al contexto tributario.",
+      "Resultado: Gravar."
+    ]
+  },
+  {
+    "id": "ESP-160",
+    "materia": "Español",
+    "dificultad": 4,
+    "tiempoSugerido": 95,
+    "pregunta": "Identifica el antónimo de la palabra **obsoleto** en el contexto de desarrollo de software:",
+    "opciones": [
+      "Antiguo",
+      "Vigente",
+      "Caduco",
+      "Arcaico"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Definir 'obsoleto' (que ha dejado de usarse o es anticuado).",
+      "Paso 2: Buscar el término que indique que algo todavía tiene validez y uso actual.",
+      "Resultado: Vigente."
+    ]
+  },
+  {
+    "id": "ESP-161",
+    "materia": "Español",
+    "dificultad": 4,
+    "tiempoSugerido": 110,
+    "pregunta": "Analogía: **Mitigar** es a **Dolor** como **Subsanar** es a...",
+    "opciones": [
+      "Salud",
+      "Error",
+      "Pérdida",
+      "Ayuda"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Relación de Verbo - Objeto paliativo/correctivo. Mitigar sirve para disminuir el dolor.",
+      "Paso 2: Definir 'subsanar' (reparar un daño o corregir un defecto).",
+      "Paso 3: Identificar con qué objeto se relaciona habitualmente el acto de corregir.",
+      "Resultado: Error."
+    ]
+  },
+  {
+    "id": "ESP-162",
+    "materia": "Español",
+    "dificultad": 4,
+    "tiempoSugerido": 80,
+    "pregunta": "¿Cuál es el sinónimo más preciso para la palabra **dogmático**?",
+    "opciones": [
+      "Flexible",
+      "Intransigente",
+      "Escéptico",
+      "Dudoso"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Definir 'dogmático' (que afirma algo como verdad innegable sin admitir cuestionamiento).",
+      "Paso 2: Buscar el término que refleje la falta de apertura al cambio o al diálogo.",
+      "Resultado: Intransigente."
+    ]
+  },
+  {
+    "id": "ESP-163",
+    "materia": "Español",
+    "dificultad": 4,
+    "tiempoSugerido": 85,
+    "pregunta": "Homófonos: 'Fue necesario ______ el terreno para la construcción del nuevo plantel'.",
+    "opciones": [
+      "Exhumar",
+      "Exumar",
+      "Esumar",
+      "Exumar"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Identificar el verbo que significa 'desenterrar' (en caso de hallazgos arqueológicos o legales).",
+      "Paso 2: Reconocer la ortografía con 'h' intermedia y 'x'.",
+      "Resultado: Exhumar."
+    ]
+  },
+  {
+    "id": "ESP-164",
+    "materia": "Español",
+    "dificultad": 4,
+    "tiempoSugerido": 120,
+    "pregunta": "Analogía: **Prólogo** es a **Libro** como **Prefacio** es a...",
+    "opciones": [
+      "Epílogo",
+      "Capítulo",
+      "Obra",
+      "Índice"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Relación de Parte introductoria - Todo. El prólogo es la introducción de un libro.",
+      "Paso 2: Identificar que el prefacio tiene la misma función respecto a una obra literaria o científica en general.",
+      "Resultado: Obra."
+    ]
+  },
+  {
+    "id": "ESP-165",
+    "materia": "Español",
+    "dificultad": 4,
+    "tiempoSugerido": 90,
+    "pregunta": "Identifica la opción que presenta una relación de SINONIMIA EUFEMÍSTICA:",
+    "opciones": [
+      "Perro - Can",
+      "Ciego - No vidente",
+      "Comer - Almorzar",
+      "Escribir - Redactar"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Definir eufemismo (sustituir una palabra tabú o fuerte por una más suave).",
+      "Paso 2: Identificar que 'no vidente' suaviza el término 'ciego'.",
+      "Resultado: Ciego - No vidente."
+    ]
+  },
+  {
+    "id": "ESP-166",
+    "materia": "Español",
+    "dificultad": 3,
+    "tiempoSugerido": 50,
+    "pregunta": "¿Cuál de las siguientes palabras está escrita CORRECTAMENTE?",
+    "opciones": [
+      "Exivir",
+      "Exhibir",
+      "Exivir",
+      "Eshibir"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Recordar la etimología latina de la palabra (exhibere).",
+      "Paso 2: Identificar que conserva la 'h' intermedia después de la 'x'.",
+      "Resultado: Exhibir."
+    ]
+  },
+  {
+    "id": "ESP-167",
+    "materia": "Español",
+    "dificultad": 4,
+    "tiempoSugerido": 60,
+    "pregunta": "Identifica la oración que utiliza correctamente las grafías B y V:",
+    "opciones": [
+      "El convoy de bueyes abanzaba por la ribera del río.",
+      "El comboy de bueyes avanzaba por la ribera del río.",
+      "El convoy de bueyes avanzaba por la ribera del río.",
+      "El convoy de vueyes avanzaba por la rivera del río."
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Identificar que 'convoy' y 'avanzaba' se escriben con V.",
+      "Paso 2: Reconocer que 'bueyes' y 'ribera' (orilla) se escriben con B.",
+      "Resultado: Opción 2."
+    ],
+    "analisisDeError": {
+      "3": "Rivera con V se refiere a un apellido o arroyo pequeño, mientras que ribera con B es la orilla."
+    }
+  },
+  {
+    "id": "ESP-168",
+    "materia": "Español",
+    "dificultad": 4,
+    "tiempoSugerido": 65,
+    "pregunta": "Elija la opción que presenta una acentuación DIACRÍTICA correcta:",
+    "opciones": [
+      "Dile a él que te dé el reporte de ventas.",
+      "Dile a el que te de el reporte de ventas.",
+      "Dile a él que te de él reporte de ventas.",
+      "Dile a el que te dé el reporte de ventas."
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: 'Él' lleva tilde cuando es pronombre personal.",
+      "Paso 2: 'Dé' lleva tilde cuando es del verbo dar.",
+      "Paso 3: 'El' no lleva tilde cuando es artículo.",
+      "Resultado: Opción 0."
+    ]
+  },
+  {
+    "id": "ESP-169",
+    "materia": "Español",
+    "dificultad": 3,
+    "tiempoSugerido": 50,
+    "pregunta": "¿Qué palabra requiere el uso de la grafía 'G' para completarse?",
+    "opciones": [
+      "Para_e",
+      "E_ir",
+      "Relo_ero",
+      "Beren_ena"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Las otras opciones (paraje, relojero, berenjena) se escriben con J.",
+      "Paso 2: Identificar que el verbo 'regir' (base de elegir o regir) usa G.",
+      "Resultado: Egir (Elegir)."
+    ]
+  },
+  {
+    "id": "ESP-170",
+    "materia": "Español",
+    "dificultad": 4,
+    "tiempoSugerido": 70,
+    "pregunta": "Identifica la opción donde el uso de los puntos suspensivos es correcto para indicar una omisión en una cita textual:",
+    "opciones": [
+      "El autor afirma que: ... el código es poesía.",
+      "El autor afirma que '[...] el código es poesía'.",
+      "El autor afirma que (...) el código es poesía.",
+      "El autor afirma que --- el código es poesía."
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: En redacción académica, la omisión de texto dentro de una cita se marca con puntos suspensivos entre corchetes.",
+      "Paso 2: Identificar el estándar formal de puntuación.",
+      "Resultado: Opción 1."
+    ]
+  },
+  {
+    "id": "ESP-171",
+    "materia": "Español",
+    "dificultad": 3,
+    "tiempoSugerido": 55,
+    "pregunta": "¿Cuál de las siguientes palabras es ESDRÚJULA?",
+    "opciones": [
+      "Tecnología",
+      "Algoritmo",
+      "Cómputo",
+      "Interfaz"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Dividir en sílabas: Cóm-pu-to.",
+      "Paso 2: Identificar la sílaba tónica en la antepenúltima posición.",
+      "Resultado: Cómputo."
+    ],
+    "analisisDeError": {
+      "0": "Tecnología es grave con hiato.",
+      "3": "Interfaz es aguda terminada en z."
+    }
+  },
+  {
+    "id": "ESP-172",
+    "materia": "Español",
+    "dificultad": 4,
+    "tiempoSugerido": 60,
+    "pregunta": "Elija la oración con el uso correcto de 'POR QUÉ / PORQUÉ / POR QUE / PORQUE':",
+    "opciones": [
+      "No entiendo el porqué de la falla del servidor.",
+      "¿Porque no avisaste que el sistema estaba lento?",
+      "Estudia mucho porqué quiere ser el mejor ingeniero.",
+      "Este es el motivo porqué firmamos el contrato."
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: 'Porqué' funciona como sustantivo (motivo/razón) y lleva tilde.",
+      "Paso 2: 'Por qué' se usa en preguntas.",
+      "Paso 3: 'Porque' es una conjunción causal.",
+      "Resultado: Opción 0."
+    ]
+  },
+  {
+    "id": "ESP-173",
+    "materia": "Español",
+    "dificultad": 4,
+    "tiempoSugerido": 65,
+    "pregunta": "Señala la palabra que tiene un error de ortografía:",
+    "opciones": [
+      "Vahído",
+      "Zanahoria",
+      "Ahínco",
+      "Exalar"
+    ],
+    "correcta": 3,
+    "explicacionPasos": [
+      "Paso 1: Analizar la presencia de la H tras la X.",
+      "Paso 2: Identificar que 'exhalar' proviene de 'halitus' y debe llevar H.",
+      "Resultado: Exalar (incorrecto)."
+    ]
+  },
+  {
+    "id": "ESP-174",
+    "materia": "Español",
+    "dificultad": 4,
+    "tiempoSugerido": 70,
+    "pregunta": "Identifica la opción que utiliza correctamente el signo de INTERROGACIÓN:",
+    "opciones": [
+      "¿Víctor, me podrías explicar este módulo?",
+      "Víctor, ¿me podrías explicar este módulo?",
+      "¿Víctor? me podrías explicar este módulo.",
+      "¿Víctor me podrías explicar este módulo?"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Cuando el nombre de la persona (vocativo) va al inicio, queda fuera de los signos de interrogación.",
+      "Paso 2: La pregunta real comienza después de la coma del vocativo.",
+      "Resultado: Opción 1."
+    ]
+  },
+  {
+    "id": "ESP-175",
+    "materia": "Español",
+    "dificultad": 3,
+    "tiempoSugerido": 50,
+    "pregunta": "¿Qué palabra es GRAVE (o llana) y debe llevar tilde?",
+    "opciones": [
+      "Examen",
+      "Lider",
+      "Imagen",
+      "Volumen"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Las palabras graves se acentúan si NO terminan en n, s o vocal.",
+      "Paso 2: 'Lider' termina en 'r', por lo que debe llevar tilde: Líder.",
+      "Paso 3: Las otras terminan en 'n' y son graves sin tilde.",
+      "Resultado: Líder."
+    ]
+  },
+  {
+    "id": "ESP-176",
+    "materia": "Español",
+    "dificultad": 4,
+    "tiempoSugerido": 60,
+    "pregunta": "Identifica el uso correcto de las letras C, S y Z:",
+    "opciones": [
+      "Es necesaro hacer una consesión en el precio.",
+      "Es necesario hacer una conceción en el precio.",
+      "Es necesario hacer una concesión en el precio.",
+      "Es necesaro hacer una conseción en el precio."
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: La palabra 'necesario' usa S.",
+      "Paso 2: 'Concesión' proviene de 'conceder' y lleva C al inicio y S en la terminación -sión.",
+      "Resultado: Opción 2."
+    ]
+  },
+  {
+    "id": "ESP-177",
+    "materia": "Español",
+    "dificultad": 4,
+    "tiempoSugerido": 65,
+    "pregunta": "¿En qué caso el monosílabo 'MAS' debe llevar tilde?",
+    "opciones": [
+      "Cuando equivale a 'pero'.",
+      "Cuando funciona como adverbio de cantidad.",
+      "Cuando es una conjunción adversativa.",
+      "Nunca lleva tilde."
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Diferenciar 'mas' (conjunción) de 'más' (adverbio).",
+      "Paso 2: Identificar que la tilde diacrítica distingue la cantidad de la oposición.",
+      "Resultado: Adverbio de cantidad."
+    ]
+  },
+  {
+    "id": "ESP-178",
+    "materia": "Español",
+    "dificultad": 3,
+    "tiempoSugerido": 55,
+    "pregunta": "Elija la grafía correcta para completar: 'El equipo de marketing tuvo que __er_ir la estrategia'.",
+    "opciones": [
+      "Inverjir",
+      "Invergir",
+      "Inverjir",
+      "Inverguir"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Se refiere al verbo 'convergir' o 'divergir'.",
+      "Paso 2: Identificar que los verbos terminados en -ger e -gir se escriben con G (excepto tejer y crujir).",
+      "Resultado: Invergir (como parte de una estructura técnica)."
+    ]
+  },
+  {
+    "id": "ESP-179",
+    "materia": "Español",
+    "dificultad": 4,
+    "tiempoSugerido": 70,
+    "pregunta": "Identifica la palabra que presenta un HIATO y, por tanto, se acentúa rompiendo la regla general:",
+    "opciones": [
+      "Canción",
+      "Raíz",
+      "Cuídate",
+      "Miedo"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Analizar la unión de una vocal abierta y una cerrada tónica.",
+      "Paso 2: En 'Raíz', la fuerza recae en la 'i', separando las sílabas (ra-íz).",
+      "Resultado: Raíz."
+    ]
+  },
+  {
+    "id": "ESP-180",
+    "materia": "Español",
+    "dificultad": 4,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Qué signo se utiliza para introducir una aclaración o dato secundario dentro de un enunciado?",
+    "opciones": [
+      "Comillas",
+      "Guion largo",
+      "Paréntesis",
+      "Punto y coma"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Identificar la función de aislar información complementaria como fechas o lugares.",
+      "Paso 2: Reconocer que los paréntesis son el signo ortográfico destinado a incisos aclaratorios extensos o datos específicos.",
+      "Resultado: Paréntesis."
+    ]
+  },
+  {
+    "id": "ESP-181",
+    "materia": "Español",
+    "dificultad": 3,
+    "tiempoSugerido": 55,
+    "pregunta": "¿Qué palabra requiere el uso de la grafía 'J' para completarse correctamente?",
+    "opciones": [
+      "A_encia",
+      "Conser_ería",
+      "Le_islación",
+      "Ori_inal"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Analizar las reglas de las terminaciones. Las palabras terminadas en -jería se escriben con J (conserjería, relojería, cerrajería).",
+      "Paso 2: Reconocer que agencia, legislación y original se escriben con G.",
+      "Resultado: Conserjería."
+    ]
+  },
+  {
+    "id": "ESP-182",
+    "materia": "Español",
+    "dificultad": 4,
+    "tiempoSugerido": 65,
+    "pregunta": "Identifica la opción que utiliza correctamente el ACENTO DIACRÍTICO en la palabra 'SI':",
+    "opciones": [
+      "Si, acepto los términos del contrato.",
+      "Dijo que sí volvería a revisar el código.",
+      "Si el servidor falla, avísame de inmediato.",
+      "La nota musical sí suena desafinada."
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: 'Sí' lleva tilde cuando es un adverbio de afirmación o pronombre personal.",
+      "Paso 2: 'Si' no lleva tilde cuando es una conjunción condicional o una nota musical.",
+      "Paso 3: En la opción 1, funciona como afirmación enfática.",
+      "Resultado: Opción 1."
+    ]
+  },
+  {
+    "id": "ESP-183",
+    "materia": "Español",
+    "dificultad": 4,
+    "tiempoSugerido": 70,
+    "pregunta": "Elija la oración que presenta una ortografía impecable en el uso de la 'H':",
+    "opciones": [
+      "El ingeniero ha hecho un gran trabajo hallá en la obra.",
+      "Espero que no halla errores en la base de datos.",
+      "Ha de ser difícil hallar la falla en el sistema.",
+      "El equipo a trabajado mucho para hayer la solución."
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Diferenciar 'Ha' (verbo haber) de 'A' (preposición).",
+      "Paso 2: Diferenciar 'Hallar' (encontrar) de 'Halla' (del verbo haber) o 'Allá' (lugar).",
+      "Paso 3: 'Ha de ser' utiliza correctamente el auxiliar haber y 'hallar' el verbo encontrar.",
+      "Resultado: Opción 2."
+    ]
+  },
+  {
+    "id": "ESP-184",
+    "materia": "Español",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Cuál de las siguientes palabras es GRAVE y NO debe llevar tilde?",
+    "opciones": [
+      "Álbum",
+      "Dólar",
+      "Certamen",
+      "Césped"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Las palabras graves se acentúan gráficamente si no terminan en 'n', 's' o vocal.",
+      "Paso 2: 'Certamen' termina en 'n', por lo que no lleva tilde.",
+      "Paso 3: 'Álbum', 'Dólar' y 'Césped' terminan en consonantes distintas a 'n' o 's', por lo que sí llevan tilde.",
+      "Resultado: Certamen."
+    ]
+  },
+  {
+    "id": "ESP-185",
+    "materia": "Español",
+    "dificultad": 4,
+    "tiempoSugerido": 75,
+    "pregunta": "Identifica la opción que utiliza correctamente el PUNTO Y COMA:",
+    "opciones": [
+      "Víctor prefiere Next.js; Jorge, NestJS.",
+      "Víctor prefiere; Next.js Jorge NestJS.",
+      "Víctor; prefiere Next.js Jorge NestJS.",
+      "Víctor prefiere Next.js Jorge; NestJS."
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: El punto y coma se utiliza para separar proposiciones que incluyen comas internas (elipsis del verbo 'prefiere').",
+      "Paso 2: La estructura 'Sujeto + verbo + objeto; sujeto, objeto' es una construcción clásica de elipsis.",
+      "Resultado: Opción 0."
+    ]
+  },
+  {
+    "id": "ESP-186",
+    "materia": "Español",
+    "dificultad": 3,
+    "tiempoSugerido": 50,
+    "pregunta": "Selecciona la palabra escrita correctamente con la grafía 'V':",
+    "opciones": [
+      "Biceversa",
+      "Adberbio",
+      "Obvio",
+      "Subvención"
+    ],
+    "correcta": 3,
+    "explicacionPasos": [
+      "Paso 1: Aplicar la regla: después de las consonantes 'b', 'd' y 'n' siempre se escribe 'v'.",
+      "Paso 2: Analizar 'Sub-vención' (después de 'b' va 'v').",
+      "Resultado: Subvención."
+    ]
+  },
+  {
+    "id": "ESP-187",
+    "materia": "Español",
+    "dificultad": 4,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Qué oración muestra un uso correcto de las comillas para citar un título de un artículo interno?",
+    "opciones": [
+      "Leí el artículo «Mejoras en la UI» en el blog de la empresa.",
+      "Leí el artículo Mejoras en la UI en el blog de la empresa.",
+      "Leí el artículo (Mejoras en la UI) en el blog de la empresa.",
+      "Leí el artículo /Mejoras en la UI/ en el blog de la empresa."
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Los títulos de artículos, reportajes o capítulos se escriben entre comillas (preferentemente angulares o latinas en español).",
+      "Paso 2: Identificar que las otras opciones usan signos no destinados a este fin.",
+      "Resultado: Opción 0."
+    ]
+  },
+  {
+    "id": "ESP-188",
+    "materia": "Español",
+    "dificultad": 4,
+    "tiempoSugerido": 65,
+    "pregunta": "Identifica la palabra que tiene un error en el uso de la 'C', 'S' o 'Z':",
+    "opciones": [
+      "Ascensión",
+      "Decisión",
+      "Concesión",
+      "Expanción"
+    ],
+    "correcta": 3,
+    "explicacionPasos": [
+      "Paso 1: Las palabras derivadas de 'expandir' conservan la 's' en su terminación.",
+      "Paso 2: Reconocer que la forma correcta es 'expansión'.",
+      "Resultado: Expanción (incorrecto)."
+    ]
+  },
+  {
+    "id": "ESP-189",
+    "materia": "Español",
+    "dificultad": 4,
+    "tiempoSugerido": 70,
+    "pregunta": "Elija la opción donde se aplican correctamente los DOS PUNTOS:",
+    "opciones": [
+      "Estimado Víctor: Te envío los archivos solicitados.",
+      "Estimado Víctor, Te envío: los archivos solicitados.",
+      "Estimado Víctor: Te envío, los archivos solicitados.",
+      "Estimado Víctor te envío: los archivos solicitados."
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: En el encabezado de cartas o correos electrónicos, se utilizan dos puntos después del vocativo.",
+      "Paso 2: La siguiente palabra debe comenzar con mayúscula en un renglón aparte.",
+      "Resultado: Opción 0."
+    ]
+  },
+  {
+    "id": "ESP-190",
+    "materia": "Español",
+    "dificultad": 3,
+    "tiempoSugerido": 55,
+    "pregunta": "¿Qué palabra es AGUDA y debe llevar tilde?",
+    "opciones": [
+      "Computo",
+      "Instalo",
+      "Puntual",
+      "Reloj"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Las palabras agudas llevan tilde si terminan en 'n', 's' o vocal.",
+      "Paso 2: 'Instalo' (del verbo instalar en pasado: instaló) es aguda terminada en vocal.",
+      "Paso 3: 'Puntual' y 'Reloj' son agudas pero terminan en consonantes distintas a 'n' o 's'.",
+      "Resultado: Instalo (Instaló)."
+    ]
+  },
+  {
+    "id": "ESP-191",
+    "materia": "Español",
+    "dificultad": 4,
+    "tiempoSugerido": 65,
+    "pregunta": "Identifica la grafía correcta para completar: 'El equipo de desarrollo tuvo que e__er__er presión sobre el servidor'.",
+    "opciones": [
+      "Ejercer",
+      "Egercer",
+      "Ejerzer",
+      "Egerzer"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: El verbo ejercer se escribe con J inicial.",
+      "Paso 2: La terminación de este verbo es con C.",
+      "Resultado: Ejercer."
+    ]
+  },
+  {
+    "id": "ESP-192",
+    "materia": "Español",
+    "dificultad": 4,
+    "tiempoSugerido": 60,
+    "pregunta": "¿En qué caso la palabra 'PORQUÉ' está escrita correctamente?",
+    "opciones": [
+      "¿Porqué no funcionó el despliegue en Vercel?",
+      "No entiendo el porqué de tanto retraso.",
+      "Lo hizo porqué era necesario.",
+      "Este es el motivo porqué te llamé."
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: 'Porqué' (con tilde y junto) es un sustantivo equivalente a causa o motivo.",
+      "Paso 2: Suele ir precedido de un artículo ('el porqué').",
+      "Resultado: Opción 1."
+    ]
+  },
+  {
+    "id": "ESP-193",
+    "materia": "Español",
+    "dificultad": 4,
+    "tiempoSugerido": 70,
+    "pregunta": "Identifica el uso correcto de la COMA en una enumeración compleja:",
+    "opciones": [
+      "Traje mi laptop, el cargador, y el mouse.",
+      "Traje mi laptop, el cargador y el mouse.",
+      "Traje, mi laptop, el cargador y el mouse.",
+      "Traje mi laptop el cargador, y el mouse."
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Antes de la conjunción final ('y') en una enumeración simple, no se debe colocar coma.",
+      "Paso 2: Identificar que la coma separa los elementos previos.",
+      "Resultado: Opción 1."
+    ]
+  },
+  {
+    "id": "ESP-194",
+    "materia": "Español",
+    "dificultad": 3,
+    "tiempoSugerido": 50,
+    "pregunta": "¿Cuál de las siguientes palabras presenta un DIPTONGO?",
+    "opciones": [
+      "Día",
+      "Software",
+      "Leer",
+      "Raíz"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Un diptongo es la unión de dos vocales en una misma sílaba (una abierta y una cerrada, o dos cerradas).",
+      "Paso 2: En 'Soft-wa-re', la 'w' (u) y la 'a' forman diptongo.",
+      "Paso 3: Día, Leer y Raíz presentan hiatos.",
+      "Resultado: Software."
+    ]
+  },
+  {
+    "id": "ESP-195",
+    "materia": "Español",
+    "dificultad": 4,
+    "tiempoSugerido": 60,
+    "pregunta": "Señala la opción con la ortografía correcta para referirse a una advertencia:",
+    "opciones": [
+      "Es una prebenvión importante.",
+      "Es una prevención importante.",
+      "Es una prevensión importante.",
+      "Es una prebención importante."
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: La palabra prevención proviene de 'prevenir', por lo que usa V.",
+      "Paso 2: La terminación correcta para este sustantivo es -ción.",
+      "Resultado: Prevención."
+    ]
+  },
+  {
+    "id": "ESP-196",
+    "materia": "Español",
+    "dificultad": 5,
+    "tiempoSugerido": 90,
+    "pregunta": "¿Cuál es la forma correcta de acentuar un adverbio terminado en '-mente' si el adjetivo original lleva tilde?",
+    "opciones": [
+      "Se elimina la tilde al añadir la terminación.",
+      "Se conserva la tilde del adjetivo original.",
+      "Se coloca una tilde siempre en la sílaba 'men'.",
+      "Se tildan ambas partes de la palabra."
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar que los adverbios terminados en -mente conservan la tilde del adjetivo del que provienen.",
+      "Paso 2: Aplicar la regla a ejemplos como 'rápidamente' (de rápido) o 'fácilmente' (de fácil).",
+      "Resultado: Se conserva la tilde del adjetivo original."
+    ]
+  },
+  {
+    "id": "ESP-197",
+    "materia": "Español",
+    "dificultad": 5,
+    "tiempoSugerido": 100,
+    "pregunta": "Identifica la oración que utiliza correctamente las grafías en un contexto de homófonos poco comunes:",
+    "opciones": [
+      "El joven decidió **acerbo** el trato de manera voluntaria.",
+      "Su carácter **acerbo** dificultaba la negociación del contrato.",
+      "Es necesario **aserbo** los documentos para la auditoría.",
+      "El **hacerbo** cultural de la empresa es impresionante."
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Diferenciar 'acerbo' (áspero, cruel o riguroso) de 'acervo' (conjunto de bienes o valores culturales).",
+      "Paso 2: Identificar que en la opción 1 se describe una característica del carácter (riguroso).",
+      "Resultado: Opción 1."
+    ],
+    "analisisDeError": {
+      "3": "Error: Se refiere al conjunto cultural, por lo que debería escribirse 'acervo' con V."
+    }
+  },
+  {
+    "id": "ESP-198",
+    "materia": "Español",
+    "dificultad": 5,
+    "tiempoSugerido": 80,
+    "pregunta": "En las palabras compuestas unidas por un guion (como físico-químico), ¿cómo se aplica la regla de acentuación?",
+    "opciones": [
+      "Solo se acentúa el último elemento.",
+      "Solo se acentúa el primer elemento.",
+      "Ambos elementos conservan su tilde si la tenían como palabras independientes.",
+      "Se eliminan todas las tildes."
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Reconocer que el guion mantiene la independencia fonética y ortográfica de los términos.",
+      "Paso 2: Aplicar la regla de la RAE para compuestos con guion.",
+      "Resultado: Ambos conservan su tilde."
+    ]
+  },
+  {
+    "id": "ESP-199",
+    "materia": "Español",
+    "dificultad": 5,
+    "tiempoSugerido": 120,
+    "pregunta": "Identifica el error en el uso de la coma en la siguiente oración compleja: 'Los desarrolladores, que terminaron el curso de IA, recibirán un certificado; sin embargo, los que reprobaron, deberán repetir el módulo'.",
+    "opciones": [
+      "Falta una coma después de 'reprobaron'.",
+      "Sobra la coma después de 'reprobaron'.",
+      "Sobra la coma después de 'desarrolladores'.",
+      "No hay errores en el uso de las comas."
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Analizar la estructura del sujeto 'los que reprobaron'.",
+      "Paso 2: Recordar que nunca se debe colocar una coma entre el sujeto y el verbo ('deberán'), a menos que sea un inciso.",
+      "Paso 3: Identificar que 'los que reprobaron' es el sujeto directo de la acción.",
+      "Resultado: Sobra la coma después de 'reprobaron'."
+    ]
+  },
+  {
+    "id": "ESP-200",
+    "materia": "Español",
+    "dificultad": 5,
+    "tiempoSugerido": 90,
+    "pregunta": "¿Qué palabra requiere el uso de la grafía 'H' por ser un derivado que conserva la raíz etimológica?",
+    "opciones": [
+      "__oquedad",
+      "__orfandad",
+      "__uesario",
+      "__osamenta"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Analizar palabras que pierden la H al perder el diptongo 'ue' (hueco -> oquedad, huérfano -> orfandad, hueso -> osamenta).",
+      "Paso 2: Identificar que 'huesario' (o osario, pero en esta forma específica) mantiene el diptongo 'ue' y por tanto la H.",
+      "Resultado: Huesario."
+    ]
+  },
+  {
+    "id": "ESP-201",
+    "materia": "Español",
+    "dificultad": 5,
+    "tiempoSugerido": 110,
+    "pregunta": "Elija la opción que utiliza correctamente el acento en un pronombre ENCLÍTICO (verbo + pronombre):",
+    "opciones": [
+      "Entrégaselo",
+      "Entregaselo",
+      "Entregasélo",
+      "Entregasé-lo"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Analizar la palabra resultante tras añadir los pronombres 'se' y 'lo' al verbo 'entrega'.",
+      "Paso 2: La palabra 'En-tré-ga-se-lo' es sobresdrújula.",
+      "Paso 3: Todas las palabras sobresdrújulas se acentúan gráficamente.",
+      "Resultado: Entrégaselo."
+    ]
+  },
+  {
+    "id": "ESP-202",
+    "materia": "Español",
+    "dificultad": 5,
+    "tiempoSugerido": 85,
+    "pregunta": "¿Cuál es la grafía correcta para referirse a la acción de 'hacer rayas' en un documento?",
+    "opciones": [
+      "Rallar",
+      "Rayar",
+      "Rallár",
+      "Rayár"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Diferenciar 'Rallar' (desmenuzar con un rallador) de 'Rayar' (hacer rayas).",
+      "Paso 2: Aplicar al contexto de escritura o edición.",
+      "Resultado: Rayar."
+    ]
+  },
+  {
+    "id": "ESP-203",
+    "materia": "Español",
+    "dificultad": 5,
+    "tiempoSugerido": 130,
+    "pregunta": "Identifica el signo de puntuación que falta para corregir la jerarquía en: 'Para el taller necesitamos: hojas, plumas y lápices, para la oficina: clips, carpetas y grapas'.",
+    "opciones": [
+      "Coma",
+      "Dos puntos",
+      "Punto y coma",
+      "Guion"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Observar que hay dos grupos de enumeraciones que ya contienen comas.",
+      "Paso 2: Para separar bloques de ideas complejos que ya tienen su propia puntuación interna, se requiere un signo de mayor peso.",
+      "Resultado: Punto y coma (antes de 'para la oficina')."
+    ]
+  },
+  {
+    "id": "ESP-204",
+    "materia": "Español",
+    "dificultad": 5,
+    "tiempoSugerido": 115,
+    "pregunta": "¿Qué palabra es un homófono correcto de 'tubo' (pieza cilíndrica) pero con el significado de 'poseer'?",
+    "opciones": [
+      "Tubó",
+      "Tuvo",
+      "Tubo",
+      "Tuvó"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar el pasado del verbo 'tener'.",
+      "Paso 2: Reconocer que las formas del verbo tener se escriben con V.",
+      "Resultado: Tuvo."
+    ]
+  },
+  {
+    "id": "ESP-205",
+    "materia": "Español",
+    "dificultad": 5,
+    "tiempoSugerido": 100,
+    "pregunta": "Identifica la acentuación correcta para la palabra 'Sabelotodo' cuando se escribe sin guion:",
+    "opciones": [
+      "Sabelotodo",
+      "Sábelotodo",
+      "Sabelotódo",
+      "Sabelotodó"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: En las palabras compuestas sin guion, el primer elemento pierde su tilde (si la tenía) y solo se aplica la regla general al último elemento.",
+      "Paso 2: 'Sabelotodo' es una palabra grave terminada en vocal, por lo que no lleva tilde.",
+      "Resultado: Sabelotodo."
+    ]
+  },
+  {
+    "id": "ESP-206",
+    "materia": "Español",
+    "dificultad": 5,
+    "tiempoSugerido": 110,
+    "pregunta": "Señala el uso correcto de las grafías G y J en el siguiente enunciado técnico:",
+    "opciones": [
+      "El analista debió **exigir** el **peritaje** del sistema.",
+      "El analista debió **exijir** el **peritaje** del sistema.",
+      "El analista debió **exigir** el **peritage** del sistema.",
+      "El analista debió **exijir** el **peritage** del sistema."
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: El verbo 'exigir' se escribe con G.",
+      "Paso 2: La terminación '-aje' siempre se escribe con J (peritaje).",
+      "Resultado: Opción 0."
+    ]
+  },
+  {
+    "id": "ESP-207",
+    "materia": "Español",
+    "dificultad": 5,
+    "tiempoSugerido": 95,
+    "pregunta": "¿Cuál es la tilde que se utiliza para diferenciar funciones gramaticales en palabras idénticas (como 'mí' pronombre vs 'mi' adjetivo)?",
+    "opciones": [
+      "Tilde enfática",
+      "Tilde diacrítica",
+      "Tilde ortográfica",
+      "Tilde prosódica"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Definir la función de la tilde que rompe la regla de los monosílabos para evitar ambigüedades.",
+      "Resultado: Tilde diacrítica."
+    ]
+  },
+  {
+    "id": "ESP-208",
+    "materia": "Español",
+    "dificultad": 5,
+    "tiempoSugerido": 120,
+    "pregunta": "En la frase: 'Trajo todo tipo de herramientas: martillos, clavos, sierras... pero olvidó la madera', ¿qué indican los puntos suspensivos?",
+    "opciones": [
+      "Una cita textual incompleta.",
+      "Una enumeración abierta o incompleta.",
+      "Duda o vacilación del emisor.",
+      "El final de un párrafo."
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Analizar la lista de objetos seguida de los puntos.",
+      "Paso 2: Identificar que sustituyen a la palabra 'etcétera' en una lista.",
+      "Resultado: Enumeración abierta."
+    ]
+  },
+  {
+    "id": "ESP-209",
+    "materia": "Español",
+    "dificultad": 5,
+    "tiempoSugerido": 115,
+    "pregunta": "Identifica la palabra escrita con 'H' que se refiere a una 'interrupción en el tiempo o en el espacio':",
+    "opciones": [
+      "Inhibir",
+      "Hiato",
+      "Hegemonía",
+      "Hecatombe"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Analizar los significados. 'Hiato' significa separación o laguna.",
+      "Paso 2: En lingüística se refiere a la separación de vocales, pero su sentido general es la interrupción.",
+      "Resultado: Hiato."
+    ]
+  },
+  {
+    "id": "ESP-210",
+    "materia": "Español",
+    "dificultad": 5,
+    "tiempoSugerido": 100,
+    "pregunta": "¿Qué regla de puntuación se aplica cuando se omite un verbo para evitar la repetición en una oración coordinada?",
+    "opciones": [
+      "Se debe usar un punto y seguido.",
+      "Se debe usar una coma elíptica.",
+      "No se debe usar ningún signo.",
+      "Se debe usar un paréntesis."
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar el recurso de la elipsis verbal.",
+      "Paso 2: Reconocer que la coma sustituye al verbo omitido para mantener la cohesión.",
+      "Resultado: Coma elíptica."
+    ]
   }
 ]

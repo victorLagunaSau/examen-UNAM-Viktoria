@@ -1,0 +1,602 @@
+[
+  {
+    "id": "ENG-A2-01",
+    "materia": "Inglés",
+    "dificultad": 2,
+    "tema": "Present Simple",
+    "pregunta": "Víctor _______ at Pathbooks from Monday to Friday.",
+    "opciones": ["work", "works", "working", "is work"],
+    "correcta": 1,
+    "explicacion": "En Present Simple para 'He' (Víctor), añadimos una 's' al verbo."
+  },
+  {
+    "id": "ENG-A2-02",
+    "materia": "Inglés",
+    "dificultad": 2,
+    "tema": "Past Simple",
+    "pregunta": "Yesterday, we _______ a very important meeting with the teachers.",
+    "opciones": ["have", "has", "had", "having"],
+    "correcta": 2,
+    "explicacion": "El pasado simple del verbo irregular 'have' es 'had'."
+  },
+  {
+    "id": "ENG-A2-03",
+    "materia": "Inglés",
+    "dificultad": 2,
+    "tema": "Present Continuous",
+    "pregunta": "Listen! The engineers _______ about the new app right now.",
+    "opciones": ["talk", "talks", "is talking", "are talking"],
+    "correcta": 3,
+    "explicacion": "Usamos am/is/are + -ing para acciones que pasan en este momento."
+  },
+  {
+    "id": "ENG-A2-04",
+    "materia": "Inglés",
+    "dificultad": 2,
+    "tema": "Possessive Adjectives",
+    "pregunta": "Jorge is the CEO. _______ office is next to mine.",
+    "opciones": ["His", "Her", "Their", "Your"],
+    "correcta": 0,
+    "explicacion": "'His' se usa para posesión de un hombre (Jorge)."
+  },
+  {
+    "id": "ENG-A2-05",
+    "materia": "Inglés",
+    "dificultad": 2,
+    "tema": "Can / Can't",
+    "pregunta": "I _______ speak French, but I can speak English and Spanish.",
+    "opciones": ["can", "don't", "can't", "am not"],
+    "correcta": 2,
+    "explicacion": "Usamos 'can't' para expresar falta de habilidad."
+  },
+  {
+    "id": "ENG-A2-06",
+    "materia": "Inglés",
+    "dificultad": 2,
+    "tema": "Prepositions of Time",
+    "pregunta": "The conference starts _______ 9:00 AM.",
+    "opciones": ["in", "on", "at", "to"],
+    "correcta": 2,
+    "explicacion": "Usamos 'at' para horas específicas."
+  },
+  {
+    "id": "ENG-A2-07",
+    "materia": "Inglés",
+    "dificultad": 2,
+    "tema": "There is / There are",
+    "pregunta": "_______ many computers in the new office.",
+    "opciones": ["There is", "There are", "Is there", "Are there"],
+    "correcta": 1,
+    "explicacion": "Usamos 'There are' para plural."
+  },
+  {
+    "id": "ENG-A2-08",
+    "materia": "Inglés",
+    "dificultad": 2,
+    "tema": "Object Pronouns",
+    "pregunta": "I have the contract. Do you want to see _______?",
+    "opciones": ["it", "them", "him", "her"],
+    "correcta": 0,
+    "explicacion": "'It' sustituye a una cosa (the contract)."
+  },
+  {
+    "id": "ENG-A2-09",
+    "materia": "Inglés",
+    "dificultad": 2,
+    "tema": "Future - Going to",
+    "pregunta": "Next week, I _______ visit a school in Monterrey.",
+    "opciones": ["go to", "am going to", "going to", "will going to"],
+    "correcta": 1,
+    "explicacion": "Estructura de planes: am/is/are + going to + verbo."
+  },
+  {
+    "id": "ENG-A2-10",
+    "materia": "Inglés",
+    "dificultad": 2,
+    "tema": "Comparatives",
+    "pregunta": "This new laptop is _______ than my old one.",
+    "opciones": ["fast", "faster", "more fast", "the fastest"],
+    "correcta": 1,
+    "explicacion": "Para adjetivos cortos, añadimos '-er' para comparar."
+  },
+  {
+    "id": "ENG-A2-11",
+    "materia": "Inglés",
+    "dificultad": 2,
+    "tema": "Past Simple (Question)",
+    "pregunta": "_______ you finish the report last night?",
+    "opciones": ["Do", "Are", "Did", "Were"],
+    "correcta": 2,
+    "explicacion": "Usamos el auxiliar 'Did' para preguntas en pasado."
+  },
+  {
+    "id": "ENG-A2-12",
+    "materia": "Inglés",
+    "dificultad": 2,
+    "tema": "Vocabulary - Home",
+    "pregunta": "I use the _______ to control the air conditioning in my house.",
+    "opciones": ["SwitchBot", "fridge", "shower", "oven"],
+    "correcta": 0,
+    "explicacion": "Vocabulario de tecnología smart home."
+  },
+  {
+    "id": "ENG-A2-13",
+    "materia": "Inglés",
+    "dificultad": 2,
+    "tema": "Quantifiers",
+    "pregunta": "How _______ coffee do you drink every day?",
+    "opciones": ["many", "much", "any", "some"],
+    "correcta": 1,
+    "explicacion": "Usamos 'much' para cosas incontables (líquidos)."
+  },
+  {
+    "id": "ENG-A2-14",
+    "materia": "Inglés",
+    "dificultad": 2,
+    "tema": "Adverbs of Frequency",
+    "pregunta": "I _______ check my email before breakfast.",
+    "opciones": ["always", "ever", "never not", "always not"],
+    "correcta": 0,
+    "explicacion": "Los adverbios de frecuencia van antes del verbo principal."
+  },
+  {
+    "id": "ENG-A2-15",
+    "materia": "Inglés",
+    "dificultad": 2,
+    "tema": "Prepositions of Place",
+    "pregunta": "The keys are _______ the table.",
+    "opciones": ["in", "on", "at", "under"],
+    "correcta": 1,
+    "explicacion": "Usamos 'on' para superficies."
+  },
+  {
+    "id": "ENG-A2-16",
+    "materia": "Inglés",
+    "dificultad": 2,
+    "tema": "Present Simple (Negative)",
+    "pregunta": "My father _______ like driving in heavy traffic.",
+    "opciones": ["don't", "isn't", "doesn't", "not"],
+    "correcta": 2,
+    "explicacion": "Usamos 'doesn't' para negación en tercera persona (He/She/It)."
+  },
+  {
+    "id": "ENG-A2-17",
+    "materia": "Inglés",
+    "dificultad": 2,
+    "tema": "Conjunctions",
+    "pregunta": "I want to buy the Honda, _______ it is too expensive.",
+    "opciones": ["and", "but", "because", "so"],
+    "correcta": 1,
+    "explicacion": "'But' une dos ideas opuestas."
+  },
+  {
+    "id": "ENG-A2-18",
+    "materia": "Inglés",
+    "dificultad": 2,
+    "tema": "Present Perfect",
+    "pregunta": "_______ you ever used Next.js for a project?",
+    "opciones": ["Did", "Do", "Have", "Has"],
+    "correcta": 2,
+    "explicacion": "Present Perfect: Have/Has + participio."
+  },
+  {
+    "id": "ENG-A2-19",
+    "materia": "Inglés",
+    "dificultad": 2,
+    "tema": "Superlatives",
+    "pregunta": "This is the _______ car in the garage.",
+    "opciones": ["oldest", "older", "most old", "old"],
+    "correcta": 0,
+    "explicacion": "Superlativo de adjetivo corto: the + -est."
+  },
+  {
+    "id": "ENG-A2-20",
+    "materia": "Inglés",
+    "dificultad": 2,
+    "tema": "Wh- Questions",
+    "pregunta": "_______ do you live? I live in Matamoros.",
+    "opciones": ["What", "When", "Who", "Where"],
+    "correcta": 3,
+    "explicacion": "'Where' se usa para preguntar por lugares."
+  },
+  {
+    "id": "ENG-A2-21",
+    "materia": "Inglés",
+    "dificultad": 2,
+    "tema": "Like + -ing",
+    "pregunta": "I like _______ digital marketing workshops.",
+    "opciones": ["teach", "teaching", "to teaching", "taught"],
+    "correcta": 1,
+    "explicacion": "Después de 'like' solemos usar el verbo en gerundio (-ing)."
+  },
+  {
+    "id": "ENG-A2-22",
+    "materia": "Inglés",
+    "dificultad": 2,
+    "tema": "Imperatives",
+    "pregunta": "_______ the door, please. It's cold.",
+    "opciones": ["Close", "Closing", "You close", "To close"],
+    "correcta": 0,
+    "explicacion": "Los imperativos (instrucciones) usan el verbo en su forma base."
+  },
+  {
+    "id": "ENG-A2-23",
+    "materia": "Inglés",
+    "dificultad": 2,
+    "tema": "Possessive 's",
+    "pregunta": "That is _______ car. It's a Nissan.",
+    "opciones": ["Víctors", "Víctor's", "of Víctor", "Víctor"],
+    "correcta": 1,
+    "explicacion": "Usamos 's para indicar posesión."
+  },
+  {
+    "id": "ENG-A2-24",
+    "materia": "Inglés",
+    "dificultad": 2,
+    "tema": "Vocabulary - Family",
+    "pregunta": "My _______ helps me with legal documents.",
+    "opciones": ["father", "mother", "sister", "brother"],
+    "correcta": 0,
+    "explicacion": "Basado en tu contexto personal."
+  },
+  {
+    "id": "ENG-A2-25",
+    "materia": "Inglés",
+    "dificultad": 2,
+    "tema": "Dates",
+    "pregunta": "My birthday is _______ June.",
+    "opciones": ["at", "on", "in", "by"],
+    "correcta": 2,
+    "explicacion": "Usamos 'in' para meses solos."
+  },
+  {
+    "id": "ENG-A2-26",
+    "materia": "Inglés",
+    "dificultad": 2,
+    "tema": "Countable/Uncountable",
+    "pregunta": "I need _______ water. I'm thirsty.",
+    "opciones": ["a", "an", "some", "any"],
+    "correcta": 2,
+    "explicacion": "Usamos 'some' para afirmaciones con cosas incontables."
+  },
+  {
+    "id": "ENG-A2-27",
+    "materia": "Inglés",
+    "dificultad": 2,
+    "tema": "Past Continuous",
+    "pregunta": "I _______ working when you called me.",
+    "opciones": ["were", "is", "was", "am"],
+    "correcta": 2,
+    "explicacion": "I/He/She/It usan 'was' en el pasado continuo."
+  },
+  {
+    "id": "ENG-A2-28",
+    "materia": "Inglés",
+    "dificultad": 2,
+    "tema": "Adjectives",
+    "pregunta": "The new project is very _______. I'm happy.",
+    "opciones": ["interest", "interesting", "interested", "interestingly"],
+    "correcta": 1,
+    "explicacion": "Usamos -ing para describir una cosa o situación."
+  },
+  {
+    "id": "ENG-A2-29",
+    "materia": "Inglés",
+    "dificultad": 2,
+    "tema": "Will for future",
+    "pregunta": "I think it _______ rain tomorrow.",
+    "opciones": ["is", "will", "does", "going to"],
+    "correcta": 1,
+    "explicacion": "Usamos 'will' para predicciones."
+  },
+  {
+    "id": "ENG-A2-30",
+    "materia": "Inglés",
+    "dificultad": 2,
+    "tema": "Vocabulary - Jobs",
+    "pregunta": "I am an _______.",
+    "opciones": ["engineer", "doctor", "teacher", "pilot"],
+    "correcta": 0,
+    "explicacion": "Identificación de profesión propia."
+  },
+  {
+    "id": "ENG-A2-31",
+    "materia": "Inglés",
+    "dificultad": 2,
+    "tema": "Adjectives (Opposites)",
+    "pregunta": "The new office is very _______, not small.",
+    "opciones": ["big", "cheap", "dark", "noisy"],
+    "correcta": 0,
+    "explicacion": "El opuesto de 'small' (pequeño) es 'big' (grande)."
+  },
+  {
+    "id": "ENG-A2-32",
+    "materia": "Inglés",
+    "dificultad": 2,
+    "tema": "Past Simple (Irregular verbs)",
+    "pregunta": "I _______ the blue Honda Civic last month.",
+    "opciones": ["buyed", "buy", "bought", "buying"],
+    "correcta": 2,
+    "explicacion": "El pasado del verbo 'buy' es 'bought'."
+  },
+  {
+    "id": "ENG-A2-33",
+    "materia": "Inglés",
+    "dificultad": 2,
+    "tema": "Present Simple (Questions)",
+    "pregunta": "_______ your father live in Matamoros too?",
+    "opciones": ["Do", "Does", "Is", "Are"],
+    "correcta": 1,
+    "explicacion": "Usamos 'Does' para preguntas en tercera persona singular (He)."
+  },
+  {
+    "id": "ENG-A2-34",
+    "materia": "Inglés",
+    "dificultad": 2,
+    "tema": "Prepositions of Place",
+    "pregunta": "The computer is _______ the monitor and the lamp.",
+    "opciones": ["between", "under", "in", "next"],
+    "correcta": 0,
+    "explicacion": "'Between' se usa para indicar que algo está en medio de dos cosas."
+  },
+  {
+    "id": "ENG-A2-35",
+    "materia": "Inglés",
+    "dificultad": 2,
+    "tema": "Frequency Adverbs",
+    "pregunta": "I _______ go to Monterrey for business, maybe once a month.",
+    "opciones": ["always", "sometimes", "never", "every"],
+    "correcta": 1,
+    "explicacion": "'Sometimes' (a veces) describe una frecuencia ocasional."
+  },
+  {
+    "id": "ENG-A2-36",
+    "materia": "Inglés",
+    "dificultad": 2,
+    "tema": "Can for Permission",
+    "pregunta": "_______ I use your phone, please?",
+    "opciones": ["Must", "Can", "Do", "Am"],
+    "correcta": 1,
+    "explicacion": "'Can' se usa comúnmente para pedir permiso de manera informal."
+  },
+  {
+    "id": "ENG-A2-37",
+    "materia": "Inglés",
+    "dificultad": 2,
+    "tema": "Present Continuous (Negative)",
+    "pregunta": "They _______ working on the project today.",
+    "opciones": ["aren't", "don't", "isn't", "not"],
+    "correcta": 0,
+    "explicacion": "Negación de 'are' para el plural 'They'."
+  },
+  {
+    "id": "ENG-A2-38",
+    "materia": "Inglés",
+    "dificultad": 2,
+    "tema": "Vocabulary - Weather",
+    "pregunta": "It's very _______ in Matamoros in the summer.",
+    "opciones": ["cold", "hot", "snowy", "windy"],
+    "correcta": 1,
+    "explicacion": "Vocabulario básico sobre el clima (caluroso)."
+  },
+  {
+    "id": "ENG-A2-39",
+    "materia": "Inglés",
+    "dificultad": 2,
+    "tema": "Object Pronouns",
+    "pregunta": "I see Jorge every day. I work with _______.",
+    "opciones": ["he", "his", "him", "her"],
+    "correcta": 2,
+    "explicacion": "'Him' es el pronombre de objeto para un hombre."
+  },
+  {
+    "id": "ENG-A2-40",
+    "materia": "Inglés",
+    "dificultad": 2,
+    "tema": "Wh- Questions (Time)",
+    "pregunta": "_______ does the workshop start? At 10:00 AM.",
+    "opciones": ["Where", "What time", "Who", "How many"],
+    "correcta": 1,
+    "explicacion": "'What time' se usa específicamente para preguntar por la hora."
+  },
+  {
+    "id": "ENG-A2-41",
+    "materia": "Inglés",
+    "dificultad": 2,
+    "tema": "Should for Advice",
+    "pregunta": "You _______ drink more water. It's good for you.",
+    "opciones": ["should", "mustn't", "don't", "are"],
+    "correcta": 0,
+    "explicacion": "'Should' se usa para dar consejos o sugerencias."
+  },
+  {
+    "id": "ENG-A2-42",
+    "materia": "Inglés",
+    "dificultad": 2,
+    "tema": "Vocabulary - Tech",
+    "pregunta": "I need to _______ my password.",
+    "opciones": ["change", "wash", "eat", "dance"],
+    "correcta": 0,
+    "explicacion": "Vocabulario funcional de tecnología."
+  },
+  {
+    "id": "ENG-A2-43",
+    "materia": "Inglés",
+    "dificultad": 2,
+    "tema": "Future with Will",
+    "pregunta": "I'm busy now, but I _______ call you later.",
+    "opciones": ["will", "am", "do", "going to"],
+    "correcta": 0,
+    "explicacion": "Usamos 'will' para decisiones espontáneas o promesas."
+  },
+  {
+    "id": "ENG-A2-44",
+    "materia": "Inglés",
+    "dificultad": 2,
+    "tema": "Have to (Obligation)",
+    "pregunta": "In my job, I _______ write many emails.",
+    "opciones": ["has to", "have to", "mustn't", "am"],
+    "correcta": 1,
+    "explicacion": "'Have to' indica una obligación o necesidad del trabajo."
+  },
+  {
+    "id": "ENG-A2-45",
+    "materia": "Inglés",
+    "dificultad": 2,
+    "tema": "Countable Plurals",
+    "pregunta": "There are three _______ in the meeting room.",
+    "opciones": ["man", "men", "mans", "mens"],
+    "correcta": 1,
+    "explicacion": "Plural irregular de 'man'."
+  },
+  {
+    "id": "ENG-A2-46",
+    "materia": "Inglés",
+    "dificultad": 2,
+    "tema": "Past Simple - Be",
+    "pregunta": "The project _______ ready yesterday.",
+    "opciones": ["wasn't", "weren't", "don't", "didn't"],
+    "correcta": 0,
+    "explicacion": "Pasado negativo del verbo to be para 'The project' (It)."
+  },
+  {
+    "id": "ENG-A2-47",
+    "materia": "Inglés",
+    "dificultad": 2,
+    "tema": "Comparative - Long adjectives",
+    "pregunta": "Marketing is _______ than accounting for me.",
+    "opciones": ["interesting", "more interesting", "interestinger", "most interesting"],
+    "correcta": 1,
+    "explicacion": "Adjetivos largos usan 'more' para comparar."
+  },
+  {
+    "id": "ENG-A2-48",
+    "materia": "Inglés",
+    "dificultad": 2,
+    "tema": "Present Simple (Frequency)",
+    "pregunta": "How _______ do you travel to Mexico City?",
+    "opciones": ["often", "sometimes", "many", "always"],
+    "correcta": 0,
+    "explicacion": "'How often' pregunta por la frecuencia."
+  },
+  {
+    "id": "ENG-A2-49",
+    "materia": "Inglés",
+    "dificultad": 2,
+    "tema": "Verb + -ing (Hate)",
+    "pregunta": "I hate _______ in traffic.",
+    "opciones": ["wait", "waiting", "to waiting", "waited"],
+    "correcta": 1,
+    "explicacion": "Después de 'hate' usamos gerundio."
+  },
+  {
+    "id": "ENG-A2-50",
+    "materia": "Inglés",
+    "dificultad": 2,
+    "tema": "Articles",
+    "pregunta": "Pathbooks is _______ amazing platform.",
+    "opciones": ["a", "an", "the", "-"],
+    "correcta": 1,
+    "explicacion": "Usamos 'an' antes de sonidos vocálicos (amazing)."
+  },
+  {
+    "id": "ENG-A2-51",
+    "materia": "Inglés",
+    "dificultad": 2,
+    "tema": "Vocabulary - Food",
+    "pregunta": "Do you want _______ or tea?",
+    "opciones": ["coffee", "water", "juice", "soda"],
+    "correcta": 0,
+    "explicacion": "Vocabulario de bebidas comunes en la oficina."
+  },
+  {
+    "id": "ENG-A2-52",
+    "materia": "Inglés",
+    "dificultad": 2,
+    "tema": "Prepositions - Place",
+    "pregunta": "I live _______ Mexico.",
+    "opciones": ["at", "on", "in", "to"],
+    "correcta": 2,
+    "explicacion": "Usamos 'in' para países y ciudades."
+  },
+  {
+    "id": "ENG-A2-53",
+    "materia": "Inglés",
+    "dificultad": 2,
+    "tema": "Wh- Questions (Reason)",
+    "pregunta": "_______ are you happy? Because I finished my work!",
+    "opciones": ["Why", "Who", "What", "How"],
+    "correcta": 0,
+    "explicacion": "'Why' pregunta por la razón (va con 'Because')."
+  },
+  {
+    "id": "ENG-A2-54",
+    "materia": "Inglés",
+    "dificultad": 2,
+    "tema": "Possessive Pronouns",
+    "pregunta": "This phone is not mine. Is it _______?",
+    "opciones": ["your", "yours", "you", "my"],
+    "correcta": 1,
+    "explicacion": "'Yours' sustituye a 'your phone'."
+  },
+  {
+    "id": "ENG-A2-55",
+    "materia": "Inglés",
+    "dificultad": 2,
+    "tema": "Present Simple - Be",
+    "pregunta": "Víctor and Jorge _______ business partners.",
+    "opciones": ["is", "are", "am", "be"],
+    "correcta": 1,
+    "explicacion": "Verbo to be para plural (They)."
+  },
+  {
+    "id": "ENG-A2-56",
+    "materia": "Inglés",
+    "dificultad": 2,
+    "tema": "Adverb - Manner",
+    "pregunta": "He speaks English very _______.",
+    "opciones": ["good", "well", "bad", "nice"],
+    "correcta": 1,
+    "explicacion": "'Well' es el adverbio del adjetivo 'good'."
+  },
+  {
+    "id": "ENG-A2-57",
+    "materia": "Inglés",
+    "dificultad": 2,
+    "tema": "There was/were",
+    "pregunta": "_______ a big problem with the server yesterday.",
+    "opciones": ["There was", "There were", "There is", "There are"],
+    "correcta": 0,
+    "explicacion": "Existencia en pasado para un objeto singular."
+  },
+  {
+    "id": "ENG-A2-58",
+    "materia": "Inglés",
+    "dificultad": 2,
+    "tema": "Vocabulary - Actions",
+    "pregunta": "Can you _______ the document to my email?",
+    "opciones": ["send", "write", "read", "speak"],
+    "correcta": 0,
+    "explicacion": "Acción de enviar un archivo digital."
+  },
+  {
+    "id": "ENG-A2-59",
+    "materia": "Inglés",
+    "dificultad": 2,
+    "tema": "Quantity - Any",
+    "pregunta": "I don't have _______ money in my wallet.",
+    "opciones": ["some", "any", "many", "a"],
+    "correcta": 1,
+    "explicacion": "Usamos 'any' para oraciones negativas."
+  },
+  {
+    "id": "ENG-A2-60",
+    "materia": "Inglés",
+    "dificultad": 2,
+    "tema": "Superlative - Long adjectives",
+    "pregunta": "This is the _______ part of the project.",
+    "opciones": ["most important", "more important", "importantest", "important"],
+    "correcta": 0,
+    "explicacion": "Superlativo para adjetivos largos: the + most + adjetivo."
+  }
+]

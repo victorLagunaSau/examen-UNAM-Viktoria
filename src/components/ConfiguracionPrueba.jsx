@@ -4,15 +4,9 @@ import {Rocket, Target, Zap, Flame, Sparkles, ChevronRight, Hash} from 'lucide-r
 function ConfiguracionPrueba({cantidad, setCantidad, dificultad, setDificultad, alIniciar}) {
 
     const niveles = [
-        {
-            id: 2,
-            label: 'Medio',
-            desc: 'Examen Real',
-            icon: <Target size={24}/>,
-            color: 'from-emerald-400 to-emerald-600'
-        },
-        {id: 3, label: 'Pro', desc: 'Nivel Avanzado', icon: <Zap size={24}/>, color: 'from-amber-400 to-amber-600'},
-        {id: 4, label: 'Elite', desc: 'Máxima Presión', icon: <Flame size={24}/>, color: 'from-rose-500 to-red-700'},
+        {id: 3, label: 'Medio', desc: 'Examen Real', icon: <Target size={24}/>, color: 'from-emerald-400 to-emerald-600'},
+        {id: 4, label: 'Pro', desc: 'Nivel Avanzado', icon: <Zap size={24}/>, color: 'from-amber-400 to-amber-600'},
+        {id: 5, label: 'Elite', desc: 'Máxima Presión', icon: <Flame size={24}/>, color: 'from-rose-500 to-red-700'},
     ];
 
     return (
@@ -51,7 +45,7 @@ function ConfiguracionPrueba({cantidad, setCantidad, dificultad, setDificultad, 
                                 Reactivos</h3>
                         </div>
                         <div className="grid grid-cols-3 md:grid-cols-6 gap-3">
-                            {[40, 60, 100, 120].map((n) => (
+                            {[100, 120 , 150 , 200].map((n) => (
                                 <button
                                     key={n}
                                     onClick={() => setCantidad(n)}
