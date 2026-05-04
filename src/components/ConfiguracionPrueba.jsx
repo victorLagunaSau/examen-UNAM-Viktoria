@@ -1,7 +1,8 @@
 import React from 'react';
-import {Rocket, Target, Zap, Flame, Sparkles, ChevronRight, Hash} from 'lucide-react';
+import { motion } from 'framer-motion'; // Asegúrate de tener framer-motion instalado
+import { Target, Zap, Flame, Sparkles, ChevronRight, Hash, BookOpen } from 'lucide-react';
 
-function ConfiguracionPrueba({cantidad, setCantidad, dificultad, setDificultad, alIniciar}) {
+function ConfiguracionPrueba({ cantidad, setCantidad, dificultad, setDificultad, alIniciar, alIrALectura }) {
 
     const niveles = [
         {id: 3, label: 'Medio', desc: 'Examen Real', icon: <Target size={24}/>, color: 'from-emerald-400 to-emerald-600'},
@@ -10,26 +11,35 @@ function ConfiguracionPrueba({cantidad, setCantidad, dificultad, setDificultad, 
     ];
 
     return (
-        <div
-            className="min-h-screen w-full bg-[#fdfbf7] flex items-center justify-center p-4 md:p-10 relative overflow-hidden">
+        <div className="min-h-screen w-full bg-[#fdfbf7] flex items-center justify-center p-4 md:p-10 relative overflow-hidden">
 
-            {/* Círculos decorativos para suavizar el fondo */}
-            <div
-                className="absolute top-[-10%] left-[-10%] w-96 h-96 bg-emerald-100 rounded-full blur-[120px] opacity-50"></div>
-            <div
-                className="absolute bottom-[-10%] right-[-10%] w-96 h-96 bg-blue-100 rounded-full blur-[120px] opacity-50"></div>
+            {/* Círculos decorativos */}
+            <div className="absolute top-[-10%] left-[-10%] w-96 h-96 bg-emerald-100 rounded-full blur-[120px] opacity-50"></div>
+            <div className="absolute bottom-[-10%] right-[-10%] w-96 h-96 bg-blue-100 rounded-full blur-[120px] opacity-50"></div>
+                {/* Botón Biblioteca - Corregido (sin duplicados) */}
+                <div className="absolute top-4 left-6 z-20 no-print">
+                    <button
+                        onClick={alIrALectura}
+                        className="flex items-center gap-2 bg-blue-800 hover:bg-white/20 text-white px-4 py-2 rounded-full transition-all text-[10px] font-black border border-white/20 backdrop-blur-md"
+                    >
+                        <BookOpen size={14} className="text-white" />
+                        BIBLIOTECA DE LECTURA
+                    </button>
+                </div>
+            <motion.div
+                initial={{ opacity: 0, y: 20 }}
+                animate={{ opacity: 1, y: 0 }}
+                className="ficha-viktoria w-full max-w-2xl border-none p-0 overflow-hidden bg-white shadow-[0_40px_80px_-15px_rgba(0,0,0,0.1)] relative"
+            >
 
-            <div
-                className="ficha-viktoria w-full max-w-2xl animate-viktoria border-none p-0 overflow-hidden bg-white shadow-[0_40px_80px_-15px_rgba(0,0,0,0.1)]">
 
-                {/* HEADER CON FONDO OSCURO PARA DESCANSO VISUAL */}
+                {/* HEADER */}
                 <header className="bg-[#0f172a] p-10 md:p-14 text-center relative">
                     <div className="absolute top-4 right-6 opacity-20">
                         <Sparkles className="text-emerald-400" size={60}/>
                     </div>
                     <h1 className="text-5xl font-black italic tracking-tighter text-white">
-                        Viktoria <span
-                        className="text-yellow-600 underline decoration-wavy decoration-1 underline-offset-8">UNAM</span>
+                        Viktoria <span className="text-yellow-600 underline decoration-wavy decoration-1 underline-offset-8">UNAM</span>
                     </h1>
                     <p className="text-emerald-100/60 font-bold uppercase tracking-[0.3em] text-[10px] mt-4">
                         Área 1: Ciencias Físico-Matemáticas
@@ -41,18 +51,17 @@ function ConfiguracionPrueba({cantidad, setCantidad, dificultad, setDificultad, 
                     <section className="mb-12">
                         <div className="flex items-center gap-3 mb-8">
                             <Hash size={18} className="text-slate-400"/>
-                            <h3 className="text-xs font-black text-slate-800 uppercase tracking-widest">Volumen de
-                                Reactivos</h3>
+                            <h3 className="text-xs font-black text-slate-800 uppercase tracking-widest">Volumen de Reactivos</h3>
                         </div>
-                        <div className="grid grid-cols-3 md:grid-cols-6 gap-3">
-                            {[100, 120 , 150 , 200].map((n) => (
+                        <div className="grid grid-cols-4 gap-3">
+                            {[100, 120, 150, 200].map((n) => (
                                 <button
                                     key={n}
                                     onClick={() => setCantidad(n)}
                                     className={`h-14 rounded-2xl font-black transition-all duration-300 border-2 ${
                                         cantidad === n
                                             ? 'bg-[#0f172a] border-[#0f172a] text-white scale-110 shadow-lg'
-                                            : 'bg-white border-slate-100 text-slate-400 hover:border-emerald-200 hover:text-emerald-500'
+                                            : 'bg-white border-slate-100 text-slate-400 hover:border-emerald-200'
                                     }`}
                                 >
                                     {n}
@@ -65,31 +74,25 @@ function ConfiguracionPrueba({cantidad, setCantidad, dificultad, setDificultad, 
                     <section className="mb-12">
                         <div className="flex items-center gap-3 mb-8">
                             <Flame size={18} className="text-slate-400"/>
-                            <h3 className="text-xs font-black text-slate-800 uppercase tracking-widest">Nivel de
-                                Intensidad</h3>
+                            <h3 className="text-xs font-black text-slate-800 uppercase tracking-widest">Nivel de Intensidad</h3>
                         </div>
-                        <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+                        <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
                             {niveles.map((n) => (
                                 <button
                                     key={n.id}
                                     onClick={() => setDificultad(n.id)}
-                                    className={`p-6 rounded-[2rem] border-2 transition-all duration-500 text-left flex items-center gap-5 group relative overflow-hidden ${
+                                    className={`p-4 rounded-[1.5rem] border-2 transition-all duration-500 text-left flex flex-col items-center gap-2 group relative overflow-hidden ${
                                         dificultad === n.id
                                             ? 'border-transparent text-white shadow-2xl scale-[1.03]'
                                             : 'border-slate-50 bg-slate-50/50 text-slate-400 hover:border-slate-200'
                                     }`}
                                 >
-                                    {/* Background gradient solo cuando está seleccionado */}
-                                    <div
-                                        className={`absolute inset-0 bg-gradient-to-br ${n.color} transition-opacity duration-500 ${dificultad === n.id ? 'opacity-100' : 'opacity-0'}`}></div>
-
-                                    <div
-                                        className={`relative z-10 p-3 rounded-2xl ${dificultad === n.id ? 'bg-white/20' : 'bg-white shadow-sm'}`}>
+                                    <div className={`absolute inset-0 bg-gradient-to-br ${n.color} transition-opacity duration-500 ${dificultad === n.id ? 'opacity-100' : 'opacity-0'}`}></div>
+                                    <div className={`relative z-10 p-3 rounded-2xl ${dificultad === n.id ? 'bg-white/20' : 'bg-white shadow-sm'}`}>
                                         {React.cloneElement(n.icon, {className: dificultad === n.id ? 'text-white' : 'text-slate-400'})}
                                     </div>
-                                    <div className="relative z-10">
-                                        <p className={`font-black text-sm uppercase tracking-tight ${dificultad === n.id ? 'text-white' : 'text-slate-800'}`}>{n.label}</p>
-                                        <p className={`text-[10px] font-bold ${dificultad === n.id ? 'text-white/70' : 'text-slate-400'}`}>{n.desc}</p>
+                                    <div className="relative z-10 text-center">
+                                        <p className={`font-black text-[10px] uppercase tracking-tight ${dificultad === n.id ? 'text-white' : 'text-slate-800'}`}>{n.label}</p>
                                     </div>
                                 </button>
                             ))}
@@ -99,14 +102,11 @@ function ConfiguracionPrueba({cantidad, setCantidad, dificultad, setDificultad, 
                     {/* BOTÓN DE ACCIÓN */}
                     <div className="mt-8 px-4 flex justify-center">
                         <button
-                            onClick={() => alIniciar(cantidad, dificultad)} // Pasa los valores al padre
+                            onClick={() => alIniciar(cantidad, dificultad)}
                             className="btn-viktoria-primary w-full max-w-md group"
                         >
                             <span>GENERAR ENTRENAMIENTO</span>
-                            <ChevronRight
-                                className="group-hover:translate-x-2 transition-transform duration-300"
-                                size={24}
-                            />
+                            <ChevronRight className="group-hover:translate-x-2 transition-transform duration-300" size={24} />
                         </button>
                     </div>
                 </div>
@@ -116,8 +116,7 @@ function ConfiguracionPrueba({cantidad, setCantidad, dificultad, setDificultad, 
                         Viktoria Intelligence System • v4.0
                     </p>
                 </footer>
-
-            </div>
+            </motion.div>
         </div>
     );
 }
