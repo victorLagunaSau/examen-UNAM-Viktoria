@@ -1,399 +1,3526 @@
 [
   {
-    "id": 57,
+    "id": "H-01",
     "materia": "Historia Universal",
     "dificultad": 1,
     "tiempoSugerido": 45,
-    "pregunta": "¿Qué movimiento intelectual del siglo XVIII se basaba en el uso de la razón y buscaba terminar con el absolutismo?",
-    "formulaPrincipal": "",
-    "opciones": ["El Renacimiento", "La Ilustración", "El Positivismo", "El Liberalismo"],
+    "pregunta": "¿Qué nombre recibe la disciplina que se encarga de estudiar y narrar los acontecimientos pasados de la humanidad a través de la interpretación de fuentes?",
+    "opciones": [
+      "Historiografía",
+      "Historia",
+      "Arqueología",
+      "Antropología"
+    ],
     "correcta": 1,
     "explicacionPasos": [
-      "Paso 1: Identificar el siglo mencionado (XVIII).",
-      "Paso 2: Relacionar el concepto 'Uso de la razón' con el pensamiento crítico contra la monarquía absoluta.",
-      "Paso 3: Confirmar que pensadores como Voltaire y Rousseau pertenecen a esta corriente.",
+      "Paso 1: Identificar la definición de la ciencia social que estudia el pasado.",
+      "Paso 2: Distinguir entre la narración de los hechos (Historia) y el estudio de cómo se escribe esa historia (Historiografía).",
+      "Resultado: Historia."
+    ],
+    "analisisDeError": {
+      "0": "La historiografía es el estudio bibliográfico y crítico de los textos escritos sobre historia.",
+      "2": "La arqueología es una ciencia auxiliar que estudia restos materiales, no la narrativa total."
+    }
+  },
+  {
+    "id": "H-02",
+    "materia": "Historia Universal",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "Movimiento intelectual del siglo XVIII que basaba el progreso de la humanidad en el uso de la razón y la crítica a los dogmas religiosos.",
+    "opciones": [
+      "Humanismo",
+      "Renacimiento",
+      "Ilustración",
+      "Socialismo"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Ubicar temporalmente el movimiento en el 'Siglo de las Luces'.",
+      "Paso 2: Reconocer el énfasis en la razón frente a la fe y el absolutismo.",
+      "Resultado: Ilustración."
+    ],
+    "analisisDeError": {
+      "0": "El humanismo fue un movimiento intelectual pero perteneciente al siglo XIV y XV.",
+      "1": "El Renacimiento es el periodo artístico y cultural que precede a la Edad Moderna."
+    }
+  },
+  {
+    "id": "H-03",
+    "materia": "Historia Universal",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Cuál fue uno de los principales pensadores de la Ilustración que propuso la división de poderes (Ejecutivo, Legislativo y Judicial)?",
+    "opciones": [
+      "Jean-Jacques Rousseau",
+      "Montesquieu",
+      "Voltaire",
+      "Adam Smith"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar al autor de la obra 'El espíritu de las leyes'.",
+      "Paso 2: Reconocer la propuesta para evitar la tiranía mediante el equilibrio de funciones gubernamentales.",
+      "Resultado: Montesquieu."
+    ],
+    "analisisDeError": {
+      "0": "Rousseau se centró en la voluntad general y el contrato social.",
+      "2": "Voltaire destacó principalmente por su defensa de la libertad de expresión y tolerancia religiosa."
+    }
+  },
+  {
+    "id": "H-04",
+    "materia": "Historia Universal",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Cuál fue la causa económica inmediata que detonó la Independencia de las Trece Colonias de Norteamérica?",
+    "opciones": [
+      "La prohibición de la esclavitud",
+      "El exceso de impuestos impuestos por la Corona británica sin representación",
+      "La invasión de Francia a las colonias",
+      "La falta de tierras para el cultivo"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Analizar las consecuencias financieras de la Guerra de los Siete Años para Inglaterra.",
+      "Paso 2: Identificar gravámenes como la Ley del Timbre y el impuesto al Té.",
+      "Paso 3: Reconocer el lema 'No taxation without representation'.",
+      "Resultado: El exceso de impuestos."
+    ],
+    "analisisDeError": {
+      "0": "La esclavitud no fue el detonante del conflicto contra Inglaterra; era pilar de la economía sureña.",
+      "2": "Francia fue aliada de los colonos contra Inglaterra, no el invasor."
+    }
+  },
+  {
+    "id": "H-05",
+    "materia": "Historia Universal",
+    "dificultad": 1,
+    "tiempoSugerido": 50,
+    "pregunta": "Suceso que marca el inicio simbólico de la Revolución Francesa en 1789.",
+    "opciones": [
+      "La ejecución de Luis XVI",
+      "La toma de la Bastilla",
+      "La coronación de Napoleón Bonaparte",
+      "El juramento del juego de pelota"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar el evento donde el pueblo parisino tomó una prisión real.",
+      "Paso 2: Reconocer el fin del absolutismo simbólico y el inicio de la participación popular masiva.",
+      "Resultado: La toma de la Bastilla."
+    ],
+    "analisisDeError": {
+      "0": "La ejecución del rey ocurrió en 1793, durante la fase radical de la Revolución.",
+      "2": "La coronación de Napoleón marca el fin de la República y el inicio del Imperio en 1804."
+    }
+  },
+  {
+    "id": "H-06",
+    "materia": "Historia Universal",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "Clase social que lideró las revoluciones de finales del siglo XVIII y que buscaba el control político y económico.",
+    "opciones": [
+      "Proletariado",
+      "Campesinado",
+      "Burguesía",
+      "Nobleza"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Identificar al sector con poder económico pero sin derechos políticos en el Antiguo Régimen.",
+      "Paso 2: Reconocer su papel en la redacción de las declaraciones de derechos humanos.",
+      "Resultado: Burguesía."
+    ],
+    "analisisDeError": {
+      "0": "El proletariado surge como clase protagonista hasta la Revolución Industrial plena en el siglo XIX.",
+      "3": "La nobleza era la clase que detentaba el poder y fue desplazada por estos movimientos."
+    }
+  },
+  {
+    "id": "H-07",
+    "materia": "Historia Universal",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "Documento fundamental de la Revolución Francesa que establecía la igualdad, libertad y fraternidad entre los ciudadanos.",
+    "opciones": [
+      "La Carta Magna",
+      "El Código Civil Napoleónico",
+      "La Declaración de los Derechos del Hombre y del Ciudadano",
+      "El Tratado de Versalles"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Diferenciar entre documentos medievales, códigos legales e hitos de derechos humanos.",
+      "Paso 2: Identificar el documento redactado por la Asamblea Nacional en agosto de 1789.",
+      "Resultado: Declaración de los Derechos del Hombre y del Ciudadano."
+    ],
+    "analisisDeError": {
+      "1": "El Código Napoleónico es una sistematización de leyes posterior (1804).",
+      "3": "El Tratado de Versalles es el acuerdo que puso fin a la Primera Guerra Mundial en 1919."
+    }
+  },
+  {
+    "id": "H-08",
+    "materia": "Historia Universal",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "Principal fuente de energía utilizada durante la primera fase de la Revolución Industrial.",
+    "opciones": [
+      "Electricidad",
+      "Petróleo",
+      "Vapor de agua (carbón)",
+      "Energía solar"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Reconocer el invento clave de James Watt.",
+      "Paso 2: Identificar el combustible fósil que alimentaba las locomotoras y telares mecánicos.",
+      "Resultado: Vapor de agua (carbón)."
+    ],
+    "analisisDeError": {
+      "0": "La electricidad pertenece a la Segunda Revolución Industrial (finales del s. XIX).",
+      "1": "El petróleo se convirtió en fuente primaria hasta la segunda mitad del siglo XIX y principios del XX."
+    }
+  },
+  {
+    "id": "H-09",
+    "materia": "Historia Universal",
+    "dificultad": 1,
+    "tiempoSugerido": 45,
+    "pregunta": "¿Qué tipo de fuentes históricas son los diarios, cartas y documentos oficiales de la época en estudio?",
+    "opciones": [
+      "Fuentes Primarias",
+      "Fuentes Secundarias",
+      "Fuentes Terciarias",
+      "Fuentes Indirectas"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Clasificar las fuentes según su cercanía temporal con el hecho.",
+      "Paso 2: Definir fuentes primarias como aquellas generadas por los protagonistas o testigos directos.",
+      "Resultado: Fuentes Primarias."
+    ],
+    "analisisDeError": {
+      "1": "Las fuentes secundarias son interpretaciones posteriores, como los libros de texto o ensayos actuales.",
+      "3": "Las fuentes indirectas no son una clasificación estándar en la historiografía académica básica."
+    }
+  },
+  {
+    "id": "H-10",
+    "materia": "Historia Universal",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "¿En qué consiste el 'Contrato Social' propuesto por Rousseau?",
+    "opciones": [
+      "Un acuerdo comercial entre monarcas",
+      "El pacto por el cual los ciudadanos ceden parte de su libertad a cambio de protección y orden bajo la voluntad general",
+      "Un tratado de paz tras una guerra civil",
+      "La ley que prohibía la religión en el Estado"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar la esencia del pensamiento político de Rousseau.",
+      "Paso 2: Comprender la relación entre el individuo y el Estado democrático moderno.",
+      "Resultado: Acuerdo ciudadano bajo la voluntad general."
+    ],
+    "analisisDeError": {
+      "0": "Es un concepto de filosofía política, no de economía mercantilista.",
+      "2": "Aunque influyó en procesos de paz, el concepto es preventivo y organizativo del Estado."
+    }
+  },
+  {
+    "id": "H-11",
+    "materia": "Historia Universal",
+    "dificultad": 1,
+    "tiempoSugerido": 50,
+    "pregunta": "Periodo de la historia que se sitúa entre la caída del Imperio Romano de Occidente (476) y la caída de Constantinopla (1453).",
+    "opciones": [
+      "Edad Antigua",
+      "Edad Media",
+      "Edad Moderna",
+      "Edad Contemporánea"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Utilizar la periodización tradicional de la historia universal.",
+      "Paso 2: Identificar los hitos de inicio y fin de la etapa feudal.",
+      "Resultado: Edad Media."
+    ],
+    "analisisDeError": {
+      "0": "La Edad Antigua termina precisamente con la caída de Roma en el 476.",
+      "2": "La Edad Moderna inicia en 1453 (o 1492 con el descubrimiento de América)."
+    }
+  },
+  {
+    "id": "H-12",
+    "materia": "Historia Universal",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "País que brindó apoyo militar clave a las colonias americanas para derrotar a Inglaterra en su proceso de independencia.",
+    "opciones": [
+      "Rusia",
+      "España",
+      "Francia",
+      "Holanda"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Reconocer la rivalidad histórica entre Francia e Inglaterra.",
+      "Paso 2: Identificar figuras como el Marqués de La Fayette que participaron en el conflicto.",
+      "Resultado: Francia."
+    ],
+    "analisisDeError": {
+      "0": "Rusia no tuvo una participación directa en la guerra de independencia de las trece colonias.",
+      "1": "España apoyó indirectamente, pero Francia fue el aliado estratégico y militar principal."
+    }
+  },
+  {
+    "id": "H-13",
+    "materia": "Historia Universal",
+    "dificultad": 2,
+    "tiempoSugerido": 55,
+    "pregunta": "Consiste en la creencia de que los monarcas recibían su poder directamente de Dios, característica central del Absolutismo.",
+    "opciones": [
+      "Despotismo Ilustrado",
+      "Derecho Divino",
+      "Liberalismo",
+      "Monarquía Constitucional"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar la justificación teológica del poder absoluto del rey.",
+      "Paso 2: Reconocer este concepto como el blanco de ataque de los ilustrados.",
+      "Resultado: Derecho Divino."
+    ],
+    "analisisDeError": {
+      "0": "El despotismo ilustrado fue el intento de los reyes de modernizarse usando la razón sin perder el poder.",
+      "2": "El liberalismo es la doctrina opuesta que defiende la libertad individual y la división de poderes."
+    }
+  },
+  {
+    "id": "H-14",
+    "materia": "Historia Universal",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Qué consecuencia social trajo consigo la Revolución Industrial?",
+    "opciones": [
+      "El fortalecimiento del sistema feudal",
+      "La migración masiva del campo a las ciudades (urbanización)",
+      "La desaparición de la burguesía",
+      "El aumento de la producción artesanal manual"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Analizar el cambio en el modo de producción del taller a la fábrica.",
+      "Paso 2: Identificar la necesidad de mano de obra concentrada en centros industriales.",
+      "Resultado: Urbanización masiva."
+    ],
+    "analisisDeError": {
+      "0": "La Revolución Industrial destruyó definitivamente los restos del feudalismo.",
+      "3": "La producción artesanal fue desplazada por la producción industrial en serie."
+    }
+  },
+  {
+    "id": "H-15",
+    "materia": "Historia Universal",
+    "dificultad": 2,
+    "tiempoSugerido": 65,
+    "pregunta": "¿Quién escribió 'La Riqueza de las Naciones', sentando las bases del liberalismo económico?",
+    "opciones": [
+      "Karl Marx",
+      "Adam Smith",
+      "David Ricardo",
+      "John Locke"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar al padre de la economía moderna.",
+      "Paso 2: Reconocer la teoría de la 'mano invisible' y la no intervención del Estado en el mercado.",
+      "Resultado: Adam Smith."
+    ],
+    "analisisDeError": {
+      "0": "Marx es el autor de 'El Capital' y crítico del sistema liberal.",
+      "3": "Locke es el padre del liberalismo político, pero no el principal referente de la economía clásica industrial."
+    }
+  },
+  {
+    "id": "H-16",
+    "materia": "Historia Universal",
+    "dificultad": 1,
+    "tiempoSugerido": 50,
+    "pregunta": "¿Cómo se denominan los restos materiales, documentos o testimonios que el historiador utiliza para reconstruir el pasado?",
+    "opciones": [
+      "Fuentes históricas",
+      "Evidencias científicas",
+      "Relatos literarios",
+      "Objetos antiguos"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Identificar la materia prima del trabajo del historiador.",
+      "Paso 2: Reconocer que cualquier vestigio dejado por la actividad humana se clasifica bajo este concepto.",
+      "Resultado: Fuentes históricas."
+    ],
+    "analisisDeError": {
+      "2": "Aunque la literatura puede ser una fuente, no engloba a los restos materiales o documentos oficiales.",
+      "3": "Es un término demasiado coloquial; el término técnico correcto es fuentes."
+    }
+  },
+  {
+    "id": "H-17",
+    "materia": "Historia Universal",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "Filósofo ilustrado que en su obra 'El contrato social' afirmó que la soberanía reside en el pueblo y no en el monarca.",
+    "opciones": [
+      "Thomas Hobbes",
+      "Jean-Jacques Rousseau",
+      "John Locke",
+      "Barón de Montesquieu"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Vincular la idea de 'Soberanía Popular' con su autor principal.",
+      "Paso 2: Diferenciar el pensamiento democrático de Rousseau del pensamiento absolutista de Hobbes.",
+      "Resultado: Jean-Jacques Rousseau."
+    ],
+    "analisisDeError": {
+      "0": "Hobbes defendía el poder absoluto del monarca en su obra Leviatán.",
+      "2": "Locke sentó las bases del liberalismo, pero Rousseau radicalizó la idea de la voluntad general."
+    }
+  },
+  {
+    "id": "H-18",
+    "materia": "Historia Universal",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Qué evento detonó la Guerra de Independencia de las Trece Colonias en 1773, relacionado con el monopolio comercial británico?",
+    "opciones": [
+      "La Declaración de Independencia",
+      "El Motín del Té en Boston",
+      "La Batalla de Yorktown",
+      "La llegada del Mayflower"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar la protesta de los colonos contra el impuesto al té.",
+      "Paso 2: Reconocer el acto de arrojar el cargamento al mar como el punto de ruptura.",
+      "Resultado: El Motín del Té en Boston."
+    ],
+    "analisisDeError": {
+      "0": "La Declaración de Independencia fue el resultado político en 1776, no el detonante inicial.",
+      "2": "La Batalla de Yorktown fue el enfrentamiento final que aseguró la victoria de los colonos."
+    }
+  },
+  {
+    "id": "H-19",
+    "materia": "Historia Universal",
+    "dificultad": 2,
+    "tiempoSugerido": 65,
+    "pregunta": "Es el sistema político, social y económico que predominaba en Europa antes de la Revolución Francesa, caracterizado por el absolutismo y la sociedad estamental.",
+    "opciones": [
+      "Feudalismo",
+      "Antiguo Régimen",
+      "Capitalismo",
+      "Imperialismo"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar el término que define a la Europa previa a 1789.",
+      "Paso 2: Reconocer la estructura de poder concentrado en el Rey y la división en tres estados (clero, nobleza y pueblo).",
+      "Resultado: Antiguo Régimen."
+    ],
+    "analisisDeError": {
+      "0": "El feudalismo es el sistema de la Edad Media; aunque persistían rasgos, el sistema centralizado del s. XVIII es el Antiguo Régimen.",
+      "3": "El imperialismo es la fase de expansión colonial de finales del siglo XIX."
+    }
+  },
+  {
+    "id": "H-20",
+    "materia": "Historia Universal",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "Durante la Revolución Francesa, ¿qué grupo político representaba a la pequeña burguesía y se caracterizaba por sus posturas radicales?",
+    "opciones": [
+      "Girondinos",
+      "Jacobinos",
+      "Monárquicos",
+      "Absolutistas"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Diferenciar las facciones de la Convención Nacional.",
+      "Paso 2: Identificar al grupo liderado por Robespierre que instauró el 'Periodo del Terror'.",
+      "Resultado: Jacobinos."
+    ],
+    "analisisDeError": {
+      "0": "Los girondinos eran moderados y representaban a la alta burguesía.",
+      "2": "Los monárquicos buscaban preservar la figura del rey con limitaciones constitucionales."
+    }
+  },
+  {
+    "id": "H-21",
+    "materia": "Historia Universal",
+    "dificultad": 2,
+    "tiempoSugerido": 55,
+    "pregunta": "¿Cuál fue la principal innovación tecnológica que permitió el surgimiento de las fábricas durante la Revolución Industrial?",
+    "opciones": [
+      "El motor de combustión interna",
+      "La máquina de vapor",
+      "El telégrafo",
+      "La bombilla eléctrica"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar el motor de la Primera Revolución Industrial.",
+      "Paso 2: Vincular la energía térmica del carbón con el movimiento mecánico en gran escala.",
+      "Resultado: La máquina de vapor."
+    ],
+    "analisisDeError": {
+      "0": "El motor de combustión interna pertenece a la Segunda Revolución Industrial (s. XIX-XX).",
+      "3": "La electricidad y la bombilla se desarrollaron masivamente a finales del siglo XIX."
+    }
+  },
+  {
+    "id": "H-22",
+    "materia": "Historia Universal",
+    "dificultad": 1,
+    "tiempoSugerido": 50,
+    "pregunta": "¿Cómo se llama el proceso de interpretación histórica que busca objetividad analizando críticamente las fuentes?",
+    "opciones": [
+      "Periodización",
+      "Historiografía",
+      "Cronología",
+      "Prehistoria"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Definir el estudio de la escritura de la historia y sus métodos.",
+      "Paso 2: Reconocer que la labor de análisis y crítica de textos históricos se llama historiografía.",
+      "Resultado: Historiografía."
+    ],
+    "analisisDeError": {
+      "0": "La periodización es solo la división de la historia en edades o etapas.",
+      "2": "La cronología es el ordenamiento temporal de los hechos sin interpretación profunda."
+    }
+  },
+  {
+    "id": "H-23",
+    "materia": "Historia Universal",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "El lema 'Libertad, Igualdad y Fraternidad' fue la bandera principal de:",
+    "opciones": [
+      "La Independencia de México",
+      "La Revolución Industrial",
+      "La Revolución Francesa",
+      "La Revolución Rusa"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Asociar los valores liberales del siglo XVIII con el conflicto europeo más importante de la época.",
+      "Paso 2: Confirmar que estos principios se plasmaron en la Declaración de 1789.",
+      "Resultado: La Revolución Francesa."
+    ],
+    "analisisDeError": {
+      "1": "La Revolución Industrial fue un proceso tecnológico y económico, no un movimiento con un lema político de ese tipo.",
+      "3": "La Revolución Rusa (1917) se basó en los principios del marxismo-leninismo."
+    }
+  },
+  {
+    "id": "H-24",
+    "materia": "Historia Universal",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Qué pensador ilustrado es autor de 'Cartas Filosóficas' y defendió fervientemente la tolerancia religiosa y la libertad de culto?",
+    "opciones": [
+      "Voltaire",
+      "Rousseau",
+      "Diderot",
+      "D'Alembert"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Identificar al principal crítico del fanatismo religioso en la Francia del s. XVIII.",
+      "Paso 2: Reconocer la importancia de la tolerancia civil en su pensamiento.",
+      "Resultado: Voltaire."
+    ],
+    "analisisDeError": {
+      "2": "Diderot fue el principal impulsor de La Enciclopedia, no el autor de las Cartas Filosóficas.",
+      "1": "Rousseau se centró más en la pedagogía y la política que en la crítica religiosa directa de Voltaire."
+    }
+  },
+  {
+    "id": "H-25",
+    "materia": "Historia Universal",
+    "dificultad": 2,
+    "tiempoSugerido": 65,
+    "pregunta": "¿Cuál fue el principal cambio económico que propició la burguesía con las revoluciones burguesas?",
+    "opciones": [
+      "El retorno al trueque",
+      "El establecimiento del libre mercado y la propiedad privada",
+      "La nacionalización de todas las industrias",
+      "El control total del Rey sobre las finanzas"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Entender que la burguesía necesitaba libertad de comercio para crecer.",
+      "Paso 2: Identificar la eliminación de los gremios medievales y las aduanas internas.",
+      "Resultado: Libre mercado y propiedad privada."
+    ],
+    "analisisDeError": {
+      "2": "La nacionalización es característica de sistemas socialistas posteriores.",
+      "3": "Este era el modelo absolutista que la burguesía buscaba destruir."
+    }
+  },
+  {
+    "id": "H-26",
+    "materia": "Historia Universal",
+    "dificultad": 1,
+    "tiempoSugerido": 45,
+    "pregunta": "¿A qué edad de la historia dio inicio la Revolución Francesa en 1789?",
+    "opciones": [
+      "Edad Media",
+      "Edad Moderna",
+      "Edad Contemporánea",
+      "Edad de los Metales"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Localizar el hito que marca el fin de la Edad Moderna.",
+      "Paso 2: Reconocer que la Revolución Francesa es el punto de partida de nuestra era actual en la historiografía tradicional.",
+      "Resultado: Edad Contemporánea."
+    ],
+    "analisisDeError": {
+      "1": "La Edad Moderna termina precisamente con este suceso.",
+      "0": "La Edad Media había terminado siglos atrás (1453)."
+    }
+  },
+  {
+    "id": "H-27",
+    "materia": "Historia Universal",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Cuál fue una consecuencia política fundamental de la Independencia de las Trece Colonias?",
+    "opciones": [
+      "La creación de la primera República democrática moderna con una Constitución escrita",
+      "El regreso a la monarquía absoluta",
+      "La alianza definitiva con Inglaterra",
+      "La prohibición de la libertad de expresión"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Analizar el modelo de gobierno que adoptaron los Estados Unidos tras su victoria.",
+      "Paso 2: Reconocer la Constitución de 1787 como un modelo para el mundo.",
+      "Resultado: Creación de la primera República moderna."
+    ],
+    "analisisDeError": {
+      "1": "Fue exactamente lo contrario; se eliminó la figura del Rey.",
+      "3": "La libertad de expresión quedó protegida en las enmiendas de su constitución."
+    }
+  },
+  {
+    "id": "H-28",
+    "materia": "Historia Universal",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "La Enciclopedia, obra monumental de la Ilustración, tenía como objetivo:",
+    "opciones": [
+      "Recopilar todo el conocimiento humano de la época basado en la razón",
+      "Escribir una nueva Biblia",
+      "Crear un manual de guerra para Napoleón",
+      "Llevar un registro de las propiedades del Rey"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Comprender la función educativa y política de esta obra masiva.",
+      "Paso 2: Identificar a Diderot y D'Alembert como sus coordinadores.",
+      "Resultado: Recopilar el conocimiento basado en la razón."
+    ],
+    "analisisDeError": {
+      "1": "Al contrario, muchos enciclopedistas eran críticos de la influencia eclesiástica.",
+      "2": "Fue publicada décadas antes del ascenso de Napoleón."
+    }
+  },
+  {
+    "id": "H-29",
+    "materia": "Historia Universal",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "Durante la Primera Revolución Industrial, ¿cuál fue la industria que se mecanizó primero y con mayor rapidez?",
+    "opciones": [
+      "Siderúrgica",
+      "Automotriz",
+      "Textil",
+      "Química"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Identificar el sector que utilizó las primeras hiladoras mecánicas y telares de vapor.",
+      "Paso 2: Reconocer a Inglaterra como el principal exportador de telas en el siglo XVIII.",
+      "Resultado: Textil."
+    ],
+    "analisisDeError": {
+      "1": "La industria automotriz no existía; surgió en la Segunda Revolución Industrial.",
+      "0": "La siderurgia creció mucho, pero la textil fue la pionera en la transición al sistema de fábrica."
+    }
+  },
+  {
+    "id": "H-30",
+    "materia": "Historia Universal",
+    "dificultad": 2,
+    "tiempoSugerido": 55,
+    "pregunta": "¿Qué nombre recibió la ley que obligaba a los colonos americanos a pagar por un sello oficial en documentos y periódicos, provocando gran indignación?",
+    "opciones": [
+      "Ley del Té",
+      "Ley del Timbre (Stamp Act)",
+      "Ley de Acuartelamiento",
+      "Leyes Intolerables"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar el primer gran impuesto directo que causó protestas organizadas en las colonias.",
+      "Paso 2: Distinguir entre las diferentes leyes impositivas británicas.",
+      "Resultado: Ley del Timbre."
+    ],
+    "analisisDeError": {
+      "0": "La Ley del Té fue posterior y provocó el incidente del puerto de Boston.",
+      "3": "Las Leyes Intolerables fueron la respuesta punitiva de Inglaterra tras el Motín del Té."
+    }
+  },
+  {
+    "id": "H-31",
+    "materia": "Historia Universal",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Qué movimiento filosófico y cultural del siglo XVIII consideraba que la ignorancia y el fanatismo eran los mayores obstáculos para la felicidad humana?",
+    "opciones": [
+      "La Ilustración",
+      "El Existencialismo",
+      "El Barroco",
+      "El Positivismo"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Identificar el periodo conocido como el 'Siglo de las Luces'.",
+      "Paso 2: Reconocer el objetivo de disipar las 'tinieblas' de la ignorancia mediante la luz de la razón.",
       "Resultado: La Ilustración."
     ],
     "analisisDeError": {
-      "0": "El Renacimiento es de los siglos XV-XVI, centrado en el humanismo artístico.",
-      "2": "El Positivismo es una corriente científica y filosófica del siglo XIX."
+      "1": "El existencialismo es una corriente del siglo XX centrada en la condición humana.",
+      "3": "El positivismo surgió en el siglo XIX, enfocado en el método científico experimental."
     }
   },
   {
-    "id": 58,
+    "id": "H-32",
+    "materia": "Historia Universal",
+    "dificultad": 2,
+    "tiempoSugerido": 65,
+    "pregunta": "¿Cuál de las siguientes opciones describe una característica del liberalismo político del siglo XIX?",
+    "opciones": [
+      "La defensa de los derechos individuales y la soberanía nacional",
+      "El fortalecimiento de los gremios medievales",
+      "La concentración del poder en una sola persona (Absolutismo)",
+      "La prohibición de la propiedad privada"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Identificar los principios que defendía la burguesía frente al Antiguo Régimen.",
+      "Paso 2: Reconocer que la libertad individual y el voto (soberanía) son pilares del liberalismo.",
+      "Resultado: Defensa de derechos individuales y soberanía."
+    ],
+    "analisisDeError": {
+      "2": "El absolutismo es precisamente el sistema contra el cual luchaba el liberalismo.",
+      "3": "La propiedad privada es, al contrario, un derecho fundamental para el pensamiento liberal."
+    }
+  },
+  {
+    "id": "H-33",
     "materia": "Historia Universal",
     "dificultad": 2,
     "tiempoSugerido": 60,
-    "pregunta": "Es una de las principales causas de la Primera Guerra Mundial:",
-    "formulaPrincipal": "",
-    "opciones": ["La invasión a Polonia", "El asesinato del archiduque Francisco Fernando", "La caída del muro de Berlín", "La Revolución Rusa"],
+    "pregunta": "Personaje que lideró el Ejército Continental durante la Guerra de Independencia de las Trece Colonias y se convirtió en su primer presidente.",
+    "opciones": [
+      "Thomas Jefferson",
+      "George Washington",
+      "Benjamin Franklin",
+      "Abraham Lincoln"
+    ],
     "correcta": 1,
     "explicacionPasos": [
-      "Paso 1: Analizar los eventos detonantes de conflictos mundiales.",
-      "Paso 2: Recordar el incidente de Sarajevo en 1914 donde el heredero al trono austrohúngaro fue asesinado.",
-      "Paso 3: Este evento activó las alianzas militares europeas (Triple Entente y Triple Alianza).",
-      "Resultado: El asesinato del archiduque Francisco Fernando."
+      "Paso 1: Distinguir entre los redactores de la declaración y el líder militar del conflicto.",
+      "Paso 2: Identificar al 'Padre de la Patria' de los Estados Unidos.",
+      "Resultado: George Washington."
     ],
     "analisisDeError": {
-      "0": "La invasión a Polonia inició la Segunda Guerra Mundial en 1939.",
-      "2": "La caída del muro simboliza el fin de la Guerra Fría en 1989."
+      "0": "Jefferson fue el principal redactor de la Declaración de Independencia, no el comandante militar.",
+      "3": "Lincoln fue presidente durante la Guerra de Secesión en el siglo XIX, mucho tiempo después."
     }
   },
   {
-    "id": 59,
+    "id": "H-34",
     "materia": "Historia Universal",
-    "dificultad": 3,
-    "tiempoSugerido": 90,
-    "pregunta": "¿Cuál fue la principal característica de la Guerra Fría?",
-    "formulaPrincipal": "",
-    "opciones": ["Enfrentamiento bélico directo entre EUA y la URSS", "Enfrentamiento ideológico, económico y político entre el bloque capitalista y el socialista", "La alianza militar entre Alemania y Japón", "El dominio del Imperio Napoleónico"],
-    "correcta": 1,
+    "dificultad": 1,
+    "tiempoSugerido": 50,
+    "pregunta": "¿Cómo se llama la ciencia auxiliar de la historia que estudia las inscripciones hechas sobre materiales duros (piedra, metal)?",
+    "opciones": [
+      "Numismática",
+      "Paleontología",
+      "Epigrafía",
+      "Heráldica"
+    ],
+    "correcta": 2,
     "explicacionPasos": [
-      "Paso 1: Definir el término 'fría' en el contexto de un conflicto.",
-      "Paso 2: Identificar los dos bloques líderes tras la Segunda Guerra Mundial (EUA y URSS).",
-      "Paso 3: Reconocer que la competencia fue tecnológica, ideológica y a través de guerras subsidiarias.",
-      "Resultado: Enfrentamiento ideológico, económico y político."
+      "Paso 1: Definir la función de las ciencias auxiliares.",
+      "Paso 2: Identificar que el estudio de inscripciones antiguas se denomina epigrafía.",
+      "Resultado: Epigrafía."
     ],
     "analisisDeError": {
-      "0": "No hubo enfrentamiento directo por la amenaza de destrucción mutua nuclear.",
-      "2": "Ese fue el 'Eje' durante la Segunda Guerra Mundial."
+      "0": "La numismática estudia las monedas y medallas.",
+      "3": "La heráldica se encarga del estudio de los escudos de armas."
     }
   },
   {
-    "id": 60,
+    "id": "H-35",
     "materia": "Historia Universal",
-    "dificultad": 4,
-    "tiempoSugerido": 90,
-    "pregunta": "Ordena cronológicamente los siguientes sucesos de la Segunda Guerra Mundial: I. Lanzamiento de bombas atómicas, II. Invasión de Alemania a Polonia, III. Ataque a Pearl Harbor, IV. Día D (Desembarco en Normandía).",
-    "formulaPrincipal": "",
-    "opciones": ["II, III, IV, I", "II, I, III, IV", "III, II, IV, I", "I, II, III, IV"],
-    "correcta": 0,
-    "explicacionPasos": [
-      "Paso 1: Identificar el inicio (Invasión a Polonia, 1939).",
-      "Paso 2: Identificar la entrada de EUA al conflicto (Pearl Harbor, 1941).",
-      "Paso 3: Identificar la recuperación de Europa (Día D, 1944).",
-      "Paso 4: Identificar el evento final (Bombas atómicas, 1945).",
-      "Resultado: II, III, IV, I."
-    ],
-    "analisisDeError": {
-      "1": "Las bombas atómicas cierran el conflicto; no pueden ser el segundo evento."
-    }
-  },
-  {
-    "id": 61,
-    "materia": "Historia Universal",
-    "dificultad": 3,
+    "dificultad": 2,
     "tiempoSugerido": 60,
-    "pregunta": "Países que conformaron la Triple Entente al inicio de la Gran Guerra:",
-    "formulaPrincipal": "",
-    "opciones": ["Alemania, Austria e Italia", "Francia, Inglaterra y Rusia", "EUA, Rusia y China", "Japón, Alemania e Italia"],
-    "correcta": 1,
+    "pregunta": "Durante la Revolución Francesa, ¿qué nombre recibió la fase radical liderada por Robespierre donde se ejecutó a miles de 'enemigos de la revolución'?",
+    "opciones": [
+      "El Directorio",
+      "El Consulado",
+      "La Época del Terror",
+      "Los Estados Generales"
+    ],
+    "correcta": 2,
     "explicacionPasos": [
-      "Paso 1: Identificar los dos bloques principales de la Primera Guerra Mundial.",
-      "Paso 2: Recordar que la 'Entente' unía a las potencias occidentales y el imperio ruso.",
-      "Paso 3: Descartar a las Potencias Centrales (Alemania/Austria).",
-      "Resultado: Francia, Inglaterra y Rusia."
+      "Paso 1: Ubicar la etapa de la Convención Nacional dominada por los jacobinos.",
+      "Paso 2: Identificar el uso masivo de la guillotina como método de control político.",
+      "Resultado: La Época del Terror."
     ],
     "analisisDeError": {
-      "0": "Esa fue la Triple Alianza (Potencias Centrales).",
-      "3": "Ese fue el pacto del Eje en la Segunda Guerra Mundial."
+      "0": "El Directorio fue la etapa moderada que siguió a la caída de Robespierre.",
+      "1": "El Consulado fue la fase inicial del ascenso de Napoleón Bonaparte."
     }
   },
   {
-    "id": 62,
-    "materia": "Historia de México",
+    "id": "H-36",
+    "materia": "Historia Universal",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Cuál fue el principal cambio demográfico provocado por la Revolución Industrial?",
+    "opciones": [
+      "El abandono de las ciudades y el regreso al campo",
+      "La explosión urbana debido al éxodo rural",
+      "La disminución de la población mundial por falta de alimentos",
+      "La migración masiva de Europa hacia Asia"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Analizar el impacto de las fábricas instaladas en los centros urbanos.",
+      "Paso 2: Reconocer que los campesinos migraron a las ciudades buscando empleo en la industria.",
+      "Resultado: Éxodo rural y crecimiento urbano."
+    ],
+    "analisisDeError": {
+      "0": "Ocurrió exactamente lo contrario; el campo se despobló a favor de la ciudad.",
+      "2": "Al contrario, la población aumentó gracias a mejoras en la higiene y producción de alimentos."
+    }
+  },
+  {
+    "id": "H-37",
+    "materia": "Historia Universal",
     "dificultad": 1,
     "tiempoSugerido": 45,
-    "pregunta": "¿Quién es conocido como el 'Siervo de la Nación' y redactó los 'Sentimientos de la Nación'?",
-    "formulaPrincipal": "",
-    "opciones": ["Miguel Hidalgo", "José María Morelos y Pavón", "Vicente Guerrero", "Agustín de Iturbide"],
-    "correcta": 1,
-    "explicacionPasos": [
-      "Paso 1: Asociar el título 'Siervo de la Nación' con el líder insurgente correspondiente.",
-      "Paso 2: Identificar el autor del documento que pedía la independencia total y la abolición de la esclavitud en el Congreso de Chilpancingo.",
-      "Paso 3: Confirmar que Morelos lideró la etapa de organización.",
-      "Resultado: José María Morelos y Pavón."
+    "pregunta": "¿En qué siglo se desarrolló principalmente el movimiento de la Ilustración?",
+    "opciones": [
+      "Siglo XVI",
+      "Siglo XVII",
+      "Siglo XVIII",
+      "Siglo XIX"
     ],
-    "analisisDeError": {
-      "0": "Hidalgo inició el movimiento, pero no usó ese título ni redactó ese documento.",
-      "3": "Iturbide consumó la independencia mediante el Plan de Iguala."
-    }
-  },
-  {
-    "id": 63,
-    "materia": "Historia de México",
-    "dificultad": 2,
-    "tiempoSugerido": 60,
-    "pregunta": "Documento con el que se puso fin a la guerra de independencia de México en 1821:",
-    "formulaPrincipal": "",
-    "opciones": ["Tratados de Córdoba", "Plan de Iguala", "Constitución de Apatzingán", "Sentimientos de la Nación"],
-    "correcta": 0,
-    "explicacionPasos": [
-      "Paso 1: Identificar el acuerdo final firmado entre Agustín de Iturbide y el último jefe político español Juan O'Donojú.",
-      "Paso 2: Recordar que este documento reconoce formalmente la soberanía de México.",
-      "Paso 3: Diferenciar del Plan de Iguala, que fue la alianza política previa.",
-      "Resultado: Tratados de Córdoba."
-    ],
-    "analisisDeError": {
-      "1": "El Plan de Iguala unió a las fuerzas insurgentes y realistas, pero no fue el tratado final con España.",
-      "2": "Apatzingán fue la primera constitución insurgente (1814)."
-    }
-  },
-  {
-    "id": 64,
-    "materia": "Historia de México",
-    "dificultad": 3,
-    "tiempoSugerido": 60,
-    "pregunta": "¿Qué nombre recibió el periodo de 1928 a 1934 en el que Plutarco Elías Calles controló la política nacional sin ser presidente?",
-    "formulaPrincipal": "",
-    "opciones": ["El Porfiriato", "El Cardenismo", "El Maximato", "El Milagro Mexicano"],
     "correcta": 2,
     "explicacionPasos": [
-      "Paso 1: Relacionar a Plutarco Elías Calles con su título de 'Jefe Máximo de la Revolución'.",
-      "Paso 2: Identificar la etapa donde hubo tres presidentes bajo su influencia directa.",
-      "Paso 3: Reconocer que este periodo termina con la llegada de Lázaro Cárdenas.",
-      "Resultado: El Maximato."
+      "Paso 1: Ubicar cronológicamente el 'Siglo de las Luces'.",
+      "Paso 2: Recordar que es el periodo previo a las grandes revoluciones de 1776 y 1789.",
+      "Resultado: Siglo XVIII."
     ],
     "analisisDeError": {
-      "0": "El Porfiriato fue la dictadura de Díaz en el siglo XIX e inicios del XX.",
-      "3": "El Milagro Mexicano es una etapa de crecimiento económico (1940-1970)."
+      "0": "El siglo XVI corresponde al Renacimiento y la Reforma.",
+      "3": "El siglo XIX es el siglo del Imperialismo y las revoluciones liberales tardías."
     }
   },
   {
-    "id": 65,
-    "materia": "Historia de México",
-    "dificultad": 4,
-    "tiempoSugerido": 120,
-    "pregunta": "Ordena los periodos históricos de México: I. Porfiriato, II. República Restaurada, III. Reforma, IV. Revolución.",
-    "formulaPrincipal": "",
-    "opciones": ["III, II, I, IV", "III, I, II, IV", "I, II, III, IV", "II, III, I, IV"],
-    "correcta": 0,
-    "explicacionPasos": [
-      "Paso 1: Ubicar la Guerra de Reforma (Leyes de Reforma y Juárez).",
-      "Paso 2: Ubicar la República Restaurada tras la caída del Segundo Imperio (1867-1876).",
-      "Paso 3: Ubicar el ascenso de Díaz (Porfiriato).",
-      "Paso 4: Ubicar el inicio de la Revolución Mexicana (1910).",
-      "Resultado: III, II, I, IV."
-    ],
-    "analisisDeError": {
-      "1": "Invierte el Porfiriato y la República Restaurada. Díaz llegó después de Juárez y Lerdo."
-    }
-  },
-  {
-    "id": 66,
-    "materia": "Historia de México",
-    "dificultad": 2,
-    "tiempoSugerido": 60,
-    "pregunta": "Presidente de México que llevó a cabo la Expropiación Petrolera en 1938:",
-    "formulaPrincipal": "",
-    "opciones": ["Lázaro Cárdenas", "Adolfo López Mateos", "Manuel Ávila Camacho", "Plutarco Elías Calles"],
-    "correcta": 0,
-    "explicacionPasos": [
-      "Paso 1: Identificar el suceso ocurrido el 18 de marzo de 1938.",
-      "Paso 2: Reconocer al presidente que impulsó el reparto agrario y el apoyo a sindicatos.",
-      "Paso 3: Confirmar que fundó el IPN y el partido que luego sería el PRI.",
-      "Resultado: Lázaro Cárdenas."
-    ],
-    "analisisDeError": {
-      "1": "López Mateos nacionalizó la industria eléctrica, pero mucho después (1960).",
-      "3": "Calles creó el Banco de México y el PNR, pero no expropió el petróleo."
-    }
-  },
-  {
-    "id": 67,
+    "id": "H-38",
     "materia": "Historia Universal",
     "dificultad": 2,
     "tiempoSugerido": 60,
-    "pregunta": "¿En qué país se originó la Revolución Industrial a mediados del siglo XVIII?",
-    "formulaPrincipal": "",
-    "opciones": ["Francia", "Estados Unidos", "Inglaterra", "Alemania"],
-    "correcta": 2,
+    "pregunta": "¿Qué documento de 1776 proclamó que 'todos los hombres son creados iguales' y poseen derechos inalienables como la vida y la libertad?",
+    "opciones": [
+      "La Constitución de los EE.UU.",
+      "La Declaración de Independencia de las Trece Colonias",
+      "La Declaración de los Derechos del Hombre",
+      "El Tratado de París"
+    ],
+    "correcta": 1,
     "explicacionPasos": [
-      "Paso 1: Identificar el país que poseía grandes yacimientos de carbón y hierro.",
-      "Paso 2: Reconocer la estabilidad política y el dominio naval que permitieron la expansión comercial.",
-      "Paso 3: Confirmar que fue la cuna de la máquina de vapor.",
-      "Resultado: Inglaterra."
+      "Paso 1: Identificar la fecha exacta (4 de julio de 1776).",
+      "Paso 2: Reconocer el contenido filosófico de la obra de Thomas Jefferson.",
+      "Resultado: Declaración de Independencia."
     ],
     "analisisDeError": {
-      "0": "Francia tuvo un desarrollo industrial más lento debido a sus conflictos internos posrevolucionarios.",
-      "1": "Estados Unidos inició su proceso de industrialización masiva hasta el siglo XIX."
+      "0": "La Constitución es el documento de organización política redactado en 1787.",
+      "2": "Ese documento es francés y fue redactado en 1789."
     }
   },
   {
-    "id": 68,
+    "id": "H-39",
     "materia": "Historia Universal",
-    "dificultad": 3,
-    "tiempoSugerido": 90,
-    "pregunta": "Personaje clave en el proceso de unificación alemana en el siglo XIX, conocido como el 'Canciller de Hierro':",
-    "formulaPrincipal": "",
-    "opciones": ["Giuseppe Garibaldi", "Otto von Bismarck", "Napoleón III", "Víctor Manuel II"],
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "Es considerada la primera gran revolución burguesa que limitó el poder absoluto de un monarca y estableció una monarquía parlamentaria.",
+    "opciones": [
+      "La Revolución Industrial",
+      "La Revolución Gloriosa de Inglaterra (1688)",
+      "La Revolución Francesa",
+      "La Independencia de Haití"
+    ],
     "correcta": 1,
     "explicacionPasos": [
-      "Paso 1: Identificar al líder del reino de Prusia que impulsó la unión de los estados germanos.",
-      "Paso 2: Relacionar la frase 'sangre y hierro' con la política de este canciller.",
-      "Paso 3: Confirmar su papel tras la guerra franco-prusiana de 1871.",
+      "Paso 1: Identificar el antecedente del siglo XVII que influyó en la Ilustración.",
+      "Paso 2: Reconocer el pacto entre la burguesía y la monarquía que dio origen al parlamentarismo.",
+      "Resultado: Revolución Gloriosa."
+    ],
+    "analisisDeError": {
+      "2": "La Revolución Francesa fue más radical (eliminó la monarquía), pero no fue la primera.",
+      "0": "La Revolución Industrial fue un cambio técnico, no un cambio de gobierno directo."
+    }
+  },
+  {
+    "id": "H-40",
+    "materia": "Historia Universal",
+    "dificultad": 1,
+    "tiempoSugerido": 50,
+    "pregunta": "Periodo de la prehistoria caracterizado por el descubrimiento de la agricultura y la sedentarización del ser humano.",
+    "opciones": [
+      "Paleolítico",
+      "Mesolítico",
+      "Neolítico",
+      "Edad de Bronce"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Identificar el periodo de la 'piedra nueva'.",
+      "Paso 2: Reconocer el cambio del nomadismo (caza/recolección) al sedentarismo (cultivo).",
+      "Resultado: Neolítico."
+    ],
+    "analisisDeError": {
+      "0": "El Paleolítico se caracteriza por el nomadismo y herramientas de piedra tallada.",
+      "3": "La Edad de Bronce ya forma parte de la Edad de los Metales, posterior a la sedentarización inicial."
+    }
+  },
+  {
+    "id": "H-41",
+    "materia": "Historia Universal",
+    "dificultad": 2,
+    "tiempoSugerido": 65,
+    "pregunta": "¿Cuál fue el principal invento de James Watt que transformó la producción industrial?",
+    "opciones": [
+      "La locomotora eléctrica",
+      "La bombilla",
+      "La máquina de vapor perfeccionada",
+      "La imprenta"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Vincular al inventor escocés con su aporte a la energía térmica.",
+      "Paso 2: Reconocer que su diseño permitió aplicar el vapor a fábricas y transporte.",
+      "Resultado: Máquina de vapor perfeccionada."
+    ],
+    "analisisDeError": {
+      "1": "Edison es el responsable de la bombilla eléctrica comercial.",
+      "3": "Gutenberg inventó la imprenta en el siglo XV."
+    }
+  },
+  {
+    "id": "H-42",
+    "materia": "Historia Universal",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "Durante el Antiguo Régimen, el 'Tercer Estado' o 'Estado Llano' estaba compuesto por:",
+    "opciones": [
+      "La nobleza de sangre",
+      "El alto clero (obispos y cardenales)",
+      "La burguesía, campesinos y artesanos",
+      "Los miembros de la familia real"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Identificar a la clase no privilegiada que pagaba impuestos.",
+      "Paso 2: Reconocer que este grupo representaba a la inmensa mayoría de la población (aprox. 98%).",
+      "Resultado: Burguesía, campesinos y artesanos."
+    ],
+    "analisisDeError": {
+      "0": "La nobleza formaba el Segundo Estado.",
+      "1": "El clero formaba el Primer Estado."
+    }
+  },
+  {
+    "id": "H-43",
+    "materia": "Historia Universal",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Qué nombre recibió la coalición de monarquías europeas que se unieron para combatir la expansión de la Revolución Francesa?",
+    "opciones": [
+      "La Santa Alianza",
+      "El Eje",
+      "Las Potencias Centrales",
+      "La Entente"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Identificar el acuerdo entre Austria, Prusia y Rusia tras la derrota de Napoleón.",
+      "Paso 2: Reconocer su objetivo de restaurar el absolutismo y frenar ideas liberales.",
+      "Resultado: La Santa Alianza."
+    ],
+    "analisisDeError": {
+      "1": "El Eje fue la alianza de Alemania, Italia y Japón en la Segunda Guerra Mundial.",
+      "3": "La Triple Entente fue la alianza de la Primera Guerra Mundial."
+    }
+  },
+  {
+    "id": "H-44",
+    "materia": "Historia Universal",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "Eran pensadores ilustrados que coordinaron la creación de 'La Enciclopedia' para sistematizar el saber humano.",
+    "opciones": [
+      "Diderot y D'Alembert",
+      "Marx y Engels",
+      "Voltaire y Montesquieu",
+      "Napoleón y Metternich"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Recordar a los directores del proyecto editorial más ambicioso del s. XVIII.",
+      "Paso 2: Identificar a Denis Diderot como el editor principal.",
+      "Resultado: Diderot y D'Alembert."
+    ],
+    "analisisDeError": {
+      "1": "Ellos son los padres del socialismo científico del s. XIX.",
+      "2": "Fueron colaboradores destacados, pero no los coordinadores principales."
+    }
+  },
+  {
+    "id": "H-45",
+    "materia": "Historia Universal",
+    "dificultad": 1,
+    "tiempoSugerido": 45,
+    "pregunta": "Es el estudio de la sucesión de los acontecimientos en el tiempo.",
+    "opciones": [
+      "Geografía",
+      "Cronología",
+      "Genealogía",
+      "Paleografía"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar la ciencia que permite ordenar los hechos por fechas.",
+      "Paso 2: Reconocer su función fundamental para establecer la relación causa-efecto.",
+      "Resultado: Cronología."
+    ],
+    "analisisDeError": {
+      "2": "La genealogía estudia la ascendencia y descendencia de las familias.",
+      "3": "La paleografía estudia la escritura antigua en documentos."
+    }
+  },
+  {
+    "id": "H-46",
+    "materia": "Historia Universal",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Qué movimiento obrero del siglo XIX consistía en la destrucción de máquinas por parte de los trabajadores, al considerar que estas causaban el desempleo?",
+    "opciones": [
+      "Ludismo",
+      "Cartismo",
+      "Socialismo Utópico",
+      "Anarquismo"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Identificar la reacción violenta de los obreros contra la tecnología industrial.",
+      "Paso 2: Reconocer al mítico Ned Ludd como la figura que dio nombre a este fenómeno.",
+      "Resultado: Ludismo."
+    ],
+    "analisisDeError": {
+      "1": "El cartismo buscaba reformas políticas y el sufragio universal mediante cartas al Parlamento.",
+      "3": "El anarquismo propone la abolición de toda autoridad y del Estado, no solo la destrucción de máquinas."
+    }
+  },
+  {
+    "id": "H-47",
+    "materia": "Historia Universal",
+    "dificultad": 3,
+    "tiempoSugerido": 65,
+    "pregunta": "Es la fase del capitalismo que se caracteriza por la expansión de las potencias industriales para controlar materias primas y mercados en África y Asia a finales del siglo XIX.",
+    "opciones": [
+      "Mercantilismo",
+      "Imperialismo",
+      "Liberalismo",
+      "Globalización"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar el proceso de dominio político, económico y militar de una nación sobre otra.",
+      "Paso 2: Ubicar el contexto de la Segunda Revolución Industrial y la necesidad de recursos externos.",
+      "Resultado: Imperialismo."
+    ],
+    "analisisDeError": {
+      "0": "El mercantilismo fue el sistema económico de los siglos XVI al XVIII basado en la acumulación de metales.",
+      "2": "El liberalismo es una doctrina económica y política, no el proceso de expansión territorial per se."
+    }
+  },
+  {
+    "id": "H-48",
+    "materia": "Historia Universal",
+    "dificultad": 3,
+    "tiempoSugerido": 70,
+    "pregunta": "¿Cuál fue el pretexto o detonante inmediato que dio inicio a la Primera Guerra Mundial en 1914?",
+    "opciones": [
+      "La invasión de Alemania a Polonia",
+      "El asesinato del archiduque Francisco Fernando en Sarajevo",
+      "El hundimiento del trasatlántico Lusitania",
+      "La Revolución Bolchevique"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar el magnicidio cometido por un nacionalista serbio contra el heredero del Imperio Austro-Húngaro.",
+      "Paso 2: Reconocer cómo este evento activó el sistema de alianzas secretas en Europa.",
+      "Resultado: El asesinato de Francisco Fernando."
+    ],
+    "analisisDeError": {
+      "0": "La invasión de Polonia fue el detonante de la Segunda Guerra Mundial en 1939.",
+      "2": "El hundimiento del Lusitania fue el motivo por el cual Estados Unidos entró a la guerra, pero no el inicio del conflicto global."
+    }
+  },
+  {
+    "id": "H-49",
+    "materia": "Historia Universal",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "Conferencia de 1884-1885 donde las potencias europeas se repartieron el territorio africano sin tomar en cuenta a las poblaciones locales.",
+    "opciones": [
+      "Congreso de Viena",
+      "Conferencia de Berlín",
+      "Tratado de Versalles",
+      "Pacto de Varsovia"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Ubicar el evento diplomático liderado por Otto von Bismarck.",
+      "Paso 2: Reconocer el acuerdo para evitar conflictos entre potencias durante la colonización de África.",
+      "Resultado: Conferencia de Berlín."
+    ],
+    "analisisDeError": {
+      "0": "El Congreso de Viena (1815) buscó restaurar el absolutismo tras la caída de Napoleón.",
+      "2": "El Tratado de Versalles puso fin a la Gran Guerra, no organizó el reparto colonial inicial."
+    }
+  },
+  {
+    "id": "H-50",
+    "materia": "Historia Universal",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "Alianza militar formada antes de la Primera Guerra Mundial integrada por Alemania, Austria-Hungría e Italia.",
+    "opciones": [
+      "Triple Entente",
+      "Triple Alianza",
+      "Eje Roma-Berlín",
+      "Sociedad de Naciones"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Diferenciar los dos bloques antagónicos del sistema de alianzas europeo.",
+      "Paso 2: Identificar a las potencias centrales que formaron este bloque defensivo.",
+      "Resultado: Triple Alianza."
+    ],
+    "analisisDeError": {
+      "0": "La Triple Entente estaba formada por Francia, Gran Bretaña y Rusia.",
+      "2": "El Eje pertenece al contexto de la Segunda Guerra Mundial."
+    }
+  },
+  {
+    "id": "H-51",
+    "materia": "Historia Universal",
+    "dificultad": 3,
+    "tiempoSugerido": 75,
+    "pregunta": "Documento con el que termina formalmente la Primera Guerra Mundial, imponiendo severas sanciones económicas y militares a Alemania.",
+    "opciones": [
+      "Tratado de Brest-Litovsk",
+      "Tratado de Versalles",
+      "Pacto Molotov-Ribbentrop",
+      "Acuerdos de Yalta"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar el tratado de paz firmado en 1919.",
+      "Paso 2: Reconocer las cláusulas que culparon a Alemania del conflicto y le quitaron territorios.",
+      "Resultado: Tratado de Versalles."
+    ],
+    "analisisDeError": {
+      "0": "Brest-Litovsk fue el tratado de salida de Rusia de la guerra en 1918.",
+      "2": "El pacto Molotov-Ribbentrop fue un acuerdo de no agresión antes de la SGM."
+    }
+  },
+  {
+    "id": "H-52",
+    "materia": "Historia Universal",
+    "dificultad": 2,
+    "tiempoSugerido": 55,
+    "pregunta": "¿Qué nombre recibió la táctica militar predominante durante la fase de estancamiento de la Gran Guerra (1915-1917)?",
+    "opciones": [
+      "Guerra Relámpago",
+      "Guerra de Trincheras",
+      "Guerra Química",
+      "Guerra Submarina"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Analizar la parálisis de los frentes debido a la igualdad de fuerzas y el uso de ametralladoras.",
+      "Paso 2: Identificar las excavaciones donde los soldados vivían y combatían durante meses.",
+      "Resultado: Guerra de Trincheras."
+    ],
+    "analisisDeError": {
+      "0": "La Guerra Relámpago (Blitzkrieg) fue una táctica alemana de la Segunda Guerra Mundial.",
+      "2": "Aunque se usaron químicos, la estrategia general que definió ese periodo fue la trinchera."
+    }
+  },
+  {
+    "id": "H-53",
+    "materia": "Historia Universal",
+    "dificultad": 3,
+    "tiempoSugerido": 65,
+    "pregunta": "Personaje que unificó los estados alemanes en 1871 a través de una política de 'hierro y sangre', dando origen al Segundo Reich.",
+    "opciones": [
+      "Guillermo II",
+      "Otto von Bismarck",
+      "Adolf Hitler",
+      "Federico el Grande"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar al 'Canciller de Hierro'.",
+      "Paso 2: Reconocer su papel diplomático y militar en las guerras contra Austria y Francia.",
       "Resultado: Otto von Bismarck."
     ],
     "analisisDeError": {
-      "0": "Garibaldi fue una figura central, pero de la unificación italiana.",
-      "3": "Víctor Manuel II fue el primer rey de Italia, no de Alemania."
+      "0": "Guillermo II fue el Káiser que llevó a Alemania a la Primera Guerra Mundial.",
+      "2": "Hitler fue el líder del Tercer Reich en el siglo XX."
     }
   },
   {
-    "id": 69,
+    "id": "H-54",
     "materia": "Historia Universal",
-    "dificultad": 1,
-    "tiempoSugerido": 45,
-    "pregunta": "Sistema económico y político que surgió tras la Revolución Rusa de 1917:",
-    "formulaPrincipal": "",
-    "opciones": ["Capitalismo", "Socialismo", "Feudalismo", "Liberalismo"],
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "Forma de dominio imperialista en la que la potencia extranjera permite al gobierno local mantener cierta autonomía interna, pero controla la política exterior y la defensa.",
+    "opciones": [
+      "Colonia",
+      "Protectorado",
+      "Concesión",
+      "Enclave"
+    ],
     "correcta": 1,
     "explicacionPasos": [
-      "Paso 1: Analizar el derrocamiento del régimen zarista por parte de los bolcheviques.",
-      "Paso 2: Identificar la ideología basada en las obras de Marx y Engels que adoptó Lenin.",
-      "Paso 3: Reconocer la búsqueda de la propiedad colectiva de los medios de producción.",
-      "Resultado: Socialismo."
+      "Paso 1: Distinguir los modelos de administración colonial.",
+      "Paso 2: Identificar el sistema donde se conserva la autoridad nativa bajo supervisión imperial.",
+      "Resultado: Protectorado."
     ],
     "analisisDeError": {
-      "0": "El capitalismo es el sistema basado en el libre mercado y propiedad privada que el nuevo régimen rechazaba."
+      "0": "En la colonia, la potencia ejerce control absoluto y directo sobre todo el territorio.",
+      "2": "La concesión es un derecho comercial sobre un puerto o recurso, no un sistema de gobierno."
     }
   },
   {
-    "id": 70,
+    "id": "H-55",
     "materia": "Historia Universal",
-    "dificultad": 4,
-    "tiempoSugerido": 120,
-    "pregunta": "Relaciona los regímenes totalitarios con sus respectivos líderes: 1. Nazismo, 2. Fascismo, 3. Militarismo (a. Mussolini, b. Hirohito, c. Hitler).",
-    "formulaPrincipal": "",
-    "opciones": ["1c, 2a, 3b", "1a, 2c, 3b", "1c, 2b, 3a", "1b, 2a, 3c"],
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "Propuesta de 14 puntos presentada por el presidente de EE.UU. Woodrow Wilson al final de la guerra para garantizar una paz duradera.",
+    "opciones": [
+      "Plan Marshall",
+      "Los Catorce Puntos",
+      "Doctrina Truman",
+      "New Deal"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar el programa de paz idealista propuesto en enero de 1918.",
+      "Paso 2: Reconocer la propuesta de crear una organización internacional para evitar guerras futuras.",
+      "Resultado: Los Catorce Puntos."
+    ],
+    "analisisDeError": {
+      "0": "El Plan Marshall fue un programa de reconstrucción tras la Segunda Guerra Mundial.",
+      "2": "La Doctrina Truman fue la estrategia de contención del comunismo durante la Guerra Fría."
+    }
+  },
+  {
+    "id": "H-56",
+    "materia": "Historia Universal",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Qué corriente de pensamiento del siglo XIX proponía la creación de comunidades ideales (falansterios) donde la propiedad fuera colectiva y el trabajo se distribuyera equitativamente?",
+    "opciones": [
+      "Socialismo Utópico",
+      "Socialismo Científico",
+      "Liberalismo Económico",
+      "Nacionalismo"
+    ],
     "correcta": 0,
     "explicacionPasos": [
-      "Paso 1: Asociar a Adolf Hitler con el Tercer Reich y el Nazismo en Alemania.",
-      "Paso 2: Asociar a Benito Mussolini con el surgimiento del Fascismo en Italia.",
-      "Paso 3: Asociar al emperador Hirohito con el expansionismo militarista de Japón.",
-      "Resultado: 1c, 2a, 3b."
+      "Paso 1: Identificar a pensadores como Charles Fourier y Robert Owen.",
+      "Paso 2: Reconocer que buscaban soluciones éticas y pacíficas a la explotación obrera sin un análisis de lucha de clases.",
+      "Resultado: Socialismo Utópico."
     ],
     "analisisDeError": {
-      "1": "Invertiste a los líderes europeos; Mussolini es el líder fascista.",
-      "2": "Confundiste a Hirohito con el líder fascista italiano."
+      "1": "El socialismo científico (marxismo) basaba su teoría en la lucha de clases y la revolución, no en comunidades ideales pacíficas.",
+      "2": "El liberalismo económico defiende la propiedad privada y la libre competencia."
     }
   },
   {
-    "id": 71,
+    "id": "H-57",
+    "materia": "Historia Universal",
+    "dificultad": 3,
+    "tiempoSugerido": 65,
+    "pregunta": "¿Cuál fue el principal objetivo político de la Unificación Italiana liderada por figuras como el Conde de Cavour y Giuseppe Garibaldi?",
+    "opciones": [
+      "Expulsar la influencia austriaca y unir los estados de la península en una sola nación",
+      "Establecer una monarquía absoluta bajo el mando del Papa",
+      "Convertir a Italia en una colonia británica",
+      "Aliarse con el Imperio Otomano para conquistar Francia"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Analizar la fragmentación de Italia en el siglo XIX (Reino de las Dos Sicilias, Estados Pontificios, etc.).",
+      "Paso 2: Identificar al Reino de Piamonte-Cerdeña como el motor de la unión.",
+      "Resultado: Expulsar a Austria y crear una nación unificada."
+    ],
+    "analisisDeError": {
+      "1": "El proceso de unificación (Risorgimento) fue mayormente laico y restó poder político al Papa.",
+      "2": "El nacionalismo italiano buscaba la independencia total de potencias extranjeras."
+    }
+  },
+  {
+    "id": "H-58",
+    "materia": "Historia Universal",
+    "dificultad": 3,
+    "tiempoSugerido": 70,
+    "pregunta": "Durante la Primera Guerra Mundial, ¿qué evento de 1917 obligó a Rusia a firmar el Tratado de Brest-Litovsk y retirarse del conflicto?",
+    "opciones": [
+      "La Revolución Bolchevique (Rusa)",
+      "La invasión de Japón a Siberia",
+      "La muerte del Zar Alejandro II",
+      "La derrota en la Batalla de Verdún"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Identificar la crisis interna en Rusia debido al hambre y las derrotas militares.",
+      "Paso 2: Reconocer el ascenso de Lenin y los soviets al poder en octubre de 1917.",
+      "Resultado: Revolución Bolchevique."
+    ],
+    "analisisDeError": {
+      "1": "Japón no invadió Siberia para sacar a Rusia de la guerra; el conflicto fue interno.",
+      "3": "La Batalla de Verdún ocurrió en Francia y enfrentó principalmente a alemanes y franceses."
+    }
+  },
+  {
+    "id": "H-59",
     "materia": "Historia Universal",
     "dificultad": 2,
     "tiempoSugerido": 60,
-    "pregunta": "¿Qué organismo internacional se creó al finalizar la Segunda Guerra Mundial para mantener la paz?",
-    "formulaPrincipal": "",
-    "opciones": ["La Sociedad de Naciones", "La OTAN", "La ONU", "El Pacto de Varsovia"],
-    "correcta": 2,
+    "pregunta": "¿Qué nombre recibió la política de alianzas y rearme masivo en Europa previa a 1914, donde no había guerra pero las naciones se preparaban para ella?",
+    "opciones": [
+      "Paz Armada",
+      "Guerra Fría",
+      "Entente Cordiale",
+      "Restauración"
+    ],
+    "correcta": 0,
     "explicacionPasos": [
-      "Paso 1: Identificar el año de fundación (1945).",
-      "Paso 2: Reconocer el organismo que reemplazó a la ineficaz Sociedad de Naciones.",
-      "Paso 3: Confirmar la sede principal en Nueva York.",
-      "Resultado: La ONU (Organización de las Naciones Unidas)."
+      "Paso 1: Ubicar el periodo entre 1871 y 1914.",
+      "Paso 2: Identificar la tensión constante y la carrera armamentista entre las potencias.",
+      "Resultado: Paz Armada."
     ],
     "analisisDeError": {
-      "0": "La Sociedad de Naciones se creó tras la Primera Guerra Mundial.",
-      "1": "La OTAN es una alianza militar defensiva, no un organismo de paz global."
+      "1": "La Guerra Fría fue un conflicto ideológico entre EE.UU. y la URSS tras la Segunda Guerra Mundial.",
+      "2": "La Entente Cordiale fue un tratado específico entre Francia y Gran Bretaña, no el nombre del periodo general."
     }
   },
   {
-    "id": 72,
-    "materia": "Historia de México",
+    "id": "H-60",
+    "materia": "Historia Universal",
+    "dificultad": 3,
+    "tiempoSugerido": 65,
+    "pregunta": "Es una de las consecuencias territoriales más importantes del fin de la Primera Guerra Mundial.",
+    "opciones": [
+      "La desintegración del Imperio Austro-Húngaro y del Imperio Otomano",
+      "El surgimiento del Imperio Alemán",
+      "La unificación de toda Europa en un solo bloque",
+      "La entrega de Alaska a Rusia"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Analizar el nuevo mapa de Europa tras el Tratado de Versalles.",
+      "Paso 2: Reconocer el nacimiento de nuevos estados como Checoslovaquia, Yugoslavia y Polonia.",
+      "Resultado: Desintegración de los imperios centrales y el otomano."
+    ],
+    "analisisDeError": {
+      "1": "El Imperio Alemán desapareció tras la guerra para dar paso a la República de Weimar.",
+      "3": "Alaska fue comprada por EE.UU. a Rusia mucho antes, en 1867."
+    }
+  },
+  {
+    "id": "H-61",
+    "materia": "Historia Universal",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Cuál fue la justificación ideológica del Imperialismo que sostenía que las naciones europeas tenían el 'deber' de civilizar a los pueblos 'atrasados'?",
+    "opciones": [
+      "Darwinismo Social",
+      "Marxismo",
+      "Humanismo Renacentista",
+      "Escolástica"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Identificar la aplicación errónea de las teorías de la evolución a las sociedades humanas.",
+      "Paso 2: Reconocer el concepto de la 'superioridad de la raza blanca' utilizado para legitimar el dominio colonial.",
+      "Resultado: Darwinismo Social."
+    ],
+    "analisisDeError": {
+      "1": "El marxismo es una crítica al capitalismo y al dominio de una clase sobre otra, no una justificación imperial.",
+      "2": "El humanismo renacentista se centraba en el valor del individuo y la cultura clásica, siglos antes del imperialismo del XIX."
+    }
+  },
+  {
+    "id": "H-62",
+    "materia": "Historia Universal",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "Organización internacional creada al final de la Primera Guerra Mundial con el objetivo de evitar nuevos conflictos armados, aunque fracasó años después.",
+    "opciones": [
+      "Sociedad de Naciones (Liga de las Naciones)",
+      "Organización de las Naciones Unidas (ONU)",
+      "Unión Europea",
+      "Cruz Roja Internacional"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Identificar el organismo impulsado por los 14 puntos de Wilson.",
+      "Paso 2: Reconocer su sede en Ginebra y su incapacidad para frenar el ascenso del fascismo.",
+      "Resultado: Sociedad de Naciones."
+    ],
+    "analisisDeError": {
+      "1": "La ONU fue creada tras la Segunda Guerra Mundial para reemplazar a la fracasada Sociedad de Naciones.",
+      "2": "La Unión Europea es un proceso de integración económica y política iniciado tras 1945."
+    }
+  },
+  {
+    "id": "H-63",
+    "materia": "Historia Universal",
+    "dificultad": 2,
+    "tiempoSugerido": 55,
+    "pregunta": "¿Qué potencia imperialista dominaba la mayor cantidad de territorios (el imperio 'donde nunca se ponía el sol') a principios del siglo XX?",
+    "opciones": [
+      "Gran Bretaña",
+      "Francia",
+      "Bélgica",
+      "Portugal"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Evaluar la extensión de las colonias británicas (India, Canadá, Australia, gran parte de África).",
+      "Paso 2: Reconocer su hegemonía naval y económica durante la época victoriana.",
+      "Resultado: Gran Bretaña."
+    ],
+    "analisisDeError": {
+      "1": "Francia era el segundo imperio más extenso, pero no superaba al británico.",
+      "2": "Bélgica poseía el Congo, un territorio vasto pero único comparado con la red global británica."
+    }
+  },
+  {
+    "id": "H-64",
+    "materia": "Historia Universal",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Cuál fue el motivo por el cual Estados Unidos abandonó su neutralidad y entró a la Primera Guerra Mundial en 1917?",
+    "opciones": [
+      "El telegrama Zimmermann y la guerra submarina irrestricta de Alemania",
+      "El bombardeo a Pearl Harbor",
+      "La invasión alemana a México",
+      "El asesinato de Abraham Lincoln"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Identificar la propuesta alemana a México para recuperar territorios perdidos (Zimmermann).",
+      "Paso 2: Analizar el impacto del hundimiento de barcos civiles por submarinos alemanes (U-boats).",
+      "Resultado: Telegrama Zimmermann y guerra submarina."
+    ],
+    "analisisDeError": {
+      "1": "Pearl Harbor fue el detonante de la entrada de EE.UU. a la Segunda Guerra Mundial.",
+      "2": "Alemania nunca invadió México; el telegrama fue una propuesta diplomática interceptada."
+    }
+  },
+  {
+    "id": "H-65",
+    "materia": "Historia Universal",
     "dificultad": 2,
     "tiempoSugerido": 60,
-    "pregunta": "Etapa de la Revolución Mexicana en la que Francisco I. Madero buscó derrocar a Porfirio Díaz bajo el lema 'Sufragio efectivo, no reelección':",
-    "formulaPrincipal": "",
-    "opciones": ["Constitucionalismo", "Lucha armada de 1910", "Zapatismo", "Decena Trágica"],
-    "correcta": 1,
+    "pregunta": "¿Qué grupo social surge como consecuencia de la Revolución Industrial y se convierte en el protagonista de los movimientos obreros del siglo XIX?",
+    "opciones": [
+      "Proletariado",
+      "Campesinado feudal",
+      "Aristocracia",
+      "Gremio artesanal"
+    ],
+    "correcta": 0,
     "explicacionPasos": [
-      "Paso 1: Identificar el inicio del conflicto tras la publicación del Plan de San Luis.",
-      "Paso 2: Reconocer la primera fase del movimiento revolucionario centrada en el cambio político democrático.",
-      "Paso 3: Confirmar que esta etapa culmina con la renuncia de Díaz.",
-      "Resultado: Lucha armada de 1910."
+      "Paso 1: Identificar a la clase trabajadora que solo posee su prole y su fuerza de trabajo.",
+      "Paso 2: Reconocer su concentración en las ciudades industriales y sus condiciones de vida precarias.",
+      "Resultado: Proletariado."
     ],
     "analisisDeError": {
-      "0": "El constitucionalismo es una etapa posterior liderada por Carranza (1913-1917).",
-      "3": "La Decena Trágica fue el cuartelazo para traicionar y asesinar a Madero."
+      "1": "El campesinado feudal disminuyó drásticamente con la urbanización y el fin del régimen señorial.",
+      "3": "Los gremios artesanales fueron desplazados por el sistema de producción en masa de las fábricas."
     }
   },
   {
-    "id": 73,
+    "id": "H-66",
+    "materia": "Historia Universal",
+    "dificultad": 3,
+    "tiempoSugerido": 65,
+    "pregunta": "¿Qué nombre recibió el documento redactado por Karl Marx y Friedrich Engels en 1848 que sentó las bases del socialismo científico?",
+    "opciones": [
+      "El Capital",
+      "Manifiesto del Partido Comunista",
+      "La Riqueza de las Naciones",
+      "El Contrato Social"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar la obra publicada durante las revoluciones de 1848.",
+      "Paso 2: Reconocer el llamado a la unión de los proletarios del mundo y la teoría de la lucha de clases.",
+      "Resultado: Manifiesto del Partido Comunista."
+    ],
+    "analisisDeError": {
+      "0": "El Capital es la obra extensa de análisis económico de Marx publicada años después.",
+      "2": "La Riqueza de las Naciones es la obra fundacional del liberalismo de Adam Smith."
+    }
+  },
+  {
+    "id": "H-67",
+    "materia": "Historia Universal",
+    "dificultad": 3,
+    "tiempoSugerido": 70,
+    "pregunta": "Estrategia diplomática de Otto von Bismarck que consistía en crear una red de alianzas secretas para aislar a Francia y mantener la hegemonía de Alemania.",
+    "opciones": [
+      "Sistemas Bismarckianos",
+      "Plan Schlieffen",
+      "Política del Gran Garrote",
+      "Realpolitik"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Analizar la política exterior alemana tras la unificación de 1871.",
+      "Paso 2: Identificar los acuerdos con Rusia y Austria-Hungría para evitar una guerra en dos frentes.",
+      "Resultado: Sistemas Bismarckianos."
+    ],
+    "analisisDeError": {
+      "1": "El Plan Schlieffen fue la estrategia militar alemana para invadir Francia a través de Bélgica en 1914.",
+      "3": "La Realpolitik es el enfoque general basado en intereses prácticos, pero el sistema de alianzas tiene nombre propio."
+    }
+  },
+  {
+    "id": "H-68",
+    "materia": "Historia Universal",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Cuál fue el principal cambio político derivado de la Unificación Alemana de 1871?",
+    "opciones": [
+      "La creación del Segundo Reich (Imperio Alemán)",
+      "La restauración del Sacro Imperio Romano Germánico",
+      "La conversión de Alemania en una democracia parlamentaria",
+      "La alianza total con Napoleón III"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Identificar el resultado de la victoria prusiana sobre Francia en la guerra franco-prusiana.",
+      "Paso 2: Reconocer la proclamación de Guillermo I como emperador en Versalles.",
+      "Resultado: Creación del Segundo Reich."
+    ],
+    "analisisDeError": {
+      "2": "Alemania se mantuvo como una monarquía autoritaria dominada por Prusia, no una democracia plena.",
+      "3": "Napoleón III fue derrotado y capturado por las tropas prusianas."
+    }
+  },
+  {
+    "id": "H-69",
+    "materia": "Historia Universal",
+    "dificultad": 3,
+    "tiempoSugerido": 65,
+    "pregunta": "¿Cómo se llamó el conflicto bélico entre Gran Bretaña y China (1839-1842) motivado por intereses comerciales imperialistas?",
+    "opciones": [
+      "Guerra de los Bóers",
+      "Guerra del Opio",
+      "Guerra de los Boxer",
+      "Guerra de los Siete Años"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar la mercancía que los británicos introducían ilegalmente en China.",
+      "Paso 2: Reconocer el Tratado de Nanking como la consecuencia que obligó a China a abrir sus puertos.",
+      "Resultado: Guerra del Opio."
+    ],
+    "analisisDeError": {
+      "0": "La Guerra de los Bóers ocurrió en Sudáfrica entre británicos y colonos de origen holandés.",
+      "2": "La rebelión de los Boxer fue un levantamiento nacionalista chino contra extranjeros años después."
+    }
+  },
+  {
+    "id": "H-70",
+    "materia": "Historia Universal",
+    "dificultad": 2,
+    "tiempoSugerido": 55,
+    "pregunta": "Clase social que, según el marxismo, es la dueña de los medios de producción y explota al trabajador.",
+    "opciones": [
+      "Burguesía",
+      "Proletariado",
+      "Aristocracia",
+      "Clero"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Identificar la terminología marxista para los poseedores de capital y fábricas.",
+      "Paso 2: Reconocer la distinción entre quienes poseen los medios y quienes solo poseen su fuerza de trabajo.",
+      "Resultado: Burguesía."
+    ],
+    "analisisDeError": {
+      "1": "El proletariado es la clase trabajadora explotada en la teoría marxista.",
+      "2": "La aristocracia era la clase dominante del feudalismo, ya desplazada en el siglo XIX."
+    }
+  },
+  {
+    "id": "H-71",
+    "materia": "Historia Universal",
+    "dificultad": 3,
+    "tiempoSugerido": 70,
+    "pregunta": "¿Qué nación se unificó bajo el liderazgo de Víctor Manuel II y el apoyo de las camisas rojas de Garibaldi?",
+    "opciones": [
+      "Alemania",
+      "Italia",
+      "Grecia",
+      "Bélgica"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Asociar a los personajes clave con su región geográfica.",
+      "Paso 2: Identificar el proceso de unificación que culminó en 1870 con la toma de Roma.",
+      "Resultado: Italia."
+    ],
+    "analisisDeError": {
+      "0": "La unificación alemana fue liderada por Prusia y Bismarck.",
+      "2": "Grecia se independizó del Imperio Otomano décadas antes (1829)."
+    }
+  },
+  {
+    "id": "H-72",
+    "materia": "Historia Universal",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "Acontecimiento de 1915 que aumentó la tensión entre EE.UU. y Alemania debido a la muerte de civiles estadounidenses en el mar.",
+    "opciones": [
+      "El ataque a Pearl Harbor",
+      "El hundimiento del Lusitania",
+      "La invasión de Bélgica",
+      "La batalla del Somme"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar el transatlántico británico hundido por un submarino alemán.",
+      "Paso 2: Reconocer que este evento cambió la opinión pública de EE.UU. a favor de la guerra.",
+      "Resultado: Hundimiento del Lusitania."
+    ],
+    "analisisDeError": {
+      "0": "Pearl Harbor ocurrió en 1941 durante la Segunda Guerra Mundial.",
+      "2": "La invasión de Bélgica fue el motivo de entrada de Gran Bretaña a la guerra en 1914."
+    }
+  },
+  {
+    "id": "H-73",
+    "materia": "Historia Universal",
+    "dificultad": 2,
+    "tiempoSugerido": 50,
+    "pregunta": "¿Qué nombre recibió la última gran ofensiva de la guerra de movimientos en 1914, que detuvo el avance alemán hacia París?",
+    "opciones": [
+      "Batalla del Marne",
+      "Batalla de Verdún",
+      "Batalla de Tannenberg",
+      "Batalla de Galípoli"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Identificar la batalla que marcó el fin de la guerra rápida y el inicio de las trincheras.",
+      "Paso 2: Reconocer el contraataque franco-británico que salvó a la capital francesa.",
+      "Resultado: Batalla del Marne."
+    ],
+    "analisisDeError": {
+      "1": "Verdún fue una batalla de desgaste masivo en 1916.",
+      "2": "Tannenberg fue una victoria alemana contra Rusia en el frente oriental."
+    }
+  },
+  {
+    "id": "H-74",
+    "materia": "Historia Universal",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "Conferencia de 1906 que intentó resolver las disputas imperialistas entre Francia y Alemania por el control de Marruecos.",
+    "opciones": [
+      "Conferencia de Algeciras",
+      "Conferencia de Berlín",
+      "Congreso de Viena",
+      "Pacto de Locarno"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Identificar el conflicto diplomático conocido como la 'Crisis Marroquí'.",
+      "Paso 2: Reconocer el papel de España y Gran Bretaña en la resolución del conflicto a favor de Francia.",
+      "Resultado: Conferencia de Algeciras."
+    ],
+    "analisisDeError": {
+      "1": "Berlín (1884) fue para el reparto general de África, no específicamente por Marruecos.",
+      "3": "Locarno (1925) fue un tratado de paz y fronteras tras la Primera Guerra Mundial."
+    }
+  },
+  {
+    "id": "H-75",
+    "materia": "Historia Universal",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Qué imperio fue apodado el 'enfermo de Europa' debido a su debilidad política y territorial antes de la Gran Guerra?",
+    "opciones": [
+      "Imperio Ruso",
+      "Imperio Otomano",
+      "Imperio Austro-Húngaro",
+      "Imperio Británico"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar al imperio que estaba perdiendo sus posesiones en los Balcanes.",
+      "Paso 2: Reconocer la inestabilidad de su gobierno con sede en Estambul.",
+      "Resultado: Imperio Otomano."
+    ],
+    "analisisDeError": {
+      "0": "Aunque Rusia tenía crisis internas, el término se aplicó históricamente al declive turco-otomano.",
+      "2": "El Imperio Austro-Húngaro enfrentaba nacionalismos, pero era una potencia central más robusta militarmente."
+    }
+  },
+  {
+    "id": "H-76",
     "materia": "Historia de México",
     "dificultad": 3,
-    "tiempoSugerido": 90,
-    "pregunta": "Constitución que rige actualmente a México, producto de la Revolución Mexicana:",
-    "formulaPrincipal": "",
-    "opciones": ["Constitución de 1824", "Constitución de 1857", "Constitución de 1917", "Constitución de Cádiz"],
+    "tiempoSugerido": 60,
+    "pregunta": "¿Qué institución virreinal se encargaba de regular el comercio entre España y sus colonias, además de controlar el flujo de pasajeros hacia América?",
+    "opciones": [
+      "Real Audiencia",
+      "Consejo de Indias",
+      "Casa de Contratación de Sevilla",
+      "Tribunal del Santo Oficio"
+    ],
     "correcta": 2,
     "explicacionPasos": [
-      "Paso 1: Identificar el año en que Venustiano Carranza promulgó la nueva carta magna en Querétaro.",
-      "Paso 2: Reconocer que fue la primera a nivel mundial en incluir derechos sociales (educación, tierra y trabajo).",
-      "Paso 3: Confirmar que es la ley suprema vigente tras el movimiento revolucionario.",
-      "Resultado: Constitución de 1917."
+      "Paso 1: Identificar las funciones de control comercial y aduanal de la Corona española.",
+      "Paso 2: Distinguir entre el órgano legislativo (Consejo de Indias) y el órgano administrativo-mercantil.",
+      "Resultado: Casa de Contratación de Sevilla."
     ],
     "analisisDeError": {
-      "1": "La de 1857 es de la época liberal juarista, previa a la Revolución."
+      "0": "La Real Audiencia era el máximo tribunal de justicia en el virreinato.",
+      "1": "El Consejo de Indias era el órgano encargado de elaborar leyes y asesorar al Rey sobre las posesiones americanas."
     }
   },
   {
-    "id": 74,
+    "id": "H-77",
     "materia": "Historia de México",
-    "dificultad": 2,
-    "tiempoSugerido": 60,
-    "pregunta": "Periodo de crecimiento económico sostenido en México entre 1940 y 1970:",
-    "formulaPrincipal": "",
-    "opciones": ["Neoliberalismo", "El Milagro Mexicano", "Globalización", "Cardenismo"],
+    "dificultad": 3,
+    "tiempoSugerido": 65,
+    "pregunta": "Forma de explotación indígena en la Nueva España donde se otorgaba a un conquistador el derecho a recibir tributo y trabajo a cambio de evangelización.",
+    "opciones": [
+      "Repartimiento",
+      "Encomienda",
+      "Peonaje",
+      "Hacienda"
+    ],
     "correcta": 1,
     "explicacionPasos": [
-      "Paso 1: Analizar la etapa de industrialización acelerada por sustitución de importaciones.",
-      "Paso 2: Reconocer la estabilidad del peso y el crecimiento del PIB por encima del 6%.",
-      "Paso 3: Asociar este periodo con el término 'Desarrollo Estabilizador'.",
-      "Resultado: El Milagro Mexicano."
+      "Paso 1: Identificar el sistema inicial de organización laboral tras la Conquista.",
+      "Paso 2: Reconocer el papel de los 'fideicomisos' humanos para la extracción de riqueza y conversión religiosa.",
+      "Resultado: Encomienda."
     ],
     "analisisDeError": {
-      "0": "El neoliberalismo es un modelo que se implementó a partir de los años 80.",
-      "3": "El Cardenismo se enfocó en el reparto agrario y nacionalismo, previo al auge industrial de los 40."
+      "0": "El repartimiento fue un sistema posterior de trabajo forzado pero remunerado y temporal.",
+      "2": "El peonaje es una forma de servidumbre por deuda característica de la época de las Haciendas."
     }
   },
   {
-    "id": 75,
+    "id": "H-78",
     "materia": "Historia de México",
     "dificultad": 4,
-    "tiempoSugerido": 90,
-    "pregunta": "Conflicto armado que enfrentó al gobierno de Plutarco Elías Calles con milicias religiosas entre 1926 y 1929:",
-    "formulaPrincipal": "",
-    "opciones": ["Guerra de Reforma", "Revolución Mexicana", "Guerra Cristera", "Guerra de los Pasteles"],
-    "correcta": 2,
+    "tiempoSugerido": 70,
+    "pregunta": "¿Cuál fue el principal motivo de las Reformas Borbónicas implementadas por la Corona española en la segunda mitad del siglo XVIII?",
+    "opciones": [
+      "Otorgar la independencia a las colonias para reducir gastos",
+      "Modernizar la administración para aumentar la recaudación fiscal y centralizar el poder",
+      "Permitir el libre comercio con Inglaterra y Francia",
+      "Establecer un gobierno democrático en la Nueva España"
+    ],
+    "correcta": 1,
     "explicacionPasos": [
-      "Paso 1: Identificar la causa del conflicto: la aplicación de leyes que limitaban el culto católico.",
-      "Paso 2: Reconocer el periodo de tiempo bajo la presidencia de Calles.",
-      "Paso 3: Asociar el lema '¡Viva Cristo Rey!' con el bando insurgente.",
-      "Resultado: Guerra Cristera."
+      "Paso 1: Analizar el cambio de la dinastía Habsburgo a la Borbón y sus ideales ilustrados.",
+      "Paso 2: Identificar medidas como la creación de Intendencias y la expulsión de los Jesuitas.",
+      "Resultado: Centralizar el poder y aumentar ingresos."
     ],
     "analisisDeError": {
-      "0": "La Guerra de Reforma fue un conflicto entre liberales y conservadores a mediados del siglo XIX."
+      "0": "Las reformas buscaron justamente evitar la independencia apretando el control colonial.",
+      "2": "Las reformas limitaron aún más el comercio con otras potencias para proteger el monopolio español."
     }
   },
   {
-    "id": 76,
+    "id": "H-79",
     "materia": "Historia de México",
-    "dificultad": 1,
-    "tiempoSugerido": 45,
-    "pregunta": "¿Qué cultura prehispánica es considerada la 'Cultura Madre' de Mesoamérica?",
-    "formulaPrincipal": "",
-    "opciones": ["Maya", "Mexica", "Olmeca", "Tolteca"],
-    "correcta": 2,
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "En la etapa de Organización de la Independencia, ¿qué documento redactado por José María Morelos y Pavón proponía la soberanía popular y la abolición de la esclavitud?",
+    "opciones": [
+      "Plan de Iguala",
+      "Sentimientos de la Nación",
+      "Constitución de Cádiz",
+      "Tratados de Córdoba"
+    ],
+    "correcta": 1,
     "explicacionPasos": [
-      "Paso 1: Identificar la cultura más antigua que influyó en el calendario y la escritura mesoamericana.",
-      "Paso 2: Ubicar su región geográfica en la costa del Golfo de México (Veracruz y Tabasco).",
-      "Paso 3: Asociar las cabezas colosales con esta civilización.",
-      "Resultado: Olmeca."
+      "Paso 1: Ubicar el Congreso de Chilpancingo de 1813.",
+      "Paso 2: Reconocer los ideales sociales y políticos del 'Siervo de la Nación'.",
+      "Resultado: Sentimientos de la Nación."
     ],
     "analisisDeError": {
-      "1": "Los mexicas fueron el último gran imperio antes de la conquista española.",
-      "0": "Los mayas tuvieron un gran desarrollo astronómico, pero son posteriores al auge Olmeca."
+      "0": "El Plan de Iguala es de 1821 y marca la consumación de la independencia.",
+      "2": "La Constitución de Cádiz es un documento liberal español que influyó en México, pero no fue escrito por Morelos."
     }
+  },
+  {
+    "id": "H-80",
+    "materia": "Historia de México",
+    "dificultad": 4,
+    "tiempoSugerido": 65,
+    "pregunta": "¿Cuál fue la principal característica de la Constitución de 1857 que provocó el rechazo de los conservadores y el inicio de la Guerra de Reforma?",
+    "opciones": [
+      "El establecimiento de una monarquía constitucional",
+      "La defensa de la libertad de culto y la limitación de fueros eclesiásticos y militares",
+      "La prohibición de la inversión extranjera",
+      "La extensión del mandato presidencial a 10 años"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Analizar las Leyes Juárez, Lerdo e Iglesias integradas en el texto constitucional.",
+      "Paso 2: Identificar el principio del Estado laico como punto de ruptura con la Iglesia.",
+      "Resultado: Libertad de culto y limitación de fueros."
+    ],
+    "analisisDeError": {
+      "0": "La constitución de 1857 era republicana y federal, no monárquica.",
+      "2": "Esta constitución fomentaba la propiedad privada y sentó bases para la apertura económica posterior."
+    }
+  },
+  {
+    "id": "H-81",
+    "materia": "Historia de México",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "Consumador de la Independencia de México que pactó el Plan de Iguala con Vicente Guerrero.",
+    "opciones": [
+      "Miguel Hidalgo",
+      "Agustín de Iturbide",
+      "Antonio López de Santa Anna",
+      "Guadalupe Victoria"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar el cambio de bando de los realistas hacia el bando insurgente en 1821.",
+      "Paso 2: Reconocer el suceso del 'Abrazo de Acatempan'.",
+      "Resultado: Agustín de Iturbide."
+    ],
+    "analisisDeError": {
+      "0": "Hidalgo fue el iniciador del movimiento en 1810, fusilado en 1811.",
+      "3": "Guadalupe Victoria fue el primer presidente de México, pero el pacto inicial fue de Iturbide."
+    }
+  },
+  {
+    "id": "H-82",
+    "materia": "Historia de México",
+    "dificultad": 4,
+    "tiempoSugerido": 70,
+    "pregunta": "¿Qué ley de Reforma decretaba la desamortización de las fincas rústicas y urbanas de las corporaciones civiles y eclesiásticas?",
+    "opciones": [
+      "Ley Juárez",
+      "Ley Lerdo",
+      "Ley Iglesias",
+      "Ley Lafragua"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Diferenciar entre las leyes que abolían fueros y las que afectaban la propiedad.",
+      "Paso 2: Identificar a Miguel Lerdo de Tejada como el autor de la ley de 1856.",
+      "Resultado: Ley Lerdo."
+    ],
+    "analisisDeError": {
+      "0": "La Ley Juárez suprimió los fueros eclesiásticos y militares en asuntos civiles.",
+      "2": "La Ley Iglesias prohibió el cobro de obvenciones parroquiales a los pobres."
+    }
+  },
+  {
+    "id": "H-83",
+    "materia": "Historia de México",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "Durante el Segundo Imperio Mexicano (1864-1867), ¿qué monarca europeo ocupó el trono con el apoyo de los conservadores y tropas francesas?",
+    "opciones": [
+      "Luis Napoleón Bonaparte",
+      "Fernando VII",
+      "Maximiliano de Habsburgo",
+      "Carlos III"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Contextualizar la Intervención Francesa tras la moratoria de pagos de Benito Juárez.",
+      "Paso 2: Identificar al archiduque austriaco invitado por la Junta de Notables.",
+      "Resultado: Maximiliano de Habsburgo."
+    ],
+    "analisisDeError": {
+      "0": "Napoleón III fue quien envió las tropas, pero no ocupó el trono de México.",
+      "1": "Fernando VII era el rey de España durante la independencia de México."
+    }
+  },
+  {
+    "id": "H-84",
+    "materia": "Historia de México",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Qué nombre recibió la conspiración de 1810 donde participaron Allende, Aldama y la corregidora Josefa Ortiz de Domínguez?",
+    "opciones": [
+      "Conspiración de Valladolid",
+      "Conspiración de Querétaro",
+      "Conspiración de los Machetes",
+      "Conspiración de Tacubaya"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar el lugar de reunión de los insurgentes que fueron descubiertos en septiembre.",
+      "Paso 2: Reconocer el papel de los corregidores Miguel y Josefa Ortiz en la logística del levantamiento.",
+      "Resultado: Conspiración de Querétaro."
+    ],
+    "analisisDeError": {
+      "0": "La conspiración de Valladolid ocurrió en 1809 y fue sofocada antes.",
+      "2": "La de los Machetes (1799) fue un intento mucho más temprano y de menor escala."
+    }
+  },
+  {
+    "id": "H-85",
+    "materia": "Historia de México",
+    "dificultad": 4,
+    "tiempoSugerido": 60,
+    "pregunta": "Es el periodo que va de 1867 a 1876, caracterizado por el triunfo de la República sobre el Imperio y los mandatos de Juárez y Lerdo de Tejada.",
+    "opciones": [
+      "Porfiriato",
+      "República Restaurada",
+      "El México Independiente",
+      "La Revolución"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar la etapa tras el fusilamiento de Maximiliano.",
+      "Paso 2: Reconocer la implementación definitiva de las Leyes de Reforma en la administración pública.",
+      "Resultado: República Restaurada."
+    ],
+    "analisisDeError": {
+      "0": "El Porfiriato inicia formalmente en 1876 con el Plan de Tuxtepec.",
+      "2": "México Independiente se refiere usualmente a los primeros años de inestabilidad (1821-1854)."
+    }
+  },
+  {
+    "id": "H-86",
+    "materia": "Historia de México",
+    "dificultad": 5,
+    "tiempoSugerido": 80,
+    "pregunta": "¿Qué impacto tuvieron las Reformas Borbónicas en la estructura política de la Nueva España respecto a la figura de los Virreyes?",
+    "opciones": [
+      "Aumentaron su poder absoluto al eliminar la supervisión de la Real Audiencia",
+      "Restringieron su autoridad mediante la creación del sistema de Intendencias",
+      "Le otorgaron el control total de la Real Hacienda sin intermediarios",
+      "Desaparecieron el cargo de Virrey para sustituirlo por el de Capitán General"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Analizar la intención de la dinastía Borbón de centralizar el poder en la Corona.",
+      "Paso 2: Identificar la división del territorio en 12 intendencias en 1786, cuyos intendentes respondían directamente al Rey.",
+      "Paso 3: Concluir que esto fragmentó el control administrativo y financiero que antes monopolizaba el Virrey.",
+      "Resultado: Restringieron su autoridad."
+    ],
+    "analisisDeError": {
+      "0": "Error: Las reformas buscaron limitar el poder de las élites locales, incluido el Virrey.",
+      "2": "Error: El control de la hacienda pasó a los intendentes para asegurar una recaudación más eficiente para España."
+    }
+  },
+  {
+    "id": "H-87",
+    "materia": "Historia de México",
+    "dificultad": 5,
+    "tiempoSugerido": 90,
+    "pregunta": "Durante la etapa de Resistencia de la Independencia (1815-1820), ¿quién fue el insurgente que mantuvo viva la lucha en las montañas del sur tras la muerte de Morelos?",
+    "opciones": [
+      "Vicente Guerrero",
+      "Francisco Javier Mina",
+      "Pedro Moreno",
+      "Guadalupe Victoria"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Identificar el periodo de dispersión de las tropas insurgentes tras la ejecución del 'Siervo de la Nación'.",
+      "Paso 2: Reconocer la táctica de guerra de guerrillas empleada en la zona de la Sierra Madre del Sur.",
+      "Paso 3: Ubicar a Guerrero como el líder que se negó a aceptar el indulto ofrecido por el virrey Apodaca.",
+      "Resultado: Vicente Guerrero."
+    ],
+    "analisisDeError": {
+      "1": "Error: Mina fue un liberal español que se unió a la lucha brevemente en 1817 pero fue capturado pronto.",
+      "3": "Error: Victoria operó principalmente en la zona de Veracruz, no en el sur profundo."
+    }
+  },
+  {
+    "id": "H-88",
+    "materia": "Historia de México",
+    "dificultad": 4,
+    "tiempoSugerido": 70,
+    "pregunta": "Tratado firmado en agosto de 1821 entre Agustín de Iturbide y el último jefe político superior de Nueva España, donde se reconoce la independencia de México.",
+    "opciones": [
+      "Tratados de Córdoba",
+      "Plan de Iguala",
+      "Tratado de Velasco",
+      "Tratado de Guadalupe Hidalgo"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Distinguir entre un plan de proclamación política y un acuerdo diplomático bilateral.",
+      "Paso 2: Identificar a Juan O'Donojú como el representante español que aceptó la independencia.",
+      "Paso 3: Validar que este documento ratificó los principios del Plan de Iguala.",
+      "Resultado: Tratados de Córdoba."
+    ],
+    "analisisDeError": {
+      "1": "Error: El Plan de Iguala fue la propuesta inicial de Iturbide, no el tratado final con la autoridad española.",
+      "2": "Error: El Tratado de Velasco se refiere a la independencia de Texas en 1836."
+    }
+  },
+  {
+    "id": "H-89",
+    "materia": "Historia de México",
+    "dificultad": 5,
+    "tiempoSugerido": 100,
+    "pregunta": "¿Qué principio jurídico de la Ley Juárez (1855) resultó más ofensivo para el bando conservador de la época?",
+    "opciones": [
+      "La supresión de los tribunales especiales (fueros) para clérigos y militares en causas civiles",
+      "La confiscación inmediata de todos los bienes de la Iglesia",
+      "La instauración del matrimonio civil obligatorio",
+      "La prohibición de la educación religiosa en escuelas privadas"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Analizar el contenido de la 'Ley de Administración de Justicia y Orgánica de los Tribunales de la Nación'.",
+      "Paso 2: Identificar que la ley buscaba la igualdad jurídica eliminando el privilegio de ser juzgado por tribunales propios.",
+      "Paso 3: Comprender que esto rompió el orden corporativo que la Iglesia y el Ejército defendían como pilar social.",
+      "Resultado: Supresión de tribunales especiales."
+    ],
+    "analisisDeError": {
+      "1": "Error: La confiscación masiva fue obra de la Ley Lerdo y decretos de nacionalización posteriores (1859).",
+      "2": "Error: El matrimonio civil se estableció con las Leyes de Reforma en 1859, no con la Ley Juárez."
+    }
+  },
+  {
+    "id": "H-90",
+    "materia": "Historia de México",
+    "dificultad": 4,
+    "tiempoSugerido": 80,
+    "pregunta": "¿Cuál fue el objetivo del Plan de Ayutla proclamado en 1854 por Florencio Villarreal y Juan Álvarez?",
+    "opciones": [
+      "Derrocar la dictadura de Antonio López de Santa Anna",
+      "Desconocer el gobierno de Benito Juárez",
+      "Apoyar la intervención francesa en México",
+      "Restablecer la monarquía de Maximiliano"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Contextualizar el descontento social por la venta de La Mesilla y el autoritarismo santannista.",
+      "Paso 2: Identificar el movimiento liberal que buscaba convocar a un nuevo congreso constituyente.",
+      "Paso 3: Confirmar que este plan dio inicio a la Revolución de Ayutla y al exilio definitivo de Santa Anna.",
+      "Resultado: Derrocar a Santa Anna."
+    ],
+    "analisisDeError": {
+      "1": "Error: El Plan de Ayutla es el que permitió el ascenso del grupo liberal de Juárez.",
+      "3": "Error: Los liberales de Ayutla fueron los principales opositores a la intervención extranjera."
+    }
+  },
+  {
+    "id": "H-91",
+    "materia": "Historia de México",
+    "dificultad": 5,
+    "tiempoSugerido": 85,
+    "pregunta": "¿Cuál fue la función política de la Real Audiencia frente a la figura del Virrey en la Nueva España?",
+    "opciones": [
+      "Actuar como un órgano de contrapeso y vigilancia, pudiendo asumir el gobierno en caso de ausencia del Virrey",
+      "Sustituir al Consejo de Indias en la elaboración de leyes para América",
+      "Administrar exclusivamente los bienes de la Iglesia",
+      "Dirigir las campañas militares en las fronteras del norte"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Identificar que el sistema colonial español buscaba evitar que una sola figura acumulara poder absoluto en América.",
+      "Paso 2: Reconocer a la Real Audiencia como el máximo tribunal de justicia que también poseía funciones administrativas y de control sobre el ejecutivo (el Virrey).",
+      "Paso 3: Validar que, ante la muerte o incapacidad del Virrey, la Audiencia tomaba el mando como 'Audiencia Gobernante'."
+    ],
+    "analisisDeError": {
+      "1": "Error: El Consejo de Indias residía en España y era el encargado de legislar; la Audiencia operaba en la colonia.",
+      "2": "Error: Los bienes eclesiásticos eran regulados por el Patronato Real y tribunales específicos."
+    }
+  },
+  {
+    "id": "H-92",
+    "materia": "Historia de México",
+    "dificultad": 5,
+    "tiempoSugerido": 90,
+    "pregunta": "¿Qué factor externo de 1808 fue determinante para que los criollos en la Nueva España comenzaran a cuestionar la legitimidad del gobierno virreinal?",
+    "opciones": [
+      "La invasión napoleónica a España y la abdicación de Fernando VII",
+      "La firma del Tratado de Versalles",
+      "El estallido de la Revolución Industrial en Inglaterra",
+      "La independencia de Cuba y Puerto Rico"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Analizar la crisis de la monarquía española tras la ocupación francesa.",
+      "Paso 2: Comprender que, ante la ausencia del rey legítimo, los criollos argumentaron que la soberanía debía volver al pueblo (Ayuntamiento de México).",
+      "Paso 3: Identificar este vacío de poder como el catalizador de las primeras juntas conspirativas."
+    ],
+    "analisisDeError": {
+      "1": "Error: El Tratado de Versalles corresponde al fin de la Primera Guerra Mundial en 1919.",
+      "2": "Error: La Revolución Industrial fue un proceso económico que no afectó la legitimidad política de la corona de forma inmediata."
+    }
+  },
+  {
+    "id": "H-93",
+    "materia": "Historia de México",
+    "dificultad": 4,
+    "tiempoSugerido": 75,
+    "pregunta": "¿Cuál fue la principal discrepancia ideológica entre el Plan de Iguala y la Constitución de 1824?",
+    "opciones": [
+      "La forma de gobierno: el Plan de Iguala proponía una monarquía constitucional y la Constitución de 1824 una república federal",
+      "La religión: el Plan de Iguala era laico y la Constitución de 1824 era católica",
+      "La esclavitud: el Plan de Iguala la mantenía y la Constitución de 1824 la abolió",
+      "La relación con España: el Plan de Iguala buscaba la reconquista"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Recordar que el Plan de Iguala (1821) buscaba atraer a los realistas ofreciendo el trono a Fernando VII o algún príncipe europeo.",
+      "Paso 2: Reconocer que tras el fracaso del Imperio de Iturbide, el Congreso optó por el modelo republicano y la división en estados soberanos en 1824.",
+      "Resultado: Transición de monarquía a república."
+    ],
+    "analisisDeError": {
+      "1": "Error: Ambos documentos sostenían el catolicismo como religión única del Estado.",
+      "2": "Error: El Plan de Iguala ya contemplaba la unión y derechos básicos, aunque la abolición formal fue un proceso complejo."
+    }
+  },
+  {
+    "id": "H-94",
+    "materia": "Historia de México",
+    "dificultad": 5,
+    "tiempoSugerido": 95,
+    "pregunta": "La 'Ley Iglesias' de 1857 atacaba un pilar económico de la Iglesia al prohibir:",
+    "opciones": [
+      "El cobro de derechos y obvenciones parroquiales a los pobres (quienes no podían pagar)",
+      "La posesión de tierras rústicas y urbanas por parte de comunidades religiosas",
+      "La existencia de órdenes monásticas masculinas",
+      "El control del Registro Civil por parte de los sacerdotes"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Identificar a José María Iglesias como el autor de esta ley previa a la Constitución de 1857.",
+      "Paso 2: Reconocer que la ley se enfocaba en los servicios religiosos (bautizos, bodas, entierros).",
+      "Paso 3: Validar que su objetivo era aliviar la carga económica sobre los sectores más vulnerables."
+    ],
+    "analisisDeError": {
+      "1": "Error: Esa fue la función de la Ley Lerdo de desamortización.",
+      "3": "Error: El Registro Civil fue creado por las Leyes de Reforma en 1859, no por la Ley Iglesias."
+    }
+  },
+  {
+    "id": "H-95",
+    "materia": "Historia de México",
+    "dificultad": 5,
+    "tiempoSugerido": 100,
+    "pregunta": "¿Qué tratado internacional de 1859, firmado por el gobierno de Juárez, estuvo a punto de otorgar a EE.UU. el derecho de tránsito perpetuo por el Istmo de Tehuantepec a cambio de apoyo militar?",
+    "opciones": [
+      "Tratado McLane-Ocampo",
+      "Tratado Mon-Almonte",
+      "Tratado de Miramar",
+      "Tratado de La Mesilla"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Ubicar la situación desesperada del gobierno liberal durante la Guerra de Reforma.",
+      "Paso 2: Identificar la negociación entre Melchor Ocampo y Robert McLane.",
+      "Paso 3: Reconocer que, aunque se firmó, nunca fue ratificado por el Senado de EE.UU. debido al conflicto interno en ese país (Guerra de Secesión)."
+    ],
+    "analisisDeError": {
+      "1": "Error: El Tratado Mon-Almonte fue firmado por los conservadores con España para buscar reconocimiento y apoyo.",
+      "2": "Error: El Tratado de Miramar fue el acuerdo entre Maximiliano y Napoleón III para establecer el Segundo Imperio."
+    }
+  },
+  {
+    "id": "H-106",
+    "materia": "Historia",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Qué suceso de 1913 consistió en un golpe de Estado militar contra Francisco I. Madero, orquestado por Victoriano Huerta con el apoyo del embajador Henry Lane Wilson?",
+    "opciones": [
+      "La Decena Trágica",
+      "La Huelga de Cananea",
+      "La Convención de Aguascalientes",
+      "El Cuartelazo de la Ciudadela"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Identificar el periodo de diez días de combates en la Ciudad de México.",
+      "Paso 2: Reconocer la traición de Huerta y el asesinato de Madero y Pino Suárez.",
+      "Resultado: La Decena Trágica."
+    ],
+    "analisisDeError": {
+      "1": "La huelga de Cananea ocurrió en 1906, antes del inicio de la Revolución.",
+      "2": "La Convención de Aguascalientes fue una reunión de facciones para buscar unidad en 1914."
+    }
+  },
+  {
+    "id": "H-107",
+    "materia": "Historia",
+    "dificultad": 4,
+    "tiempoSugerido": 65,
+    "pregunta": "¿Cuál fue el objetivo principal del Plan de Ayala promulgado por Emiliano Zapata en 1911?",
+    "opciones": [
+      "Desconocer a Madero y exigir la restitución inmediata de tierras a los campesinos",
+      "Apoyar la reelección de Porfirio Díaz",
+      "Nombrar a Venustiano Carranza como Jefe Máximo",
+      "Promover la industrialización de México"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Analizar el descontento zapatista por el incumplimiento de las promesas agrarias del Plan de San Luis.",
+      "Paso 2: Identificar el lema 'Tierra y Libertad' como eje de la lucha del sur.",
+      "Resultado: Restitución de tierras."
+    ],
+    "analisisDeError": {
+      "2": "Carranza era el líder de la facción constitucionalista, rival de los ideales agrarios radicales de Zapata."
+    }
+  },
+  {
+    "id": "H-108",
+    "materia": "Historia",
+    "dificultad": 4,
+    "tiempoSugerido": 70,
+    "pregunta": "¿Qué coalición de potencias formó el 'Eje' durante la Segunda Guerra Mundial?",
+    "opciones": [
+      "Alemania, Italia y Japón",
+      "Estados Unidos, Gran Bretaña y la URSS",
+      "Francia, Gran Bretaña y Rusia",
+      "Alemania, Austria-Hungría y Turquía"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Distinguir los bloques antagónicos del conflicto iniciado en 1939.",
+      "Paso 2: Identificar a las potencias totalitarias y expansionistas que firmaron el Pacto Tripartito.",
+      "Resultado: Alemania, Italia y Japón."
+    ],
+    "analisisDeError": {
+      "1": "Este bloque corresponde a los Aliados.",
+      "3": "Esta fue la composición de la Triple Alianza en la Primera Guerra Mundial."
+    }
+  },
+  {
+    "id": "H-109",
+    "materia": "Historia",
+    "dificultad": 4,
+    "tiempoSugerido": 75,
+    "pregunta": "Estrategia alemana de la Segunda Guerra Mundial conocida como 'Guerra Relámpago' que utilizaba ataques rápidos y coordinados de tanques y aviación.",
+    "opciones": [
+      "Blitzkrieg",
+      "Operación Barbarroja",
+      "Plan Schlieffen",
+      "Guerra de Desgaste"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Identificar la táctica que permitió a Alemania conquistar Polonia y Francia en poco tiempo.",
+      "Paso 2: Reconocer la combinación de divisiones Panzer y la Luftwaffe.",
+      "Resultado: Blitzkrieg."
+    ],
+    "analisisDeError": {
+      "1": "La Operación Barbarroja fue específicamente la invasión a la Unión Soviética.",
+      "2": "El Plan Schlieffen pertenece a la Primera Guerra Mundial."
+    }
+  },
+  {
+    "id": "H-110",
+    "materia": "Historia",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Qué suceso de 1945 marcó el fin de la resistencia japonesa y el desenlace de la Segunda Guerra Mundial en el Pacífico?",
+    "opciones": [
+      "El lanzamiento de las bombas atómicas en Hiroshima y Nagasaki",
+      "La invasión de Normandía",
+      "El suicidio de Adolf Hitler",
+      "La Conferencia de Potsdam"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Identificar el uso de armas nucleares por parte de EE.UU. bajo la administración de Harry Truman.",
+      "Paso 2: Reconocer que esto forzó la rendición incondicional del emperador Hirohito.",
+      "Resultado: Bombas atómicas."
+    ]
+  },
+  {
+    "id": "H-111",
+    "materia": "Historia",
+    "dificultad": 4,
+    "tiempoSugerido": 65,
+    "pregunta": "¿Qué artículo de la Constitución de 1917 establece los derechos laborales, como la jornada de 8 horas y el derecho a huelga?",
+    "opciones": [
+      "Artículo 123",
+      "Artículo 27",
+      "Artículo 3°",
+      "Artículo 130"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Diferenciar las demandas sociales plasmadas en la Carta Magna.",
+      "Paso 2: Identificar el artículo que protege al trabajador frente al capital.",
+      "Resultado: Artículo 123."
+    ]
+  },
+  {
+    "id": "H-112",
+    "materia": "Historia",
+    "dificultad": 4,
+    "tiempoSugerido": 60,
+    "pregunta": "Periodo de la Guerra Fría en el que la tensión entre EE.UU. y la URSS estuvo a punto de desencadenar un conflicto nuclear por el despliegue de proyectiles soviéticos en el Caribe.",
+    "opciones": [
+      "La Crisis de los Misiles en Cuba (1962)",
+      "La Guerra de Corea",
+      "La Crisis del Canal de Suez",
+      "El Incidente del Golfo de Tonkín"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Ubicar el conflicto diplomático entre Kennedy y Jrushchov.",
+      "Paso 2: Identificar el descubrimiento de bases de lanzamiento en territorio cubano.",
+      "Resultado: Crisis de los Misiles."
+    ]
+  },
+  {
+    "id": "H-113",
+    "materia": "Historia",
+    "dificultad": 4,
+    "tiempoSugerido": 70,
+    "pregunta": "Tras la caída de Victoriano Huerta, ¿qué reunión de líderes revolucionarios buscaba conciliar las facciones pero resultó en la ruptura entre Carranza y Villa?",
+    "opciones": [
+      "Convención de Aguascalientes",
+      "Congreso Constituyente de Querétaro",
+      "Pacto de Xochimilco",
+      "Entrevista Díaz-Creelman"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Identificar el foro de 1914 que declaró su soberanía frente a los caudillos.",
+      "Paso 2: Reconocer la adopción del Plan de Ayala por la asamblea, lo que provocó el retiro de Carranza.",
+      "Resultado: Convención de Aguascalientes."
+    ]
+  },
+  {
+    "id": "H-114",
+    "materia": "Historia",
+    "dificultad": 4,
+    "tiempoSugerido": 70,
+    "pregunta": "¿Qué organización internacional fue creada en 1945 con el fin de mantener la paz y seguridad internacionales tras el fracaso de la Sociedad de Naciones?",
+    "opciones": [
+      "ONU",
+      "OTAN",
+      "FMI",
+      "UNESCO"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Identificar la firma de la Carta de San Francisco al finalizar la guerra.",
+      "Paso 2: Reconocer su estructura principal, incluido el Consejo de Seguridad.",
+      "Resultado: ONU."
+    ]
+  },
+  {
+    "id": "H-115",
+    "materia": "Historia",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "Política de 'apertura' y 'reestructuración' impulsada por Mijaíl Gorbachov en la URSS en los años 80 que aceleró el fin de la Guerra Fría.",
+    "opciones": [
+      "Glasnost y Perestroika",
+      "Comunismo de Guerra",
+      "Nueva Política Económica (NEP)",
+      "Gran Salto Adelante"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Identificar las reformas políticas (Glasnost) y económicas (Perestroika).",
+      "Paso 2: Comprender cómo estas medidas debilitaron el control central soviético.",
+      "Resultado: Glasnost y Perestroika."
+    ]
+  },
+  {
+    "id": "H-116",
+    "materia": "Historia",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Qué caudillo revolucionario es conocido como el 'Centauro del Norte'?",
+    "opciones": [
+      "Francisco Villa",
+      "Emiliano Zapata",
+      "Álvaro Obregón",
+      "Pascual Orozco"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Identificar al líder de la División del Norte.",
+      "Paso 2: Asociar el apodo con Doroteo Arango.",
+      "Resultado: Francisco Villa."
+    ]
+  },
+  {
+    "id": "H-117",
+    "materia": "Historia",
+    "dificultad": 4,
+    "tiempoSugerido": 75,
+    "pregunta": "Conflicto armado (1955-1975) que fue una guerra de guerrillas en el sudeste asiático y se convirtió en un símbolo de la resistencia al imperialismo estadounidense durante la Guerra Fría.",
+    "opciones": [
+      "Guerra de Vietnam",
+      "Guerra de Afganistán",
+      "Guerra de los Seis Días",
+      "Guerra Civil Española"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Identificar el enfrentamiento entre el Norte comunista (Vietcong) y el Sur apoyado por EE.UU.",
+      "Paso 2: Reconocer la derrota militar y política de Estados Unidos en 1975.",
+      "Resultado: Guerra de Vietnam."
+    ]
+  },
+  {
+    "id": "H-118",
+    "materia": "Historia",
+    "dificultad": 4,
+    "tiempoSugerido": 65,
+    "pregunta": "¿Cuál fue la causa económica de la crisis de 1929 que afectó al mundo capitalista y facilitó el ascenso de regímenes totalitarios?",
+    "opciones": [
+      "La caída de la bolsa de valores de Nueva York (Jueves Negro)",
+      "La falta de mano de obra en Europa",
+      "El aumento excesivo de los salarios",
+      "La nacionalización de la banca en EE.UU."
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Identificar el colapso financiero provocado por la sobreproducción y la especulación.",
+      "Paso 2: Reconocer el inicio de la Gran Depresión.",
+      "Resultado: Caída de la bolsa."
+    ]
+  },
+  {
+    "id": "H-119",
+    "materia": "Historia",
+    "dificultad": 4,
+    "tiempoSugerido": 70,
+    "pregunta": "¿Qué presidente de México impulsó la Expropiación Petrolera en 1938 y la reforma agraria masiva?",
+    "opciones": [
+      "Lázaro Cárdenas",
+      "Plutarco Elías Calles",
+      "Manuel Ávila Camacho",
+      "Adolfo López Mateos"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Identificar la culminación de los ideales sociales de la Revolución en la etapa de institucionalización.",
+      "Paso 2: Reconocer la aplicación del Artículo 27 constitucional contra empresas extranjeras.",
+      "Resultado: Lázaro Cárdenas."
+    ]
+  },
+  {
+    "id": "H-120",
+    "materia": "Historia",
+    "dificultad": 4,
+    "tiempoSugerido": 75,
+    "pregunta": "Estructura defensiva construida en 1961 para evitar la migración de ciudadanos del bloque socialista al capitalista en la Alemania dividida.",
+    "opciones": [
+      "Muro de Berlín",
+      "Cortina de Hierro",
+      "Línea Maginot",
+      "Frontera del Paralelo 38"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Identificar el símbolo físico de la división de la Guerra Fría.",
+      "Paso 2: Reconocer que separaba a la RFA (occidental) de la RDA (oriental).",
+      "Resultado: Muro de Berlín."
+    ]
+  },
+  {
+    "id": "H-121",
+    "materia": "Historia",
+    "dificultad": 4,
+    "tiempoSugerido": 70,
+    "pregunta": "¿Qué facción revolucionaria resultó triunfante tras la derrota de la Convención de Aguascalientes, logrando imponer su proyecto de nación en la Constitución de 1917?",
+    "opciones": [
+      "Constitucionalistas",
+      "Zapatistas",
+      "Villistas",
+      "Maderistas"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Identificar la división tras la caída de Huerta entre los líderes del norte y el sur.",
+      "Paso 2: Reconocer el liderazgo de Venustiano Carranza y Álvaro Obregón frente a las tropas campesinas de Villa y Zapata.",
+      "Paso 3: Validar que el grupo carrancista convocó al Congreso en Querétaro para formalizar su dominio político.",
+      "Resultado: Constitucionalistas."
+    ],
+    "analisisDeError": {
+      "1": "Los zapatistas representaban el agrarismo radical que fue derrotado militarmente por los constitucionalistas.",
+      "2": "Francisco Villa fue derrotado en las batallas de Celaya por Álvaro Obregón."
+    }
+  },
+  {
+    "id": "H-122",
+    "materia": "Historia",
+    "dificultad": 4,
+    "tiempoSugerido": 75,
+    "pregunta": "¿Cuál fue el principal objetivo de la Conferencia de Yalta celebrada en febrero de 1945 por Churchill, Roosevelt y Stalin?",
+    "opciones": [
+      "Planear la división de Alemania y la reorganización de Europa tras la derrota nazi",
+      "Declarar la guerra a Japón de forma inmediata",
+      "Establecer las bases del Plan Marshall",
+      "Firmar el Tratado de Versalles"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Ubicar la conferencia en la fase final de la Segunda Guerra Mundial en Europa.",
+      "Paso 2: Identificar los acuerdos para las zonas de ocupación en Alemania y la frontera de Polonia.",
+      "Paso 3: Reconocer este evento como el preludio a la división del mundo en bloques (Guerra Fría).",
+      "Resultado: División de Alemania y reorganización de Europa."
+    ],
+    "analisisDeError": {
+      "2": "El Plan Marshall fue una medida de reconstrucción económica posterior a la guerra (1948).",
+      "3": "El Tratado de Versalles puso fin a la Primera Guerra Mundial, no a la Segunda."
+    }
+  },
+  {
+    "id": "H-123",
+    "materia": "Historia",
+    "dificultad": 4,
+    "tiempoSugerido": 65,
+    "pregunta": "Durante la Guerra Fría, ¿qué nombre recibió la barrera ideológica y política que separaba a los países de Europa Occidental de los estados bajo influencia soviética?",
+    "opciones": [
+      "La Cortina de Hierro",
+      "El Muro de Berlín",
+      "La Línea Maginot",
+      "El Telón de Bambú"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Identificar el término popularizado por Winston Churchill en un discurso de 1946.",
+      "Paso 2: Reconocer que se refiere a una frontera simbólica y política, no exclusivamente física.",
+      "Resultado: La Cortina de Hierro."
+    ],
+    "analisisDeError": {
+      "1": "El Muro de Berlín era una barrera física específica en una sola ciudad, no en todo el continente.",
+      "3": "El Telón de Bambú se refiere a la frontera ideológica del bloque comunista en Asia (China)."
+    }
+  },
+  {
+    "id": "H-124",
+    "materia": "Historia",
+    "dificultad": 4,
+    "tiempoSugerido": 70,
+    "pregunta": "¿Qué suceso de la Revolución Mexicana obligó a Porfirio Díaz a renunciar a la presidencia y exiliarse en Francia en mayo de 1911?",
+    "opciones": [
+      "La toma de Ciudad Juárez por tropas maderistas",
+      "El asesinato de los hermanos Serdán",
+      "La firma de los Tratados de Teoloyucan",
+      "La invasión estadounidense a Veracruz"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Identificar la victoria militar clave de las fuerzas de Orozco y Villa que demostró la debilidad del régimen.",
+      "Paso 2: Reconocer la posterior firma de los Tratados de Ciudad Juárez donde Díaz aceptó dimitir.",
+      "Resultado: La toma de Ciudad Juárez."
+    ],
+    "analisisDeError": {
+      "1": "El asesinato de los Serdán fue el inicio de la lucha, pero no lo que derrocó al presidente.",
+      "2": "Los Tratados de Teoloyucan marcaron la disolución del ejército federal en 1914, tras la caída de Huerta."
+    }
+  },
+  {
+    "id": "H-125",
+    "materia": "Historia",
+    "dificultad": 4,
+    "tiempoSugerido": 80,
+    "pregunta": "¿Cuál fue la mayor consecuencia geopolítica de la Crisis del Canal de Suez en 1956 durante la Guerra Fría?",
+    "opciones": [
+      "El debilitamiento del poder colonial de Gran Bretaña y Francia y el ascenso de EE.UU. y la URSS como árbitros mundiales",
+      "La anexión de Egipto a la Unión Soviética",
+      "El inicio de la Guerra de Vietnam",
+      "La caída de la monarquía en Italia"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Analizar el conflicto provocado por la nacionalización del canal por Gamal Abdel Nasser.",
+      "Paso 2: Identificar la presión de EE.UU. y la URSS para que las potencias europeas e Israel se retiraran.",
+      "Paso 3: Concluir que este evento evidenció el fin de la era de los imperios coloniales tradicionales.",
+      "Resultado: Debilitamiento de Gran Bretaña y Francia."
+    ],
+    "analisisDeError": {
+      "2": "La Guerra de Vietnam tuvo causas relacionadas con la descolonización francesa, pero en una región geográfica distinta.",
+      "1": "Egipto se mantuvo como un país no alineado, aunque recibió apoyo técnico y militar soviético."
+    }
+  },
+  {
+    "id": "H-126",
+    "materia": "Historia",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "¿En qué año se promulgó la actual Constitución Política de los Estados Unidos Mexicanos?",
+    "opciones": [
+      "1917",
+      "1857",
+      "1824",
+      "1910"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Identificar el documento resultante de la victoria del ala constitucionalista de la Revolución.",
+      "Paso 2: Recordar que fue promulgada el 5 de febrero en Querétaro por Venustiano Carranza.",
+      "Resultado: 1917."
+    ]
+  },
+  {
+    "id": "H-127",
+    "materia": "Historia",
+    "dificultad": 4,
+    "tiempoSugerido": 70,
+    "pregunta": "¿Qué evento de la Segunda Guerra Mundial en junio de 1944 abrió un segundo frente en Europa Occidental, facilitando la derrota de Alemania?",
+    "opciones": [
+      "El Desembarco de Normandía (Día D)",
+      "La Batalla de Stalingrado",
+      "La Batalla de las Ardenas",
+      "El bombardeo de Londres"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Identificar la invasión anfibia masiva de las tropas aliadas en las costas de Francia.",
+      "Paso 2: Reconocer que esto obligó a Hitler a dividir sus fuerzas entre el frente oriental (Rusia) y el occidental.",
+      "Resultado: Desembarco de Normandía."
+    ],
+    "analisisDeError": {
+      "1": "Stalingrado ocurrió en el frente oriental y fue una victoria soviética decisiva.",
+      "3": "Las Ardenas fue la última gran contraofensiva alemana, pero posterior al Día D."
+    }
+  },
+  {
+    "id": "H-128",
+    "materia": "Historia",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Qué caudillo revolucionario es el autor de la frase 'La tierra es de quien la trabaja'?",
+    "opciones": [
+      "Emiliano Zapata",
+      "Francisco I. Madero",
+      "Venustiano Carranza",
+      "Álvaro Obregón"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Identificar al líder agrarista del sur.",
+      "Paso 2: Asociar el lema con la lucha campesina plasmada en el Plan de Ayala.",
+      "Resultado: Emiliano Zapata."
+    ]
+  },
+  {
+    "id": "H-129",
+    "materia": "Historia",
+    "dificultad": 4,
+    "tiempoSugerido": 75,
+    "pregunta": "¿Cuál fue el propósito del Muro de Berlín, construido en 1961?",
+    "opciones": [
+      "Evitar la fuga de ciudadanos del Berlín Oriental (socialista) hacia el Occidental (capitalista)",
+      "Proteger a la ciudad de una invasión de la OTAN",
+      "Dividir a Alemania de Polonia",
+      "Marcar la frontera con la Unión Soviética"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Identificar la crisis demográfica en la RDA debido a la migración masiva de trabajadores calificados al oeste.",
+      "Paso 2: Reconocer la solución drástica del gobierno socialista para sellar su frontera en el corazón de la ciudad.",
+      "Resultado: Evitar la fuga de ciudadanos."
+    ]
+  },
+  {
+    "id": "H-130",
+    "materia": "Historia",
+    "dificultad": 3,
+    "tiempoSugerido": 65,
+    "pregunta": "¿Qué participación tuvo México en la Segunda Guerra Mundial tras el hundimiento de sus buques petroleros Potrero del Llano y Faja de Oro?",
+    "opciones": [
+      "Envió al Escuadrón 201 a combatir en el Pacífico",
+      "Permaneció neutral hasta el final del conflicto",
+      "Se alió con las potencias del Eje",
+      "Envió tropas terrestres para invadir Italia"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Identificar la agresión de submarinos alemanes a barcos mexicanos en 1942.",
+      "Paso 2: Reconocer la declaración de guerra del presidente Manuel Ávila Camacho.",
+      "Paso 3: Identificar la unidad de aviación que participó en la liberación de Filipinas.",
+      "Resultado: Envío del Escuadrón 201."
+    ]
+  },
+  {
+    "id": "H-131",
+    "materia": "Historia",
+    "dificultad": 4,
+    "tiempoSugerido": 70,
+    "pregunta": "Carrera tecnológica y militar durante la Guerra Fría que culminó con la llegada del hombre a la Luna en 1969.",
+    "opciones": [
+      "Carrera Espacial",
+      "Carrera Armamentista",
+      "Revolución Digital",
+      "Proyecto Manhattan"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Identificar la competencia por el prestigio científico y el control orbital entre EE.UU. y la URSS.",
+      "Paso 2: Reconocer hitos como el Sputnik (soviético) y las misiones Apollo (estadounidense).",
+      "Resultado: Carrera Espacial."
+    ]
+  },
+  {
+    "id": "H-132",
+    "materia": "Historia",
+    "dificultad": 4,
+    "tiempoSugerido": 70,
+    "pregunta": "¿Qué presidente mexicano impulsó la creación del Partido Nacional Revolucionario (PNR) en 1929 para institucionalizar el poder?",
+    "opciones": [
+      "Plutarco Elías Calles",
+      "Emilio Portes Gil",
+      "Lázaro Cárdenas",
+      "Pascual Ortiz Rubio"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Identificar la necesidad de terminar con la era de los caudillos individuales tras el asesinato de Obregón.",
+      "Paso 2: Reconocer a Calles como el 'Jefe Máximo' que buscaba pasar de un país de hombres a un país de instituciones.",
+      "Resultado: Plutarco Elías Calles."
+    ]
+  },
+  {
+    "id": "H-133",
+    "materia": "Historia",
+    "dificultad": 4,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Qué ocurrió durante la 'Matanza de Tlatelolco' el 2 de octubre de 1968 en México?",
+    "opciones": [
+      "La represión violenta del movimiento estudiantil por parte del gobierno en la Plaza de las Tres Culturas",
+      "Un levantamiento armado de campesinos contra el gobierno",
+      "El inicio de la Revolución Mexicana",
+      "Un atentado terrorista extranjero"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Ubicar el contexto de las Olimpiadas en México y el descontento estudiantil.",
+      "Paso 2: Identificar la acción militar y del Batallón Olimpia contra civiles desarmados.",
+      "Resultado: Represión violenta estudiantil."
+    ]
+  },
+  {
+    "id": "H-134",
+    "materia": "Historia",
+    "dificultad": 4,
+    "tiempoSugerido": 75,
+    "pregunta": "Tras la Segunda Guerra Mundial, ¿qué nombre recibió la alianza de países liderados por India, Egipto y Yugoslavia que buscaban mantenerse neutrales ante los dos bloques?",
+    "opciones": [
+      "Movimiento de Países No Alineados (MNOAL)",
+      "Pacto de Varsovia",
+      "Mercosur",
+      "Organización de Estados Americanos (OEA)"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Identificar la Conferencia de Bandung de 1955.",
+      "Paso 2: Reconocer el deseo de las naciones recién descolonizadas de no ser satélites de la URSS o de EE.UU.",
+      "Resultado: Movimiento de Países No Alineados."
+    ]
+  },
+  {
+    "id": "H-135",
+    "materia": "Historia",
+    "dificultad": 4,
+    "tiempoSugerido": 70,
+    "pregunta": "¿Qué factor económico fue clave para el 'Milagro Mexicano' (1940-1970)?",
+    "opciones": [
+      "La industrialización por sustitución de importaciones",
+      "La exportación masiva de petróleo",
+      "El Tratado de Libre Comercio con EE.UU.",
+      "La eliminación total de los impuestos"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Analizar el modelo de desarrollo estabilizador que protegía la industria nacional.",
+      "Paso 2: Reconocer el crecimiento sostenido del PIB y la estabilidad del peso durante estas décadas.",
+      "Resultado: Sustitución de importaciones."
+    ]
+  },
+  {
+    "id": "H-136",
+    "materia": "Historia",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Qué fenómeno económico y cultural se caracteriza por la creciente interdependencia entre las naciones, la liberalización de mercados y el uso masivo de tecnologías de la información?",
+    "opciones": [
+      "Globalización",
+      "Mercantilismo",
+      "Socialismo",
+      "Proteccionismo"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Identificar el proceso mundial que integra economías y sociedades a través del comercio y la cultura digital.",
+      "Paso 2: Reconocer el papel de los tratados de libre comercio y la caída de fronteras económicas.",
+      "Resultado: Globalización."
+    ],
+    "analisisDeError": {
+      "1": "El mercantilismo es un sistema del siglo XVI al XVIII basado en la acumulación de metales.",
+      "3": "El proteccionismo busca cerrar los mercados para favorecer la industria nacional, lo opuesto a la globalización."
+    }
+  },
+  {
+    "id": "H-137",
+    "materia": "Historia",
+    "dificultad": 3,
+    "tiempoSugerido": 65,
+    "pregunta": "Modelo económico aplicado en México entre 1940 y 1970 que buscaba producir internamente los bienes que antes se compraban al extranjero.",
+    "opciones": [
+      "Sustitución de Importaciones",
+      "Desarrollo Estabilizador",
+      "Neoliberalismo",
+      "Desarrollo Compartido"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Identificar la política industrial de la posguerra (Segunda Guerra Mundial).",
+      "Paso 2: Reconocer el fomento a la industria nacional mediante aranceles a productos importados.",
+      "Resultado: Sustitución de Importaciones."
+    ],
+    "analisisDeError": {
+      "1": "El Desarrollo Estabilizador es el periodo específico de 1954 a 1970 con inflación baja, pero el modelo general es el de sustitución.",
+      "2": "El neoliberalismo inició en México a partir de 1982."
+    }
+  },
+  {
+    "id": "H-138",
+    "materia": "Historia",
+    "dificultad": 3,
+    "tiempoSugerido": 70,
+    "pregunta": "¿Qué evento histórico de 1991 marcó la disolución oficial del bloque socialista y el fin de la Guerra Fría?",
+    "opciones": [
+      "La desintegración de la Unión Soviética (URSS)",
+      "La caída del Muro de Berlín",
+      "La Guerra del Golfo",
+      "La reunificación alemana"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Distinguir entre el símbolo físico del colapso (el muro) y el final jurídico del Estado soviético.",
+      "Paso 2: Identificar la firma de los acuerdos que crearon la Comunidad de Estados Independientes.",
+      "Resultado: Desintegración de la URSS."
+    ],
+    "analisisDeError": {
+      "1": "La caída del muro ocurrió en 1989 y fue el inicio del proceso, no el final de la URSS.",
+      "3": "La reunificación alemana ocurrió en 1990."
+    }
+  },
+  {
+    "id": "H-139",
+    "materia": "Historia",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "Presidente de México que firmó el Tratado de Libre Comercio de América del Norte (TLCAN) que entró en vigor en 1994.",
+    "opciones": [
+      "Carlos Salinas de Gortari",
+      "Ernesto Zedillo",
+      "Miguel de la Madrid",
+      "Vicente Fox"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Identificar el sexenio (1988-1994) caracterizado por la privatización y apertura comercial.",
+      "Paso 2: Reconocer el hito del giro hacia el neoliberalismo en México.",
+      "Resultado: Carlos Salinas de Gortari."
+    ]
+  },
+  {
+    "id": "H-140",
+    "materia": "Historia",
+    "dificultad": 3,
+    "tiempoSugerido": 65,
+    "pregunta": "Nombre del movimiento guerrillero que se levantó en Chiapas el 1 de enero de 1994 exigiendo derechos para los pueblos indígenas.",
+    "opciones": [
+      "EZLN",
+      "EPR",
+      "Liga Comunista 23 de Septiembre",
+      "Frente Sandinista"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Identificar el acrónimo del Ejército Zapatista de Liberación Nacional.",
+      "Paso 2: Reconocer la figura del Subcomandante Marcos y el impacto en la política mexicana.",
+      "Resultado: EZLN."
+    ]
+  },
+  {
+    "id": "H-141",
+    "materia": "Historia",
+    "dificultad": 3,
+    "tiempoSugerido": 70,
+    "pregunta": "¿Qué presidente mexicano nacionalizó la banca en 1982, justo antes de terminar su mandato en medio de una crisis económica?",
+    "opciones": [
+      "José López Portillo",
+      "Luis Echeverría Álvarez",
+      "Miguel de la Madrid",
+      "Gustavo Díaz Ordaz"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Ubicar el final del sexenio marcado por la devaluación del peso y la deuda externa.",
+      "Paso 2: Recordar su último informe de gobierno frente al Congreso.",
+      "Resultado: José López Portillo."
+    ]
+  },
+  {
+    "id": "H-142",
+    "materia": "Historia",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "Organización internacional que surge tras la caída del bloque soviético para integrar económicamente a la mayoría de los países de Europa con una moneda común.",
+    "opciones": [
+      "Unión Europea",
+      "OTAN",
+      "Mercosur",
+      "Consejo de Europa"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Identificar el tratado de Maastricht de 1992.",
+      "Paso 2: Reconocer la creación del Euro.",
+      "Resultado: Unión Europea."
+    ]
+  },
+  {
+    "id": "H-143",
+    "materia": "Historia",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "Se considera el hito que marcó la transición democrática en México al ser la primera vez que un partido de oposición ganó la presidencia tras 71 años del PRI.",
+    "opciones": [
+      "Las elecciones del año 2000",
+      "La reforma electoral de 1977",
+      "La creación del IFE en 1990",
+      "La elección de Cuauhtémoc Cárdenas en 1988"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Identificar la victoria de Vicente Fox Quesada (PAN).",
+      "Paso 2: Reconocer el concepto de alternancia política.",
+      "Resultado: Elecciones del 2000."
+    ]
+  },
+  {
+    "id": "H-144",
+    "materia": "Historia",
+    "dificultad": 3,
+    "tiempoSugerido": 75,
+    "pregunta": "Proceso de reformas políticas impulsado por Mijaíl Gorbachov que buscaba la transparencia y la libertad de expresión en la URSS.",
+    "opciones": [
+      "Glasnost",
+      "Perestroika",
+      "Détente",
+      "Pactomania"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Diferenciar entre reforma económica y reforma política.",
+      "Paso 2: Reconocer que Glasnost significa 'transparencia' o 'apertura'.",
+      "Resultado: Glasnost."
+    ]
+  },
+  {
+    "id": "H-145",
+    "materia": "Historia",
+    "dificultad": 3,
+    "tiempoSugerido": 65,
+    "pregunta": "¿Qué presidente mexicano impulsó el programa 'Solidaridad' como eje de su política social durante el auge del neoliberalismo?",
+    "opciones": [
+      "Carlos Salinas de Gortari",
+      "Ernesto Zedillo",
+      "Felipe Calderón",
+      "Enrique Peña Nieto"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Identificar la estrategia para combatir la pobreza mediante la participación comunitaria en los años 90.",
+      "Paso 2: Asociarlo con el Programa Nacional de Solidaridad (PRONASOL).",
+      "Resultado: Carlos Salinas de Gortari."
+    ]
+  },
+  {
+    "id": "H-146",
+    "materia": "Historia",
+    "dificultad": 3,
+    "tiempoSugerido": 70,
+    "pregunta": "Periodo de crecimiento económico acelerado en México entre 1954 y 1970, caracterizado por un tipo de cambio fijo frente al dólar (12.50).",
+    "opciones": [
+      "Desarrollo Estabilizador",
+      "El Milagro Mexicano",
+      "Ambas A y B son correctas",
+      "La Década Perdida"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Identificar que ambos términos se usan para describir la misma época de prosperidad industrial.",
+      "Paso 2: Reconocer la gestión de los secretarios de hacienda de la época.",
+      "Resultado: Desarrollo Estabilizador / Milagro Mexicano."
+    ]
+  },
+  {
+    "id": "H-147",
+    "materia": "Historia",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Qué tragedia sacudió a la Ciudad de México en septiembre de 1985, evidenciando la incapacidad de respuesta del gobierno y fortaleciendo a la sociedad civil?",
+    "opciones": [
+      "El terremoto de 8.1 grados",
+      "La explosión de San Juan Ixhuatepec",
+      "La matanza de Tlatelolco",
+      "El 'Halconazo'"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Identificar el desastre natural que provocó el nacimiento de brigadas ciudadanas (Topos).",
+      "Paso 2: Ubicar el evento en el sexenio de Miguel de la Madrid.",
+      "Resultado: El terremoto de 1985."
+    ]
+  },
+  {
+    "id": "H-148",
+    "materia": "Historia",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Qué modelo económico, caracterizado por la reducción del gasto público y la privatización de empresas estatales, comenzó a aplicarse en México a partir de 1982?",
+    "opciones": [
+      "Neoliberalismo",
+      "Desarrollo Estabilizador",
+      "Socialismo de Estado",
+      "Mercantilismo"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Identificar el cambio de política económica tras la crisis de la deuda de 1982.",
+      "Paso 2: Reconocer la influencia de organismos internacionales como el FMI en la apertura de mercados.",
+      "Resultado: Neoliberalismo."
+    ],
+    "analisisDeError": {
+      "1": "El Desarrollo Estabilizador fue el modelo previo (1954-1970) basado en el proteccionismo.",
+      "2": "México nunca ha aplicado un modelo de Socialismo de Estado como eje central de su economía."
+    }
+  },
+  {
+    "id": "H-149",
+    "materia": "Historia",
+    "dificultad": 3,
+    "tiempoSugerido": 65,
+    "pregunta": "Estrategia de reforma económica impulsada por Mijaíl Gorbachov en la URSS que buscaba modernizar el sistema productivo mediante la introducción de elementos de mercado.",
+    "opciones": [
+      "Perestroika",
+      "Glasnost",
+      "Plan Quinquenal",
+      "Nueva Política Económica (NEP)"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Diferenciar entre las reformas políticas y las económicas en la Unión Soviética de los años 80.",
+      "Paso 2: Identificar el término ruso que significa 'reestructuración'.",
+      "Resultado: Perestroika."
+    ],
+    "analisisDeError": {
+      "1": "Glasnost se refiere a la apertura política y transparencia informativa, no a la economía.",
+      "3": "La NEP fue una política de Lenin en los años 20, décadas antes de la caída del bloque."
+    }
+  },
+  {
+    "id": "H-150",
+    "materia": "Historia",
+    "dificultad": 3,
+    "tiempoSugerido": 70,
+    "pregunta": "¿Cuál fue una de las principales demandas del movimiento estudiantil de 1968 en México, plasmada en su pliego petitorio?",
+    "opciones": [
+      "La libertad de los presos políticos y la derogación del delito de disolución social",
+      "El derrocamiento del presidente Gustavo Díaz Ordaz",
+      "La instauración de un gobierno comunista",
+      "La cancelación de los Juegos Olímpicos"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Analizar las peticiones del Consejo Nacional de Huelga (CNH).",
+      "Paso 2: Reconocer que el movimiento buscaba democratización y respeto a la autonomía, no la toma armada del poder.",
+      "Resultado: Libertad a presos políticos."
+    ],
+    "analisisDeError": {
+      "1": "Aunque criticaban al presidente, su pliego petitorio oficial no exigía su renuncia directa como punto central.",
+      "2": "El movimiento era plural e ideológicamente diverso, no exclusivamente comunista."
+    }
+  },
+  {
+    "id": "H-151",
+    "materia": "Historia",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "En el contexto de la globalización, ¿cuál es la función principal del Fondo Monetario Internacional (FMI)?",
+    "opciones": [
+      "Fomentar la cooperación monetaria global y asegurar la estabilidad financiera mediante préstamos a países en crisis",
+      "Garantizar la paz militar entre las naciones",
+      "Administrar los recursos naturales de los países en desarrollo",
+      "Eliminar las fronteras políticas del mundo"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Identificar al FMI como un organismo financiero nacido de los acuerdos de Bretton Woods.",
+      "Paso 2: Reconocer su papel en la supervisión de los sistemas de tipos de cambio.",
+      "Resultado: Estabilidad financiera y préstamos."
+    ]
+  },
+  {
+    "id": "H-152",
+    "materia": "Historia",
+    "dificultad": 3,
+    "tiempoSugerido": 65,
+    "pregunta": "¿Qué presidente de México impulsó el modelo de 'Desarrollo Compartido' (1970-1976), aumentando el gasto público para intentar reducir la brecha social?",
+    "opciones": [
+      "Luis Echeverría Álvarez",
+      "José López Portillo",
+      "Adolfo López Mateos",
+      "Carlos Salinas de Gortari"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Identificar el sexenio que siguió al de Díaz Ordaz y que buscó reconciliar al Estado con la sociedad tras 1968.",
+      "Paso 2: Reconocer la política de fuerte intervención estatal en la economía.",
+      "Resultado: Luis Echeverría Álvarez."
+    ]
+  },
+  {
+    "id": "H-153",
+    "materia": "Historia",
+    "dificultad": 2,
+    "tiempoSugerido": 55,
+    "pregunta": "La caída del Muro de Berlín en noviembre de 1989 es considerada el símbolo del fin de:",
+    "opciones": [
+      "El bloque socialista en Europa del Este",
+      "La Segunda Guerra Mundial",
+      "La Unión Europea",
+      "El capitalismo en Alemania"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Ubicar el muro como la frontera entre las dos Alemanias y los dos mundos ideológicos.",
+      "Paso 2: Reconocer que su apertura permitió la caída en cadena de los regímenes comunistas satélites de la URSS.",
+      "Resultado: Fin del bloque socialista."
+    ]
+  },
+  {
+    "id": "H-154",
+    "materia": "Historia",
+    "dificultad": 3,
+    "tiempoSugerido": 70,
+    "pregunta": "¿Qué institución fue creada en México en 1990 para dar certeza y legalidad a los procesos electorales tras la crisis de 1988?",
+    "opciones": [
+      "Instituto Federal Electoral (IFE)",
+      "Tribunal Electoral (TEPJF)",
+      "Secretaría de Gobernación",
+      "Comisión Nacional de Derechos Humanos"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Identificar la necesidad de un órgano ciudadano independiente tras la 'caída del sistema'.",
+      "Paso 2: Reconocer el papel del IFE (hoy INE) en la transición a la alternancia.",
+      "Resultado: IFE."
+    ]
+  },
+  {
+    "id": "H-155",
+    "materia": "Historia",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "Nombre del bloque económico integrado por Brasil, Rusia, India, China y Sudáfrica que busca equilibrar el poder económico mundial frente a Occidente.",
+    "opciones": [
+      "BRICS",
+      "G7",
+      "OTAN",
+      "Tratado de libre comercio"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Asociar las siglas con los nombres de los países emergentes involucrados.",
+      "Paso 2: Identificar su relevancia en el panorama geopolítico actual.",
+      "Resultado: BRICS."
+    ]
+  },
+  {
+    "id": "H-156",
+    "materia": "Historia",
+    "dificultad": 3,
+    "tiempoSugerido": 65,
+    "pregunta": "¿Cuál fue la consecuencia inmediata del error de diciembre' en 1994 al inicio del sexenio de Ernesto Zedillo?",
+    "opciones": [
+      "Una devaluación masiva del peso y una crisis financiera conocida como 'Efecto Tequila'",
+      "El auge del petróleo mexicano",
+      "La firma inmediata del TLCAN",
+      "La nacionalización de la banca"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Analizar la fuga de capitales por la falta de reservas internacionales.",
+      "Paso 2: Reconocer el impacto internacional de la crisis financiera mexicana de 1994-1995.",
+      "Resultado: Devaluación y Efecto Tequila."
+    ]
+  },
+  {
+    "id": "H-157",
+    "materia": "Historia",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Qué evento del 11 de septiembre de 2001 cambió la agenda política mundial y marcó el inicio de la 'Guerra contra el terrorismo' liderada por EE.UU.?",
+    "opciones": [
+      "El ataque a las Torres Gemelas en Nueva York",
+      "La invasión a Irak",
+      "La muerte de Osama Bin Laden",
+      "La primavera árabe"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Identificar el atentado terrorista de Al Qaeda en suelo estadounidense.",
+      "Paso 2: Reconocer las repercusiones en la seguridad global y las invasiones posteriores a Afganistán.",
+      "Resultado: Ataque a las Torres Gemelas."
+    ]
+  },
+  {
+    "id": "H-158",
+    "materia": "Historia",
+    "dificultad": 3,
+    "tiempoSugerido": 70,
+    "pregunta": "¿Cómo se llama la etapa económica de México entre 1982 y 2018 donde el Estado dejó de ser el principal motor de la economía para dar paso a la iniciativa privada?",
+    "opciones": [
+      "Periodo Neoliberal",
+      "Milagro Mexicano",
+      "Populismo",
+      "Etapa Revolucionaria"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Identificar la tendencia global de privatización y apertura comercial iniciada por Miguel de la Madrid.",
+      "Paso 2: Reconocer la firma de tratados internacionales como el sello de esta era.",
+      "Resultado: Periodo Neoliberal."
+    ]
+  },
+  {
+    "id": "H-159",
+    "materia": "Historia",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Qué nombre recibe el conflicto en el que Irak invadió Kuwait en 1990, provocando la intervención de una coalición internacional liderada por EE.UU. en 1991?",
+    "opciones": [
+      "Guerra del Golfo Pérsico",
+      "Guerra de los Seis Días",
+      "Guerra de Irán-Irak",
+      "Guerra Fría"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Identificar el primer gran conflicto bélico televisado tras la caída del muro.",
+      "Paso 2: Reconocer la Operación Tormenta del Desierto.",
+      "Resultado: Guerra del Golfo."
+    ]
+  },
+  {
+    "id": "H-160",
+    "materia": "Historia",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Qué nombre recibió la política de 'apertura' informativa y libertad de expresión impulsada por Mijaíl Gorbachov para reformar el sistema soviético?",
+    "opciones": [
+      "Glasnost",
+      "Perestroika",
+      "Détente",
+      "Revolución de Terciopelo"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Diferenciar entre las reformas de la URSS en los años 80.",
+      "Paso 2: Identificar que el Glasnost permitía la crítica al gobierno y la transparencia.",
+      "Resultado: Glasnost."
+    ],
+    "analisisDeError": {
+      "1": "La Perestroika fue la reforma centrada exclusivamente en la reestructuración económica.",
+      "3": "La Revolución de Terciopelo fue el movimiento pacífico que terminó con el comunismo en Checoslovaquia."
+    }
+  },
+  {
+    "id": "H-161",
+    "materia": "Historia",
+    "dificultad": 3,
+    "tiempoSugerido": 65,
+    "pregunta": "¿Cuál fue el principal objetivo del modelo de 'Desarrollo Estabilizador' implementado en México entre 1954 y 1970?",
+    "opciones": [
+      "Lograr un crecimiento económico sostenido con baja inflación y estabilidad cambiaria",
+      "Nacionalizar todas las empresas extranjeras de energía",
+      "Fomentar únicamente la exportación de materias primas",
+      "Reducir el gasto público a niveles mínimos"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Analizar las metas de la Secretaría de Hacienda bajo la gestión de Ortiz Mena.",
+      "Paso 2: Reconocer el periodo de estabilidad del peso frente al dólar (12.50).",
+      "Resultado: Crecimiento con estabilidad cambiaria e inflación baja."
+    ],
+    "analisisDeError": {
+      "2": "México ya era un país industrializado en esa época; el enfoque era fortalecer el mercado interno.",
+      "3": "El periodo se caracterizó por un alto gasto público en infraestructura y subsidios industriales."
+    }
+  },
+  {
+    "id": "H-162",
+    "materia": "Historia",
+    "dificultad": 3,
+    "tiempoSugerido": 70,
+    "pregunta": "¿Qué suceso de 1989 simbolizó el fin de la división física e ideológica de Europa durante la Guerra Fría?",
+    "opciones": [
+      "La caída del Muro de Berlín",
+      "La desintegración de Yugoslavia",
+      "La firma del Pacto de Varsovia",
+      "El desastre de Chernóbil"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Identificar el evento que unió simbólicamente a las dos Alemanias.",
+      "Paso 2: Reconocer el colapso del bloque socialista en Europa del Este tras este evento.",
+      "Resultado: La caída del Muro de Berlín."
+    ],
+    "analisisDeError": {
+      "1": "La desintegración de Yugoslavia ocurrió en los años 90 y fue un proceso bélico complejo.",
+      "2": "El Pacto de Varsovia fue una alianza militar socialista creada en 1955, no un suceso de fin de guerra."
+    }
+  },
+  {
+    "id": "H-163",
+    "materia": "Historia",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "Presidente de México que implementó la reforma electoral de 1977, la cual permitió la participación legal de partidos de oposición como el PCM.",
+    "opciones": [
+      "José López Portillo",
+      "Luis Echeverría Álvarez",
+      "Miguel de la Madrid",
+      "Gustavo Díaz Ordaz"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Identificar la necesidad del régimen de relegitimarse tras la represión de 1968 y 1971.",
+      "Paso 2: Reconocer la LOPPE (Ley Federal de Organizaciones Políticas y Procesos Electorales) de 1977.",
+      "Resultado: José López Portillo."
+    ]
+  },
+  {
+    "id": "H-164",
+    "materia": "Historia",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Cómo se define el concepto de 'Soberanía Nacional' en el contexto de la globalización?",
+    "opciones": [
+      "El derecho de un pueblo a gobernarse a sí mismo sin interferencia extranjera",
+      "La capacidad de una nación para conquistar otros territorios",
+      "El control total de las redes sociales por parte del Estado",
+      "La eliminación de las tradiciones locales para adoptar una cultura mundial"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Definir el principio básico de autodeterminación.",
+      "Paso 2: Comprender que la globalización pone a prueba este concepto mediante tratados internacionales.",
+      "Resultado: Derecho a gobernarse sin interferencia externa."
+    ]
+  },
+  {
+    "id": "H-165",
+    "materia": "Historia",
+    "dificultad": 3,
+    "tiempoSugerido": 75,
+    "pregunta": "Organismo internacional creado tras la Segunda Guerra Mundial para promover la estabilidad monetaria y ayudar a países con problemas en su balanza de pagos.",
+    "opciones": [
+      "Fondo Monetario Internacional (FMI)",
+      "Banco Mundial",
+      "Organización Mundial del Comercio (OMC)",
+      "Plan Marshall"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Identificar las instituciones surgidas de los acuerdos de Bretton Woods.",
+      "Paso 2: Diferenciar entre reconstrucción (Banco Mundial) y estabilidad financiera (FMI).",
+      "Resultado: FMI."
+    ]
+  },
+  {
+    "id": "H-166",
+    "materia": "Historia",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Qué sector de la economía mexicana recibió el mayor impulso durante el periodo del 'Milagro Mexicano'?",
+    "opciones": [
+      "Industrial",
+      "Agrícola de subsistencia",
+      "Minero tradicional",
+      "Turístico de lujo"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Analizar el modelo de sustitución de importaciones.",
+      "Paso 2: Reconocer el crecimiento de fábricas manufactureras y de bienes de consumo en las ciudades.",
+      "Resultado: Sector Industrial."
+    ]
+  },
+  {
+    "id": "H-167",
+    "materia": "Historia",
+    "dificultad": 3,
+    "tiempoSugerido": 65,
+    "pregunta": "Conflicto que marcó la primera intervención militar masiva de una coalición internacional tras el fin de la Guerra Fría para liberar a Kuwait en 1991.",
+    "opciones": [
+      "Guerra del Golfo Pérsico",
+      "Guerra de Vietnam",
+      "Guerra de las Malvinas",
+      "Guerra de los Seis Días"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Ubicar el conflicto tras la invasión de Saddam Hussein a Kuwait.",
+      "Paso 2: Reconocer la Operación Tormenta del Desierto liderada por EE.UU..",
+      "Resultado: Guerra del Golfo."
+    ]
+  },
+  {
+    "id": "H-168",
+    "materia": "Historia",
+    "dificultad": 3,
+    "tiempoSugerido": 70,
+    "pregunta": "¿Qué presidente mexicano privatizó la empresa Teléfonos de México (TELMEX) como parte de sus reformas neoliberales?",
+    "opciones": [
+      "Carlos Salinas de Gortari",
+      "Ernesto Zedillo",
+      "Vicente Fox",
+      "Miguel de la Madrid"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Identificar el sexenio de mayor venta de paraestatales (1988-1994).",
+      "Paso 2: Vincular la modernización económica con la reducción del Estado.",
+      "Resultado: Carlos Salinas de Gortari."
+    ]
+  },
+  {
+    "id": "H-169",
+    "materia": "Historia",
+    "dificultad": 2,
+    "tiempoSugerido": 55,
+    "pregunta": "¿Cuál es una de las consecuencias culturales más visibles de la globalización?",
+    "opciones": [
+      "La homogenización cultural y el consumo de productos mediáticos globales",
+      "La prohibición total del intercambio entre países",
+      "El regreso al feudalismo",
+      "La desaparición absoluta de todos los idiomas locales"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Analizar la influencia de marcas y contenidos globales en la vida cotidiana.",
+      "Paso 2: Reconocer el fenómeno del consumo estandarizado.",
+      "Resultado: Homogenización cultural."
+    ]
+  },
+  {
+    "id": "H-170",
+    "materia": "Historia",
+    "dificultad": 3,
+    "tiempoSugerido": 65,
+    "pregunta": "Proceso iniciado en México en 1982 que buscaba corregir el déficit fiscal mediante el recorte de subsidios y la apertura comercial.",
+    "opciones": [
+      "Ajuste Estructural (Neoliberalismo)",
+      "Desarrollo Compartido",
+      "Revolución Verde",
+      "Proteccionismo"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Identificar la respuesta del gobierno de Miguel de la Madrid ante la crisis económica de 1982.",
+      "Paso 2: Reconocer la entrada de México al GATT (hoy OMC) en 1986.",
+      "Resultado: Ajuste Estructural / Neoliberalismo."
+    ]
+  },
+  {
+    "id": "H-171",
+    "materia": "Historia",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "Estado de la República Mexicana donde surgió el movimiento zapatista (EZLN) en 1994.",
+    "opciones": [
+      "Chiapas",
+      "Oaxaca",
+      "Guerrero",
+      "Michoacán"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Ubicar geográficamente el levantamiento indígena contra el TLCAN.",
+      "Paso 2: Reconocer el impacto social de este movimiento en el sureste mexicano.",
+      "Resultado: Chiapas."
+    ]
   }
 ]
