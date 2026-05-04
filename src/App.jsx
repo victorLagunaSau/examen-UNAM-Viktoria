@@ -16,30 +16,34 @@ function App() {
     const [tiempoRestante, setTiempoRestante] = useState(0);
 
     const iniciarExamen = (cantFinal, difFinal) => {
-        // 1. Filtrar por dificultad
-        let filtradas = todasLasPreguntas.filter(p => p.dificultad === difFinal);
+    const poolDificultad = todasLasPreguntas.filter(p => p.dificultad === difFinal);
 
-        if (filtradas.length < cantFinal) {
-            const otras = todasLasPreguntas.filter(p => p.dificultad !== difFinal);
-            filtradas = [...filtradas, ...otras];
-        }
+    // 1. Definimos cuotas equitativas (30% para cada una)
+    const cuotaMate = Math.floor(cantFinal * 0.20);
+    const cuotaFisica = Math.floor(cantFinal * 0.20);
+    const cuotaOtros = cantFinal - (cuotaMate + cuotaFisica);
 
-        // 2. Mezclar para que no sean siempre las mismas preguntas
-        const seleccionadas = filtradas
-            .sort(() => 0.5 - Math.random())
-            .slice(0, cantFinal);
+    // 2. Filtramos por materia específica
+    const poolMate = poolDificultad.filter(p => p.materia.toLowerCase().includes("matemáticas"));
+    const poolFisica = poolDificultad.filter(p => p.materia.toLowerCase().includes("física"));
+    const poolResto = poolDificultad.filter(p =>
+        !p.materia.toLowerCase().includes("matemáticas") &&
+        !p.materia.toLowerCase().includes("física")
+    );
 
-        // 3. ¡EL TRUCO! Agrupar por materia antes de mandarlas a la pantalla
-        // Esto las ordenará alfabéticamente por materia (Biología, Español, Física...)
-        const agrupadasPorMateria = seleccionadas.sort((a, b) =>
-            a.materia.localeCompare(b.materia)
-        );
+    // 3. Selección aleatoria por cuotas
+    const seleccionMate = poolMate.sort(() => 0.5 - Math.random()).slice(0, cuotaMate);
+    const seleccionFisica = poolFisica.sort(() => 0.5 - Math.random()).slice(0, cuotaFisica);
+    const seleccionResto = poolResto.sort(() => 0.5 - Math.random()).slice(0, cuotaOtros);
 
-        setPreguntasExamen(agrupadasPorMateria);
-        setRespuestasUsuario([]);
-        setTiempoRestante(cantFinal * 60);
-        setFase('examen');
-    };
+    // 4. Mezcla final
+    const examenFinal = [...seleccionMate, ...seleccionFisica, ...seleccionResto].sort(() => 0.5 - Math.random());
+
+    setPreguntasExamen(examenFinal);
+    setRespuestasUsuario([]);
+    setTiempoRestante(cantFinal * 60);
+    setFase('examen');
+};
 
     useEffect(() => {
         let timer;

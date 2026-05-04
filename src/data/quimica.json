@@ -1,390 +1,4680 @@
 [
   {
-    "id": "q1",
+    "id": "Q-01",
     "materia": "Química",
     "dificultad": 1,
     "tiempoSugerido": 45,
-    "pregunta": "¿Qué partículas subatómicas determinan la identidad de un elemento químico (número atómico (form)Z(/form))?",
-    "formulaPrincipal": "Z = p^+",
-    "opciones": ["Electrones", "Protones", "Neutrones", "Positrones"],
+    "pregunta": "¿Qué nombre recibe la sustancia pura que no puede descomponerse en otras más sencillas por métodos químicos ordinarios?",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Compuesto",
+      "Elemento",
+      "Mezcla homogénea",
+      "Coloide"
+    ],
     "correcta": 1,
     "explicacionPasos": [
-      "Paso 1: Definir el número atómico (form)Z(/form).",
-      "Paso 2: Reconocer que (form)Z(/form) representa la cantidad de cargas positivas en el núcleo.",
-      "Paso 3: Identificar que los protones son la única partícula que no varía sin cambiar el elemento mismo.",
-      "Resultado: Protones."
+      "Paso 1: Identificar la definición de unidad básica de la materia según la química.",
+      "Paso 2: Diferenciar entre sustancias puras (elementos y compuestos).",
+      "Paso 3: Reconocer que el elemento está formado por un solo tipo de átomo.",
+      "Resultado: Elemento."
     ],
     "analisisDeError": {
-      "0": "Los electrones varían en los iones sin cambiar la identidad del elemento.",
-      "2": "La variación de neutrones crea isótopos del mismo elemento."
+      "0": "El compuesto sí puede descomponerse en elementos mediante métodos químicos.",
+      "2": "Las mezclas son uniones físicas de dos o más sustancias, no son sustancias puras."
     }
   },
   {
-    "id": "q2",
-    "materia": "Química",
-    "dificultad": 3,
-    "tiempoSugerido": 60,
-    "pregunta": "De acuerdo con la configuración electrónica del carbono ((form)1s^2 \\, 2s^2 \\, 2p^2(/form)), ¿en qué grupo de la tabla periódica se encuentra?",
-    "formulaPrincipal": "ns^x np^y",
-    "opciones": ["Grupo 2", "Grupo 14 (IV A)", "Grupo 16 (VI A)", "Grupo 4"],
-    "correcta": 1,
-    "explicacionPasos": [
-      "Paso 1: Identificar el nivel de energía más alto ((form)n = 2(/form)).",
-      "Paso 2: Sumar los electrones en ese nivel ((form)2(/form) de (form)s + 2(/form) de (form)p = 4(/form) electrones de valencia).",
-      "Paso 3: Relacionar los (form)4(/form) electrones de valencia con la familia (form)IV \\, A(/form) o Grupo (form)14(/form).",
-      "Resultado: Grupo 14."
-    ],
-    "analisisDeError": {
-      "0": "Error común: solo contar los electrones del subnivel (form)p(/form).",
-      "3": "El grupo 4 pertenece a metales de transición (bloque (form)d(/form))."
-    }
-  },
-  {
-    "id": "q3",
+    "id": "Q-02",
     "materia": "Química",
     "dificultad": 2,
     "tiempoSugerido": 60,
-    "pregunta": "¿Cuál es el tipo de enlace que se forma por la transferencia completa de electrones de un metal a un no metal?",
-    "formulaPrincipal": "\\Delta EN > 1.7",
-    "opciones": ["Covalente polar", "Metálico", "Iónico", "Covalente coordinado"],
+    "pregunta": "Es un ejemplo de un cambio químico de la materia:",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Sublimación del yodo",
+      "Combustión de una vela",
+      "Fusión de un metal",
+      "Disolución de sal en agua"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Definir cambio químico (alteración de la estructura interna y formación de nuevas sustancias).",
+      "Paso 2: Analizar que en la combustión el material reacciona con oxígeno para producir (form)CO_2(/form) y agua.",
+      "Resultado: Combustión de una vela."
+    ],
+    "analisisDeError": {
+      "0": "La sublimación es un cambio de estado físico (sólido a gas) sin cambiar la identidad química.",
+      "3": "La disolución es un proceso físico; la sal y el agua pueden separarse por evaporación."
+    }
+  },
+  {
+    "id": "Q-03",
+    "materia": "Química",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "Si un átomo de Sodio (Na) tiene un número atómico (Z) de 11 y una masa atómica (A) de 23, ¿cuántos neutrones tiene en su núcleo?",
+    "formulaPrincipal": "n = A - Z",
+    "opciones": [
+      "11",
+      "23",
+      "12",
+      "34"
+    ],
     "correcta": 2,
     "explicacionPasos": [
-      "Paso 1: Identificar la naturaleza de los elementos (Metal + No Metal).",
-      "Paso 2: Reconocer que existe una gran diferencia de electronegatividad.",
-      "Paso 3: Definir el enlace donde un átomo \"gana\" y otro \"pierde\" electrones.",
+      "Paso 1: Identificar que (form)Z(/form) es el número de protones y (form)A(/form) es la suma de protones y neutrones.",
+      "Paso 2: Restar el número atómico de la masa atómica: (form)23 - 11(/form).",
+      "Resultado: 12 neutrones."
+    ],
+    "analisisDeError": {
+      "0": "11 es el número de protones y electrones (en estado neutro).",
+      "3": "Error de cálculo: Sumaste los valores en lugar de restarlos."
+    }
+  },
+  {
+    "id": "Q-04",
+    "materia": "Química",
+    "dificultad": 1,
+    "tiempoSugerido": 50,
+    "pregunta": "¿Cómo se le llama a la mezcla donde no se pueden distinguir sus componentes a simple vista y poseen una sola fase?",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Heterogénea",
+      "Homogénea",
+      "Suspensión",
+      "Emulsión"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Definir las características de uniformidad en las mezclas.",
+      "Paso 2: Reconocer que una sola fase es sinónimo de solución o mezcla homogénea.",
+      "Resultado: Homogénea."
+    ],
+    "analisisDeError": {
+      "0": "En la heterogénea se distinguen dos o más fases.",
+      "2": "La suspensión es un tipo de mezcla heterogénea donde las partículas sedimentan."
+    }
+  },
+  {
+    "id": "Q-05",
+    "materia": "Química",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "Los electrones que se encuentran en el nivel energético más externo de un átomo y participan en la formación de enlaces se llaman:",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Electrones internos",
+      "Electrones de valencia",
+      "Cationes",
+      "Isótopos"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Recordar la estructura electrónica de los átomos.",
+      "Paso 2: Identificar que los electrones periféricos son los responsables de la reactividad química.",
+      "Resultado: Electrones de valencia."
+    ],
+    "analisisDeError": {
+      "2": "Un catión es un átomo que ha perdido electrones, no una partícula subatómica.",
+      "3": "Los isótopos son átomos del mismo elemento con diferente número de neutrones."
+    }
+  },
+  {
+    "id": "Q-06",
+    "materia": "Química",
+    "dificultad": 2,
+    "tiempoSugerido": 65,
+    "pregunta": "En la tabla periódica, a las columnas verticales se les conoce como:",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Periodos",
+      "Bloques",
+      "Grupos o familias",
+      "Niveles"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Identificar la organización de los elementos.",
+      "Paso 2: Reconocer que los elementos en una misma columna comparten propiedades químicas similares.",
+      "Resultado: Grupos o familias."
+    ],
+    "analisisDeError": {
+      "0": "Los periodos son las filas horizontales y representan los niveles de energía.",
+      "1": "Los bloques (s, p, d, f) se refieren a la configuración electrónica, no es el nombre estándar de la columna."
+    }
+  },
+  {
+    "id": "Q-07",
+    "materia": "Química",
+    "dificultad": 1,
+    "tiempoSugerido": 45,
+    "pregunta": "¿Cuál es la partícula subatómica con carga eléctrica negativa que orbita alrededor del núcleo?",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Protón",
+      "Neutrón",
+      "Electrón",
+      "Positrón"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Recordar los componentes del átomo y sus cargas.",
+      "Paso 2: Identificar que el protón es positivo, el neutrón neutro y el electrón negativo.",
+      "Resultado: Electrón."
+    ]
+  },
+  {
+    "id": "Q-08",
+    "materia": "Química",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "La unión química de dos o más elementos diferentes en proporciones fijas y constantes se denomina:",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Mezcla",
+      "Compuesto",
+      "Isótopo",
+      "Alótropo"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Diferenciar entre unión física (mezcla) y unión química (reacción).",
+      "Paso 2: Reconocer que la Ley de las Proporciones Definitivas aplica a las sustancias puras llamadas compuestos.",
+      "Resultado: Compuesto."
+    ],
+    "analisisDeError": {
+      "0": "En la mezcla no hay reacción química y las proporciones pueden variar.",
+      "3": "La alotropía es la propiedad de algunos elementos de presentarse en formas diferentes (ej. diamante y grafito)."
+    }
+  },
+  {
+    "id": "Q-09",
+    "materia": "Química",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Qué método de separación es ideal para separar dos líquidos inmiscibles con diferente densidad (ej. agua y aceite)?",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Destilación",
+      "Filtración",
+      "Decantación",
+      "Cristalización"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Analizar el estado físico de los componentes (líquidos que no se mezclan).",
+      "Paso 2: Identificar el uso del embudo de separación para dejar salir el líquido más denso.",
+      "Resultado: Decantación."
+    ],
+    "analisisDeError": {
+      "0": "La destilación separa líquidos miscibles basándose en sus diferentes puntos de ebullición.",
+      "1": "La filtración separa un sólido insoluble de un líquido."
+    }
+  },
+  {
+    "id": "Q-10",
+    "materia": "Química",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "En la tabla periódica, los elementos que tienen propiedades intermedias entre metales y no metales se denominan:",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Gases nobles",
+      "Halógenos",
+      "Metaloides",
+      "Alcalinos"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Ubicar la 'escalera' que separa metales de no metales.",
+      "Paso 2: Identificar a elementos como el Silicio (Si) o Germanio (Ge) que actúan como semiconductores.",
+      "Resultado: Metaloides."
+    ],
+    "analisisDeError": {
+      "0": "Los gases nobles son inertes y no metales.",
+      "1": "Los halógenos son no metales muy reactivos del grupo VIIA."
+    }
+  },
+  {
+    "id": "Q-11",
+    "materia": "Química",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Cuál es el símbolo químico del elemento Hierro?",
+    "formulaPrincipal": "",
+    "opciones": [
+      "H",
+      "He",
+      "Hi",
+      "Fe"
+    ],
+    "correcta": 3,
+    "explicacionPasos": [
+      "Paso 1: Recordar que muchos símbolos provienen de nombres en latín (*Ferrum*).",
+      "Paso 2: Descartar símbolos que corresponden a otros elementos (Hidrógeno, Helio).",
+      "Resultado: Fe."
+    ]
+  },
+  {
+    "id": "Q-12",
+    "materia": "Química",
+    "dificultad": 2,
+    "tiempoSugerido": 65,
+    "pregunta": "¿Qué indica el 'Número Atómico' de un elemento?",
+    "formulaPrincipal": "Z = p^+",
+    "opciones": [
+      "La suma de protones y neutrones",
+      "La cantidad de neutrones",
+      "La cantidad de protones en el núcleo",
+      "El peso del átomo"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Definir la identidad de un elemento químico.",
+      "Paso 2: Reconocer que lo que define a un átomo como 'Hidrógeno' o 'Carbono' es exclusivamente su número de protones.",
+      "Resultado: Cantidad de protones."
+    ],
+    "analisisDeError": {
+      "0": "Esa definición corresponde al Número de Masa (A).",
+      "3": "El peso o masa atómica es un promedio ponderado de los isótopos existentes."
+    }
+  },
+  {
+    "id": "Q-13",
+    "materia": "Química",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "Un ión con carga positiva, formado por la pérdida de electrones, se conoce como:",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Anión",
+      "Catión",
+      "Isótopo",
+      "Neutrón"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Definir ión (átomo con carga eléctrica).",
+      "Paso 2: Relacionar la pérdida de carga negativa (electrones) con el predominio de carga positiva.",
+      "Resultado: Catión."
+    ],
+    "analisisDeError": {
+      "0": "El anión es un ión con carga negativa (gana electrones).",
+      "2": "Los isótopos no tienen carga eléctrica necesariamente, solo varían en masa."
+    }
+  },
+  {
+    "id": "Q-14",
+    "materia": "Química",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "La capacidad de un átomo para atraer hacia sí los electrones de un enlace químico se define como:",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Radio atómico",
+      "Energía de ionización",
+      "Electronegatividad",
+      "Afinidad electrónica"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Identificar la propiedad periódica relacionada con la fuerza de atracción en el enlace.",
+      "Paso 2: Recordar que el Flúor es el elemento con el valor más alto en esta escala.",
+      "Resultado: Electronegatividad."
+    ],
+    "analisisDeError": {
+      "1": "La energía de ionización es la energía necesaria para *quitar* un electrón de un átomo gaseoso.",
+      "3": "La afinidad electrónica es la energía liberada cuando un átomo capta un electrón."
+    }
+  },
+  {
+    "id": "Q-15",
+    "materia": "Química",
+    "dificultad": 1,
+    "tiempoSugerido": 45,
+    "pregunta": "En la tabla periódica, ¿cuál es el grupo que se encuentra en el extremo derecho y se caracteriza por ser químicamente inerte?",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Metales alcalinos",
+      "Halógenos",
+      "Gases nobles",
+      "Lantánidos"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Identificar el grupo VIII A (o grupo 18).",
+      "Paso 2: Reconocer que tienen su octeto completo, lo que los hace muy estables y poco reactivos.",
+      "Resultado: Gases nobles."
+    ]
+  },
+  {
+    "id": "Q-16",
+    "materia": "Química",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Qué nombre reciben las filas horizontales en la tabla periódica, las cuales indican el último nivel de energía de los electrones?",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Grupos",
+      "Familias",
+      "Periodos",
+      "Orbitales"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Identificar la disposición de la tabla periódica.",
+      "Paso 2: Reconocer que hay 7 filas horizontales que corresponden a los niveles de energía (n).",
+      "Resultado: Periodos."
+    ],
+    "analisisDeError": {
+      "0": "Los grupos son las columnas verticales.",
+      "3": "Los orbitales son regiones de probabilidad electrónica, no divisiones de la tabla."
+    }
+  },
+  {
+    "id": "Q-17",
+    "materia": "Química",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "En un átomo neutro, la cantidad de protones es siempre igual a la cantidad de:",
+    "formulaPrincipal": "p^+ = e^-",
+    "opciones": [
+      "Neutrones",
+      "Electrones",
+      "Positrones",
+      "Niveles de energía"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Definir la neutralidad eléctrica (la suma de cargas positivas y negativas debe ser cero).",
+      "Paso 2: Identificar que los protones tienen carga +1 y los electrones -1.",
+      "Resultado: Electrones."
+    ],
+    "analisisDeError": {
+      "0": "La cantidad de neutrones solo es igual a los protones en algunos átomos ligeros, pero no define la neutralidad.",
+      "3": "Los niveles de energía dependen de la configuración electrónica, no de la carga."
+    }
+  },
+  {
+    "id": "Q-18",
+    "materia": "Química",
+    "dificultad": 2,
+    "tiempoSugerido": 65,
+    "pregunta": "Es una sustancia pura formada por la unión química de dos o más elementos en proporciones fijas:",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Mezcla homogénea",
+      "Compuesto",
+      "Isótopo",
+      "Elemento"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Distinguir entre mezclas (unión física) y sustancias puras.",
+      "Paso 2: Identificar que el compuesto tiene una fórmula química definida (ej. H₂O).",
+      "Resultado: Compuesto."
+    ],
+    "analisisDeError": {
+      "0": "La mezcla homogénea no tiene una proporción fija de componentes.",
+      "3": "El elemento solo contiene un tipo de átomo."
+    }
+  },
+  {
+    "id": "Q-19",
+    "materia": "Química",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Cuál es el método de separación que se basa en la diferencia de los puntos de ebullición de los componentes de una mezcla líquida?",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Filtración",
+      "Tamizado",
+      "Destilación",
+      "Magnetización"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Analizar la propiedad física utilizada para la separación.",
+      "Paso 2: Identificar que al calentar, el componente más volátil se evapora primero y luego se condensa.",
+      "Resultado: Destilación."
+    ],
+    "analisisDeError": {
+      "0": "La filtración se basa en la diferencia de tamaño de partícula (sólido-líquido).",
+      "3": "La magnetización requiere que uno de los componentes tenga propiedades ferromagnéticas."
+    }
+  },
+  {
+    "id": "Q-20",
+    "materia": "Química",
+    "dificultad": 1,
+    "tiempoSugerido": 45,
+    "pregunta": "¿Qué partícula subatómica se encuentra en el núcleo y no posee carga eléctrica?",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Protón",
+      "Electrón",
+      "Neutrón",
+      "Quark"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Recordar el modelo atómico básico (núcleo y corteza).",
+      "Paso 2: Identificar las partículas nucleares (protones y neutrones).",
+      "Paso 3: Seleccionar la que tiene carga neutra.",
+      "Resultado: Neutrón."
+    ]
+  },
+  {
+    "id": "Q-21",
+    "materia": "Química",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "¿A qué familia de la tabla periódica pertenece el elemento Potasio (K)?",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Metales alcalinotérreos",
+      "Metales de transición",
+      "Metales alcalinos",
+      "Halógenos"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Ubicar el Potasio en el Grupo 1 (IA).",
+      "Paso 2: Recordar que los elementos de este grupo (excepto el Hidrógeno) son los metales alcalinos.",
+      "Resultado: Metales alcalinos."
+    ],
+    "analisisDeError": {
+      "0": "Los alcalinotérreos son del Grupo 2 (IIA).",
+      "3": "Los halógenos son del Grupo 17 (VIIA)."
+    }
+  },
+  {
+    "id": "Q-22",
+    "materia": "Química",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "Si un átomo tiene 8 protones, 8 electrones y 9 neutrones, su número de masa (A) es:",
+    "formulaPrincipal": "A = p^+ + n^0",
+    "opciones": [
+      "8",
+      "9",
+      "16",
+      "17"
+    ],
+    "correcta": 3,
+    "explicacionPasos": [
+      "Paso 1: Identificar los componentes que aportan masa significativa al átomo (protones y neutrones).",
+      "Paso 2: Sumar la cantidad de protones (8) y neutrones (9).",
+      "Resultado: 17."
+    ],
+    "analisisDeError": {
+      "2": "Error: Sumaste protones y electrones o asumiste que neutrones era igual a protones."
+    }
+  },
+  {
+    "id": "Q-23",
+    "materia": "Química",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Qué tipo de enlace se forma cuando se comparten electrones de manera equitativa entre dos átomos no metálicos?",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Iónico",
+      "Covalente polar",
+      "Covalente no polar",
+      "Metálico"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Identificar la interacción entre no metales (enlace covalente).",
+      "Paso 2: Analizar la distribución de carga. Al ser equitativa (misma electronegatividad), no hay polos.",
+      "Resultado: Covalente no polar."
+    ],
+    "analisisDeError": {
+      "0": "El enlace iónico implica transferencia de electrones, no compartición.",
+      "1": "En el covalente polar, los electrones se comparten de forma desigual."
+    }
+  },
+  {
+    "id": "Q-24",
+    "materia": "Química",
+    "dificultad": 2,
+    "tiempoSugerido": 55,
+    "pregunta": "¿Cuál de las siguientes es una propiedad extensiva de la materia?",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Densidad",
+      "Punto de fusión",
+      "Volumen",
+      "Solubilidad"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Definir propiedad extensiva (depende de la cantidad de materia).",
+      "Paso 2: Observar que si aumentamos la masa, el volumen también aumenta.",
+      "Resultado: Volumen."
+    ],
+    "analisisDeError": {
+      "0": "La densidad es intensiva; no cambia aunque tengas más cantidad de la misma sustancia."
+    }
+  },
+  {
+    "id": "Q-25",
+    "materia": "Química",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Cuál es el símbolo químico del elemento Plata?",
+    "formulaPrincipal": "",
+    "opciones": [
+      "P",
+      "Pl",
+      "Au",
+      "Ag"
+    ],
+    "correcta": 3,
+    "explicacionPasos": [
+      "Paso 1: Recordar el origen latino (*Argentum*).",
+      "Paso 2: Descartar (form)P(/form) (Fósforo) y (form)Au(/form) (Oro).",
+      "Resultado: Ag."
+    ]
+  },
+  {
+    "id": "Q-26",
+    "materia": "Química",
+    "dificultad": 2,
+    "tiempoSugerido": 65,
+    "pregunta": "La tendencia de los átomos a completar 8 electrones en su último nivel de energía para alcanzar estabilidad se conoce como:",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Regla del Octeto",
+      "Principio de exclusión",
+      "Ley de Lavoisier",
+      "Efecto Joule"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Identificar el comportamiento de los átomos al formar enlaces buscando parecerse a los gases nobles.",
+      "Paso 2: Reconocer el número mágico de electrones de valencia para la estabilidad.",
+      "Resultado: Regla del Octeto."
+    ]
+  },
+  {
+    "id": "Q-27",
+    "materia": "Química",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "Un ejemplo de cambio físico es:",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Oxidación de un clavo",
+      "Evaporación del alcohol",
+      "Cocción de un huevo",
+      "Digestión de alimentos"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Definir cambio físico (no cambia la composición química, solo la forma o estado).",
+      "Paso 2: Identificar que el alcohol sigue siendo alcohol tras pasar de líquido a gas.",
+      "Resultado: Evaporación del alcohol."
+    ],
+    "analisisDeError": {
+      "0": "La oxidación es una reacción química con el oxígeno."
+    }
+  },
+  {
+    "id": "Q-28",
+    "materia": "Química",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "Los elementos del Grupo 17 (VIIA) de la tabla periódica son conocidos como:",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Gases nobles",
+      "Anfígenos",
+      "Halógenos",
+      "Térreos"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Identificar el grupo que contiene al Flúor, Cloro e Iodo.",
+      "Paso 2: Recordar el nombre característico de estos formadores de sales.",
+      "Resultado: Halógenos."
+    ]
+  },
+  {
+    "id": "Q-29",
+    "materia": "Química",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Qué tipo de mezcla es la leche, donde las partículas de grasa están dispersas pero no se disuelven completamente?",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Mezcla homogénea",
+      "Solución verdadera",
+      "Coloide",
+      "Sustancia pura"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Analizar el tamaño de las partículas dispersas (intermedio).",
+      "Paso 2: Reconocer que la leche presenta el efecto Tyndall.",
+      "Resultado: Coloide."
+    ]
+  },
+  {
+    "id": "Q-30",
+    "materia": "Química",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "El modelo atómico que propuso por primera vez la existencia de niveles de energía cuantizados para los electrones fue el de:",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Dalton",
+      "Thomson",
+      "Rutherford",
+      "Bohr"
+    ],
+    "correcta": 3,
+    "explicacionPasos": [
+      "Paso 1: Identificar la evolución de la teoría atómica.",
+      "Paso 2: Reconocer el modelo de 'órbitas circulares' con energía definida para cada nivel.",
+      "Resultado: Bohr."
+    ]
+  },
+  {
+    "id": "Q-31",
+    "materia": "Química",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Cuál de los siguientes científicos descubrió el electrón y propuso el modelo atómico conocido como el 'budín de pasas'?",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Ernest Rutherford",
+      "John Dalton",
+      "J.J. Thomson",
+      "Niels Bohr"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Identificar el experimento de los rayos catódicos que demostró la existencia de partículas negativas.",
+      "Paso 2: Reconocer el modelo donde los electrones estaban incrustados en una esfera de carga positiva.",
+      "Resultado: J.J. Thomson."
+    ],
+    "analisisDeError": {
+      "0": "Rutherford descubrió el núcleo atómico mediante el experimento de la lámina de oro.",
+      "1": "Dalton propuso el primer modelo atómico moderno como una esfera sólida e indivisible."
+    }
+  },
+  {
+    "id": "Q-32",
+    "materia": "Química",
+    "dificultad": 2,
+    "tiempoSugerido": 65,
+    "pregunta": "¿Qué nombre recibe el proceso de pasar directamente del estado sólido al estado gaseoso sin pasar por el estado líquido?",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Evaporación",
+      "Sublimación",
+      "Condensación",
+      "Solidificación"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar los cambios de estado de la materia.",
+      "Paso 2: Reconocer el término para el cambio de fase sólido-gas (ej. hielo seco).",
+      "Resultado: Sublimación."
+    ],
+    "analisisDeError": {
+      "0": "La evaporación es el cambio de líquido a gas.",
+      "2": "La condensación es el paso de gas a líquido."
+    }
+  },
+  {
+    "id": "Q-33",
+    "materia": "Química",
+    "dificultad": 1,
+    "tiempoSugerido": 45,
+    "pregunta": "El símbolo químico del elemento Oro es:",
+    "formulaPrincipal": "",
+    "opciones": [
+      "O",
+      "Or",
+      "Ag",
+      "Au"
+    ],
+    "correcta": 3,
+    "explicacionPasos": [
+      "Paso 1: Recordar la raíz latina de los elementos de transición (*Aurum*).",
+      "Paso 2: Diferenciar de otros símbolos similares (O = Oxígeno, Ag = Plata).",
+      "Resultado: Au."
+    ]
+  },
+  {
+    "id": "Q-34",
+    "materia": "Química",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Cómo varían el radio atómico y la electronegatividad en un grupo de la tabla periódica de arriba hacia abajo?",
+    "formulaPrincipal": "",
+    "opciones": [
+      "El radio aumenta y la electronegatividad disminuye",
+      "Ambos aumentan",
+      "El radio disminuye y la electronegatividad aumenta",
+      "Ambos disminuyen"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Analizar que al bajar en un grupo se añaden niveles de energía, aumentando el tamaño (radio).",
+      "Paso 2: Reconocer que al alejarse el núcleo de los electrones externos, disminuye la fuerza de atracción (electronegatividad).",
+      "Resultado: Radio aumenta, electronegatividad disminuye."
+    ],
+    "analisisDeError": {
+      "2": "Esta opción describe el comportamiento al moverse de izquierda a derecha en un periodo."
+    }
+  },
+  {
+    "id": "Q-35",
+    "materia": "Química",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Qué tipo de mezcla es el aire atmosférico limpio?",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Compuesto químico",
+      "Mezcla heterogénea",
+      "Mezcla homogénea",
+      "Elemento gaseoso"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Identificar que el aire está compuesto por varios gases (Nitrógeno, Oxígeno, etc.) que no están unidos químicamente.",
+      "Paso 2: Observar que sus componentes no se distinguen a simple vista y su composición es uniforme.",
+      "Resultado: Mezcla homogénea."
+    ]
+  },
+  {
+    "id": "Q-36",
+    "materia": "Química",
+    "dificultad": 2,
+    "tiempoSugerido": 55,
+    "pregunta": "La masa de un protón es aproximadamente igual a la masa de:",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Un electrón",
+      "Un neutrón",
+      "Un positrón",
+      "Un átomo de Hidrógeno"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Recordar las masas relativas de las partículas subatómicas.",
+      "Paso 2: Identificar que el protón y el neutrón tienen una masa cercana a 1 unidad de masa atómica (uma).",
+      "Resultado: Neutrón."
+    ],
+    "analisisDeError": {
+      "0": "El electrón es aproximadamente 1836 veces más ligero que el protón."
+    }
+  },
+  {
+    "id": "Q-37",
+    "materia": "Química",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Qué caracteriza a los elementos del grupo de los Metales Alcalinotérreos?",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Tienen 1 electrón de valencia",
+      "Tienen 2 electrones de valencia",
+      "Son gases a temperatura ambiente",
+      "Son los más electronegativos de la tabla"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Ubicar el grupo II A (Grupo 2) de la tabla periódica.",
+      "Paso 2: Recordar que el número de grupo para elementos representativos indica los electrones de valencia.",
+      "Resultado: 2 electrones de valencia."
+    ]
+  },
+  {
+    "id": "Q-38",
+    "materia": "Química",
+    "dificultad": 2,
+    "tiempoSugerido": 65,
+    "pregunta": "Un átomo del mismo elemento que difiere en su número de neutrones y, por lo tanto, en su masa atómica, se denomina:",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Alótropo",
+      "Isóbaro",
+      "Isótopo",
+      "Isómero"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Definir la identidad del elemento (mismo número de protones).",
+      "Paso 2: Identificar la variación en el núcleo (neutrones).",
+      "Resultado: Isótopo."
+    ],
+    "analisisDeError": {
+      "0": "Los alótropos son formas diferentes del mismo elemento en el mismo estado físico (ej. grafito y diamante).",
+      "3": "Los isómeros son compuestos con la misma fórmula molecular pero diferente estructura."
+    }
+  },
+  {
+    "id": "Q-39",
+    "materia": "Química",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Cuál es la propiedad intensiva que define la relación entre la masa de una sustancia y el volumen que ocupa?",
+    "formulaPrincipal": "d = m / V",
+    "opciones": [
+      "Viscosidad",
+      "Peso específico",
+      "Densidad",
+      "Molaridad"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Identificar la fórmula que relaciona masa y volumen.",
+      "Paso 2: Reconocer que esta propiedad no depende de la cantidad de materia total.",
+      "Resultado: Densidad."
+    ]
+  },
+  {
+    "id": "Q-40",
+    "materia": "Química",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Qué método de separación se utiliza para obtener sal a partir de agua de mar aprovechando la energía solar?",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Centrifugación",
+      "Cristalización por evaporación",
+      "Cromatografía",
+      "Sublimación"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Analizar la mezcla (sólido disuelto en líquido).",
+      "Paso 2: Identificar que al retirar el solvente (agua) mediante calor, el sólido forma cristales.",
+      "Resultado: Cristalización por evaporación."
+    ]
+  },
+  {
+    "id": "Q-41",
+    "materia": "Química",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "En la configuración electrónica, ¿cuál es el número máximo de electrones que puede albergar el orbital tipo 'p'?",
+    "formulaPrincipal": "",
+    "opciones": [
+      "2",
+      "6",
+      "10",
+      "14"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Recordar los subniveles de energía (s, p, d, f).",
+      "Paso 2: Identificar que el subnivel 'p' tiene 3 orbitales, y cada orbital aloja 2 electrones.",
+      "Resultado: 6 electrones."
+    ]
+  },
+  {
+    "id": "Q-42",
+    "materia": "Química",
+    "dificultad": 1,
+    "tiempoSugerido": 45,
+    "pregunta": "¿Qué elemento es el componente principal del diamante y el grafito?",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Nitrógeno",
+      "Silicio",
+      "Carbono",
+      "Azufre"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Identificar las formas alotrópicas más comunes de los elementos no metálicos.",
+      "Paso 2: Reconocer que el diamante y el grafito son formas puras del mismo elemento.",
+      "Resultado: Carbono."
+    ]
+  },
+  {
+    "id": "Q-43",
+    "materia": "Química",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Cuál es la característica principal de un enlace iónico?",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Se comparten electrones equitativamente",
+      "Existe una transferencia de electrones de un metal a un no metal",
+      "Se forma una nube de electrones deslocalizados",
+      "Se comparten pares de electrones de forma desigual"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar los tipos de átomos involucrados (baja electronegatividad vs alta electronegatividad).",
+      "Paso 2: Reconocer la formación de iones (catión y anión) debido al movimiento de electrones.",
+      "Resultado: Transferencia de electrones."
+    ]
+  },
+  {
+    "id": "Q-44",
+    "materia": "Química",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "A una temperatura y presión dadas, los gases nobles son monoatómicos porque:",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Tienen una electronegatividad muy alta",
+      "Su capa de valencia está completa (octeto)",
+      "Son metales altamente reactivos",
+      "Tienen radios atómicos muy grandes"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Analizar la estabilidad de los gases nobles.",
+      "Paso 2: Identificar que no necesitan compartir o transferir electrones para ser estables.",
+      "Resultado: Capa de valencia completa."
+    ]
+  },
+  {
+    "id": "Q-45",
+    "materia": "Química",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Qué nombre recibe el cambio de estado de gas a sólido sin pasar por líquido?",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Fusión",
+      "Condensación",
+      "Sublimación inversa o deposición",
+      "Vaporización"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Identificar el proceso opuesto a la sublimación.",
+      "Paso 2: Reconocer términos como deposición o cristalización (en contextos específicos).",
+      "Resultado: Sublimación inversa."
+    ]
+  },
+  {
+    "id": "Q-46",
+    "materia": "Química",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Qué nombre recibe la representación simbólica de la composición de una molécula o compuesto químico mediante símbolos y subíndices?",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Ecuación química",
+      "Fórmula química",
+      "Símbolo atómico",
+      "Reacción de síntesis"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar la diferencia entre representar un elemento y un compuesto.",
+      "Paso 2: Reconocer que el uso de subíndices indica la proporción de átomos en la sustancia.",
+      "Resultado: Fórmula química."
+    ],
+    "analisisDeError": {
+      "0": "La ecuación química representa un proceso o cambio químico, no solo la composición de una sustancia.",
+      "2": "El símbolo atómico representa a un solo elemento de la tabla periódica."
+    }
+  },
+  {
+    "id": "Q-47",
+    "materia": "Química",
+    "dificultad": 2,
+    "tiempoSugerido": 65,
+    "pregunta": "En la tabla periódica, ¿cuál es el elemento con mayor electronegatividad?",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Oxígeno (O)",
+      "Cloro (Cl)",
+      "Flúor (F)",
+      "Francio (Fr)"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Analizar la tendencia de la electronegatividad (aumenta hacia arriba y hacia la derecha).",
+      "Paso 2: Identificar al elemento situado en la esquina superior derecha (sin contar gases nobles).",
+      "Resultado: Flúor."
+    ],
+    "analisisDeError": {
+      "3": "El Francio es el elemento con menor electronegatividad (más electropositivo)."
+    }
+  },
+  {
+    "id": "Q-48",
+    "materia": "Química",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Cuál es la partícula subatómica que determina la identidad química de un elemento?",
+    "formulaPrincipal": "Z = p^+",
+    "opciones": [
+      "Neutrón",
+      "Electrón",
+      "Protón",
+      "Positrón"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Recordar que el número atómico (Z) es único para cada elemento.",
+      "Paso 2: Identificar qué partícula define dicho número atómico.",
+      "Resultado: Protón."
+    ],
+    "analisisDeError": {
+      "1": "Los electrones pueden variar en número (iones) sin que el elemento cambie de identidad."
+    }
+  },
+  {
+    "id": "Q-49",
+    "materia": "Química",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Qué tipo de mezcla se forma cuando se disuelve sal de mesa completamente en un vaso con agua?",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Mezcla heterogénea",
+      "Suspensión",
+      "Disolución (mezcla homogénea)",
+      "Compuesto iónico"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Observar si los componentes se distinguen tras la agitación.",
+      "Paso 2: Reconocer que se forma una sola fase líquida transparente.",
+      "Resultado: Disolución."
+    ]
+  },
+  {
+    "id": "Q-50",
+    "materia": "Química",
+    "dificultad": 1,
+    "tiempoSugerido": 45,
+    "pregunta": "El símbolo químico del elemento Cobre es:",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Co",
+      "Cr",
+      "Cu",
+      "Cb"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Recordar el nombre en latín del elemento (*Cuprum*).",
+      "Paso 2: Diferenciar de otros metales (Co = Cobalto, Cr = Cromo).",
+      "Resultado: Cu."
+    ]
+  },
+  {
+    "id": "Q-51",
+    "materia": "Química",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "Es la propiedad que indica la resistencia de un líquido a fluir:",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Tensión superficial",
+      "Viscosidad",
+      "Capilaridad",
+      "Densidad"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Definir las propiedades físicas de los líquidos.",
+      "Paso 2: Identificar la propiedad relacionada con la fricción interna entre moléculas.",
+      "Resultado: Viscosidad."
+    ],
+    "analisisDeError": {
+      "0": "La tensión superficial es la resistencia de la superficie de un líquido a ser penetrada."
+    }
+  },
+  {
+    "id": "Q-52",
+    "materia": "Química",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "¿A qué grupo pertenecen los elementos Helio, Neón y Argón?",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Halógenos",
+      "Metales alcalinos",
+      "Gases nobles",
+      "Metales de transición"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Ubicar los elementos en el extremo derecho de la tabla periódica.",
+      "Paso 2: Reconocer su estabilidad química debida a su capa de valencia completa.",
+      "Resultado: Gases nobles."
+    ]
+  },
+  {
+    "id": "Q-53",
+    "materia": "Química",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "Si un átomo de Carbono tiene 6 protones y 8 neutrones, su masa atómica es:",
+    "formulaPrincipal": "A = p^+ + n^0",
+    "opciones": [
+      "6",
+      "8",
+      "14",
+      "12"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Identificar las partículas nucleares que componen la masa.",
+      "Paso 2: Sumar el número de protones y neutrones.",
+      "Resultado: 14."
+    ]
+  },
+  {
+    "id": "Q-54",
+    "materia": "Química",
+    "dificultad": 2,
+    "tiempoSugerido": 65,
+    "pregunta": "¿Qué tipo de enlace se caracteriza por formar redes cristalinas y conducir electricidad solo cuando está fundido o disuelto en agua?",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Covalente",
+      "Metálico",
+      "Iónico",
+      "Fuerzas de Van der Waals"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Analizar las propiedades de conducción eléctrica y estructuras sólidas.",
+      "Paso 2: Reconocer que la movilidad iónica es necesaria para la conductividad en estos compuestos.",
       "Resultado: Iónico."
     ],
     "analisisDeError": {
-      "0": "En el enlace covalente los electrones se comparten, no se transfieren."
+      "1": "Los metales conducen electricidad en estado sólido debido a sus electrones deslocalizados."
     }
   },
   {
-    "id": "q4",
-    "materia": "Química",
-    "dificultad": 4,
-    "tiempoSugerido": 90,
-    "pregunta": "Al balancear la ecuación (form)CH_4 + O_2 \\rightarrow CO_2 + H_2O(/form), ¿qué coeficiente debe llevar el (form)O_2(/form)?",
-    "formulaPrincipal": "CH_4 + 2O_2 \\rightarrow CO_2 + 2H_2O",
-    "opciones": ["1", "2", "3", "4"],
-    "correcta": 1,
-    "explicacionPasos": [
-      "Paso 1: Contar carbonos (1 reactivo, 1 producto) - Balanceado.",
-      "Paso 2: Balancear hidrógenos: poner un (form)2(/form) en (form)H_2O(/form) para tener (form)4(/form).",
-      "Paso 3: Contar oxígenos en productos: (form)2(/form) (en (form)CO_2(/form)) + (form)2(/form) (en (form)2H_2O(/form)) = (form)4(/form).",
-      "Paso 4: Poner un (form)2(/form) en el reactivo (form)O_2(/form) para obtener (form)4(/form) oxígenos.",
-      "Resultado: 2."
-    ],
-    "analisisDeError": {
-      "0": "Dejaría los oxígenos y los hidrógenos sin balancear."
-    }
-  },
-  {
-    "id": "q5",
+    "id": "Q-55",
     "materia": "Química",
     "dificultad": 2,
     "tiempoSugerido": 60,
-    "pregunta": "¿Cuál es la masa molar del agua ((form)H_2O(/form))? ((form)H = 1 \\, g/mol, \\, O = 16 \\, g/mol(/form))",
-    "formulaPrincipal": "M = \\sum (n \\times m_a)",
-    "opciones": ["17 g/mol", "18 g/mol", "33 g/mol", "16 g/mol"],
-    "correcta": 1,
-    "explicacionPasos": [
-      "Paso 1: Identificar el número de átomos ((form)2(/form) de (form)H, \\, 1(/form) de (form)O(/form)).",
-      "Paso 2: Multiplicar masa por cantidad ((form)2 \\times 1 + 1 \\times 16(/form)).",
-      "Paso 3: Sumar los resultados parciales.",
-      "Resultado: (form)18 \\, g/mol(/form)."
+    "pregunta": "¿Qué método de separación se utiliza para separar limadura de hierro mezclada con arena?",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Filtración",
+      "Decantación",
+      "Magnetización (Imantación)",
+      "Tamizado"
     ],
-    "analisisDeError": {
-      "0": "Olvidaste multiplicar el hidrógeno por su subíndice (form)2(/form)."
-    }
-  },
-  {
-    "id": "q6",
-    "materia": "Química",
-    "dificultad": 1,
-    "tiempoSugerido": 45,
-    "pregunta": "En una escala de (form)pH(/form), una sustancia con un valor de (form)3(/form) se clasifica como:",
-    "formulaPrincipal": "pH = -\\log[H^+]",
-    "opciones": ["Base fuerte", "Neutro", "Ácido", "Base débil"],
     "correcta": 2,
     "explicacionPasos": [
-      "Paso 1: Recordar el rango de la escala de (form)pH(/form) ((form)0(/form) a (form)14(/form)).",
-      "Paso 2: Identificar el punto neutro ((form)7(/form)).",
-      "Paso 3: Ubicar que los valores menores a (form)7(/form) son ácidos.",
-      "Resultado: Ácido."
-    ],
-    "analisisDeError": {
-      "0": "Las bases se encuentran en el rango de (form)7.1(/form) a (form)14(/form)."
-    }
+      "Paso 1: Identificar las propiedades físicas de los componentes (el hierro es ferromagnético).",
+      "Paso 2: Seleccionar el método que utiliza un campo magnético para atraer un componente.",
+      "Resultado: Magnetización."
+    ]
   },
   {
-    "id": "q7",
+    "id": "Q-56",
     "materia": "Química",
     "dificultad": 2,
     "tiempoSugerido": 60,
-    "pregunta": "¿Cuál de los siguientes es un cambio químico?",
-    "formulaPrincipal": "Fe + O_2 \\rightarrow Fe_2O_3",
-    "opciones": ["Evaporación del agua", "Oxidación de un clavo", "Romper un vidrio", "Disolver azúcar"],
-    "correcta": 1,
-    "explicacionPasos": [
-      "Paso 1: Diferenciar entre cambio físico (misma sustancia) y químico (nueva sustancia).",
-      "Paso 2: Analizar la oxidación: el hierro reacciona con oxígeno para crear óxido de hierro.",
-      "Paso 3: Confirmar que las propiedades originales cambiaron irreversiblemente.",
-      "Resultado: Oxidación de un clavo."
-    ],
-    "analisisDeError": {
-      "0": "La evaporación es un cambio de estado físico ((form)H_2O(/form) líquida a gas)."
-    }
-  },
-  {
-    "id": "q8",
-    "materia": "Química",
-    "dificultad": 3,
-    "tiempoSugerido": 60,
-    "pregunta": "Según la teoría de Lewis, un ácido es una sustancia que:",
-    "formulaPrincipal": "A + :B \\rightarrow A-B",
-    "opciones": ["Dona protones", "Acepta un par de electrones", "Libera iones OH-", "Dona un par de electrones"],
-    "correcta": 1,
-    "explicacionPasos": [
-      "Paso 1: Identificar que Lewis se enfoca en el intercambio de electrones.",
-      "Paso 2: Recordar que los ácidos de Lewis son \"electrofílicos\".",
-      "Paso 3: Definir que aceptan pares electrónicos para formar enlaces.",
-      "Resultado: Acepta un par de electrones."
-    ],
-    "analisisDeError": {
-      "0": "Esa es la definición de Brönsted-Lowry.",
-      "3": "Donar electrones define a una base de Lewis."
-    }
-  },
-  {
-    "id": "q9",
-    "materia": "Química",
-    "dificultad": 2,
-    "tiempoSugerido": 60,
-    "pregunta": "¿Qué nombre recibe la columna vertical de la tabla periódica con propiedades similares?",
+    "pregunta": "La región del espacio alrededor del núcleo donde existe la mayor probabilidad de encontrar un electrón se llama:",
     "formulaPrincipal": "",
-    "opciones": ["Periodo", "Grupo o Familia", "Bloque", "Serie"],
-    "correcta": 1,
-    "explicacionPasos": [
-      "Paso 1: Definir la organización de la tabla periódica.",
-      "Paso 2: Reconocer que las filas horizontales son periodos.",
-      "Paso 3: Identificar que las columnas verticales agrupan elementos con igual número de electrones de valencia.",
-      "Resultado: Grupo o Familia."
+    "opciones": [
+      "Órbita",
+      "Nivel de energía",
+      "Orbital",
+      "Núcleo"
     ],
-    "analisisDeError": {
-      "0": "Los periodos indican el nivel de energía, no la similitud química."
-    }
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Diferenciar entre el modelo de Bohr (órbitas) y el modelo mecano-cuántico actual.",
+      "Paso 2: Definir el concepto probabilístico de la posición electrónica.",
+      "Resultado: Orbital."
+    ]
   },
   {
-    "id": "q10",
-    "materia": "Química",
-    "dificultad": 2,
-    "tiempoSugerido": 60,
-    "pregunta": "En una reacción exotérmica, el sistema:",
-    "formulaPrincipal": "\\Delta H < 0",
-    "opciones": ["Absorbe calor", "Libera calor", "Mantiene temperatura", "No intercambia energía"],
-    "correcta": 1,
-    "explicacionPasos": [
-      "Paso 1: Analizar el prefijo \"exo\" (fuera) y \"termos\" (calor).",
-      "Paso 2: Identificar que la energía de los productos es menor que la de los reactivos.",
-      "Paso 3: Concluir que el exceso de energía se desprende al entorno.",
-      "Resultado: Libera calor."
-    ],
-    "analisisDeError": {
-      "0": "Absorber calor es propio de reacciones endotérmicas."
-    }
-  },
-  {
-    "id": "q11",
-    "materia": "Química",
-    "dificultad": 3,
-    "tiempoSugerido": 60,
-    "pregunta": "¿Cuál es el número de oxidación del azufre en el (form)H_2SO_4(/form)?",
-    "formulaPrincipal": "\\sum E_{ox} = 0",
-    "opciones": ["+4", "+6", "+2", "-2"],
-    "correcta": 1,
-    "explicacionPasos": [
-      "Paso 1: Asignar valores conocidos ((form)O = -2, \\, H = +1(/form)).",
-      "Paso 2: Multiplicar por subíndices ((form)4 \\times -2 = -8; \\, 2 \\times 1 = +2(/form)).",
-      "Paso 3: Calcular el valor faltante para que la suma sea cero ((form)+2 + X - 8 = 0(/form)).",
-      "Resultado: (form)+6(/form)."
-    ],
-    "analisisDeError": {
-      "0": "El (form)+4(/form) corresponde al ácido sulfuroso ((form)H_2SO_3(/form))."
-    }
-  },
-  {
-    "id": "q12",
-    "materia": "Química",
-    "dificultad": 2,
-    "tiempoSugerido": 60,
-    "pregunta": "¿Qué gas se desprende en la combustión completa de un hidrocarburo?",
-    "formulaPrincipal": "C_xH_y + O_2 \\rightarrow CO_2 + H_2O",
-    "opciones": ["Monóxido de carbono", "Dióxido de carbono", "Metano", "Hidrógeno"],
-    "correcta": 1,
-    "explicacionPasos": [
-      "Paso 1: Identificar los productos de una combustión completa ((form)CO_2 + H_2O(/form)).",
-      "Paso 2: Diferenciar de la incompleta (donde se produce (form)CO(/form)).",
-      "Paso 3: Reconocer el gas resultante de la oxidación total del carbono.",
-      "Resultado: Dióxido de carbono."
-    ],
-    "analisisDeError": {
-      "0": "El monóxido de carbono es producto de combustión incompleta."
-    }
-  },
-  {
-    "id": "q13",
-    "materia": "Química",
-    "dificultad": 3,
-    "tiempoSugerido": 60,
-    "pregunta": "El enlace presente en la molécula de nitrógeno gaseoso ((form)N_2(/form)) es:",
-    "formulaPrincipal": ":N \\equiv N:",
-    "opciones": ["Covalente sencillo", "Covalente triple", "Iónico", "Puente de hidrógeno"],
-    "correcta": 1,
-    "explicacionPasos": [
-      "Paso 1: Ubicar al nitrógeno en el grupo (form)15(/form) ((form)5(/form) electrones de valencia).",
-      "Paso 2: Determinar cuántos electrones le faltan para el octeto ((form)3(/form)).",
-      "Paso 3: Identificar que dos átomos de (form)N(/form) comparten tres pares electrónicos.",
-      "Resultado: Covalente triple."
-    ],
-    "analisisDeError": {
-      "3": "El puente de hidrógeno es una fuerza intermolecular, no un enlace atómico."
-    }
-  },
-  {
-    "id": "q14",
-    "materia": "Química",
-    "dificultad": 4,
-    "tiempoSugerido": 90,
-    "pregunta": "¿Cuál es la molaridad de una solución con (form)2 \\, moles(/form) en (form)500 \\, mL(/form)?",
-    "formulaPrincipal": "M = \\frac{n}{V(L)}",
-    "opciones": ["1 M", "4 M", "0.25 M", "10 M"],
-    "correcta": 1,
-    "explicacionPasos": [
-      "Paso 1: Convertir el volumen a litros ((form)500 \\, mL = 0.5 \\, L(/form)).",
-      "Paso 2: Aplicar la fórmula (form)M = n / V(/form).",
-      "Paso 3: Realizar la división ((form)2 / 0.5(/form)).",
-      "Resultado: (form)4 \\, M(/form)."
-    ],
-    "analisisDeError": {
-      "0": "Error al no convertir (form)mL(/form) a (form)L(/form) o dividir erróneamente."
-    }
-  },
-  {
-    "id": "q15",
-    "materia": "Química",
-    "dificultad": 2,
-    "tiempoSugerido": 60,
-    "pregunta": "Los isótopos son átomos con diferente número de:",
-    "formulaPrincipal": "A = Z + n",
-    "opciones": ["Protones", "Neutrones", "Electrones", "Niveles de energía"],
-    "correcta": 1,
-    "explicacionPasos": [
-      "Paso 1: Definir isótopo (mismo elemento, distinta masa).",
-      "Paso 2: Reconocer que la identidad (protones) debe ser igual.",
-      "Paso 3: Identificar que la masa cambia por la cantidad de partículas neutras.",
-      "Resultado: Neutrones."
-    ],
-    "analisisDeError": {
-      "0": "Si cambian los protones, cambia el elemento químico.",
-      "2": "El cambio en electrones genera iones."
-    }
-  },
-  {
-    "id": "q16",
-    "materia": "Química",
-    "dificultad": 3,
-    "tiempoSugerido": 60,
-    "pregunta": "¿Qué postula el principio de exclusión de Pauli?",
-    "formulaPrincipal": "(n, l, m, s)",
-    "opciones": ["Ocupan menor energía primero", "No pueden tener los 4 números cuánticos iguales", "Se distribuyen uno a uno", "Incertidumbre de posición"],
-    "correcta": 1,
-    "explicacionPasos": [
-      "Paso 1: Analizar las reglas de configuración electrónica.",
-      "Paso 2: Identificar que Pauli se refiere a la ocupación de los orbitales.",
-      "Paso 3: Concluir que dos electrones deben tener espines opuestos ((form)+1/2, \\, -1/2(/form)).",
-      "Resultado: No pueden tener los 4 números cuánticos iguales."
-    ],
-    "analisisDeError": {
-      "0": "Ese es el principio de (form)Aufbau(/form).",
-      "2": "Esa es la regla de (form)Hund(/form)."
-    }
-  },
-  {
-    "id": "q17",
-    "materia": "Química",
-    "dificultad": 2,
-    "tiempoSugerido": 60,
-    "pregunta": "¿Cuál de los siguientes es un ejemplo de mezcla heterogénea?",
-    "formulaPrincipal": "",
-    "opciones": ["Aire filtrado", "Agua con aceite", "Bronce", "Agua azucarada"],
-    "correcta": 1,
-    "explicacionPasos": [
-      "Paso 1: Definir mezcla heterogénea (se distinguen sus componentes/fases).",
-      "Paso 2: Analizar la inmiscibilidad del agua y el aceite.",
-      "Paso 3: Observar que forman dos capas claramente separadas.",
-      "Resultado: Agua con aceite."
-    ],
-    "analisisDeError": {
-      "2": "El bronce es una aleación, que se considera mezcla homogénea sólida."
-    }
-  },
-  {
-    "id": "q18",
-    "materia": "Química",
-    "dificultad": 2,
-    "tiempoSugerido": 60,
-    "pregunta": "En química orgánica, el grupo funcional de los alcoholes es:",
-    "formulaPrincipal": "R-OH",
-    "opciones": ["Carbonilo", "Hidroxilo", "Carboxilo", "Amino"],
-    "correcta": 1,
-    "explicacionPasos": [
-      "Paso 1: Identificar el sufijo \"-ol\" en la nomenclatura.",
-      "Paso 2: Asociar el grupo con el enlace oxígeno-hidrógeno ((form)-OH(/form)).",
-      "Paso 3: Diferenciar de otros grupos oxigenados.",
-      "Resultado: Hidroxilo."
-    ],
-    "analisisDeError": {
-      "0": "El carbonilo es de aldehídos y cetonas.",
-      "2": "El carboxilo es de ácidos carboxílicos."
-    }
-  },
-  {
-    "id": "q19",
-    "materia": "Química",
-    "dificultad": 3,
-    "tiempoSugerido": 60,
-    "pregunta": "¿Cuál es la hibridación del carbono en un alcano (enlace sencillo)?",
-    "formulaPrincipal": "sp^3",
-    "opciones": ["sp", "sp3", "sp2", "dsp2"],
-    "correcta": 1,
-    "explicacionPasos": [
-      "Paso 1: Contar los enlaces sigma (sencillos) del carbono.",
-      "Paso 2: En un alcano, el carbono forma (form)4(/form) enlaces sencillos.",
-      "Paso 3: Identificar la geometría tetraédrica resultante.",
-      "Resultado: (form)sp^3(/form)."
-    ],
-    "analisisDeError": {
-      "0": "La hibridación (form)sp(/form) es para enlaces triples (alquinos).",
-      "2": "La hibridación (form)sp^2(/form) es para enlaces dobles (alquenos)."
-    }
-  },
-  {
-    "id": "q20",
+    "id": "Q-57",
     "materia": "Química",
     "dificultad": 1,
     "tiempoSugerido": 45,
-    "pregunta": "De acuerdo con la Ley de Lavoisier, en una reacción cerrada:",
-    "formulaPrincipal": "m_{reactivos} = m_{productos}",
-    "opciones": ["La masa aumenta", "La masa permanece constante", "La masa disminuye", "Los átomos cambian"],
+    "pregunta": "¿Cuál es el componente más abundante en el aire que respiramos?",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Oxígeno",
+      "Dióxido de carbono",
+      "Nitrógeno",
+      "Argón"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Recordar la composición porcentual de la atmósfera terrestre.",
+      "Paso 2: Reconocer que el Nitrógeno ocupa aproximadamente el 78%.",
+      "Resultado: Nitrógeno."
+    ]
+  },
+  {
+    "id": "Q-58",
+    "materia": "Química",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Cómo se llama el proceso por el cual un gas se convierte en líquido al disminuir la temperatura?",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Evaporación",
+      "Solidificación",
+      "Condensación",
+      "Fusión"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Identificar los cambios de fase exotérmicos (que liberan calor).",
+      "Paso 2: Reconocer el paso de gas a líquido.",
+      "Resultado: Condensación."
+    ]
+  },
+  {
+    "id": "Q-59",
+    "materia": "Química",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "En la tabla periódica, los elementos del grupo 1 son conocidos como:",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Metales alcalinotérreos",
+      "Metales de transición",
+      "Metales alcalinos",
+      "Lantánidos"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Identificar el primer grupo de la tabla periódica.",
+      "Paso 2: Recordar el nombre específico de esta familia altamente reactiva.",
+      "Resultado: Metales alcalinos."
+    ]
+  },
+  {
+    "id": "Q-60",
+    "materia": "Química",
+    "dificultad": 2,
+    "tiempoSugerido": 65,
+    "pregunta": "Un isótopo del Hidrógeno que tiene un protón y un neutrón se llama:",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Protio",
+      "Deuterio",
+      "Tritio",
+      "Helio"
+    ],
     "correcta": 1,
     "explicacionPasos": [
-      "Paso 1: Recordar el principio de conservación de la materia.",
-      "Paso 2: Establecer que la materia solo se transforma.",
-      "Paso 3: Concluir que la suma de masas de reactivos es igual a la de productos.",
-      "Resultado: La masa permanece constante."
+      "Paso 1: Identificar los tres isótopos naturales del hidrógeno.",
+      "Paso 2: Diferenciar por su número de neutrones (0, 1 y 2 respectivamente).",
+      "Resultado: Deuterio."
+    ]
+  },
+  {
+    "id": "Q-61",
+    "materia": "Química",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Cuál es la geometría molecular de la molécula de agua y el ángulo aproximado entre sus enlaces hidrógeno-oxígeno?",
+    "formulaPrincipal": "H_2O",
+    "opciones": [
+      "Lineal, 180°",
+      "Angular, 104.5°",
+      "Tetraédrica, 109.5°",
+      "Trigonal plana, 120°"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar que el átomo central (Oxígeno) tiene dos pares de electrones libres y dos enlaces sigma.",
+      "Paso 2: Aplicar la teoría de repulsión de pares de electrones (VSEPR); los pares libres empujan los enlaces hacia abajo.",
+      "Resultado: Angular con un ángulo aproximado de 104.5°."
     ],
     "analisisDeError": {
-      "3": "Los átomos solo se reorganizan, no cambian de identidad (eso sería un cambio nuclear)."
+      "0": "La geometría lineal ocurre en moléculas como el (form)CO_2(/form) donde no hay pares de electrones libres en el centro.",
+      "2": "Aunque la distribución electrónica es tetraédrica, la forma visible de la molécula es angular."
     }
+  },
+  {
+    "id": "Q-62",
+    "materia": "Química",
+    "dificultad": 3,
+    "tiempoSugerido": 70,
+    "pregunta": "¿Qué tipo de interacción intermolecular es responsable de las propiedades únicas del agua, como su alto punto de ebullición y tensión superficial?",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Fuerzas de dispersión de London",
+      "Interacción dipolo-dipolo",
+      "Puentes de hidrógeno",
+      "Enlaces iónicos"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Reconocer la alta diferencia de electronegatividad entre el Oxígeno y el Hidrógeno.",
+      "Paso 2: Identificar la atracción electrostática entre el H de una molécula y el par libre del O de otra.",
+      "Resultado: Puentes de hidrógeno."
+    ],
+    "analisisDeError": {
+      "0": "Estas fuerzas son débiles y predominan en moléculas no polares.",
+      "3": "El enlace iónico es una unión intramolecular (dentro de la sustancia), no intermolecular."
+    }
+  },
+  {
+    "id": "Q-63",
+    "materia": "Química",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "De acuerdo con la escala de pH, una sustancia con un valor de pH = 3 se clasifica como:",
+    "formulaPrincipal": "pH = -\\log[H^+]",
+    "opciones": [
+      "Ácida",
+      "Básica",
+      "Neutra",
+      "Anfótera"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Recordar el rango de la escala de pH (0 a 14).",
+      "Paso 2: Identificar que valores menores a 7 indican acidez.",
+      "Resultado: Ácida."
+    ],
+    "analisisDeError": {
+      "1": "Las bases tienen un pH mayor a 7.",
+      "2": "El pH neutro es exactamente 7 (agua pura)."
+    }
+  },
+  {
+    "id": "Q-64",
+    "materia": "Química",
+    "dificultad": 3,
+    "tiempoSugerido": 65,
+    "pregunta": "¿Cuál es la molaridad (M) de una solución que contiene 2 moles de soluto disueltos en 4 litros de solución?",
+    "formulaPrincipal": "M = \\frac{n}{V}",
+    "opciones": [
+      "0.5 M",
+      "2.0 M",
+      "8.0 M",
+      "0.25 M"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Identificar los datos: moles ((form)n = 2(/form)) y volumen ((form)V = 4L(/form)).",
+      "Paso 2: Sustituir en la fórmula de molaridad: (form)2 / 4(/form).",
+      "Resultado: 0.5 M."
+    ],
+    "analisisDeError": {
+      "2": "Multiplicaste en lugar de dividir.",
+      "3": "Invertiste la división (4/2)."
+    }
+  },
+  {
+    "id": "Q-65",
+    "materia": "Química",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "Una solución en la que ya no se puede disolver más soluto a una temperatura dada, encontrándose en equilibrio con el exceso, se llama:",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Diluida",
+      "Saturada",
+      "Sobresaturada",
+      "Insaturada"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Analizar el límite de solubilidad de una sustancia.",
+      "Paso 2: Identificar el estado de máxima concentración estable bajo condiciones normales.",
+      "Resultado: Saturada."
+    ],
+    "analisisDeError": {
+      "2": "La sobresaturada contiene más soluto del que normalmente admite, siendo inestable.",
+      "3": "La insaturada aún admite más soluto."
+    }
+  },
+  {
+    "id": "Q-66",
+    "materia": "Química",
+    "dificultad": 3,
+    "tiempoSugerido": 70,
+    "pregunta": "Según la teoría de Brönsted-Lowry, un ácido se define como una especie química capaz de:",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Ceder protones ((form)H^+(/form))",
+      "Aceptar protones ((form)H^+(/form))",
+      "Ceder electrones",
+      "Aceptar pares de electrones"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Diferenciar entre las teorías ácido-base (Arrhenius, Brönsted-Lowry y Lewis).",
+      "Paso 2: Identificar que Brönsted-Lowry se centra en la transferencia de protones.",
+      "Resultado: Ceder protones."
+    ],
+    "analisisDeError": {
+      "1": "Aceptar protones es la definición de una base de Brönsted-Lowry.",
+      "3": "Aceptar pares de electrones es la definición de un ácido de Lewis."
+    }
+  },
+  {
+    "id": "Q-67",
+    "materia": "Química",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Qué nombre recibe el soluto en una solución gaseosa como el aire, donde el Nitrógeno es el solvente?",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Oxígeno",
+      "Agua",
+      "Argón",
+      "Dióxido de carbono"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Recordar que el soluto es la sustancia en menor proporción.",
+      "Paso 2: En el aire, el Oxígeno representa aproximadamente el 21% frente al 78% del Nitrógeno.",
+      "Resultado: Oxígeno."
+    ]
+  },
+  {
+    "id": "Q-68",
+    "materia": "Química",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "Si una solución tiene una concentración de iones hidrógeno de (form)[H^+] = 10^{-5} M(/form), su pH es:",
+    "formulaPrincipal": "pH = -\\log[H^+]",
+    "opciones": [
+      "5",
+      "-5",
+      "10",
+      "9"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Aplicar la definición logarítmica de pH.",
+      "Paso 2: (form)-\\log(10^{-5}) = 5(/form).",
+      "Resultado: 5."
+    ]
+  },
+  {
+    "id": "Q-69",
+    "materia": "Química",
+    "dificultad": 2,
+    "tiempoSugerido": 65,
+    "pregunta": "Es un ejemplo de un electrolito fuerte, sustancia que se disocia completamente en iones al disolverse en agua:",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Azúcar (Sacarosa)",
+      "Ácido acético (Vinagre)",
+      "Cloruro de Sodio (Sal)",
+      "Agua destilada"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Identificar sustancias con enlace iónico que se separan en cationes y aniones.",
+      "Paso 2: Reconocer que la sal común es un excelente conductor en solución.",
+      "Resultado: Cloruro de Sodio."
+    ],
+    "analisisDeError": {
+      "0": "El azúcar es un no electrolito; se disuelve pero no forma iones.",
+      "1": "El ácido acético es un electrolito débil (disociación parcial)."
+    }
+  },
+  {
+    "id": "Q-70",
+    "materia": "Química",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "La suma del pH y el pOH de cualquier solución acuosa a 25°C siempre es igual a:",
+    "formulaPrincipal": "pH + pOH = 14",
+    "opciones": [
+      "7",
+      "0",
+      "14",
+      "1"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Recordar el producto iónico del agua ((form)K_w(/form)).",
+      "Paso 2: Identificar la relación constante entre la acidez y la basicidad en la escala logarítmica.",
+      "Resultado: 14."
+    ]
+  },
+  {
+    "id": "Q-71",
+    "materia": "Química",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "Al mezclar un ácido con una base, se produce una reacción de:",
+    "formulaPrincipal": "Acido + Base \\rightarrow Sal + Agua",
+    "opciones": [
+      "Combustión",
+      "Neutralización",
+      "Precipitación",
+      "Oxidación"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Analizar el intercambio de iones entre las dos especies.",
+      "Paso 2: Identificar que los productos finales suelen tener un pH cercano a la neutralidad.",
+      "Resultado: Neutralización."
+    ]
+  },
+  {
+    "id": "Q-72",
+    "materia": "Química",
+    "dificultad": 3,
+    "tiempoSugerido": 65,
+    "pregunta": "¿Qué fenómeno ocurre cuando las moléculas de agua rodean a los iones de un soluto, separándolos y manteniéndolos en solución?",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Hidrólisis",
+      "Hidratación o Solvatación",
+      "Destilación",
+      "Ósmosis"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Entender el proceso de disolución a nivel molecular.",
+      "Paso 2: Identificar la interacción entre los dipolos del agua y las cargas del soluto.",
+      "Resultado: Hidratación."
+    ]
+  },
+  {
+    "id": "Q-73",
+    "materia": "Química",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "Un indicador de pH muy común en los laboratorios que cambia de incoloro a rosa intenso en medio básico es:",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Papel tornasol azul",
+      "Fenolftaleína",
+      "Naranja de metilo",
+      "Verde de bromocresol"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Recordar los indicadores ácido-base y sus virajes de color.",
+      "Paso 2: Identificar el reactivo que reacciona específicamente por encima de un pH de 8.2.",
+      "Resultado: Fenolftaleína."
+    ]
+  },
+  {
+    "id": "Q-74",
+    "materia": "Química",
+    "dificultad": 3,
+    "tiempoSugerido": 70,
+    "pregunta": "¿Cuántos gramos de NaCl se necesitan para preparar 500 mL de una solución al 10% masa/volumen?",
+    "formulaPrincipal": "\\% m/V = \\frac{g_{soluto}}{mL_{solucion}} \\times 100",
+    "opciones": [
+      "5 g",
+      "50 g",
+      "10 g",
+      "100 g"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Despejar los gramos de soluto: (form)g = (\\% m/V \\times mL) / 100(/form).",
+      "Paso 2: (form)(10 \\times 500) / 100 = 50(/form).",
+      "Resultado: 50 g."
+    ]
+  },
+  {
+    "id": "Q-75",
+    "materia": "Química",
+    "dificultad": 3,
+    "tiempoSugerido": 65,
+    "pregunta": "Es una base fuerte que se utiliza comúnmente en la fabricación de jabones y productos de limpieza (sosa cáustica):",
+    "formulaPrincipal": "NaOH",
+    "opciones": [
+      "Hidróxido de Sodio",
+      "Ácido Clorhídrico",
+      "Amoniaco",
+      "Bicarbonato de Sodio"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Identificar una sustancia con grupo hidroxilo ((form)-OH(/form)) y un metal alcalino.",
+      "Paso 2: Reconocer su alta solubilidad y capacidad corrosiva.",
+      "Resultado: Hidróxido de Sodio."
+    ]
+  },
+  {
+    "id": "Q-76",
+    "materia": "Química",
+    "dificultes": 3,
+    "tiempoSugerido": 70,
+    "pregunta": "¿A qué se debe que el hielo flote sobre el agua líquida, a pesar de ser la misma sustancia?",
+    "formulaPrincipal": "",
+    "opciones": [
+      "A que el hielo tiene una mayor densidad que el agua líquida",
+      "A que el agua al congelarse forma una estructura cristalina expandida debido a los puentes de hidrógeno, disminuyendo su densidad",
+      "A que el aire queda atrapado entre las moléculas de hidrógeno",
+      "A que el agua líquida tiene enlaces iónicos que la hacen más pesada"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Recordar la definición de densidad (form)d = m/V(/form).",
+      "Paso 2: Identificar que al enfriarse por debajo de los 4°C, las moléculas de agua se ordenan dejando huecos.",
+      "Paso 3: Concluir que el mismo peso ocupa más volumen, por lo tanto, el hielo es menos denso.",
+      "Resultado: Formación de estructura cristalina expandida."
+    ],
+    "analisisDeError": {
+      "0": "Si el hielo fuera más denso, se hundiría.",
+      "2": "Aunque puede haber burbujas de aire, la flotación es una propiedad intrínseca de la densidad del cristal de agua."
+    }
+  },
+  {
+    "id": "Q-77",
+    "materia": "Química",
+    "dificultad": 3,
+    "tiempoSugerido": 65,
+    "pregunta": "De acuerdo con la teoría de Lewis, una base se define como una especie que:",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Acepta un par de electrones",
+      "Dona un par de electrones para formar un enlace coordinado",
+      "Libera iones hidroxilo (form)OH^-(/form) en solución acuosa",
+      "Acepta protones (form)H^+(/form)"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar que la teoría de Lewis es la más general y se basa en electrones, no en protones.",
+      "Paso 2: Recordar que la base de Lewis tiene pares de electrones libres.",
+      "Resultado: Dona un par de electrones."
+    ],
+    "analisisDeError": {
+      "0": "Esta es la definición de un Ácido de Lewis.",
+      "3": "Esta es la definición de una Base de Brönsted-Lowry."
+    }
+  },
+  {
+    "id": "Q-78",
+    "materia": "Química",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "Si se disuelven 20 g de azúcar en 180 g de agua, ¿cuál es el porcentaje en masa (% m/m) de la solución?",
+    "formulaPrincipal": "\\% m/m = \\frac{m_{soluto}}{m_{disolucion}} \\times 100",
+    "opciones": [
+      "11.1%",
+      "10.0%",
+      "20.0%",
+      "9.0%"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Calcular la masa total de la disolución: (form)20g (soluto) + 180g (solvente) = 200g(/form).",
+      "Paso 2: Aplicar la fórmula: (form)(20 / 200) \\times 100(/form).",
+      "Resultado: 10%."
+    ],
+    "analisisDeError": {
+      "0": "Error común: Dividir solo entre la masa del solvente (20/180).",
+      "2": "Error: Asumir que el porcentaje es igual a los gramos del soluto sin considerar el total."
+    }
+  },
+  {
+    "id": "Q-79",
+    "materia": "Química",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "Si una solución tiene un pOH de 4, ¿cuál es su valor de pH y qué carácter tiene?",
+    "formulaPrincipal": "pH + pOH = 14",
+    "opciones": [
+      "pH = 10, carácter básico",
+      "pH = 4, carácter ácido",
+      "pH = 10, carácter ácido",
+      "pH = 7, carácter neutro"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Despejar pH de la relación constante: (form)pH = 14 - pOH(/form).",
+      "Paso 2: (form)14 - 4 = 10(/form).",
+      "Paso 3: Identificar que si el pH es mayor a 7, la sustancia es básica.",
+      "Resultado: pH = 10, básico."
+    ]
+  },
+  {
+    "id": "Q-80",
+    "materia": "Química",
+    "dificultad": 3,
+    "tiempoSugerido": 70,
+    "pregunta": "¿Qué nombre recibe la propiedad de algunas sustancias de actuar como ácido o como base dependiendo del medio en el que se encuentren (ej. el agua)?",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Hidrofobia",
+      "Anfoterismo (Anfótero)",
+      "Isomería",
+      "Alotropía"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Definir la capacidad dual de transferencia de protones.",
+      "Paso 2: Identificar que el agua puede aceptar un protón para formar (form)H_3O^+(/form) o donarlo para formar (form)OH^-(/form).",
+      "Resultado: Anfoterismo."
+    ]
+  },
+  {
+    "id": "Q-81",
+    "materia": "Química",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "Es un ejemplo de una mezcla coloidal que presenta el efecto Tyndall (dispersión de la luz):",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Agua con sal",
+      "Gelatina",
+      "Aire filtrado",
+      "Alcohol etílico"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Diferenciar entre soluciones verdaderas, coloides y suspensiones.",
+      "Paso 2: Reconocer que en la gelatina las partículas son lo suficientemente grandes para desviar la luz pero no para sedimentar.",
+      "Resultado: Gelatina."
+    ]
+  },
+  {
+    "id": "Q-82",
+    "materia": "Química",
+    "dificultad": 3,
+    "tiempoSugerido": 65,
+    "pregunta": "¿Qué sucede con la solubilidad de la mayoría de los solutos SÓLIDOS al aumentar la temperatura del solvente?",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Disminuye",
+      "Aumenta",
+      "Se mantiene constante",
+      "Desaparece"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Analizar el efecto de la energía cinética en la interacción soluto-solvente.",
+      "Paso 2: Identificar que el calor facilita el rompimiento de enlaces del sólido.",
+      "Resultado: Aumenta."
+    ],
+    "analisisDeError": {
+      "0": "La solubilidad de los GASES en líquidos disminuye al aumentar la temperatura."
+    }
+  },
+  {
+    "id": "Q-83",
+    "materia": "Química",
+    "dificultad": 3,
+    "tiempoSugerido": 75,
+    "pregunta": "¿Cuántos gramos de hidróxido de sodio (NaOH) se requieren para preparar 250 mL de una solución 0.1 M? (Masas atómicas: Na=23, O=16, H=1)",
+    "formulaPrincipal": "m = M \\times V \\times PM",
+    "opciones": [
+      "1.0 g",
+      "4.0 g",
+      "10.0 g",
+      "0.1 g"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Calcular el Peso Molecular (PM) del NaOH: (form)23 + 16 + 1 = 40 g/mol(/form).",
+      "Paso 2: Convertir el volumen a litros: (form)250 mL = 0.25 L(/form).",
+      "Paso 3: Aplicar fórmula: (form)0.1 mol/L \\times 0.25 L \\times 40 g/mol(/form).",
+      "Resultado: 1.0 g."
+    ]
+  },
+  {
+    "id": "Q-84",
+    "materia": "Química",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Cuál es el pH de una solución neutra a 25°C?",
+    "formulaPrincipal": "",
+    "opciones": [
+      "0",
+      "14",
+      "7",
+      "1"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Recordar el punto medio de la escala de pH.",
+      "Paso 2: Identificar que en la neutralidad la concentración de (form)H^+(/form) es igual a la de (form)OH^-(/form) ((form)10^{-7} M(/form)).",
+      "Resultado: 7."
+    ]
+  },
+  {
+    "id": "Q-85",
+    "materia": "Química",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "Un ácido fuerte como el (form)HCl(/form) se caracteriza por:",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Disociarse parcialmente en solución acuosa",
+      "Ionizarse completamente en solución acuosa",
+      "Tener un pH cercano a 7",
+      "No conducir la corriente eléctrica"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Definir la fuerza de un ácido por su grado de ionización.",
+      "Paso 2: Reconocer que los ácidos fuertes liberan todos sus protones disponibles.",
+      "Resultado: Ionizarse completamente."
+    ]
+  },
+  {
+    "id": "Q-86",
+    "materia": "Química",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Cuál es la propiedad del agua que le permite absorber grandes cantidades de calor sin que su temperatura aumente significativamente?",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Alto calor específico",
+      "Alta tensión superficial",
+      "Baja densidad",
+      "Punto de fusión elevado"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Definir calor específico (energía necesaria para elevar 1°C la temperatura de 1g de sustancia).",
+      "Paso 2: Identificar que los puentes de hidrógeno requieren mucha energía para vibrar antes de que aumente la energía cinética media.",
+      "Resultado: Alto calor específico."
+    ],
+    "analisisDeError": {
+      "1": "La tensión superficial se refiere a la cohesión de las moléculas en la superficie del líquido.",
+      "2": "La densidad es una relación masa/volumen, no térmica."
+    }
+  },
+  {
+    "id": "Q-87",
+    "materia": "Química",
+    "dificultad": 3,
+    "tiempoSugerido": 70,
+    "pregunta": "En una titulación ácido-base, el punto en el que la cantidad de equivalentes de ácido es igual a la de la base se conoce como:",
+    "formulaPrincipal": "V_A \\times M_A = V_B \\times M_B",
+    "opciones": [
+      "Punto de ebullición",
+      "Punto de equivalencia",
+      "Punto de saturación",
+      "Punto de viraje"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar el proceso de neutralización estequiométrica.",
+      "Paso 2: Diferenciar entre el cambio visual (punto final/viraje) y el cálculo teórico exacto.",
+      "Resultado: Punto de equivalencia."
+    ],
+    "analisisDeError": {
+      "3": "El punto de viraje es cuando el indicador cambia de color, que debe ser cercano al de equivalencia pero no es el término técnico de la igualdad molar."
+    }
+  },
+  {
+    "id": "Q-88",
+    "materia": "Química",
+    "dificultad": 3,
+    "tiempoSugerido": 65,
+    "pregunta": "¿Qué ocurre con el pH de una solución si la concentración de iones hidrógeno [H+] aumenta diez veces?",
+    "formulaPrincipal": "pH = -\\log[H^+]",
+    "opciones": [
+      "El pH aumenta en una unidad",
+      "El pH disminuye en una unidad",
+      "El pH se multiplica por diez",
+      "El pH se mantiene igual"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Recordar que la escala de pH es logarítmica de base 10.",
+      "Paso 2: Identificar que el signo negativo de la fórmula implica una relación inversa.",
+      "Paso 3: Si aumenta la acidez ([H+]), el valor numérico del pH baja.",
+      "Resultado: El pH disminuye en una unidad."
+    ]
+  },
+  {
+    "id": "Q-89",
+    "materia": "Química",
+    "dificultad": 3,
+    "tiempoSugerido": 75,
+    "pregunta": "Se disuelven 5.85 g de NaCl en agua hasta completar 1 litro de solución. ¿Cuál es su molaridad? (Masas atómicas: Na=23, Cl=35.5)",
+    "formulaPrincipal": "M = \\frac{g}{PM \\times V(L)}",
+    "opciones": [
+      "0.1 M",
+      "1.0 M",
+      "0.5 M",
+      "0.01 M"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Calcular el peso molecular del NaCl: 23 + 35.5 = 58.5 g/mol.",
+      "Paso 2: Aplicar la fórmula: 5.85 g / (58.5 g/mol * 1 L).",
+      "Paso 3: 5.85 / 58.5 = 0.1.",
+      "Resultado: 0.1 M."
+    ]
+  },
+  {
+    "id": "Q-90",
+    "materia": "Química",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Qué tipo de enlace predomina entre los átomos de oxígeno e hidrógeno DENTRO de una sola molécula de agua?",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Covalente no polar",
+      "Covalente polar",
+      "Iónico",
+      "Metálico"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar que son dos no metales compartiendo electrones (covalente).",
+      "Paso 2: Evaluar la diferencia de electronegatividad (O=3.5, H=2.1; ΔEN=1.4).",
+      "Paso 3: Al ser mayor a 0.4 y menor a 1.7, se forman dipolos.",
+      "Resultado: Covalente polar."
+    ]
+  },
+  {
+    "id": "Q-91",
+    "materia": "Química",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "El agua puede actuar como un ácido frente a una base fuerte y como una base frente a un ácido fuerte. Esta propiedad se conoce como:",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Anfoterismo",
+      "Hidratación",
+      "Efervescencia",
+      "Turgencia"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Definir sustancias anfóteras (especies que donan o aceptan protones según el contexto).",
+      "Paso 2: Reconocer el comportamiento del agua en las teorías de Brönsted-Lowry.",
+      "Resultado: Anfoterismo."
+    ]
+  },
+  {
+    "id": "Q-92",
+    "materia": "Química",
+    "dificultad": 3,
+    "tiempoSugerido": 70,
+    "pregunta": "¿Cuál es la concentración en % volumen de una mezcla de 40 mL de alcohol en 160 mL de agua?",
+    "formulaPrincipal": "\\% V/V = \\frac{V_{soluto}}{V_{disolucion}} \\times 100",
+    "opciones": [
+      "25%",
+      "20%",
+      "40%",
+      "15%"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Calcular el volumen total de la disolución: 40 mL + 160 mL = 200 mL.",
+      "Paso 2: Aplicar la fórmula: (40 / 200) * 100.",
+      "Paso 3: 0.2 * 100 = 20.",
+      "Resultado: 20%."
+    ],
+    "analisisDeError": {
+      "0": "Error común: Dividir 40/160 (volumen del solvente) da 25%."
+    }
+  },
+  {
+    "id": "Q-93",
+    "materia": "Química",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "Una base fuerte como el hidróxido de potasio (KOH) tiene la característica de:",
+    "formulaPrincipal": "KOH \\rightarrow K^+ + OH^-",
+    "opciones": [
+      "Sabor agrio y pH < 7",
+      "Sabor amargo, sensación jabonosa y pH > 7",
+      "No conducir la electricidad",
+      "Reaccionar con metales para liberar oxígeno"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar las propiedades organolépticas y químicas de las bases.",
+      "Paso 2: Reconocer que el grupo hidroxilo aporta la basicidad en la escala de pH.",
+      "Resultado: Sabor amargo, jabonosa y pH > 7."
+    ]
+  },
+  {
+    "id": "Q-94",
+    "materia": "Química",
+    "dificultad": 3,
+    "tiempoSugerido": 65,
+    "pregunta": "La constante de autoionización del agua (Kw) a 25°C tiene un valor de:",
+    "formulaPrincipal": "K_w = [H^+][OH^-]",
+    "opciones": [
+      "1.0 \\times 10^{-14}",
+      "1.0 \\times 10^{-7}",
+      "7.0",
+      "14.0"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Identificar el equilibrio del agua pura donde se producen iones hidronio e hidroxilo.",
+      "Paso 2: Recordar que en condiciones estándar el producto de sus concentraciones es constante.",
+      "Resultado: 1.0 x 10^-14."
+    ]
+  },
+  {
+    "id": "Q-95",
+    "materia": "Química",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Qué sucede con la solubilidad de un GAS en agua si se aumenta la presión sobre el líquido?",
+    "formulaPrincipal": "Ley de Henry",
+    "opciones": [
+      "La solubilidad disminuye",
+      "La solubilidad aumenta",
+      "La solubilidad no cambia",
+      "El gas se convierte en sólido"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Analizar la Ley de Henry sobre la solubilidad de gases.",
+      "Paso 2: A mayor presión, más moléculas de gas son forzadas a entrar en el solvente líquido.",
+      "Resultado: La solubilidad aumenta."
+    ]
+  },
+  {
+    "id": "Q-96",
+    "materia": "Química",
+    "dificultad": 3,
+    "tiempoSugerido": 65,
+    "pregunta": "Al disolver una sal en agua, se observa que el punto de ebullición del agua aumenta. Este fenómeno es una:",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Propiedad intensiva",
+      "Propiedad coligativa",
+      "Reacción de combustión",
+      "Propiedad química"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Definir propiedades coligativas (dependen del número de partículas de soluto, no de su naturaleza).",
+      "Paso 2: Identificar el aumento ebulloscópico como una de estas propiedades.",
+      "Resultado: Propiedad coligativa."
+    ]
+  },
+  {
+    "id": "Q-97",
+    "materia": "Química",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "Si una solución tiene una concentración de [OH-] = 10^-9 M, ¿cuál es su pH?",
+    "formulaPrincipal": "pOH = -\\log[OH^-] \\text{ y } pH + pOH = 14",
+    "opciones": [
+      "9",
+      "5",
+      "14",
+      "7"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Calcular el pOH: -log(10^-9) = 9.",
+      "Paso 2: Calcular el pH: 14 - 9 = 5.",
+      "Resultado: 5."
+    ]
+  },
+  {
+    "id": "Q-98",
+    "materia": "Química",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "Un sistema amortiguador o 'buffer' tiene la función de:",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Mantener el pH constante ante la adición de pequeñas cantidades de ácido o base",
+      "Neutralizar completamente cualquier solución hasta pH 7",
+      "Aumentar la velocidad de una reacción química",
+      "Disolver solutos insolubles"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Definir soluciones buffer (mezcla de ácido débil y su sal).",
+      "Paso 2: Identificar su importancia biológica y química para estabilizar sistemas.",
+      "Resultado: Mantener el pH constante."
+    ]
+  },
+  {
+    "id": "Q-99",
+    "materia": "Química",
+    "dificultad": 2,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Qué tipo de mezcla es la sangre, considerando que tiene partículas que se pueden separar por centrifugación pero no filtrarse fácilmente?",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Solución verdadera",
+      "Suspensión",
+      "Coloide",
+      "Sustancia pura"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Analizar el tamaño de las partículas dispersas (proteínas, células).",
+      "Paso 2: Identificar que no sedimentan por gravedad rápidamente pero dispersan la luz.",
+      "Resultado: Coloide."
+    ]
+  },
+  {
+    "id": "Q-100",
+    "materia": "Química",
+    "dificultad": 3,
+    "tiempoSugerido": 70,
+    "pregunta": "¿Cuál es la molaridad de una solución preparada con 40g de NaOH en 500 mL de agua? (PM NaOH = 40 g/mol)",
+    "formulaPrincipal": "M = \\frac{m}{PM \\times V(L)}",
+    "opciones": [
+      "1.0 M",
+      "2.0 M",
+      "0.5 M",
+      "4.0 M"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Convertir volumen a litros: 500 mL = 0.5 L.",
+      "Paso 2: Calcular moles: 40g / 40 g/mol = 1 mol.",
+      "Paso 3: Molaridad = 1 mol / 0.5 L = 2.0.",
+      "Resultado: 2.0 M."
+    ]
+  },
+  {
+    "id": "Q-101",
+    "materia": "Química",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Cuál es la masa molar del gas oxígeno ((form)O_2(/form)), considerando que la masa atómica del oxígeno es 16 u?",
+    "formulaPrincipal": "M = \\sum n \\times Ar",
+    "opciones": [
+      "16 g/mol",
+      "32 g/mol",
+      "8 g/mol",
+      "64 g/mol"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar que el oxígeno gaseoso es una molécula diatómica.",
+      "Paso 2: Multiplicar la masa atómica del oxígeno (16) por el número de átomos en la molécula (2).",
+      "Resultado: 32 g/mol."
+    ],
+    "analisisDeError": {
+      "0": "Error común: Usar la masa del átomo de oxígeno (O) en lugar de la molécula diatómica (O2).",
+      "2": "Error: Dividir la masa atómica en lugar de multiplicar."
+    }
+  },
+  {
+    "id": "Q-102",
+    "materia": "Química",
+    "dificultad": 4,
+    "tiempoSugerido": 80,
+    "pregunta": "En la siguiente reacción de óxido-reducción: (form)Zn + 2HCl \\rightarrow ZnCl_2 + H_2(/form), ¿qué especie química actúa como el AGENTE REDUCTOR?",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Zn",
+      "HCl",
+      "ZnCl2",
+      "H2"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Determinar los estados de oxidación. El Zn elemental es 0 y en el (form)ZnCl_2(/form) es +2.",
+      "Paso 2: Identificar que el Zn pierde electrones (se oxida).",
+      "Paso 3: Recordar que la especie que se oxida es la que reduce a la otra.",
+      "Resultado: Zn."
+    ],
+    "analisisDeError": {
+      "1": "El Hidrógeno en el HCl tiene estado +1 y pasa a 0 en el H2, por lo tanto, se reduce y actúa como agente oxidante."
+    }
+  },
+  {
+    "id": "Q-103",
+    "materia": "Química",
+    "dificultad": 3,
+    "tiempoSugerido": 70,
+    "pregunta": "¿Cuántas moléculas existen en 1 mol de nitrógeno gaseoso ((form)N_2(/form))?",
+    "formulaPrincipal": "6.022 \\times 10^{23}",
+    "opciones": [
+      "28 moléculas",
+      "6.022 x 10^23 moléculas",
+      "12.044 x 10^23 moléculas",
+      "1.204 x 10^24 moléculas"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Aplicar la definición del Número de Avogadro.",
+      "Paso 2: Reconocer que 1 mol de cualquier sustancia contiene siempre la misma cantidad de entidades elementales.",
+      "Resultado: 6.022 x 10^23."
+    ],
+    "analisisDeError": {
+      "0": "28 g/mol es la masa molar del nitrógeno, no el número de moléculas.",
+      "2": "Error: Multiplicar el número de Avogadro por 2 basándose en que es diatómico; un mol de moléculas sigue siendo un mol."
+    }
+  },
+  {
+    "id": "Q-104",
+    "materia": "Química",
+    "dificultad": 4,
+    "tiempoSugerido": 75,
+    "pregunta": "De acuerdo con la Ley de Charles, si mantenemos la presión constante, ¿qué sucede con el volumen de un gas contenido en el aire si aumentamos su temperatura?",
+    "formulaPrincipal": "V_1/T_1 = V_2/T_2",
+    "opciones": [
+      "El volumen disminuye",
+      "El volumen aumenta",
+      "El volumen permanece igual",
+      "El gas se licúa instantáneamente"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar la relación directa entre volumen y temperatura en la Ley de Charles.",
+      "Paso 2: Al aumentar la energía cinética de las partículas, estas chocan con más fuerza y expanden el recipiente (si es flexible).",
+      "Resultado: El volumen aumenta."
+    ]
+  },
+  {
+    "id": "Q-105",
+    "materia": "Química",
+    "dificultad": 4,
+    "tiempoSugerido": 90,
+    "pregunta": "¿Cuál es el estado de oxidación del azufre en el ácido sulfúrico ((form)H_2SO_4(/form))?",
+    "formulaPrincipal": "\\sum E.O. = 0",
+    "opciones": [
+      "+2",
+      "+4",
+      "+6",
+      "-2"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Asignar valores conocidos: H = +1 y O = -2.",
+      "Paso 2: Realizar la suma algebraica: (form)2(+1) + x + 4(-2) = 0(/form).",
+      "Paso 3: Resolver para x: (form)2 + x - 8 = 0 \\Rightarrow x = +6(/form).",
+      "Resultado: +6."
+    ],
+    "analisisDeError": {
+      "1": "Este es el estado de oxidación del azufre en el ácido sulfuroso (H2SO3).",
+      "3": "Este es el estado de oxidación del azufre en sulfuros (ej. H2S)."
+    }
+  },
+  {
+    "id": "Q-106",
+    "materia": "Química",
+    "dificultad": 3,
+    "tiempoSugerido": 65,
+    "pregunta": "¿Qué gas es el principal responsable del efecto invernadero debido a la quema de combustibles fósiles, alterando la composición natural del aire?",
+    "formulaPrincipal": "CO_2",
+    "opciones": [
+      "Nitrógeno",
+      "Dióxido de carbono",
+      "Argón",
+      "Helio"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar los gases de efecto invernadero (GEI).",
+      "Paso 2: Reconocer al subproducto de la combustión orgánica como el más abundante por actividad humana.",
+      "Resultado: Dióxido de carbono."
+    ]
+  },
+  {
+    "id": "Q-107",
+    "materia": "Química",
+    "dificultad": 4,
+    "tiempoSugerido": 85,
+    "pregunta": "¿Cuántos moles de agua se producen al reaccionar completamente 4 moles de hidrógeno gaseoso con suficiente oxígeno? (form)2H_2 + O_2 \\rightarrow 2H_2O(/form)",
+    "formulaPrincipal": "Relación estequiométrica",
+    "opciones": [
+      "2 moles",
+      "4 moles",
+      "8 moles",
+      "1 mol"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Analizar los coeficientes de la ecuación balanceada (2:2).",
+      "Paso 2: Observar que la relación molar entre el reactivo y el producto es 1 a 1.",
+      "Paso 3: Si reaccionan 4 moles de (form)H_2(/form), se producirán 4 moles de (form)H_2O(/form).",
+      "Resultado: 4 moles."
+    ]
+  },
+  {
+    "id": "Q-108",
+    "materia": "Química",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "Un proceso químico donde una sustancia GANA electrones se conoce como:",
+    "formulaPrincipal": "GER (Gain Electrons = Reduction)",
+    "opciones": [
+      "Oxidación",
+      "Reducción",
+      "Neutralización",
+      "Combustión"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Recordar el mnemónico LEO-GER (Lose Electrons Oxidation - Gain Electrons Reduction).",
+      "Paso 2: Identificar que al ganar electrones, el número de oxidación disminuye.",
+      "Resultado: Reducción."
+    ],
+    "analisisDeError": {
+      "0": "La oxidación es la pérdida de electrones."
+    }
+  },
+  {
+    "id": "Q-109",
+    "materia": "Química",
+    "dificultad": 4,
+    "tiempoSugerido": 80,
+    "pregunta": "¿Cuál es el volumen ocupado por 1 mol de un gas ideal en condiciones normales de presión y temperatura (CNPT)?",
+    "formulaPrincipal": "P = 1 atm, T = 273.15 K",
+    "opciones": [
+      "11.2 L",
+      "22.4 L",
+      "44.8 L",
+      "1.0 L"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Aplicar la constante del volumen molar de los gases ideales.",
+      "Paso 2: Recordar que en condiciones normales (1 atm y 0°C), un mol siempre ocupa el mismo espacio.",
+      "Resultado: 22.4 L."
+    ]
+  },
+  {
+    "id": "Q-110",
+    "materia": "Química",
+    "dificultad": 4,
+    "tiempoSugerido": 95,
+    "pregunta": "Al balancear por tanteo la siguiente ecuación: (form)Al + O_2 \\rightarrow Al_2O_3(/form), ¿cuáles son los coeficientes correctos?",
+    "formulaPrincipal": "",
+    "opciones": [
+      "2, 3, 1",
+      "4, 3, 2",
+      "1, 1, 1",
+      "2, 1, 2"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Contar los átomos en ambos lados. Hay 2 Oxígenos en reactivos y 3 en productos; el mínimo común es 6.",
+      "Paso 2: Colocar un 3 frente al (form)O_2(/form) y un 2 frente al (form)Al_2O_3(/form).",
+      "Paso 3: Ajustar el Aluminio; ahora hay 4 en productos, por lo que se coloca un 4 en reactivos.",
+      "Resultado: 4, 3, 2."
+    ]
+  },
+  {
+    "id": "Q-111",
+    "materia": "Química",
+    "dificultad": 5,
+    "tiempoSugerido": 120,
+    "pregunta": "Si reaccionan 100 g de Calcio (Ca) con 100 g de Oxígeno (O₂) para formar óxido de calcio (CaO), ¿cuál es el reactivo limitante? (Masas atómicas: Ca = 40 u, O = 16 u)",
+    "formulaPrincipal": "2Ca + O_2 \\rightarrow 2CaO",
+    "opciones": [
+      "Calcio (Ca)",
+      "Oxígeno (O₂)",
+      "Óxido de calcio (CaO)",
+      "Ambos se consumen por igual"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Calcular moles de cada reactivo: n(Ca) = 100g / 40g/mol = 2.5 mol; n(O₂) = 100g / 32g/mol = 3.125 mol.",
+      "Paso 2: Relación estequiométrica: 2 mol de Ca requieren 1 mol de O₂. Por tanto, 2.5 mol de Ca requieren 1.25 mol de O₂.",
+      "Paso 3: Comparar: Tenemos 3.125 mol de O₂, pero solo necesitamos 1.25 mol. El Ca se agota primero.",
+      "Resultado: Calcio (Ca)."
+    ],
+    "analisisDeError": {
+      "1": "Error: Asumir que el reactivo con menor masa en gramos es el limitante sin considerar la masa molar y la estequiometría.",
+      "2": "El CaO es el producto, no un reactivo."
+    }
+  },
+  {
+    "id": "Q-112",
+    "materia": "Química",
+    "dificultad": 5,
+    "tiempoSugerido": 100,
+    "pregunta": "¿Cuál es la presión ejercida por 2 moles de un gas ideal en un recipiente de 10 L a una temperatura de 300 K? (R = 0.0821 L·atm/mol·K)",
+    "formulaPrincipal": "PV = nRT",
+    "opciones": [
+      "4.92 atm",
+      "2.46 atm",
+      "0.49 atm",
+      "24.6 atm"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Despejar la presión: P = nRT / V.",
+      "Paso 2: Sustituir valores: P = (2 mol * 0.0821 L·atm/mol·K * 300 K) / 10 L.",
+      "Paso 3: P = 49.26 / 10 = 4.926 atm.",
+      "Resultado: 4.92 atm."
+    ],
+    "analisisDeError": {
+      "3": "Error de cálculo decimal al dividir por el volumen."
+    }
+  },
+  {
+    "id": "Q-113",
+    "materia": "Química",
+    "dificultad": 4,
+    "tiempoSugerido": 90,
+    "pregunta": "En la reacción de obtención del amoníaco: N₂ + 3H₂ → 2NH₃, ¿cuántos gramos de H₂ se requieren para reaccionar completamente con 2 moles de N₂? (Masa H = 1 u)",
+    "formulaPrincipal": "Relación Molar 1:3",
+    "opciones": [
+      "6 g",
+      "12 g",
+      "3 g",
+      "2 g"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Por cada mol de N₂ se necesitan 3 moles de H₂. Para 2 moles de N₂ se requieren 6 moles de H₂.",
+      "Paso 2: Calcular la masa de H₂: m = n * PM = 6 mol * 2 g/mol.",
+      "Resultado: 12 g."
+    ],
+    "analisisDeError": {
+      "0": "Error: Confundir moles de H₂ con los gramos finales (se olvidó multiplicar por la masa molecular diatómica)."
+    }
+  },
+  {
+    "id": "Q-114",
+    "materia": "Química",
+    "dificultad": 5,
+    "tiempoSugerido": 110,
+    "pregunta": "Al balancear la ecuación redox: KMnO₄ + HCl → KCl + MnCl₂ + H₂O + Cl₂, el manganeso cambia su estado de oxidación de:",
+    "formulaPrincipal": "\\text{Reducción del Mn}",
+    "opciones": [
+      "+7 a +2",
+      "+4 a +2",
+      "+1 a +2",
+      "+7 a +4"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Determinar el estado de oxidación del Mn en KMnO₄: K(+1) + Mn(x) + 4*O(-2) = 0 → x = +7.",
+      "Paso 2: Determinar el estado de oxidación del Mn en MnCl₂: Mn(x) + 2*Cl(-1) = 0 → x = +2.",
+      "Resultado: +7 a +2."
+    ],
+    "analisisDeError": {
+      "1": "Error al calcular el estado inicial del manganeso en el permanganato."
+    }
+  },
+  {
+    "id": "Q-115",
+    "materia": "Química",
+    "dificultad": 4,
+    "tiempoSugerido": 85,
+    "pregunta": "¿Qué volumen de oxígeno se requiere para la combustión completa de 5 L de metano (CH₄) a la misma temperatura y presión? CH₄ + 2O₂ → CO₂ + 2H₂O",
+    "formulaPrincipal": "Ley de Gay-Lussac (volúmenes de combinación)",
+    "opciones": [
+      "5 L",
+      "10 L",
+      "2.5 L",
+      "20 L"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar la relación volumétrica de la ecuación balanceada (1 vol CH₄ : 2 vol O₂).",
+      "Paso 2: Si tenemos 5 L de metano, necesitamos el doble de oxígeno según la estequiometría gaseosa.",
+      "Resultado: 10 L."
+    ]
+  },
+  {
+    "id": "Q-116",
+    "materia": "Química",
+    "dificultad": 5,
+    "tiempoSugerido": 115,
+    "pregunta": "En un análisis del aire, se determina que una muestra de gas ocupa 4 L a 2 atm y 20°C. ¿Qué volumen ocupará a 1 atm y 40°C?",
+    "formulaPrincipal": "\\frac{P_1 V_1}{T_1} = \\frac{P_2 V_2}{T_2}",
+    "opciones": [
+      "8.54 L",
+      "4.27 L",
+      "16.0 L",
+      "2.13 L"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Convertir temperaturas a Kelvin: T₁ = 293 K, T₂ = 313 K.",
+      "Paso 2: Despejar V₂: V₂ = (P₁ * V₁ * T₂) / (T₁ * P₂).",
+      "Paso 3: Sustituir: V₂ = (2 atm * 4 L * 313 K) / (293 K * 1 atm) = 2504 / 293.",
+      "Resultado: 8.54 L."
+    ],
+    "analisisDeError": {
+      "2": "Error: No convertir las temperaturas de Celsius a Kelvin."
+    }
+  },
+  {
+    "id": "Q-117",
+    "materia": "Química",
+    "dificultad": 4,
+    "tiempoSugerido": 90,
+    "pregunta": "¿Cuántos gramos de oxígeno hay en 0.5 moles de CO₂? (Masas atómicas: C = 12 u, O = 16 u)",
+    "formulaPrincipal": "m = n \\times PM",
+    "opciones": [
+      "16 g",
+      "8 g",
+      "32 g",
+      "44 g"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Identificar que en 1 mol de CO₂ hay 2 moles de átomos de O.",
+      "Paso 2: En 0.5 moles de CO₂ hay 1 mol de átomos de O (0.5 * 2).",
+      "Paso 3: Calcular la masa de 1 mol de O: 1 mol * 16 g/mol.",
+      "Resultado: 16 g."
+    ]
+  },
+  {
+    "id": "Q-118",
+    "materia": "Química",
+    "dificultad": 5,
+    "tiempoSugerido": 120,
+    "pregunta": "En la reacción de neutralización: H₂SO₄ + 2NaOH → Na₂SO₄ + 2H₂O, si se utilizan 49 g de ácido sulfúrico, ¿cuántos gramos de agua se producen? (PM: H₂SO₄ = 98 g/mol, H₂O = 18 g/mol)",
+    "formulaPrincipal": "Estequiometría Masa-Masa",
+    "opciones": [
+      "18 g",
+      "9 g",
+      "36 g",
+      "49 g"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Convertir g de ácido a moles: 49g / 98g/mol = 0.5 moles de H₂SO₄.",
+      "Paso 2: Relación estequiométrica: 1 mol de ácido produce 2 moles de agua. Entonces 0.5 moles de ácido producen 1 mol de agua.",
+      "Paso 3: Convertir moles de agua a gramos: 1 mol * 18 g/mol.",
+      "Resultado: 18 g."
+    ]
+  },
+  {
+    "id": "Q-119",
+    "materia": "Química",
+    "dificultad": 4,
+    "tiempoSugerido": 80,
+    "pregunta": "¿Qué ley de los gases explica por qué los globos aerostáticos se elevan al calentar el aire en su interior?",
+    "formulaPrincipal": "V \\propto T",
+    "opciones": [
+      "Ley de Boyle",
+      "Ley de Charles",
+      "Ley de Gay-Lussac",
+      "Ley de Dalton"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar que al calentar el gas (aumentar T), este se expande (aumenta V) manteniendo la presión constante.",
+      "Paso 2: Al aumentar el volumen para la misma masa, la densidad disminuye y el globo sube.",
+      "Resultado: Ley de Charles."
+    ]
+  },
+  {
+    "id": "Q-120",
+    "materia": "Química",
+    "dificultad": 5,
+    "tiempoSugerido": 100,
+    "pregunta": "¿Cuál es la densidad del gas Nitrógeno (N₂) en condiciones normales (CNPT)? (Masa N = 14 u)",
+    "formulaPrincipal": "\\rho = \\frac{PM}{V_m}",
+    "opciones": [
+      "1.25 g/L",
+      "0.625 g/L",
+      "28 g/L",
+      "1.16 g/L"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Masa molar del N₂ = 28 g/mol.",
+      "Paso 2: Volumen molar en CNPT = 22.4 L/mol.",
+      "Paso 3: Densidad = 28 g / 22.4 L.",
+      "Resultado: 1.25 g/L."
+    ]
+  },
+  {
+    "id": "Q-121",
+    "materia": "Química",
+    "dificultad": 5,
+    "tiempoSugerido": 120,
+    "pregunta": "Se hacen reaccionar 200 g de una muestra de carbonato de calcio (CaCO₃) con una pureza del 80% con exceso de HCl. ¿Qué volumen de CO₂ se desprenderá en condiciones normales (CNPT)? (Masas atómicas: Ca=40, C=12, O=16)",
+    "formulaPrincipal": "CaCO_3 + 2HCl \\rightarrow CaCl_2 + H_2O + CO_2",
+    "opciones": [
+      "35.84 L",
+      "44.80 L",
+      "22.40 L",
+      "17.92 L"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Calcular la masa pura de CaCO₃: 200 g * 0.80 = 160 g.",
+      "Paso 2: Calcular los moles de CaCO₃ puro: n = 160 g / 100 g/mol = 1.6 mol.",
+      "Paso 3: Relación estequiométrica: 1 mol de CaCO₃ produce 1 mol de CO₂. Por tanto, se producen 1.6 mol de CO₂.",
+      "Paso 4: Calcular el volumen en CNPT: V = 1.6 mol * 22.4 L/mol = 35.84 L.",
+      "Resultado: 35.84 L."
+    ],
+    "analisisDeError": {
+      "1": "Error: Se calculó el volumen usando los 200 g de muestra sin aplicar el porcentaje de pureza.",
+      "2": "Error: Se asumió que solo había 1 mol de reactivo."
+    }
+  },
+  {
+    "id": "Q-122",
+    "materia": "Química",
+    "dificultad": 5,
+    "tiempoSugerido": 110,
+    "pregunta": "En la reacción: 2Al + 3H₂SO₄ → Al₂(SO₄)₃ + 3H₂, si se obtienen 5 L de H₂ pero teóricamente deberían producirse 8 L, ¿cuál es el rendimiento de la reacción?",
+    "formulaPrincipal": "\\% \\text{Rendimiento} = (\\text{Valor Real} / \\text{Valor Teórico}) \\times 100",
+    "opciones": [
+      "62.5%",
+      "160%",
+      "37.5%",
+      "80%"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Identificar el rendimiento real (5 L) y el rendimiento teórico (8 L).",
+      "Paso 2: Aplicar la fórmula: (5 / 8) * 100.",
+      "Paso 3: 0.625 * 100 = 62.5%.",
+      "Resultado: 62.5%."
+    ],
+    "analisisDeError": {
+      "1": "Error: Se dividió el valor teórico entre el real, obteniendo un rendimiento imposible mayor al 100%."
+    }
+  },
+  {
+    "id": "Q-123",
+    "materia": "Química",
+    "dificultad": 5,
+    "tiempoSugerido": 130,
+    "pregunta": "Para la reacción redox en medio ácido: MnO₄⁻ + Fe²⁺ → Mn²⁺ + Fe³⁺, ¿cuál es el coeficiente estequiométrico del ion Fe²⁺ una vez balanceada la ecuación?",
+    "formulaPrincipal": "\\text{Método Ion-Electrón}",
+    "opciones": [
+      "1",
+      "5",
+      "2",
+      "8"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Escribir semirreacciones: (Mn⁺⁷ + 5e⁻ → Mn⁺²) y (Fe²⁺ → Fe³⁺ + 1e⁻).",
+      "Paso 2: Igualar electrones multiplicando la semirreacción del hierro por 5.",
+      "Paso 3: Sumar las semirreacciones: MnO₄⁻ + 8H⁺ + 5Fe²⁺ → Mn²⁺ + 4H₂O + 5Fe³⁺.",
+      "Resultado: 5."
+    ],
+    "analisisDeError": {
+      "3": "8 es el coeficiente de los protones (H⁺), no del hierro."
+    }
+  },
+  {
+    "id": "Q-124",
+    "materia": "Química",
+    "dificultad": 5,
+    "tiempoSugerido": 115,
+    "pregunta": "Determine la masa de 5 L de gas nitrógeno (N₂) a una presión de 1.5 atm y una temperatura de 27°C. (Masa N = 14 u, R = 0.0821 L·atm/mol·K)",
+    "formulaPrincipal": "m = (P \\cdot V \\cdot PM) / (R \\cdot T)",
+    "opciones": [
+      "8.53 g",
+      "4.26 g",
+      "17.06 g",
+      "2.13 g"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Convertir temperatura a Kelvin: 27 + 273 = 300 K. Masa molar N₂ = 28 g/mol.",
+      "Paso 2: Calcular moles (n = PV / RT): (1.5 * 5) / (0.0821 * 300) = 7.5 / 24.63 = 0.3045 mol.",
+      "Paso 3: Calcular masa: 0.3045 mol * 28 g/mol = 8.526 g.",
+      "Resultado: 8.53 g."
+    ],
+    "analisisDeError": {
+      "1": "Error: Se usó la masa atómica del nitrógeno (14) en lugar de la masa molecular diatómica (28)."
+    }
+  },
+  {
+    "id": "Q-125",
+    "materia": "Química",
+    "dificultad": 5,
+    "tiempoSugerido": 120,
+    "pregunta": "¿Qué masa de magnesio se requiere para producir 100 g de MgO si el rendimiento de la reacción es del 75%? (Masas: Mg=24, O=16)",
+    "formulaPrincipal": "2Mg + O_2 \\rightarrow 2MgO",
+    "opciones": [
+      "80.0 g",
+      "60.0 g",
+      "45.0 g",
+      "106.6 g"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Calcular la masa teórica necesaria: Si 100 g es el 75%, el 100% teórico es 100 / 0.75 = 133.33 g de MgO.",
+      "Paso 2: Relación estequiométrica: 48 g de Mg producen 80 g de MgO. Por tanto, para 133.33 g de MgO: (133.33 * 48) / 80.",
+      "Paso 3: 6399.84 / 80 = 79.99 g.",
+      "Resultado: 80.0 g."
+    ],
+    "analisisDeError": {
+      "1": "Error: Se calculó la estequiometría normal y luego se aplicó el 75% (60 g), lo cual daría un rendimiento real mucho menor al solicitado."
+    }
+  },
+  {
+    "id": "Q-126",
+    "materia": "Química",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Qué nombre recibe la rama de la química que estudia los cambios térmicos (absorción o liberación de calor) que acompañan a las reacciones químicas?",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Cinética química",
+      "Termoquímica",
+      "Electroquímica",
+      "Estequiometría"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar el objeto de estudio relacionado con la energía térmica.",
+      "Paso 2: Reconocer que el prefijo 'termo' indica calor y su relación con los procesos químicos.",
+      "Resultado: Termoquímica."
+    ],
+    "analisisDeError": {
+      "0": "La cinética química estudia la velocidad de las reacciones, no solo el calor.",
+      "3": "La estequiometría estudia las relaciones cuantitativas de masa y volumen."
+    }
+  },
+  {
+    "id": "Q-127",
+    "materia": "Química",
+    "dificultad": 3,
+    "tiempoSugerido": 65,
+    "pregunta": "Una reacción química que LIBERA energía en forma de calor hacia los alrededores se clasifica como:",
+    "formulaPrincipal": "\\Delta H < 0",
+    "opciones": [
+      "Endotérmica",
+      "Exotérmica",
+      "Isotérmica",
+      "Adiabática"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Analizar el flujo de energía. 'Exo' significa fuera.",
+      "Paso 2: Identificar que si los productos tienen menos energía que los reactivos, el exceso se libera.",
+      "Resultado: Exotérmica."
+    ],
+    "analisisDeError": {
+      "0": "La reacción endotérmica absorbe calor del entorno (Delta H positivo)."
+    }
+  },
+  {
+    "id": "Q-128",
+    "materia": "Química",
+    "dificultad": 4,
+    "tiempoSugerido": 70,
+    "pregunta": "¿Cuál es la función de un catalizador en una reacción química?",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Aumentar la energía de activación",
+      "Disminuir la energía de activación para acelerar la reacción",
+      "Aumentar el rendimiento del producto final",
+      "Cambiar el valor de la entalpía (Delta H)"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Recordar que un catalizador modifica la velocidad de reacción sin consumirse.",
+      "Paso 2: Identificar que su mecanismo principal es ofrecer una ruta alternativa que requiere menos energía para iniciar.",
+      "Resultado: Disminuir la energía de activación."
+    ],
+    "analisisDeError": {
+      "2": "Un catalizador solo hace la reacción más rápida, no produce 'más' cantidad de la que permite la estequiometría.",
+      "3": "El Delta H es una propiedad de estado que depende solo de reactivos y productos, el catalizador no lo altera."
+    }
+  },
+  {
+    "id": "Q-129",
+    "materia": "Química",
+    "dificultad": 4,
+    "tiempoSugerido": 75,
+    "pregunta": "¿Qué sucede con la velocidad de una reacción química si se aumenta la concentración de los reactivos?",
+    "formulaPrincipal": "v = k [A]^n [B]^m",
+    "opciones": [
+      "La velocidad disminuye",
+      "La velocidad aumenta",
+      "La velocidad permanece constante",
+      "La reacción se detiene"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Aplicar la Teoría de las Colisiones.",
+      "Paso 2: A mayor concentración, hay más partículas en el mismo espacio, lo que aumenta la probabilidad de choques efectivos.",
+      "Resultado: La velocidad aumenta."
+    ]
+  },
+  {
+    "id": "Q-130",
+    "materia": "Química",
+    "dificultad": 4,
+    "tiempoSugerido": 80,
+    "pregunta": "En un diagrama de energía, el punto más alto de la curva donde los reactivos están en un estado de transición inestable se conoce como:",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Energía libre",
+      "Complejo activado",
+      "Entalpía de formación",
+      "Energía de enlace"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar la estructura de una gráfica de progreso de reacción.",
+      "Paso 2: Reconocer el estado intermedio de alta energía antes de la formación de productos.",
+      "Resultado: Complejo activado."
+    ]
+  },
+  {
+    "id": "Q-131",
+    "materia": "Química",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "La ley que establece que el cambio de entalpía de una reacción es el mismo si ocurre en un solo paso o en varios pasos se llama:",
+    "formulaPrincipal": "\\Delta H_{total} = \\sum \\Delta H_{pasos}",
+    "opciones": [
+      "Ley de Boyle",
+      "Ley de Hess",
+      "Ley de Lavoisier",
+      "Ley de Graham"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar el principio de aditividad del calor de reacción.",
+      "Paso 2: Reconocer que la entalpía es una función de estado.",
+      "Resultado: Ley de Hess."
+    ]
+  },
+  {
+    "id": "Q-132",
+    "materia": "Química",
+    "dificultad": 3,
+    "tiempoSugerido": 65,
+    "pregunta": "¿Qué factor de la cinética química explica por qué los alimentos se conservan mejor dentro de un refrigerador?",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Concentración",
+      "Temperatura",
+      "Presencia de catalizadores",
+      "Naturaleza de los reactivos"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Analizar la variable que cambia (frío).",
+      "Paso 2: Identificar que al disminuir la temperatura, disminuye la energía cinética de las moléculas y la frecuencia de colisiones, retrasando la descomposición.",
+      "Resultado: Temperatura."
+    ]
+  },
+  {
+    "id": "Q-133",
+    "materia": "Química",
+    "dificultad": 4,
+    "tiempoSugerido": 85,
+    "pregunta": "Dada la reacción: (form)2H_2 + O_2 \\rightarrow 2H_2O(/form) con un (form)\\Delta H = -572 kJ(/form), ¿qué cantidad de calor se libera al producir 1 mol de agua?",
+    "formulaPrincipal": "\\Delta H_{reaccion} / n",
+    "opciones": [
+      "572 kJ",
+      "286 kJ",
+      "1144 kJ",
+      "0 kJ"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Observar que el Delta H dado es para la producción de 2 moles de agua (según el coeficiente).",
+      "Paso 2: Dividir el valor entre 2 para obtener el calor por mol: 572 / 2.",
+      "Resultado: 286 kJ."
+    ],
+    "analisisDeError": {
+      "0": "Error: No considerar que el valor de la entalpía es proporcional a los coeficientes estequiométricos."
+    }
+  },
+  {
+    "id": "Q-134",
+    "materia": "Química",
+    "dificultad": 4,
+    "tiempoSugerido": 70,
+    "pregunta": "¿Cómo afecta el aumento del área superficial (por ejemplo, pulverizar un sólido) a la velocidad de una reacción heterogénea?",
+    "formulaPrincipal": "",
+    "opciones": [
+      "La disminuye",
+      "La aumenta",
+      "No tiene efecto",
+      "Detiene la reacción"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Analizar el contacto físico entre reactivos en fases distintas.",
+      "Paso 2: Al pulverizar, hay más 'superficie de ataque' disponible para que el otro reactivo choque.",
+      "Resultado: La aumenta."
+    ]
+  },
+  {
+    "id": "Q-135",
+    "materia": "Química",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "Si en una reacción el (form)\\Delta H(/form) es positivo (+150 kcal/mol), la reacción se considera:",
+    "formulaPrincipal": "\\Delta H > 0",
+    "opciones": [
+      "Exotérmica",
+      "Endotérmica",
+      "Espontánea",
+      "De combustión"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar el signo de la entalpía.",
+      "Paso 2: Reconocer que un valor positivo indica que el sistema ha ganado energía del entorno.",
+      "Resultado: Endotérmica."
+    ]
+  },
+  {
+    "id": "Q-136",
+    "materia": "Química",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Qué grupo funcional es característico de los ácidos carboxílicos?",
+    "formulaPrincipal": "R-COOH",
+    "opciones": [
+      "Hidroxilo",
+      "Carboxilo",
+      "Carbonilo",
+      "Éster"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar la estructura del grupo funcional (un carbono unido a un oxígeno por doble enlace y a un grupo OH por enlace sencillo).",
+      "Paso 2: Reconocer el nombre que combina 'carbonilo' e 'hidroxilo'.",
+      "Resultado: Carboxilo."
+    ],
+    "analisisDeError": {
+      "0": "El hidroxilo (-OH) es propio de los alcoholes.",
+      "2": "El carbonilo (C=O) es la base de aldehídos y cetonas, pero le falta el oxígeno adicional para ser ácido."
+    }
+  },
+  {
+    "id": "Q-137",
+    "materia": "Química",
+    "dificultad": 3,
+    "tiempoSugerido": 65,
+    "pregunta": "¿Cuál de las siguientes biomoléculas es la principal fuente de energía inmediata para las células?",
+    "formulaPrincipal": "(CH_2O)_n",
+    "opciones": [
+      "Lípidos",
+      "Proteínas",
+      "Carbohidratos (Glúcidos)",
+      "Ácidos nucleicos"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Analizar la función biológica de las macromoléculas.",
+      "Paso 2: Identificar a los azúcares (como la glucosa) como el combustible primario del metabolismo celular.",
+      "Resultado: Carbohidratos."
+    ],
+    "analisisDeError": {
+      "0": "Los lípidos son reserva de energía a largo plazo.",
+      "1": "Las proteínas tienen funciones principalmente estructurales y enzimáticas."
+    }
+  },
+  {
+    "id": "Q-138",
+    "materia": "Química",
+    "dificultad": 4,
+    "tiempoSugerido": 70,
+    "pregunta": "El enlace químico que une a dos aminoácidos para formar proteínas se conoce como:",
+    "formulaPrincipal": "R-CO-NH-R'",
+    "opciones": [
+      "Enlace glucosídico",
+      "Enlace peptídico",
+      "Enlace éster",
+      "Puente de hidrógeno"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar la reacción de condensación entre el grupo carboxilo de un aminoácido y el grupo amino de otro.",
+      "Paso 2: Reconocer la formación de una amida sustituida.",
+      "Resultado: Enlace peptídico."
+    ],
+    "analisisDeError": {
+      "0": "El enlace glucosídico une monosacáridos en los carbohidratos.",
+      "2": "El enlace éster une glicerol y ácidos grasos en los lípidos."
+    }
+  },
+  {
+    "id": "Q-139",
+    "materia": "Química",
+    "dificultad": 4,
+    "tiempoSugerido": 65,
+    "pregunta": "Un aldehído se diferencia de una cetona porque el grupo carbonilo (C=O) se encuentra en:",
+    "formulaPrincipal": "",
+    "opciones": [
+      "El extremo de la cadena de carbonos",
+      "Cualquier carbono intermedio de la cadena",
+      "Unido a dos radicales alquilo",
+      "Unido a un grupo hidroxilo"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Comparar las estructuras R-CHO (aldehído) y R-CO-R' (cetona).",
+      "Paso 2: Identificar que el carbono del aldehído debe estar unido al menos a un hidrógeno (posición terminal).",
+      "Resultado: El extremo de la cadena."
+    ]
+  },
+  {
+    "id": "Q-140",
+    "materia": "Química",
+    "dificultad": 4,
+    "tiempoSugerido": 75,
+    "pregunta": "¿Qué tipo de lípido es el principal componente de las membranas celulares, formando una bicapa?",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Triglicéridos",
+      "Fosfolípidos",
+      "Ceras",
+      "Esteroides"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Analizar la estructura de las membranas biológicas.",
+      "Paso 2: Identificar la molécula anfipática que posee una cabeza polar y colas hidrofóbicas.",
+      "Resultado: Fosfolípidos."
+    ]
+  },
+  {
+    "id": "Q-141",
+    "materia": "Química",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "La glucosa y la fructosa son ejemplos de:",
+    "formulaPrincipal": "C_6H_{12}O_6",
+    "opciones": [
+      "Polisacáridos",
+      "Disacáridos",
+      "Monosacáridos",
+      "Aminoácidos"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Clasificar los azúcares por su tamaño molecular.",
+      "Paso 2: Reconocer que son monómeros que no pueden hidrolizarse en carbohidratos más simples.",
+      "Resultado: Monosacáridos."
+    ]
+  },
+  {
+    "id": "Q-142",
+    "materia": "Química",
+    "dificultad": 4,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Cuál es el grupo funcional presente en las aminas?",
+    "formulaPrincipal": "R-NH_2",
+    "opciones": [
+      "Hidroxilo",
+      "Amino",
+      "Amida",
+      "Nitro"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar la presencia de nitrógeno unido a carbonos saturados o hidrógenos.",
+      "Paso 2: Asociar el nombre del compuesto con el del grupo derivado del amoniaco.",
+      "Resultado: Amino."
+    ]
+  },
+  {
+    "id": "Q-143",
+    "materia": "Química",
+    "dificultad": 4,
+    "tiempoSugerido": 70,
+    "pregunta": "Los triglicéridos se forman mediante la reacción de una molécula de glicerol con tres:",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Aminoácidos",
+      "Monosacáridos",
+      "Ácidos grasos",
+      "Nucleótidos"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Recordar la estructura de las grasas y aceites.",
+      "Paso 2: Identificar los componentes que se unen mediante enlaces éster.",
+      "Resultado: Ácidos grasos."
+    ]
+  },
+  {
+    "id": "Q-144",
+    "materia": "Química",
+    "dificultad": 3,
+    "tiempoSugerido": 65,
+    "pregunta": "¿Cuál es la función principal de las enzimas en los organismos vivos?",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Servir como reserva de energía",
+      "Actuar como catalizadores biológicos",
+      "Almacenar información genética",
+      "Formar parte de la estructura ósea"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar la naturaleza proteica de la mayoría de las enzimas.",
+      "Paso 2: Reconocer su papel en la aceleración de las reacciones metabólicas disminuyendo la energía de activación.",
+      "Resultado: Actuar como catalizadores."
+    ]
+  },
+  {
+    "id": "Q-145",
+    "materia": "Química",
+    "dificultad": 4,
+    "tiempoSugerido": 60,
+    "pregunta": "El grupo funcional -O- que une a dos radicales alquilo corresponde a los:",
+    "formulaPrincipal": "R-O-R'",
+    "opciones": [
+      "Ésteres",
+      "Éteres",
+      "Cetonas",
+      "Alcoholes"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar el puente de oxígeno entre dos cadenas de carbono.",
+      "Paso 2: Diferenciar del éster (que tiene un carbonilo adyacente).",
+      "Resultado: Éteres."
+    ]
+  },
+  {
+    "id": "Q-146",
+    "materia": "Química",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Qué tipo de enlace une a los monosacáridos para formar polímeros como el almidón o la celulosa?",
+    "formulaPrincipal": "R-O-R'",
+    "opciones": [
+      "Enlace peptídico",
+      "Enlace glucosídico",
+      "Enlace éster",
+      "Puente de hidrógeno"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar que el almidón y la celulosa son carbohidratos complejos (polisacáridos).",
+      "Paso 2: Reconocer la reacción de condensación entre grupos hidroxilo de dos azúcares.",
+      "Resultado: Enlace glucosídico."
+    ],
+    "analisisDeError": {
+      "0": "El enlace peptídico es exclusivo de las proteínas.",
+      "2": "El enlace éster se encuentra en lípidos (triglicéridos)."
+    }
+  },
+  {
+    "id": "Q-147",
+    "materia": "Química",
+    "dificultad": 4,
+    "tiempoSugerido": 70,
+    "pregunta": "¿Cuál de los siguientes grupos funcionales se obtiene de la reacción entre un alcohol y un ácido carboxílico (esterificación)?",
+    "formulaPrincipal": "R-COO-R'",
+    "opciones": [
+      "Éter",
+      "Éster",
+      "Amida",
+      "Cetona"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Analizar la estructura resultante de eliminar una molécula de agua entre un grupo -OH y un -COOH.",
+      "Paso 2: Identificar el grupo carboxilo modificado unido a otra cadena alquilo.",
+      "Resultado: Éster."
+    ],
+    "analisisDeError": {
+      "0": "El éter resulta de la unión de dos alcoholes.",
+      "2": "La amida resulta de la reacción entre un ácido carboxílico y una amina."
+    }
+  },
+  {
+    "id": "Q-148",
+    "materia": "Química",
+    "dificultad": 4,
+    "tiempoSugerido": 75,
+    "pregunta": "¿Cuál es la principal característica estructural que diferencia a un ácido graso SATURADO de uno INSATURADO?",
+    "formulaPrincipal": "",
+    "opciones": [
+      "La presencia de al menos un doble enlace entre carbonos en el insaturado",
+      "La longitud de la cadena de carbonos",
+      "El número de grupos carboxilo presentes",
+      "La presencia de anillos aromáticos"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Definir saturación en términos de hidrógenos (cadena llena de hidrógenos con enlaces sencillos C-C).",
+      "Paso 2: Identificar que la 'insaturación' implica que faltan hidrógenos debido a la formación de dobles enlaces C=C.",
+      "Resultado: Doble enlace en el insaturado."
+    ]
+  },
+  {
+    "id": "Q-149",
+    "materia": "Química",
+    "dificultad": 3,
+    "tiempoSugerido": 65,
+    "pregunta": "Las proteínas adquieren formas espaciales como la hélice alfa o la lámina beta gracias a:",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Enlaces peptídicos",
+      "Puentes de hidrógeno entre los grupos amida",
+      "Enlaces iónicos entre cadenas laterales",
+      "Fuerzas de Van der Waals"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar que se pregunta por la estructura secundaria de las proteínas.",
+      "Paso 2: Reconocer que la estabilidad de estas formas geométricas se debe a interacciones débiles pero repetitivas entre el hidrógeno del grupo amino y el oxígeno del grupo carbonilo.",
+      "Resultado: Puentes de hidrógeno."
+    ]
+  },
+  {
+    "id": "Q-150",
+    "materia": "Química",
+    "dificultad": 4,
+    "tiempoSugerido": 60,
+    "pregunta": "Compuesto orgánico caracterizado por tener el grupo funcional carbonilo unido a un átomo de nitrógeno:",
+    "formulaPrincipal": "R-CONH_2",
+    "opciones": [
+      "Amina",
+      "Amida",
+      "Nitrilo",
+      "Nitrocompuesto"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Diferenciar entre compuestos nitrogenados.",
+      "Paso 2: Identificar la combinación del grupo carbonilo (C=O) y el grupo amino (-NH2).",
+      "Resultado: Amida."
+    ],
+    "analisisDeError": {
+      "0": "La amina no posee el grupo carbonilo (C=O).",
+      "2": "El nitrilo posee un triple enlace entre carbono y nitrógeno (C≡N)."
+    }
+  },
+  {
+    "id": "Q-151",
+    "materia": "Química",
+    "dificultad": 4,
+    "tiempoSugerido": 70,
+    "pregunta": "¿Qué polisacárido tiene la función de reserva energética en los animales y se almacena principalmente en el hígado y músculos?",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Almidón",
+      "Celulosa",
+      "Glucógeno",
+      "Quitina"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Analizar las funciones de los polisacáridos.",
+      "Paso 2: Diferenciar entre reserva en plantas (almidón) y reserva en animales (glucógeno).",
+      "Resultado: Glucógeno."
+    ],
+    "analisisDeError": {
+      "1": "La celulosa tiene función estructural en plantas, no de reserva.",
+      "3": "La quitina tiene función estructural en el exoesqueleto de artrópodos."
+    }
+  },
+  {
+    "id": "Q-152",
+    "materia": "Química",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "Un disacárido muy común formado por la unión de una molécula de glucosa y una de fructosa es la:",
+    "formulaPrincipal": "C_{12}H_{22}O_{11}",
+    "opciones": [
+      "Lactosa",
+      "Maltosa",
+      "Sacarosa",
+      "Galactosa"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Identificar los componentes de los disacáridos más comunes.",
+      "Paso 2: Reconocer a la sacarosa como el azúcar de mesa común.",
+      "Resultado: Sacarosa."
+    ],
+    "analisisDeError": {
+      "0": "La lactosa se compone de glucosa y galactosa.",
+      "1": "La maltosa se compone de dos unidades de glucosa."
+    }
+  },
+  {
+    "id": "Q-153",
+    "materia": "Química",
+    "dificultad": 4,
+    "tiempoSugerido": 75,
+    "pregunta": "¿Cuál es la unidad básica (monómero) que conforma a las proteínas?",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Monosacárido",
+      "Ácido graso",
+      "Aminoácido",
+      "Nucleótido"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Definir la composición polimérica de las proteínas.",
+      "Paso 2: Identificar la molécula que contiene un grupo amino, un carboxilo y una cadena lateral variable.",
+      "Resultado: Aminoácido."
+    ]
+  },
+  {
+    "id": "Q-154",
+    "materia": "Química",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "Los lípidos que NO presentan ácidos grasos en su estructura y tienen una base de cuatro anillos de carbono fusionados se llaman:",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Triglicéridos",
+      "Ceras",
+      "Esteroides",
+      "Fosfolípidos"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Identificar la clasificación de lípidos (saponificables e insaponificables).",
+      "Paso 2: Reconocer la estructura del núcleo de ciclopentanoperhidrofenantreno (como el colesterol).",
+      "Resultado: Esteroides."
+    ]
+  },
+  {
+    "id": "Q-155",
+    "materia": "Química",
+    "dificultad": 4,
+    "tiempoSugerido": 70,
+    "pregunta": "¿Cómo se clasifica a un carbohidrato que posee el grupo funcional cetona en su estructura (como la fructosa)?",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Aldosa",
+      "Cetosa",
+      "Ácido urónico",
+      "Alcohol azucarado"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar el grupo funcional presente en la molécula del azúcar.",
+      "Paso 2: Aplicar la nomenclatura que utiliza el sufijo '-osa' sobre el nombre del grupo funcional.",
+      "Resultado: Cetosa."
+    ],
+    "analisisDeError": {
+      "0": "Las aldosas contienen el grupo aldehído (como la glucosa)."
+    }
+  },
+  {
+    "id": "Q-156",
+    "materia": "Química",
+    "dificultad": 5,
+    "tiempoSugerido": 90,
+    "pregunta": "¿Qué nombre recibe el carbono de un monosacárido que, al ciclarse la molécula, se convierte en un centro quiral permitiendo la formación de los isómeros alfa y beta?",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Carbono asimétrico",
+      "Carbono anomérico",
+      "Carbono terminal",
+      "Carbono cuaternario"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Analizar la estructura de las aldosas y cetosas en su forma cíclica (hemiacetal o hemicetal).",
+      "Paso 2: Identificar que el carbono que originalmente tenía el grupo carbonilo (C=O) es el que genera la nueva isomería.",
+      "Paso 3: Reconocer la nomenclatura específica para este tipo de isómeros (anómeros).",
+      "Resultado: Carbono anomérico."
+    ],
+    "analisisDeError": {
+      "0": "Aunque el carbono anomérico es asimétrico, el término específico para este proceso de ciclación es 'anomérico'.",
+      "2": "El carbono terminal no suele participar en el enlace hemiacetálico de la mayoría de los monosacárido comunes."
+    }
+  },
+  {
+    "id": "Q-157",
+    "materia": "Química",
+    "dificultad": 5,
+    "tiempoSugerido": 100,
+    "pregunta": "En el contexto de la estructura proteica, ¿qué tipo de interacción estabiliza la ESTRUCTURA TERCIARIA al formar enlaces covalentes entre residuos de cisteína?",
+    "formulaPrincipal": "R-S-S-R",
+    "opciones": [
+      "Puentes de hidrógeno",
+      "Interacciones hidrofóbicas",
+      "Puentes de disulfuro",
+      "Fuerzas de London"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Identificar que la estructura terciaria implica el plegamiento global de la proteína.",
+      "Paso 2: Reconocer que la cisteína posee un grupo sulfhidrilo (-SH) en su cadena lateral.",
+      "Paso 3: Identificar la reacción de oxidación que une dos átomos de azufre de manera covalente.",
+      "Resultado: Puentes de disulfuro."
+    ],
+    "analisisDeError": {
+      "0": "Los puentes de hidrógeno estabilizan principalmente la estructura secundaria (hélices y láminas).",
+      "1": "Las interacciones hidrofóbicas no son enlaces covalentes."
+    }
+  },
+  {
+    "id": "Q-158",
+    "materia": "Química",
+    "dificultad": 5,
+    "tiempoSugerido": 85,
+    "pregunta": "¿Qué técnica de laboratorio se basa en la reacción de los grupos carbonilo de los azúcares reductores con un reactivo cúprico para producir un precipitado rojo ladrillo de óxido cuproso?",
+    "formulaPrincipal": "Cu^{2+} \\rightarrow Cu_2O",
+    "opciones": [
+      "Prueba de Biuret",
+      "Prueba de Benedict (o Fehling)",
+      "Prueba de Lugol",
+      "Prueba de Sudan III"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar que se busca detectar azúcares con capacidad reductora (aldehídos libres).",
+      "Paso 2: Analizar la reducción del cobre inducida por el grupo funcional del carbohidrato.",
+      "Resultado: Prueba de Benedict."
+    ],
+    "analisisDeError": {
+      "0": "La prueba de Biuret se utiliza para detectar enlaces peptídicos en proteínas.",
+      "2": "La prueba de Lugol identifica específicamente almidón.",
+      "3": "Sudan III es un colorante para identificar lípidos."
+    }
+  },
+  {
+    "id": "Q-159",
+    "materia": "Química",
+    "dificultad": 5,
+    "tiempoSugerido": 90,
+    "pregunta": "¿Cuál es la conformación estructural de un triglicérido que contiene exclusivamente ácidos grasos con todos sus enlaces carbono-carbono sencillos?",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Grasa saturada (sólida a temperatura ambiente)",
+      "Aceite insaturado (líquido a temperatura ambiente)",
+      "Esteroide derivado",
+      "Lípido anfipático"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Definir la saturación como la ausencia de dobles enlaces C=C.",
+      "Paso 2: Analizar que las cadenas saturadas son rectas y se empaquetan de forma compacta.",
+      "Paso 3: Relacionar el empaquetamiento molecular con el estado físico sólido.",
+      "Resultado: Grasa saturada."
+    ],
+    "analisisDeError": {
+      "1": "Los aceites poseen dobles enlaces que generan dobleces en las cadenas, impidiendo la compactación.",
+      "3": "Un lípido anfipático es un fosfolípidos, no un triglicérido simple."
+    }
+  },
+  {
+    "id": "Q-160",
+    "materia": "Química",
+    "dificultad": 5,
+    "tiempoSugerido": 110,
+    "pregunta": "¿Cuál es el nombre IUPAC de la molécula orgánica que resulta de la oxidación moderada de un alcohol secundario?",
+    "formulaPrincipal": "R-CH(OH)-R' \\rightarrow R-C(O)-R'",
+    "opciones": [
+      "Aldehído",
+      "Ácido carboxílico",
+      "Cetona",
+      "Éster"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Identificar la posición del grupo hidroxilo en un alcohol secundario (carbono unido a otros dos carbonos).",
+      "Paso 2: Aplicar la regla de oxidación: la pérdida de hidrógenos genera un doble enlace C=O en un carbono interno.",
+      "Resultado: Cetona."
+    ],
+    "analisisDeError": {
+      "0": "Los aldehídos provienen de la oxidación de alcoholes primarios.",
+      "1": "Los ácidos carboxílicos son el producto de la oxidación completa de alcoholes primarios."
+    }
+  },
+  {
+    "id": "Q-161",
+    "materia": "Química",
+    "dificultad": 5,
+    "tiempoSugerido": 100,
+    "pregunta": "¿Qué nombre recibe la propiedad de una molécula orgánica de no ser superponible con su imagen especular, generalmente debido a la presencia de un carbono unido a cuatro sustituyentes distintos?",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Quiralidad",
+      "Isomería de cadena",
+      "Resonancia",
+      "Hibridación"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Definir el concepto de asimetría molecular.",
+      "Paso 2: Identificar que el carbono con cuatro grupos diferentes se llama centro quiral o asimétrico.",
+      "Paso 3: Reconocer que esta propiedad da origen a los enantiómeros.",
+      "Resultado: Quiralidad."
+    ],
+    "analisisDeError": {
+      "2": "La resonancia se refiere a la deslocalización de electrones en estructuras como el benceno."
+    }
+  },
+  {
+    "id": "Q-162",
+    "materia": "Química",
+    "dificultad": 5,
+    "tiempoSugerido": 110,
+    "pregunta": "En la formación de un enlace peptídico, ¿cuáles son los grupos funcionales específicos que reaccionan y qué subproducto se libera?",
+    "formulaPrincipal": "R-NH_2 + R'-COOH \\rightarrow R-NH-CO-R' + H_2O",
+    "opciones": [
+      "Grupo amino y grupo carboxilo; se libera agua",
+      "Grupo hidroxilo y grupo amino; se libera hidrógeno",
+      "Grupo carbonilo y grupo sulfhidrilo; se libera agua",
+      "Grupo éster y grupo amino; se libera metanol"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Identificar los componentes de un aminoácido.",
+      "Paso 2: Analizar la reacción de condensación donde el OH del carboxilo y un H del amino se unen.",
+      "Paso 3: Reconocer la formación de la amida (enlace peptídico) y la salida de una molécula de agua.",
+      "Resultado: Grupo amino y carboxilo; agua."
+    ]
+  },
+  {
+    "id": "Q-163",
+    "materia": "Química",
+    "dificultad": 5,
+    "tiempoSugerido": 95,
+    "pregunta": "¿Cuál es la diferencia estructural clave entre la Amilosa y la Amilopectina, ambos componentes del almidón?",
+    "formulaPrincipal": "",
+    "opciones": [
+      "La amilosa es lineal y la amilopectina es ramificada",
+      "La amilosa es un lípido y la amilopectina un carbohidrato",
+      "La amilosa contiene fructosa y la amilopectina glucosa",
+      "La amilosa tiene enlaces beta y la amilopectina enlaces alfa"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Analizar la composición del almidón vegetal.",
+      "Paso 2: Identificar que la amilosa solo posee enlaces alfa(1→4).",
+      "Paso 3: Reconocer que la amilopectina posee enlaces alfa(1→4) y ramificaciones alfa(1→6).",
+      "Resultado: Amilosa lineal, amilopectina ramificada."
+    ]
+  },
+  {
+    "id": "Q-164",
+    "materia": "Química",
+    "dificultad": 5,
+    "tiempoSugerido": 120,
+    "pregunta": "Un aminoácido se encuentra en su punto isoeléctrico cuando:",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Su carga neta es cero y existe como un zwitterión (ion dipolar)",
+      "Se encuentra en un medio extremadamente ácido",
+      "Todos sus grupos carboxilo están protonados",
+      "Su carga neta es positiva"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Definir el pH en el cual las cargas positivas y negativas de la molécula se equilibran.",
+      "Paso 2: Identificar la estructura donde el grupo amino está protonado (NH3+) y el carboxilo desprotonado (COO-).",
+      "Resultado: Carga neta cero / zwitterión."
+    ]
+  },
+  {
+    "id": "Q-165",
+    "materia": "Química",
+    "dificultad": 5,
+    "tiempoSugerido": 115,
+    "pregunta": "¿Qué tipo de reacción metabólica convierte a los triglicéridos en glicerol y ácidos grasos en presencia de una base fuerte como el NaOH?",
+    "formulaPrincipal": "\\text{Triglicérido} + 3NaOH \\rightarrow \\text{Glicerol} + 3\\text{Jabón}",
+    "opciones": [
+      "Saponificación",
+      "Esterificación",
+      "Hidrogenación",
+      "Polimerización"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Identificar la hidrólisis alcalina de los ésteres de ácidos grasos.",
+      "Paso 2: Reconocer que el producto resultante son sales de ácidos grasos (jabones).",
+      "Resultado: Saponificación."
+    ]
+  },
+  {
+    "id": "Q-166",
+    "materia": "Química",
+    "dificultad": 5,
+    "tiempoSugerido": 110,
+    "pregunta": "La desnaturalización de una proteína implica la pérdida de sus estructuras secundaria, terciaria y cuaternaria, pero NO afecta a su:",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Estructura primaria (secuencia de aminoácidos)",
+      "Función biológica",
+      "Solubilidad en agua",
+      "Forma tridimensional"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Definir desnaturalización (ruptura de puentes de hidrógeno y otras interacciones débiles).",
+      "Paso 2: Reconocer que los enlaces peptídicos (covalentes) son mucho más resistentes y no se rompen por cambios de pH o calor moderado.",
+      "Resultado: Estructura primaria."
+    ]
+  },
+  {
+    "id": "Q-167",
+    "materia": "Química",
+    "dificultad": 5,
+    "tiempoSugerido": 120,
+    "pregunta": "¿Qué carbohidrato es un polímero de beta-D-glucosa con enlaces beta(1→4), lo que lo hace indigerible para los humanos por falta de la enzima específica?",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Almidón",
+      "Glucógeno",
+      "Celulosa",
+      "Maltosa"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Analizar la estructura de las fibras vegetales.",
+      "Paso 2: Diferenciar el tipo de enlace glucosídico (alfa vs beta).",
+      "Paso 3: Identificar que la configuración beta requiere celulasa para su hidrólisis.",
+      "Resultado: Celulosa."
+    ]
+  },
+  {
+    "id": "Q-168",
+    "materia": "Química",
+    "dificultad": 5,
+    "tiempoSugerido": 100,
+    "pregunta": "En los ácidos nucleicos, ¿qué tipo de enlace une el grupo fosfato de un nucleótido con el azúcar del siguiente nucleótido?",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Enlace fosfodiéster",
+      "Enlace N-glucosídico",
+      "Puente de hidrógeno",
+      "Enlace anhídrido"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Analizar la estructura del esqueleto de los ácidos nucleicos.",
+      "Paso 2: Identificar la unión entre el carbono 5' de una pentosa y el carbono 3' de la siguiente a través de un fosfato.",
+      "Resultado: Enlace fosfodiéster."
+    ]
+  },
+  {
+    "id": "Q-169",
+    "materia": "Química",
+    "dificultad": 5,
+    "tiempoSugerido": 115,
+    "pregunta": "¿Qué molécula de lípido es precursora de hormonas sexuales como la testosterona y el estrógeno, además de las sales biliares?",
+    "formulaPrincipal": "C_{27}H_{46}O",
+    "opciones": [
+      "Colesterol",
+      "Ácido linoleico",
+      "Fosfatidilcolina",
+      "Esfingomielina"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Identificar la estructura base de los esteroides.",
+      "Paso 2: Reconocer al colesterol como el esterol fundamental en tejidos animales.",
+      "Resultado: Colesterol."
+    ]
+  },
+  {
+    "id": "Q-170",
+    "materia": "Química",
+    "dificultad": 5,
+    "tiempoSugerido": 130,
+    "pregunta": "¿Cuál es el resultado de la hidrólisis total de una molécula de lactosa?",
+    "formulaPrincipal": "C_{12}H_{22}O_{11} + H_2O \\rightarrow ?",
+    "opciones": [
+      "Dos moléculas de glucosa",
+      "Una molécula de glucosa y una de galactosa",
+      "Una molécula de glucosa y una de fructosa",
+      "Una molécula de galactosa y una de fructosa"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar el origen del azúcar de la leche.",
+      "Paso 2: Recordar los monosacáridos constituyentes unidos por enlace beta(1→4).",
+      "Resultado: Glucosa y galactosa."
+    ]
+  },
+  {
+    "id": "Q-171",
+    "materia": "Química",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Qué nombre recibe la energía mínima necesaria para que los reactivos choquen con la orientación correcta y transformarse en productos?",
+    "formulaPrincipal": "E_a",
+    "opciones": [
+      "Entalpía",
+      "Energía de activación",
+      "Energía libre de Gibbs",
+      "Entropía"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar el concepto de barrera energética en una reacción.",
+      "Paso 2: Reconocer que sin esta energía inicial, la reacción no puede proceder incluso si es espontánea.",
+      "Resultado: Energía de activación."
+    ],
+    "analisisDeError": {
+      "0": "La entalpía es el contenido calórico total, no la barrera de inicio.",
+      "3": "La entropía mide el desorden del sistema."
+    }
+  },
+  {
+    "id": "Q-172",
+    "materia": "Química",
+    "dificultad": 4,
+    "tiempoSugerido": 70,
+    "pregunta": "En una reacción exotérmica, ¿cuál es la relación entre la entalpía de los productos (Hp) y la de los reactivos (Hr)?",
+    "formulaPrincipal": "\\Delta H = H_p - H_r",
+    "opciones": [
+      "Hp > Hr",
+      "Hp < Hr",
+      "Hp = Hr",
+      "Hp + Hr = 0"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Recordar que en las reacciones exotérmicas se libera calor.",
+      "Paso 2: Para que el calor sea liberado, el sistema debe perder energía interna.",
+      "Paso 3: Por lo tanto, los productos deben tener menos energía que los reactivos iniciales.",
+      "Resultado: Hp < Hr (Delta H negativo)."
+    ],
+    "analisisDeError": {
+      "0": "Esta condición corresponde a una reacción endotérmica (absorción de energía)."
+    }
+  },
+  {
+    "id": "Q-173",
+    "materia": "Química",
+    "dificultad": 4,
+    "tiempoSugerido": 80,
+    "pregunta": "Según el Principio de Le Châtelier, ¿hacia dónde se desplazará el equilibrio de la reacción N2(g) + 3H2(g) ⇌ 2NH3(g) si se aumenta la presión del sistema?",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Hacia la derecha (formación de productos)",
+      "Hacia la izquierda (formación de reactivos)",
+      "No hay desplazamiento",
+      "Hacia el estado sólido"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Contar los moles de gas en cada lado. Reactivos: 1+3=4 moles; Productos: 2 moles.",
+      "Paso 2: Aplicar la regla: un aumento de presión desplaza el equilibrio hacia donde hay menos moles de gas.",
+      "Paso 3: Identificar que 2 es menor que 4.",
+      "Resultado: Hacia la derecha."
+    ]
+  },
+  {
+    "id": "Q-174",
+    "materia": "Química",
+    "dificultad": 3,
+    "tiempoSugerido": 65,
+    "pregunta": "¿Qué sucede con el valor de la entalpía (Delta H) si se utiliza un catalizador en la reacción?",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Aumenta",
+      "Disminuye",
+      "Permanece constante",
+      "Se vuelve cero"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Definir la función del catalizador (cambiar la velocidad bajando la Ea).",
+      "Paso 2: Reconocer que el Delta H depende únicamente del estado inicial y final de la materia.",
+      "Paso 3: Dado que los reactivos y productos son los mismos, el cambio de entalpía no varía.",
+      "Resultado: Permanece constante."
+    ]
+  },
+  {
+    "id": "Q-175",
+    "materia": "Química",
+    "dificultad": 4,
+    "tiempoSugerido": 75,
+    "pregunta": "Para la reacción endotérmica: A + B + calor ⇌ C + D, ¿qué efecto tendrá un aumento de temperatura en el equilibrio?",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Favorecerá la formación de reactivos",
+      "Favorecerá la formación de productos",
+      "Disminuirá la velocidad de reacción",
+      "No tendrá ningún efecto"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar el calor como un 'reactivo' en procesos endotérmicos.",
+      "Paso 2: Al aumentar la temperatura (añadir calor), el sistema buscará consumir ese exceso.",
+      "Paso 3: El equilibrio se desplaza hacia el lado que consume calor.",
+      "Resultado: Favorecerá la formación de productos."
+    ]
+  },
+  {
+    "id": "Q-176",
+    "materia": "Química",
+    "dificultad": 4,
+    "tiempoSugerido": 90,
+    "pregunta": "Calcule la entalpía de reacción (Delta Hr) para la combustión de metano sabiendo que: Hr (reactivos) = -75 kJ/mol y Hp (productos) = -890 kJ/mol.",
+    "formulaPrincipal": "\\Delta H_r = H_p - H_r",
+    "opciones": [
+      "-815 kJ/mol",
+      "-965 kJ/mol",
+      "+815 kJ/mol",
+      "-890 kJ/mol"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Aplicar la fórmula de diferencia de entalpías.",
+      "Paso 2: Sustituir valores: (-890) - (-75).",
+      "Paso 3: Resolver: -890 + 75 = -815.",
+      "Resultado: -815 kJ/mol."
+    ]
+  },
+  {
+    "id": "Q-177",
+    "materia": "Química",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Qué ley establece que el cambio de energía en una reacción es independiente del camino seguido y depende solo de los estados inicial y final?",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Ley de Boyle",
+      "Ley de Hess",
+      "Ley de Lavoisier",
+      "Ley de Avogadro"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Reconocer el principio de aditividad de las entalpías de reacción.",
+      "Paso 2: Identificar que se puede calcular el calor de una reacción sumando las etapas intermedias.",
+      "Resultado: Ley de Hess."
+    ]
+  },
+  {
+    "id": "Q-178",
+    "materia": "Química",
+    "dificultad": 4,
+    "tiempoSugerido": 70,
+    "pregunta": "En una reacción en equilibrio, si se retira producto del sistema de manera continua, ¿qué ocurre según Le Châtelier?",
+    "formulaPrincipal": "",
+    "opciones": [
+      "El equilibrio se desplaza hacia la formación de más producto",
+      "La reacción se detiene",
+      "El equilibrio se desplaza hacia los reactivos",
+      "La constante Kc cambia de valor"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Identificar que se está disminuyendo la concentración de un componente a la derecha.",
+      "Paso 2: El sistema intentará contrarrestar la falta de producto produciendo más.",
+      "Resultado: Desplazamiento hacia la formación de producto."
+    ],
+    "analisisDeError": {
+      "3": "La constante Kc solo cambia si se modifica la temperatura."
+    }
+  },
+  {
+    "id": "Q-179",
+    "materia": "Química",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "La magnitud que mide el grado de desorden o aleatoriedad de un sistema se llama:",
+    "formulaPrincipal": "S",
+    "opciones": [
+      "Entalpía",
+      "Entropía",
+      "Energía libre",
+      "Calor latente"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Definir la segunda ley de la termodinámica.",
+      "Paso 2: Identificar la variable termodinámica asociada al caos molecular.",
+      "Resultado: Entropía."
+    ]
+  },
+  {
+    "id": "Q-180",
+    "materia": "Química",
+    "dificultad": 4,
+    "tiempoSugerido": 65,
+    "pregunta": "¿Cuál de los siguientes estados de la materia tiene, por lo general, una mayor entropía?",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Sólido",
+      "Líquido",
+      "Gaseoso",
+      "Cristalino"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Comparar el movimiento y orden de las partículas en cada estado.",
+      "Paso 2: Identificar que en los gases las moléculas tienen libertad total de movimiento y máxima separación.",
+      "Resultado: Gaseoso."
+    ]
+  },
+  {
+    "id": "Q-181",
+    "materia": "Química",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "Un valor negativo de Energía Libre de Gibbs (Delta G < 0) indica que una reacción es:",
+    "formulaPrincipal": "\\Delta G = \\Delta H - T\\Delta S",
+    "opciones": [
+      "No espontánea",
+      "Espontánea",
+      "En equilibrio",
+      "Endotérmica"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar el criterio de espontaneidad termodinámica.",
+      "Paso 2: Reconocer que la disminución de energía libre permite que el proceso ocurra por sí solo.",
+      "Resultado: Espontánea."
+    ]
+  },
+  {
+    "id": "Q-182",
+    "materia": "Química",
+    "dificultad": 4,
+    "tiempoSugerido": 80,
+    "pregunta": "Si en la reacción exotérmica A + B ⇌ C + D + calor se disminuye la temperatura, el sistema se desplazará hacia:",
+    "formulaPrincipal": "",
+    "opciones": [
+      "La derecha (productos)",
+      "La izquierda (reactivos)",
+      "Se detiene la reacción",
+      "Aumenta la presión"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Identificar el calor como un 'producto' en reacciones exotérmicas.",
+      "Paso 2: Al enfriar, el sistema intenta generar calor para compensar la pérdida.",
+      "Paso 3: El lado que libera calor es el de los productos.",
+      "Resultado: Hacia la derecha."
+    ]
+  },
+  {
+    "id": "Q-183",
+    "materia": "Química",
+    "dificultad": 4,
+    "tiempoSugerido": 70,
+    "pregunta": "¿Qué representa la meseta o punto máximo en una gráfica de Energía vs Progreso de reacción?",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Reactivos",
+      "Productos",
+      "Complejo activado",
+      "Catalizador"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Visualizar la curva de energía.",
+      "Paso 2: Identificar el estado de transición inestable donde los enlaces viejos se rompen y los nuevos se forman.",
+      "Resultado: Complejo activado."
+    ]
+  },
+  {
+    "id": "Q-184",
+    "materia": "Química",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "La entalpía de formación estándar de un elemento puro en su estado más estable (ej. O2 gas) es:",
+    "formulaPrincipal": "\\Delta H_f^\\circ",
+    "opciones": [
+      "100 kJ/mol",
+      "1 kJ/mol",
+      "0 kJ/mol",
+      "Depende de la presión"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Identificar el punto de referencia para los cálculos termoquímicos.",
+      "Paso 2: Reconocer que no hay cambio de energía al 'formar' un elemento que ya existe en su forma natural.",
+      "Resultado: 0 kJ/mol."
+    ]
+  },
+  {
+    "id": "Q-185",
+    "materia": "Química",
+    "dificultad": 4,
+    "tiempoSugerido": 75,
+    "pregunta": "Dada una constante de equilibrio Kc = 1.5 x 10^-5, ¿qué se puede deducir sobre la posición del equilibrio?",
+    "formulaPrincipal": "K_c = [Prod] / [React]",
+    "opciones": [
+      "Está muy desplazado hacia los productos",
+      "Está muy desplazado hacia los reactivos",
+      "Hay cantidades iguales de reactivos y productos",
+      "La reacción es instantánea"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Analizar el valor numérico de la constante.",
+      "Paso 2: Un valor mucho menor a 1 indica que el denominador (reactivos) es mucho mayor que el numerador (productos).",
+      "Resultado: Desplazado hacia los reactivos."
+    ]
+  },
+  {
+    "id": "Q-186",
+    "materia": "Química",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Qué nombre recibe el calor absorbido o liberado por un sistema durante una reacción química a presión constante?",
+    "formulaPrincipal": "Q_p = \\Delta H",
+    "opciones": [
+      "Energía interna",
+      "Entalpía",
+      "Entropía",
+      "Energía libre"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar la condición de presión constante en procesos químicos comunes.",
+      "Paso 2: Reconocer que la variación de calor en estas condiciones se define como el cambio entálpico.",
+      "Resultado: Entalpía."
+    ],
+    "analisisDeError": {
+      "0": "La energía interna (U) se asocia más con procesos a volumen constante.",
+      "2": "La entropía mide el desorden, no el flujo de calor directo."
+    }
+  },
+  {
+    "id": "Q-187",
+    "materia": "Química",
+    "dificultad": 4,
+    "tiempoSugerido": 70,
+    "pregunta": "En un diagrama de energía de una reacción endotérmica, los productos se encuentran en un nivel energético:",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Más bajo que los reactivos",
+      "Más alto que los reactivos",
+      "Igual al de los reactivos",
+      "En el cero absoluto"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Definir reacción endotérmica (absorbe energía del entorno).",
+      "Paso 2: Analizar que si el sistema gana energía, el estado final (productos) debe tener mayor contenido energético que el inicial.",
+      "Resultado: Más alto que los reactivos."
+    ],
+    "analisisDeError": {
+      "0": "Esta es la característica de una reacción exotérmica."
+    }
+  },
+  {
+    "id": "Q-188",
+    "materia": "Química",
+    "dificultad": 4,
+    "tiempoSugerido": 75,
+    "pregunta": "¿Cuál es el efecto de añadir un gas inerte (como Helio) a un recipiente de volumen constante donde existe un equilibrio gaseoso?",
+    "formulaPrincipal": "",
+    "opciones": [
+      "El equilibrio se desplaza a la derecha",
+      "El equilibrio se desplaza a la izquierda",
+      "No hay desplazamiento del equilibrio",
+      "Se detiene la reacción"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Analizar si el gas inerte altera las presiones parciales de los reactivos y productos.",
+      "Paso 2: A volumen constante, la presión total aumenta pero las concentraciones de las especies reactivas no cambian.",
+      "Paso 3: Si las presiones parciales se mantienen, el equilibrio no se altera.",
+      "Resultado: No hay desplazamiento."
+    ]
+  },
+  {
+    "id": "Q-189",
+    "materia": "Química",
+    "dificultad": 4,
+    "tiempoSugerido": 80,
+    "pregunta": "Calcule el $\\Delta H$ de la reacción $A \\rightarrow C$ sabiendo que: $A \\rightarrow B$ ($\\Delta H = +100 kJ$) y $B \\rightarrow C$ ($\\Delta H = -150 kJ$).",
+    "formulaPrincipal": "\\text{Ley de Hess}",
+    "opciones": [
+      "+250 kJ",
+      "-50 kJ",
+      "+50 kJ",
+      "-250 kJ"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Aplicar la Ley de Hess sumando las ecuaciones intermedias.",
+      "Paso 2: Sumar los valores de entalpía: (+100 kJ) + (-150 kJ).",
+      "Paso 3: Realizar la operación aritmética.",
+      "Resultado: -50 kJ."
+    ]
+  },
+  {
+    "id": "Q-190",
+    "materia": "Química",
+    "dificultad": 4,
+    "tiempoSugerido": 85,
+    "pregunta": "Para la reacción en equilibrio $PCl_5(g) \\rightleftharpoons PCl_3(g) + Cl_2(g)$ (reacción endotérmica), ¿qué cambio favorecerá la disociación del $PCl_5$?",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Aumentar la presión",
+      "Disminuir la temperatura",
+      "Aumentar la temperatura",
+      "Añadir $Cl_2$ al sistema"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Identificar que al ser endotérmica, el calor actúa como reactivo.",
+      "Paso 2: Aplicar Le Châtelier: aumentar la temperatura desplaza el equilibrio hacia el consumo de calor (productos).",
+      "Resultado: Aumentar la temperatura."
+    ],
+    "analisisDeError": {
+      "0": "Aumentar la presión favorece el lado con menos moles (reactivos).",
+      "3": "Añadir producto desplaza el equilibrio hacia los reactivos."
+    }
+  },
+  {
+    "id": "Q-191",
+    "materia": "Química",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Qué postula la Primera Ley de la Termodinámica en el contexto de un sistema químico?",
+    "formulaPrincipal": "\\Delta U = Q - W",
+    "opciones": [
+      "La energía se crea a partir del calor",
+      "La energía total de un sistema aislado permanece constante",
+      "La entropía siempre aumenta",
+      "El calor siempre fluye de lo frío a lo caliente"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Reconocer el principio de conservación de la energía.",
+      "Paso 2: Identificar que la energía puede transformarse de una forma a otra pero no desaparecer.",
+      "Resultado: La energía total permanece constante."
+    ]
+  },
+  {
+    "id": "Q-192",
+    "materia": "Química",
+    "dificultad": 4,
+    "tiempoSugerido": 65,
+    "pregunta": "Una reacción es espontánea a cualquier temperatura si se cumple que:",
+    "formulaPrincipal": "\\Delta G = \\Delta H - T\\Delta S",
+    "opciones": [
+      "$\\Delta H$ es positivo y $\\Delta S$ es negativo",
+      "$\\Delta H$ es negativo y $\\Delta S$ es positivo",
+      "$\\Delta H$ y $\\Delta S$ son ambos positivos",
+      "$\\Delta H$ y $\\Delta S$ son ambos negativos"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Analizar la ecuación de Gibbs para que $\\Delta G$ sea siempre negativo.",
+      "Paso 2: Si $\\Delta H$ es negativo (exotérmica) y $\\Delta S$ es positivo (aumento de desorden), el resultado siempre será negativo.",
+      "Resultado: $\\Delta H$ negativo y $\\Delta S$ positivo."
+    ]
+  },
+  {
+    "id": "Q-193",
+    "materia": "Química",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "En un sistema en equilibrio dinámico, ¿cuál es la relación entre las velocidades de la reacción directa e inversa?",
+    "formulaPrincipal": "",
+    "opciones": [
+      "La directa es mayor que la inversa",
+      "La inversa es mayor que la directa",
+      "Ambas velocidades son iguales",
+      "Ambas velocidades son cero"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Definir equilibrio dinámico.",
+      "Paso 2: Reconocer que las sustancias se siguen transformando pero a la misma tasa en ambos sentidos.",
+      "Resultado: Ambas velocidades son iguales."
+    ],
+    "analisisDeError": {
+      "3": "El equilibrio químico no es estático; las moléculas siguen reaccionando."
+    }
+  },
+  {
+    "id": "Q-194",
+    "materia": "Química",
+    "dificultad": 4,
+    "tiempoSugerido": 70,
+    "pregunta": "Dada la constante $K_c = [C]^2 / ([A][B])$, ¿cuáles son los coeficientes estequiométricos de la reacción balanceada?",
+    "formulaPrincipal": "",
+    "opciones": [
+      "$A + B \\rightleftharpoons 2C$",
+      "$2A + 2B \\rightleftharpoons C$",
+      "$A + 2B \\rightleftharpoons C$",
+      "$A + B \\rightleftharpoons C$"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Recordar que los exponentes en la ley de acción de masas corresponden a los coeficientes.",
+      "Paso 2: Identificar que el exponente de C es 2, y los de A y B son 1.",
+      "Resultado: $A + B \\rightleftharpoons 2C$."
+    ]
+  },
+  {
+    "id": "Q-195",
+    "materia": "Química",
+    "dificultad": 3,
+    "tiempoSugerido": 55,
+    "pregunta": "¿Qué tipo de proceso representa la evaporación del agua desde el punto de vista termodinámico?",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Proceso exotérmico",
+      "Proceso endotérmico",
+      "Proceso isobárico sin transferencia",
+      "Proceso de combustión"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar que para pasar de líquido a gas, las moléculas deben absorber energía para romper enlaces intermoleculares.",
+      "Paso 2: Reconocer que el sistema absorbe calor del entorno.",
+      "Resultado: Proceso endotérmico."
+    ]
+  },
+  {
+    "id": "Q-196",
+    "materia": "Química",
+    "dificultad": 4,
+    "tiempoSugerido": 65,
+    "pregunta": "Si una reacción tiene un $\\Delta H = -200 kJ$ y una energía de activación $E_a = 50 kJ$, ¿cuál es la energía de activación para la reacción inversa?",
+    "formulaPrincipal": "E_{a(inv)} = E_{a(dir)} - \\Delta H",
+    "opciones": [
+      "150 kJ",
+      "250 kJ",
+      "50 kJ",
+      "200 kJ"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Visualizar el diagrama de energía. La barrera desde los productos es la suma del valor absoluto del $\\Delta H$ más la $E_a$ directa.",
+      "Paso 2: Operar: 50 - (-200) = 250.",
+      "Resultado: 250 kJ."
+    ]
+  },
+  {
+    "id": "Q-197",
+    "materia": "Química",
+    "dificultad": 4,
+    "tiempoSugerido": 70,
+    "pregunta": "¿En qué condiciones de presión y temperatura se favorece la producción de amoníaco según la reacción: $N_2(g) + 3H_2(g) \\rightleftharpoons 2NH_3(g) + 92 kJ$?",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Baja presión y alta temperatura",
+      "Alta presión y baja temperatura",
+      "Baja presión y baja temperatura",
+      "Alta presión y alta temperatura"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Analizar moles de gas (4 reactivos vs 2 productos). Alta presión favorece el lado con menos moles.",
+      "Paso 2: Analizar calor (reacción exotérmica). Baja temperatura favorece la liberación de calor (productos).",
+      "Resultado: Alta presión y baja temperatura."
+    ]
+  },
+  {
+    "id": "Q-198",
+    "materia": "Química",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "La constante de equilibrio $K_p$ se utiliza específicamente cuando los componentes de la reacción son:",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Sólidos puros",
+      "Líquidos miscibles",
+      "Gases",
+      "Disoluciones acuosas"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Identificar que el subíndice 'p' se refiere a presiones parciales.",
+      "Paso 2: Reconocer que solo las especies gaseosas ejercen presiones parciales significativas en el equilibrio.",
+      "Resultado: Gases."
+    ]
+  },
+  {
+    "id": "Q-199",
+    "materia": "Química",
+    "dificultad": 4,
+    "tiempoSugerido": 75,
+    "pregunta": "¿Qué sucede con el valor de la constante de equilibrio $K_c$ si se aumenta la temperatura en una reacción EXOTÉRMICA?",
+    "formulaPrincipal": "",
+    "opciones": [
+      "El valor de $K_c$ aumenta",
+      "El valor de $K_c$ disminuye",
+      "El valor de $K_c$ no cambia",
+      "El valor de $K_c$ se vuelve negativo"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar que la temperatura es el único factor que cambia el valor numérico de K.",
+      "Paso 2: En una reacción exotérmica, el aumento de T desplaza el equilibrio a los reactivos.",
+      "Paso 3: Si hay más reactivos (denominador), el valor de la fracción disminuye.",
+      "Resultado: $K_c$ disminuye."
+    ]
+  },
+  {
+    "id": "Q-200",
+    "materia": "Química",
+    "dificultad": 3,
+    "tiempoSugerido": 60,
+    "pregunta": "¿Cuál es la unidad de medida del calor en el Sistema Internacional?",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Caloría",
+      "Joule (Julio)",
+      "Watt",
+      "Kelvin"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar que el calor es una forma de energía.",
+      "Paso 2: Reconocer la unidad estándar para la energía.",
+      "Resultado: Joule."
+    ]
+  },
+  {
+    "id": "Q-201",
+    "materia": "Química",
+    "dificultad": 5,
+    "tiempoSugerido": 120,
+    "pregunta": "Para la reacción en equilibrio $H_2(g) + I_2(g) \\rightleftharpoons 2HI(g)$, si las concentraciones en el equilibrio a una temperatura T son $[H_2] = 0.1 M$, $[I_2] = 0.2 M$ y $[HI] = 0.4 M$, ¿cuál es el valor de la constante de equilibrio $K_c$?",
+    "formulaPrincipal": "K_c = \\frac{[HI]^2}{[H_2][I_2]}",
+    "opciones": [
+      "8.0",
+      "20.0",
+      "4.0",
+      "16.0"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Escribir la expresión de la constante de equilibrio basándose en los coeficientes estequiométricos.",
+      "Paso 2: Sustituir los valores de las concentraciones: $K_c = (0.4)^2 / (0.1 \\times 0.2)$.",
+      "Paso 3: Realizar el cálculo: $0.16 / 0.02 = 8$.",
+      "Resultado: 8.0."
+    ],
+    "analisisDeError": {
+      "2": "Error: Se olvidó elevar al cuadrado la concentración del producto HI.",
+      "3": "Error de cálculo decimal al operar en el denominador."
+    }
+  },
+  {
+    "id": "Q-202",
+    "materia": "Química",
+    "dificultad": 5,
+    "tiempoSugerido": 110,
+    "pregunta": "¿Cuál es la relación matemática correcta entre $K_p$ y $K_c$ para una reacción química gaseosa?",
+    "formulaPrincipal": "K_p = K_c(RT)^{\\Delta n}",
+    "opciones": [
+      "K_p = K_c / (RT)^{\\Delta n}",
+      "K_p = K_c(RT)^{\\Delta n}",
+      "K_p = K_c + RT\\Delta n",
+      "K_c = K_p(RT)^{\\Delta n}"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Derivar la relación a partir de la ley de los gases ideales ($P = MRT$).",
+      "Paso 2: Identificar que $\\Delta n$ representa la diferencia entre moles de productos gaseosos y moles de reactivos gaseosos.",
+      "Resultado: $K_p = K_c(RT)^{\\Delta n}$."
+    ],
+    "analisisDeError": {
+      "0": "Error en el despeje de la fórmula original.",
+      "3": "Inversión de las constantes; $K_c$ no multiplica al término de gas ideal en la forma estándar."
+    }
+  },
+  {
+    "id": "Q-203",
+    "materia": "Química",
+    "dificultad": 5,
+    "tiempoSugerido": 130,
+    "pregunta": "Si una reacción es endotérmica ($\\Delta H > 0$) y presenta una disminución en el desorden ($\\Delta S < 0$), ¿qué se puede afirmar sobre su espontaneidad según la Energía Libre de Gibbs?",
+    "formulaPrincipal": "\\Delta G = \\Delta H - T\\Delta S",
+    "opciones": [
+      "Es espontánea a temperaturas muy altas",
+      "Es espontánea a temperaturas muy bajas",
+      "Nunca es espontánea (siempre es positiva)",
+      "Siempre es espontánea (siempre es negativa)"
+    ],
+    "correcta": 2,
+    "explicacionPasos": [
+      "Paso 1: Analizar los signos en la ecuación de Gibbs: $\\Delta G = (+) - T(-)$.",
+      "Paso 2: Observar que el término $-T\\Delta S$ se vuelve positivo debido al doble negativo.",
+      "Paso 3: Al sumar dos términos positivos, $\\Delta G$ siempre será mayor que cero sin importar el valor de T.",
+      "Resultado: Nunca es espontánea."
+    ]
+  },
+  {
+    "id": "Q-204",
+    "materia": "Química",
+    "dificultad": 5,
+    "tiempoSugerido": 120,
+    "pregunta": "En el equilibrio gaseoso $N_2O_4(g) \\rightleftharpoons 2NO_2(g)$, si se duplica el volumen del recipiente a temperatura constante, ¿hacia dónde se desplazará el equilibrio?",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Hacia la formación de $N_2O_4$",
+      "Hacia la formación de $NO_2$",
+      "El equilibrio no se desplaza",
+      "La constante $K_c$ disminuye"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar que duplicar el volumen equivale a disminuir la presión total del sistema.",
+      "Paso 2: Según Le Châtelier, el sistema compensa la baja presión desplazándose hacia donde hay más moles de gas.",
+      "Paso 3: Contar moles: 1 mol de reactivo vs 2 moles de producto.",
+      "Resultado: Hacia la derecha (formación de $NO_2$)."
+    ]
+  },
+  {
+    "id": "Q-205",
+    "materia": "Química",
+    "dificultad": 5,
+    "tiempoSugerido": 115,
+    "pregunta": "Calcule el valor de $\\Delta G^\\circ$ para una reacción en equilibrio a 298 K cuya constante de equilibrio es $K = 1.0$. ($R = 8.314 J/mol\\cdot K$)",
+    "formulaPrincipal": "\\Delta G^\\circ = -RT \\ln K",
+    "opciones": [
+      "0 kJ/mol",
+      "-2.47 kJ/mol",
+      "+2.47 kJ/mol",
+      "-1.0 kJ/mol"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Identificar que el logaritmo natural de 1.0 es igual a cero ($\\ln 1 = 0$).",
+      "Paso 2: Sustituir en la fórmula: $\\Delta G^\\circ = -RT(0)$.",
+      "Paso 3: Cualquier número multiplicado por cero es cero.",
+      "Resultado: 0 kJ/mol."
+    ]
+  },
+  {
+    "id": "Q-206",
+    "materia": "Química",
+    "dificultad": 5,
+    "tiempoSugerido": 140,
+    "pregunta": "Se introducen 2 moles de $PCl_5$ en un recipiente de 2 L. Al alcanzar el equilibrio $PCl_5 \\rightleftharpoons PCl_3 + Cl_2$, se encuentra que el 50% del $PCl_5$ se ha disociado. ¿Cuál es el valor de $K_c$?",
+    "formulaPrincipal": "K_c = \\frac{[PCl_3][Cl_2]}{[PCl_5]}",
+    "opciones": [
+      "0.5",
+      "1.0",
+      "0.25",
+      "2.0"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Concentración inicial de $PCl_5 = 2 mol / 2 L = 1 M$.",
+      "Paso 2: Si se disocia el 50%, en el equilibrio queda: $[PCl_5] = 0.5 M$.",
+      "Paso 3: Por estequiometría 1:1, se forman: $[PCl_3] = 0.5 M$ y $[Cl_2] = 0.5 M$.",
+      "Paso 4: Calcular $K_c = (0.5 \\times 0.5) / 0.5 = 0.5$.",
+      "Resultado: 0.5."
+    ]
+  },
+  {
+    "id": "Q-207",
+    "materia": "Química",
+    "dificultad": 5,
+    "tiempoSugerido": 100,
+    "pregunta": "¿Qué ley establece que el calor total de una reacción es constante, sin importar si esta ocurre en una o varias etapas?",
+    "formulaPrincipal": "\\Delta H_{reacción} = \\sum \\Delta H_{etapas}",
+    "opciones": [
+      "Ley de Hess",
+      "Ley de Dalton",
+      "Ley de Raoult",
+      "Ley de Henry"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Reconocer la aplicación de la primera ley de la termodinámica en entalpías de formación.",
+      "Paso 2: Identificar que la entalpía es una función de estado.",
+      "Resultado: Ley de Hess."
+    ]
+  },
+  {
+    "id": "Q-208",
+    "materia": "Química",
+    "dificultad": 5,
+    "tiempoSugerido": 110,
+    "pregunta": "Dada la reacción $2SO_2(g) + O_2(g) \\rightleftharpoons 2SO_3(g)$, ¿cuál es el valor de $\\Delta n$ para calcular $K_p$ a partir de $K_c$?",
+    "formulaPrincipal": "\\Delta n = n_{productos} - n_{reactivos}",
+    "opciones": [
+      "1",
+      "-1",
+      "0",
+      "-2"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Sumar los moles de gas en los productos: 2.",
+      "Paso 2: Sumar los moles de gas en los reactivos: 2 + 1 = 3.",
+      "Paso 3: Restar productos menos reactivos: $2 - 3 = -1$.",
+      "Resultado: -1."
+    ]
+  },
+  {
+    "id": "Q-209",
+    "materia": "Química",
+    "dificultad": 5,
+    "tiempoSugerido": 120,
+    "pregunta": "Para la reacción $CO(g) + H_2O(g) \\rightleftharpoons CO_2(g) + H_2(g)$, el valor de $K_c$ es 4.0 a cierta temperatura. Si se inicia con 1.0 M de cada reactivo, ¿cuál será la concentración de $H_2$ en el equilibrio?",
+    "formulaPrincipal": "K_c = \\frac{x^2}{(1-x)^2}",
+    "opciones": [
+      "0.66 M",
+      "0.50 M",
+      "2.0 M",
+      "0.33 M"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Plantear la tabla de equilibrio (ICE). Inicial: 1.0, 1.0, 0, 0. Equilibrio: $1-x, 1-x, x, x$.",
+      "Paso 2: Plantear la ecuación: $4 = x^2 / (1-x)^2$. Sacar raíz cuadrada: $2 = x / (1-x)$.",
+      "Paso 3: Resolver para $x$: $2 - 2x = x \\Rightarrow 3x = 2 \\Rightarrow x = 0.666$.",
+      "Resultado: 0.66 M."
+    ]
+  },
+  {
+    "id": "Q-210",
+    "materia": "Química",
+    "dificultad": 5,
+    "tiempoSugerido": 95,
+    "pregunta": "Un sistema con $\\Delta H < 0$ y $\\Delta S > 0$ se denomina:",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Sistema que tiende al equilibrio",
+      "Proceso espontáneo a cualquier temperatura",
+      "Proceso nunca espontáneo",
+      "Proceso espontáneo solo a altas temperaturas"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Aplicar signos a $\\Delta G = \\Delta H - T\\Delta S$.",
+      "Paso 2: El término $\\Delta H$ es negativo y $-T\\Delta S$ también es negativo.",
+      "Paso 3: La suma de dos negativos siempre da un resultado negativo ($\\Delta G < 0$).",
+      "Resultado: Espontáneo a cualquier temperatura."
+    ]
+  },
+  {
+    "id": "Q-211",
+    "materia": "Química",
+    "dificultad": 5,
+    "tiempoSugerido": 110,
+    "pregunta": "¿Qué parámetro mide el grado de avance de una reacción antes de alcanzar el equilibrio para determinar hacia dónde se desplazará?",
+    "formulaPrincipal": "Q_c",
+    "opciones": [
+      "Constante de velocidad",
+      "Cociente de reacción",
+      "Entalpía de formación",
+      "Fracción molar"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Identificar la magnitud que usa las concentraciones en un tiempo t cualquiera.",
+      "Paso 2: Comparar $Q_c$ con $K_c$: si $Q < K$, se desplaza a productos; si $Q > K$, a reactivos.",
+      "Resultado: Cociente de reacción."
+    ]
+  },
+  {
+    "id": "Q-212",
+    "materia": "Química",
+    "dificultad": 5,
+    "tiempoSugerido": 125,
+    "pregunta": "Determine la entalpía de combustión del etano ($C_2H_6$) si las entalpías de formación ($\\Delta H_f^\\circ$) son: $C_2H_6 = -85 kJ/mol$, $CO_2 = -394 kJ/mol$, $H_2O = -286 kJ/mol$.",
+    "formulaPrincipal": "\\Delta H_r = \\sum n\\Delta H_f (prod) - \\sum m\\Delta H_f (react)",
+    "opciones": [
+      "-1561 kJ/mol",
+      "-3122 kJ/mol",
+      "-1427 kJ/mol",
+      "-1342 kJ/mol"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Escribir la ecuación balanceada: $C_2H_6 + 3.5 O_2 \\rightarrow 2CO_2 + 3H_2O$.",
+      "Paso 2: Calcular productos: $[2(-394) + 3(-286)] = [-788 - 858] = -1646 kJ$.",
+      "Paso 3: Restar reactivos: $-1646 - (-85) = -1561 kJ$.",
+      "Resultado: -1561 kJ/mol."
+    ]
+  },
+  {
+    "id": "Q-213",
+    "materia": "Química",
+    "dificultad": 5,
+    "tiempoSugerido": 115,
+    "pregunta": "¿Cuál es la unidad de la constante de equilibrio $K_c$ para la reacción $A(g) \\rightleftharpoons 2B(g)$?",
+    "formulaPrincipal": "",
+    "opciones": [
+      "Adimensional (siempre)",
+      "M (Molar)",
+      "$M^{-1}$",
+      "$M^2$"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Plantear la expresión: $K_c = [B]^2 / [A]$.",
+      "Paso 2: Sustituir unidades: $(mol/L)^2 / (mol/L)$.",
+      "Paso 3: Simplificar: $mol/L$ (que es M).",
+      "Resultado: M."
+    ]
+  },
+  {
+    "id": "Q-214",
+    "materia": "Química",
+    "dificultad": 5,
+    "tiempoSugerido": 100,
+    "pregunta": "En una gráfica de energía libre frente a la temperatura, una pendiente negativa indica que la entropía del sistema ($\\Delta S$) es:",
+    "formulaPrincipal": "(\\partial G / \\partial T)_P = -S",
+    "opciones": [
+      "Negativa",
+      "Positiva",
+      "Cero",
+      "Infinita"
+    ],
+    "correcta": 1,
+    "explicacionPasos": [
+      "Paso 1: Analizar la derivada de la energía libre respecto a la temperatura.",
+      "Paso 2: La relación es $dG = -S dT$. Si la pendiente es negativa ($dG/dT < 0$), entonces $-S$ es negativo.",
+      "Paso 3: Multiplicar por -1: S es positivo.",
+      "Resultado: Positiva."
+    ]
+  },
+  {
+    "id": "Q-215",
+    "materia": "Química",
+    "dificultad": 5,
+    "tiempoSugerido": 110,
+    "pregunta": "¿Cuál es el valor de la constante de equilibrio para la reacción inversa si la constante de la reacción directa es $K = 4.0 \\times 10^{-2}$?",
+    "formulaPrincipal": "K_{inv} = 1 / K_{dir}",
+    "opciones": [
+      "25",
+      "40",
+      "2.5",
+      "0.25"
+    ],
+    "correcta": 0,
+    "explicacionPasos": [
+      "Paso 1: Identificar que al invertir una reacción, se toma el recíproco de la constante.",
+      "Paso 2: Calcular: $1 / (4.0 \\times 10^{-2}) = 1 / 0.04$.",
+      "Paso 3: $100 / 4 = 25$.",
+      "Resultado: 25."
+    ]
   }
 ]
