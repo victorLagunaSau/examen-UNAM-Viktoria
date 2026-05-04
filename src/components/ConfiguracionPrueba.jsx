@@ -20,7 +20,7 @@ function ConfiguracionPrueba({ cantidad, setCantidad, dificultad, setDificultad,
                 <div className="absolute top-4 left-6 z-20 no-print">
                     <button
                         onClick={alIrALectura}
-                        className="flex items-center gap-2 bg-blue-800 hover:bg-white/20 text-white px-4 py-2 rounded-full transition-all text-[10px] font-black border border-white/20 backdrop-blur-md"
+                        className="flex items-center gap-2 bg-blue-950 hover:bg-blue-700 text-white px-4 py-2 rounded-full transition-all text-[10px] font-black border border-white/20 backdrop-blur-md"
                     >
                         <BookOpen size={14} className="text-white" />
                         BIBLIOTECA DE LECTURA
