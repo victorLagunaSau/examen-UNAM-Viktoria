@@ -1001,8 +1001,8 @@
     "materia": "Matemáticas (Área 1)",
     "dificultad": 2,
     "tiempoSugerido": 90,
-    "pregunta": "Identifica el tipo de solución del sistema de ecuaciones si las rectas son paralelas:",
-    "formulaPrincipal": "m_1 = m_2, \\, b_1 \\neq b_2",
+    "pregunta": "Identifica el tipo de solución del sistema de ecuaciones si las rectas son paralelas: (form)m_1 = m_2, \\, b_1 \\neq b_2(/form)",
+    "formulaPrincipal": "",
     "opciones": [
       "Solución única",
       "Infinitas soluciones",
@@ -2548,7 +2548,7 @@
     "tiempoSugerido": 90,
     "pregunta": "¿Cuál es la distancia focal de una elipse si su eje mayor es 26 y su eje menor es 10?",
     "formulaPrincipal": "2c",
-    "options": [
+    "opciones": [
       "24",
       "12",
       "20",

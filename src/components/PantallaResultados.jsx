@@ -211,16 +211,17 @@ function PantallaResultados({respuestas, alReiniciar}) {
                                     </div>
                                 </div>
 
-                                {/* COLUMNA 2: FEEDBACK Y PASOS */}
-                                {/* COLUMNA 2: FEEDBACK Y PASOS - CORREGIDA */}
+                                {/* COLUMNA 2: FEEDBACK Y PASOS (Versión Blindada) */}
 <div className="md:col-span-5 p-8 bg-slate-50/50 flex flex-col">
     <div className="flex items-center gap-2 text-emerald-600 mb-4">
         <Lightbulb size={16}/>
         <span className="text-[10px] font-black uppercase tracking-widest">Retroalimentación</span>
     </div>
 
-    {/* VALIDACIÓN DE SEGURIDAD: Solo mostramos si la respuesta es incorrecta Y existe el análisis */}
-    {!esCorrecta && res.respuestaElegida !== undefined && res.pregunta.analisisDeError?.[res.respuestaElegida] && (
+    {/* Validación: Si es incorrecta y existe el texto explicativo para esa opción */}
+    {!esCorrecta &&
+     res.respuestaElegida !== undefined &&
+     res.pregunta.analisisDeError?.[res.respuestaElegida] ? (
         <div className="mb-6 p-4 bg-white rounded-2xl border border-rose-100 shadow-sm">
             <p className="text-[11px] text-rose-800 italic leading-relaxed">
                 <span className="font-black not-italic mr-1 text-rose-600">
@@ -229,16 +230,22 @@ function PantallaResultados({respuestas, alReiniciar}) {
                 {renderizadoMixto(res.pregunta.analisisDeError[res.respuestaElegida])}
             </p>
         </div>
+    ) : !esCorrecta && (
+        <div className="mb-6 p-4 bg-slate-100 rounded-2xl border border-slate-200">
+            <p className="text-[10px] text-slate-400 italic">No hay retroalimentación específica disponible para esta opción.</p>
+        </div>
     )}
 
-    {/* SECCIÓN 2: PASOS SUGERIDOS - CORREGIDA CON VALIDACIÓN */}
+    {/* SECCIÓN: PASOS SUGERIDOS (Aquí es donde daba el error del .map) */}
     <div className="space-y-4 mt-auto pt-6 border-t border-slate-200">
         <p className="text-[9px] font-black text-slate-500 uppercase tracking-widest mb-4">
             Pasos sugeridos:
         </p>
 
+        {/* Usamos Optional Chaining ?. para que si es undefined no truene */}
         {res.pregunta.explicacionPasos && res.pregunta.explicacionPasos.length > 0 ? (
             res.pregunta.explicacionPasos.map((paso, k) => {
+                // Limpieza de prefijos para evitar redundancia
                 const contenidoLimpio = paso.replace(/^Paso\s\d+:\s*/i, "");
                 return (
                     <div key={k} className="flex gap-3 text-[11px] text-slate-600 leading-relaxed items-start mb-2">
@@ -252,7 +259,7 @@ function PantallaResultados({respuestas, alReiniciar}) {
                 );
             })
         ) : (
-            <p className="text-[10px] text-slate-400 italic">No hay pasos detallados para esta pregunta.</p>
+            <p className="text-[10px] text-slate-400 italic">El procedimiento detallado no está disponible para este reactivo.</p>
         )}
     </div>
 </div>
